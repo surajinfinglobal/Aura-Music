@@ -696,6 +696,10 @@ function switchScreen(target) {
     target_screen.classList.add('active');
     initReveal(target_screen);
   }
+  const nowBar = $('now-bar');
+  if (nowBar) {
+    nowBar.style.display = target === 'profile' ? 'none' : '';
+  }
 }
 
 function openNowPlaying() { switchScreen('nowplaying'); }
