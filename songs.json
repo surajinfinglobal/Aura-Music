@@ -1,0 +1,850 @@
+[
+    {
+        "id": 1,
+        "title": "HUMDARD",
+        "artist": "Arijit Singh - Topic",
+        "album": "HUMDARD",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 260,
+        "durationText": "04:20",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/01_Humdard_From_Ek_Villain_SpotiDost.mp3"
+    },
+    {
+        "id": 2,
+        "title": "AGAR TUM SAATH HO",
+        "artist": "Arijit Singh - Topic",
+        "album": "AGAR TUM SAATH HO",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 341,
+        "durationText": "05:41",
+        "bitrate": 124789.05280692349,
+        "sampleRate": 44100,
+        "file": "music/02_Agar_Tum_Saath_Ho_From_Tamasha_SpotiDost.mp3"
+    },
+    {
+        "id": 3,
+        "title": "Enna Sona (From \"OK Jaanu\")",
+        "artist": "A. R. Rahman - Topic",
+        "album": "Enna Sona (From \"OK Jaanu\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 213,
+        "durationText": "03:33",
+        "bitrate": 122190.26733308878,
+        "sampleRate": 44100,
+        "file": "music/03_Enna_Sona_SpotiDost.mp3"
+    },
+    {
+        "id": 4,
+        "title": "Hamari Adhuri Kahani (Title Track) [From \"Hamari Adhuri Kahani\"]",
+        "artist": "Jeet Gannguli - Topic",
+        "album": "Hamari Adhuri Kahani (Title Track) [From \"Hamari Adhuri Kahani\"]",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 398,
+        "durationText": "06:38",
+        "bitrate": 124840.63502980284,
+        "sampleRate": 44100,
+        "file": "music/04_Hamari_Adhuri_Kahani_Title_Track_SpotiDost.mp3"
+    },
+    {
+        "id": 5,
+        "title": "Heeriye (feat. Arijit Singh)",
+        "artist": "Jasleen Royal - Topic",
+        "album": "Heeriye (feat. Arijit Singh)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 194,
+        "durationText": "03:14",
+        "bitrate": 119003.96394585176,
+        "sampleRate": 44100,
+        "file": "music/05_Heeriye_feat._Arijit_Singh_SpotiDost.mp3"
+    },
+    {
+        "id": 6,
+        "title": "Mast Magan (From \"2 States)",
+        "artist": "Arijit Singh - Topic",
+        "album": "Mast Magan (From \"2 States)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 280,
+        "durationText": "04:40",
+        "bitrate": 133388.47650787732,
+        "sampleRate": 44100,
+        "file": "music/06_Mast_Magan_From_2_States_SpotiDost.mp3"
+    },
+    {
+        "id": 7,
+        "title": "Sajni",
+        "artist": "Arijit Singh - Topic",
+        "album": "Sajni",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 170,
+        "durationText": "02:50",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/07_Sajni_From_Laapataa_Ladies_SpotiDost.mp3"
+    },
+    {
+        "id": 8,
+        "title": "Chaleya",
+        "artist": "Arijit Singh - Topic",
+        "album": "Chaleya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 200,
+        "durationText": "03:20",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/08_Chaleya_SpotiDost.mp3"
+    },
+    {
+        "id": 9,
+        "title": "Ijazat",
+        "artist": "Arijit Singh - Topic",
+        "album": "Ijazat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 289,
+        "durationText": "04:49",
+        "bitrate": 133976.97932653246,
+        "sampleRate": 44100,
+        "file": "music/09_Ijazat_SpotiDost.mp3"
+    },
+    {
+        "id": 10,
+        "title": "Khamoshiyan",
+        "artist": "Arijit Singh - Topic",
+        "album": "Khamoshiyan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 336,
+        "durationText": "05:36",
+        "bitrate": 129133.00518688321,
+        "sampleRate": 44100,
+        "file": "music/10_Khamoshiyan_SpotiDost.mp3"
+    },
+    {
+        "id": 11,
+        "title": "Tera Yaar Hoon Main",
+        "artist": "Arijit Singh - Topic",
+        "album": "Tera Yaar Hoon Main",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 264,
+        "durationText": "04:24",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/11_Tera_Yaar_Hoon_Main_From_Sonu_Ke_Titu_Ki_Sweety_SpotiDost.mp3"
+    },
+    {
+        "id": 12,
+        "title": "Bandeya (From \"Dil Juunglee\")",
+        "artist": "Sharib Toshi - Topic",
+        "album": "Bandeya (From \"Dil Juunglee\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 184,
+        "durationText": "03:04",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/12_Bandeya_-_From_Dil_Juunglee_SpotiDost.mp3"
+    },
+    {
+        "id": 13,
+        "title": "Oonchi Oonchi Deewarein",
+        "artist": "Arijit Singh - Topic",
+        "album": "Oonchi Oonchi Deewarein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 251,
+        "durationText": "04:11",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/13_Oonchi_Oonchi_Deewarein_SpotiDost.mp3"
+    },
+    {
+        "id": 14,
+        "title": "Tu Har Lamha (From \"Khamoshiyan\")",
+        "artist": "Bobby-Imran - Topic",
+        "album": "Tu Har Lamha (From \"Khamoshiyan\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 272,
+        "durationText": "04:32",
+        "bitrate": 127683.06212309754,
+        "sampleRate": 44100,
+        "file": "music/14_Tu_Har_Lamha_From_Khamoshiyan_SpotiDost.mp3"
+    },
+    {
+        "id": 15,
+        "title": "Soulmate",
+        "artist": "Badshah - Topic",
+        "album": "Soulmate",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 213,
+        "durationText": "03:33",
+        "bitrate": 126252.60180995475,
+        "sampleRate": 44100,
+        "file": "music/15_Soulmate_SpotiDost.mp3"
+    },
+    {
+        "id": 16,
+        "title": "Zaalima",
+        "artist": "Arijit Singh - Topic",
+        "album": "Zaalima",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 299,
+        "durationText": "04:59",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/16_Zaalima_SpotiDost.mp3"
+    },
+    {
+        "id": 17,
+        "title": "Muskurane (From \"Citylights\") (Romantic)",
+        "artist": "Jeet Gannguli - Topic",
+        "album": "Muskurane (From \"Citylights\") (Romantic)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 334,
+        "durationText": "05:34",
+        "bitrate": 129182.87744140626,
+        "sampleRate": 44100,
+        "file": "music/17_Muskurane_-_Romantic_SpotiDost.mp3"
+    },
+    {
+        "id": 18,
+        "title": "Mareez-E-Ishq",
+        "artist": "Arijit Singh - Topic",
+        "album": "Mareez-E-Ishq",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 291,
+        "durationText": "04:51",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/18_Mareez_-_E_-_Ishq_SpotiDost.mp3"
+    },
+    {
+        "id": 19,
+        "title": "Tenu Sang Rakhna (From \"Jigra\")",
+        "artist": "Achint - Topic",
+        "album": "Tenu Sang Rakhna (From \"Jigra\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 249,
+        "durationText": "04:09",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/19_Tenu_Sang_Rakhna_SpotiDost.mp3"
+    },
+    {
+        "id": 20,
+        "title": "Laal Ishq",
+        "artist": "Sanjay Leela Bhansali - Topic",
+        "album": "Laal Ishq",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 387,
+        "durationText": "06:27",
+        "bitrate": 132820.96371729163,
+        "sampleRate": 44100,
+        "file": "music/20_Laal_Ishq_SpotiDost.mp3"
+    },
+    {
+        "id": 21,
+        "title": "Itni Si Baat Hain",
+        "artist": "Arijit Singh - Topic",
+        "album": "Itni Si Baat Hain",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 294,
+        "durationText": "04:54",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/21_Itni_Si_Baat_Hain_From_Azhar_SpotiDost.mp3"
+    },
+    {
+        "id": 22,
+        "title": "Raanjhana",
+        "artist": "Arijit Singh - Topic",
+        "album": "Raanjhana",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 273,
+        "durationText": "04:33",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/22_Raanjhana_SpotiDost.mp3"
+    },
+    {
+        "id": 23,
+        "title": "Baatein Ye Kabhi Na (Male)",
+        "artist": "Arijit Singh - Topic",
+        "album": "Baatein Ye Kabhi Na (Male)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 289,
+        "durationText": "04:49",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/23_Baatein_Ye_Kabhi_Na_-_Male_SpotiDost.mp3"
+    },
+    {
+        "id": 24,
+        "title": "Saanson Ko (From \"Zid\")",
+        "artist": "Shaarib Toshi - Topic",
+        "album": "Saanson Ko (From \"Zid\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 288,
+        "durationText": "04:48",
+        "bitrate": 129638.71274571973,
+        "sampleRate": 44100,
+        "file": "music/24_Saanson_Ko_From_Zid_SpotiDost.mp3"
+    },
+    {
+        "id": 25,
+        "title": "Rait Zara Si",
+        "artist": "Arijit Singh - Topic",
+        "album": "Rait Zara Si",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 291,
+        "durationText": "04:51",
+        "bitrate": 127439.02567434357,
+        "sampleRate": 44100,
+        "file": "music/25_Rait_Zara_Si_From_Atrangi_Re_SpotiDost.mp3"
+    },
+    {
+        "id": 26,
+        "title": "Tose Naina",
+        "artist": "Arijit Singh - Topic",
+        "album": "Tose Naina",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 263,
+        "durationText": "04:23",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/26_Tose_Naina_From_Mickey_Virus_SpotiDost.mp3"
+    },
+    {
+        "id": 27,
+        "title": "Mann Mera (From \"Table No. 21\")",
+        "artist": "Gajendra Verma - Topic",
+        "album": "Mann Mera (From \"Table No. 21\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 198,
+        "durationText": "03:18",
+        "bitrate": 127833.0938571052,
+        "sampleRate": 44100,
+        "file": "music/27_Mann_Mera_SpotiDost.mp3"
+    },
+    {
+        "id": 28,
+        "title": "SOORAJ DOOBA HAIN",
+        "artist": "Aditi Singh Sharma - Topic",
+        "album": "SOORAJ DOOBA HAIN",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 264,
+        "durationText": "04:24",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/28_Sooraj_Dooba_Hain_SpotiDost.mp3"
+    },
+    {
+        "id": 29,
+        "title": "Mera Pyar Tera Pyar",
+        "artist": "Jeet Gannguli - Topic",
+        "album": "Mera Pyar Tera Pyar",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 275,
+        "durationText": "04:35",
+        "bitrate": 117146.44906573082,
+        "sampleRate": 44100,
+        "file": "music/29_Mera_Pyar_Tera_Pyar_From_Jalebi_SpotiDost.mp3"
+    },
+    {
+        "id": 30,
+        "title": "Girl I Need You",
+        "artist": "Arijit Singh - Topic",
+        "album": "Girl I Need You",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 298,
+        "durationText": "04:58",
+        "bitrate": 140670.41297967406,
+        "sampleRate": 44100,
+        "file": "music/30_Girl_I_Need_You_SpotiDost - Copy.mp3"
+    },
+    {
+        "id": 31,
+        "title": "Girl I Need You",
+        "artist": "Arijit Singh - Topic",
+        "album": "Girl I Need You",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 298,
+        "durationText": "04:58",
+        "bitrate": 140670.41297967406,
+        "sampleRate": 44100,
+        "file": "music/30_Girl_I_Need_You_SpotiDost.mp3"
+    },
+    {
+        "id": 32,
+        "title": "Main Dhoondne Ko Zamaane Mein",
+        "artist": "Arijit Singh - Topic",
+        "album": "Main Dhoondne Ko Zamaane Mein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 263,
+        "durationText": "04:23",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/31_Main_Dhoondne_Ko_Zamaane_Mein_From_Heartless_SpotiDost.mp3"
+    },
+    {
+        "id": 33,
+        "title": "Apna Bana Le (From \"Bhediya\")",
+        "artist": "Arijit Singh - Topic",
+        "album": "Apna Bana Le (From \"Bhediya\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 261,
+        "durationText": "04:21",
+        "bitrate": 124627.06545599681,
+        "sampleRate": 44100,
+        "file": "music/32_Apna_Bana_Le_SpotiDost.mp3"
+    },
+    {
+        "id": 34,
+        "title": "Hawayein (From \"Jab Harry Met Sejal\")",
+        "artist": "Arijit Singh - Topic",
+        "album": "Hawayein (From \"Jab Harry Met Sejal\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 290,
+        "durationText": "04:50",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/33_Hawayein_SpotiDost.mp3"
+    },
+    {
+        "id": 35,
+        "title": "Raanjhan",
+        "artist": "Parampara Tandon - Topic",
+        "album": "Raanjhan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 240,
+        "durationText": "04:00",
+        "bitrate": 113207.99589361472,
+        "sampleRate": 44100,
+        "file": "music/34_Raanjhan_From_Do_Patti_SpotiDost.mp3"
+    },
+    {
+        "id": 36,
+        "title": "Samjhawan",
+        "artist": "Arijit Singh - Topic",
+        "album": "Samjhawan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 269,
+        "durationText": "04:29",
+        "bitrate": 125933.86154219204,
+        "sampleRate": 44100,
+        "file": "music/35_Samjhawan_SpotiDost.mp3"
+    },
+    {
+        "id": 37,
+        "title": "Satranga",
+        "artist": "Arijit Singh - Topic",
+        "album": "Satranga",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 271,
+        "durationText": "04:31",
+        "bitrate": 124916.57857349259,
+        "sampleRate": 44100,
+        "file": "music/36_Satranga_From_ANIMAL_SpotiDost.mp3"
+    },
+    {
+        "id": 38,
+        "title": "Soch Na Sake",
+        "artist": "Amaal Mallik - Topic",
+        "album": "Soch Na Sake",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 280,
+        "durationText": "04:40",
+        "bitrate": 133620.4586247086,
+        "sampleRate": 44100,
+        "file": "music/37_Soch_Na_Sake_SpotiDost.mp3"
+    },
+    {
+        "id": 39,
+        "title": "Bolna",
+        "artist": "Arijit Singh - Topic",
+        "album": "Bolna",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 213,
+        "durationText": "03:33",
+        "bitrate": 131051.17680387112,
+        "sampleRate": 44100,
+        "file": "music/38_Bolna_From_Kapoor_Sons_Since_1921_SpotiDost.mp3"
+    },
+    {
+        "id": 40,
+        "title": "Raabta",
+        "artist": "Arijit Singh - Topic",
+        "album": "Raabta",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 243,
+        "durationText": "04:03",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/39_Raabta_SpotiDost.mp3"
+    },
+    {
+        "id": 41,
+        "title": "Pal",
+        "artist": "Javed - Mohsin - Topic",
+        "album": "Pal",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 247,
+        "durationText": "04:07",
+        "bitrate": 128722.81368821292,
+        "sampleRate": 44100,
+        "file": "music/40_Pal_SpotiDost.mp3"
+    },
+    {
+        "id": 42,
+        "title": "Kabhi Jo Baadal Barse",
+        "artist": "Arijit Singh - Topic",
+        "album": "Kabhi Jo Baadal Barse",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 252,
+        "durationText": "04:12",
+        "bitrate": 132144.05810768914,
+        "sampleRate": 44100,
+        "file": "music/41_Kabhi_Jo_Baadal_Barse_From_Jackpot_SpotiDost.mp3"
+    },
+    {
+        "id": 43,
+        "title": "Mere Sohneya (From \"Kabir Singh\")",
+        "artist": "Sachet Tandon - Topic",
+        "album": "Mere Sohneya (From \"Kabir Singh\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 193,
+        "durationText": "03:13",
+        "bitrate": 131862.05670764658,
+        "sampleRate": 44100,
+        "file": "music/42_Mere_Sohneya_From_Kabir_Singh_SpotiDost.mp3"
+    },
+    {
+        "id": 44,
+        "title": "Phir Bhi Tumko Chaahunga",
+        "artist": "Mithoon - Topic",
+        "album": "Phir Bhi Tumko Chaahunga",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 351,
+        "durationText": "05:51",
+        "bitrate": 122262.32633729569,
+        "sampleRate": 44100,
+        "file": "music/43_Phir_Bhi_Tumko_Chaahunga_SpotiDost.mp3"
+    },
+    {
+        "id": 45,
+        "title": "MOHABBAT BARSA DE",
+        "artist": "Arjun - Topic",
+        "album": "MOHABBAT BARSA DE",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 274,
+        "durationText": "04:34",
+        "bitrate": 128339.5537585747,
+        "sampleRate": 44100,
+        "file": "music/44_Mohabbat_Barsa_De_From_Creature_3D_SpotiDost.mp3"
+    },
+    {
+        "id": 46,
+        "title": "Kalank - Title Track",
+        "artist": "Arijit Singh - Topic",
+        "album": "Kalank - Title Track",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 311,
+        "durationText": "05:11",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/45_Kalank_-_Title_Track_SpotiDost.mp3"
+    },
+    {
+        "id": 47,
+        "title": "Roke Na Ruke Naina (From \"Badrinath Ki Dulhania\")",
+        "artist": "Arijit Singh - Topic",
+        "album": "Roke Na Ruke Naina (From \"Badrinath Ki Dulhania\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 278,
+        "durationText": "04:38",
+        "bitrate": 130225.26327516651,
+        "sampleRate": 44100,
+        "file": "music/46_Roke_Na_Ruke_Naina_From_Badrinath_Ki_Dulhania_SpotiDost.mp3"
+    },
+    {
+        "id": 48,
+        "title": "Aaruyire (From \"Guru\")",
+        "artist": "A. R. Rahman - Topic",
+        "album": "Aaruyire (From \"Guru\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 308,
+        "durationText": "05:08",
+        "bitrate": 135073.91727288108,
+        "sampleRate": 44100,
+        "file": "music/47_Tere_Bina_SpotiDost.mp3"
+    },
+    {
+        "id": 49,
+        "title": "Malang Sajna",
+        "artist": "Sachet Tandon - Topic",
+        "album": "Malang Sajna",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 161,
+        "durationText": "02:41",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/48_Malang_Sajna_SpotiDost.mp3"
+    },
+    {
+        "id": 50,
+        "title": "Pani Da Rang (Male)",
+        "artist": "Ayushmann Khurrana - Topic",
+        "album": "Pani Da Rang (Male)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 240,
+        "durationText": "04:00",
+        "bitrate": 134096.3168311463,
+        "sampleRate": 44100,
+        "file": "music/49_Pani_Da_Rang_-_Male_SpotiDost - Copy.mp3"
+    },
+    {
+        "id": 51,
+        "title": "Pani Da Rang (Male)",
+        "artist": "Ayushmann Khurrana - Topic",
+        "album": "Pani Da Rang (Male)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 240,
+        "durationText": "04:00",
+        "bitrate": 134096.3168311463,
+        "sampleRate": 44100,
+        "file": "music/49_Pani_Da_Rang_-_Male_SpotiDost.mp3"
+    },
+    {
+        "id": 52,
+        "title": "Musafir Reprise (From \"Sweetiee Weds Nri\") (feat. Arijit Singh)",
+        "artist": "Palash Muchhal - Topic",
+        "album": "Musafir Reprise (From \"Sweetiee Weds Nri\") (feat. Arijit Singh)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 314,
+        "durationText": "05:14",
+        "bitrate": 123207.9423188767,
+        "sampleRate": 44100,
+        "file": "music/50_Musafir_Reprise_From_Sweetiee_Weds_Nri_SpotiDost - Copy.mp3"
+    },
+    {
+        "id": 53,
+        "title": "Musafir Reprise (From \"Sweetiee Weds Nri\") (feat. Arijit Singh)",
+        "artist": "Palash Muchhal - Topic",
+        "album": "Musafir Reprise (From \"Sweetiee Weds Nri\") (feat. Arijit Singh)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 314,
+        "durationText": "05:14",
+        "bitrate": 123207.9423188767,
+        "sampleRate": 44100,
+        "file": "music/50_Musafir_Reprise_From_Sweetiee_Weds_Nri_SpotiDost.mp3"
+    }
+]

@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aura — Music</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <style>
+
+  </style>
+</head>
+<body>
+<!-- LIQUID GLASS SVG FILTER -->
+<svg class="svg-filters" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="lg-dist" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.008 0.008" numOctaves="2" seed="92" result="noise"/>
+      <feGaussianBlur in="noise" stdDeviation="2" result="blurred"/>
+      <feDisplacementMap in="SourceGraphic" in2="blurred" scale="65" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+</svg>
+
+<!-- BACKGROUND -->
+<div class="bg-scene"></div>
+
+<div id="app">
+  <!-- ═══ SIDEBAR ═══ -->
+  <nav class="sidebar">
+    <div class="sidebar-logo"><i class="fa-solid fa-music"></i></div>
+    <div class="nav-item active" data-screen="home" title="Home">
+      <i class="fa-solid fa-house"></i>
+      <span class="nav-dot"></span>
+    </div>
+    <div class="nav-item" data-screen="search" title="Search">
+      <i class="fa-solid fa-magnifying-glass"></i>
+    </div>
+    <div class="nav-item" data-screen="nowplaying" title="Now Playing">
+      <i class="fa-solid fa-circle-play"></i>
+    </div>
+    <div class="nav-item" data-screen="library" title="Library">
+      <i class="fa-solid fa-layer-group"></i>
+    </div>
+    <div class="nav-item" data-screen="favorites" title="Favorites">
+      <i class="fa-solid fa-heart"></i>
+    </div>
+    <div class="sidebar-spacer"></div>
+    <div class="nav-item" data-screen="profile" title="Profile">
+      <div class="sidebar-avatar">S</div>
+    </div>
+  </nav>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- ── HOME ── -->
+    <section class="screen active" id="screen-home">
+      <div class="search-bar">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" placeholder="Songs, artists, playlists…">
+        <i class="fa-solid fa-sliders"></i>
+      </div>
+
+      <div class="tabs">
+        <div class="tab active">All</div>
+        <div class="tab">Pop</div>
+        <div class="tab">Hip-Hop</div>
+        <div class="tab">Electronic</div>
+        <div class="tab">Indie</div>
+        <div class="tab">R&amp;B</div>
+        <div class="tab">Jazz</div>
+      </div>
+
+      <!-- Trending -->
+      <div class="section-head anim-in">
+        <h2>🔥 Trending Now</h2>
+        <span class="see-all">See all</span>
+      </div>
+      <div class="h-scroll">
+        <div class="trending-card anim-in" onclick="openNowPlaying()">
+          <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop" alt="">
+          <span class="trending-rank">#1</span>
+          <div class="trending-play"><i class="fa-solid fa-play"></i></div>
+          <div class="trending-card-info"><div class="title">Levitating</div><div class="artist">Dua Lipa</div></div>
+        </div>
+        <div class="trending-card anim-in" onclick="openNowPlaying()">
+          <img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=300&h=300&fit=crop" alt="">
+          <span class="trending-rank">#2</span>
+          <div class="trending-play"><i class="fa-solid fa-play"></i></div>
+          <div class="trending-card-info"><div class="title">Blinding Lights</div><div class="artist">The Weeknd</div></div>
+        </div>
+        <div class="trending-card anim-in" onclick="openNowPlaying()">
+          <img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=300&h=300&fit=crop" alt="">
+          <span class="trending-rank">#3</span>
+          <div class="trending-play"><i class="fa-solid fa-play"></i></div>
+          <div class="trending-card-info"><div class="title">As It Was</div><div class="artist">Harry Styles</div></div>
+        </div>
+        <div class="trending-card" onclick="openNowPlaying()">
+          <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop" alt="">
+          <span class="trending-rank">#4</span>
+          <div class="trending-play"><i class="fa-solid fa-play"></i></div>
+          <div class="trending-card-info"><div class="title">Anti-Hero</div><div class="artist">Taylor Swift</div></div>
+        </div>
+        <div class="trending-card" onclick="openNowPlaying()">
+          <img src="https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=300&h=300&fit=crop" alt="">
+          <span class="trending-rank">#5</span>
+          <div class="trending-play"><i class="fa-solid fa-play"></i></div>
+          <div class="trending-card-info"><div class="title">Stay</div><div class="artist">The Kid Laroi</div></div>
+        </div>
+      </div>
+
+      <!-- Recently Played -->
+      <div class="section-head anim-in">
+        <h2>🕓 Recently Played</h2>
+        <span class="see-all">See all</span>
+      </div>
+      <div class="recent-list mb-6">
+        <div class="recent-row glass anim-in" onclick="openNowPlaying()">
+          <div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Levitating</div><div class="meta">Dua Lipa · Future Nostalgia</div></div>
+          <span class="duration" style="position:relative;z-index:3">3:23</span>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="recent-row glass" onclick="openNowPlaying()">
+          <div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Blinding Lights</div><div class="meta">The Weeknd · After Hours</div></div>
+          <span class="duration" style="position:relative;z-index:3">3:20</span>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="recent-row glass" onclick="openNowPlaying()">
+          <div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">As It Was</div><div class="meta">Harry Styles · Harry's House</div></div>
+          <span class="duration" style="position:relative;z-index:3">2:37</span>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="recent-row glass" onclick="openNowPlaying()">
+          <div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Anti-Hero</div><div class="meta">Taylor Swift · Midnights</div></div>
+          <span class="duration" style="position:relative;z-index:3">3:20</span>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+      </div>
+
+      <!-- Playlists -->
+      <div class="section-head anim-in">
+        <h2>🎵 Recommended Playlists</h2>
+        <span class="see-all">See all</span>
+      </div>
+      <div class="h-scroll mb-6">
+        <div class="playlist-card"><div class="playlist-cover"><img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=300&h=300&fit=crop" alt=""><span class="glass-badge">24 tracks</span></div><div class="playlist-info"><div class="title">Late Night Vibes</div><div class="count">Curated · 1h 32m</div></div></div>
+        <div class="playlist-card"><div class="playlist-cover"><img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop" alt=""><span class="glass-badge">18 tracks</span></div><div class="playlist-info"><div class="title">Pop Hits 2025</div><div class="count">Trending · 1h 08m</div></div></div>
+        <div class="playlist-card"><div class="playlist-cover"><img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=300&h=300&fit=crop" alt=""><span class="glass-badge">32 tracks</span></div><div class="playlist-info"><div class="title">Chill Acoustic</div><div class="count">Calm · 2h 14m</div></div></div>
+        <div class="playlist-card"><div class="playlist-cover"><img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop" alt=""><span class="glass-badge">20 tracks</span></div><div class="playlist-info"><div class="title">Workout Energy</div><div class="count">High BPM · 1h 22m</div></div></div>
+      </div>
+
+      <!-- Artists -->
+      <div class="section-head anim-in">
+        <h2>🎤 Top Artists</h2>
+        <span class="see-all">See all</span>
+      </div>
+      <div class="h-scroll">
+        <div class="artist-card"><img src="https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=200&h=200&fit=crop" alt=""><div class="name">Dua Lipa</div><div class="genre">Pop</div></div>
+        <div class="artist-card"><img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=200&h=200&fit=crop" alt=""><div class="name">The Weeknd</div><div class="genre">R&amp;B</div></div>
+        <div class="artist-card"><img src="https://images.unsplash.com/photo-1471478331149-c72f17e33c73?w=200&h=200&fit=crop" alt=""><div class="name">Harry Styles</div><div class="genre">Pop Rock</div></div>
+        <div class="artist-card"><img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=200&h=200&fit=crop" alt=""><div class="name">Taylor Swift</div><div class="genre">Pop</div></div>
+        <div class="artist-card"><img src="https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=200&h=200&fit=crop" alt=""><div class="name">Billie Eilish</div><div class="genre">Alt Pop</div></div>
+      </div>
+    </section>
+
+    <!-- ── SEARCH ── -->
+    <section class="screen" id="screen-search">
+      <h1 class="page-title">Search</h1>
+      <p class="page-subtitle">Find songs, artists, albums and more.</p>
+      <div class="search-bar" style="background:rgba(255,255,255,0.14);">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" placeholder="What do you want to hear?" autofocus>
+      </div>
+      <p style="font-size:13px;color:var(--text-sub);margin-bottom:16px;">Browse categories</p>
+      <div class="search-categories">
+        <div class="search-cat-card sccat-1"><i class="fa-solid fa-fire"></i>Trending</div>
+        <div class="search-cat-card sccat-2"><i class="fa-solid fa-headphones"></i>Podcasts</div>
+        <div class="search-cat-card sccat-3"><i class="fa-solid fa-guitar"></i>Indie</div>
+        <div class="search-cat-card sccat-4"><i class="fa-solid fa-bolt"></i>Hip-Hop</div>
+        <div class="search-cat-card sccat-5"><i class="fa-solid fa-heart"></i>Romance</div>
+        <div class="search-cat-card sccat-6"><i class="fa-solid fa-star"></i>Top Charts</div>
+      </div>
+    </section>
+
+    <!-- ── NOW PLAYING ── -->
+    <section class="screen" id="screen-nowplaying">
+      <div class="now-playing-wrap">
+        <!-- Artwork -->
+        <div style="position:relative;display:inline-block">
+          <div class="artwork-glow"></div>
+          <div class="artwork-container">
+            <img id="np-art" src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&h=600&fit=crop" alt="">
+          </div>
+        </div>
+
+        <!-- Track Info -->
+        <div class="track-info">
+          <div class="track-title" id="np-title">Blinding Lights</div>
+          <div class="track-artist" id="np-artist">The Weeknd</div>
+          <div class="track-badges">
+            <span class="badge purple"><i class="fa-solid fa-star" style="font-size:10px;margin-right:4px"></i>AURA PICK</span>
+            <span class="badge">After Hours</span>
+          </div>
+        </div>
+
+        <!-- Visualizer -->
+        <div class="visualizer" id="visualizer"></div>
+
+        <!-- Glass Player Panel -->
+        <div class="glass" style="width:100%;max-width:460px;">
+          <div class="glass-filter"></div>
+          <div class="glass-overlay"></div>
+          <div class="glass-specular"></div>
+          <div class="glass-content" style="padding:22px 24px;display:flex;flex-direction:column;gap:20px">
+
+            <!-- Progress -->
+            <div class="np-progress-wrap">
+              <div class="np-progress-bar" id="np-bar">
+                <div class="np-progress-fill" id="np-fill"></div>
+              </div>
+              <div class="np-time">
+                <span id="np-cur">0:00</span>
+                <span id="np-dur">3:20</span>
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <div class="np-controls">
+              <div class="ctrl-btn" onclick="prevTrack()"><i class="fa-solid fa-shuffle" style="font-size:15px;"></i></div>
+              <div class="ctrl-btn" onclick="prevTrack()"><i class="fa-solid fa-backward-step"></i></div>
+              <div class="ctrl-btn play-main" id="main-play-btn" onclick="toggleMainPlay()">
+                <i class="fa-solid fa-play" id="main-play-icon"></i>
+              </div>
+              <div class="ctrl-btn" onclick="nextTrack()"><i class="fa-solid fa-forward-step"></i></div>
+              <div class="ctrl-btn"><i class="fa-solid fa-repeat" style="font-size:15px;"></i></div>
+            </div>
+
+            <!-- Volume -->
+            <div class="np-volume">
+              <i class="fa-solid fa-volume-low"></i>
+              <div class="glass-slider-wrap" id="vol-slider">
+                <div class="glass-slider-fill" id="vol-fill" style="width:65%"></div>
+                <div class="glass-slider-thumb" id="vol-thumb" style="left:calc(65% - 6px)"></div>
+              </div>
+              <i class="fa-solid fa-volume-high"></i>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lyrics -->
+        
+      </div>
+    </section>
+
+    <!-- ── LIBRARY ── -->
+    <section class="screen" id="screen-library">
+      <h1 class="page-title">Your Library</h1>
+      <p class="page-subtitle">All your music, albums & playlists.</p>
+
+      <div class="tabs" style="margin-bottom:20px">
+        <div class="tab active">Playlists</div>
+        <div class="tab">Albums</div>
+        <div class="tab">Artists</div>
+        <div class="tab">Downloads</div>
+      </div>
+
+      <div class="library-grid">
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Late Night Vibes</div><div class="sub">24 songs</div></div></div>
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Pop Hits 2025</div><div class="sub">18 songs</div></div></div>
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Chill Acoustic</div><div class="sub">32 songs</div></div></div>
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Workout Energy</div><div class="sub">20 songs</div></div></div>
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Focus Zone</div><div class="sub">15 songs</div></div></div>
+        <div class="lib-card"><div class="cover"><img src="https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=300&h=300&fit=crop" alt=""><div class="cover-overlay"></div></div><div class="lib-info"><div class="title">Summer Beats</div><div class="sub">28 songs</div></div></div>
+      </div>
+    </section>
+
+    <!-- ── FAVORITES ── -->
+    <section class="screen" id="screen-favorites">
+      <h1 class="page-title">Favorites</h1>
+      <p class="page-subtitle">Songs you love, always close.</p>
+
+      <div class="fav-list">
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">1</span>
+          <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Levitating</div><div class="meta">Dua Lipa</div></div>
+          <span class="dur" style="position:relative;z-index:3">3:23</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">2</span>
+          <img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Blinding Lights</div><div class="meta">The Weeknd</div></div>
+          <span class="dur" style="position:relative;z-index:3">3:20</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">3</span>
+          <img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">As It Was</div><div class="meta">Harry Styles</div></div>
+          <span class="dur" style="position:relative;z-index:3">2:37</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">4</span>
+          <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Anti-Hero</div><div class="meta">Taylor Swift</div></div>
+          <span class="dur" style="position:relative;z-index:3">3:20</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">5</span>
+          <img src="https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Happier Than Ever</div><div class="meta">Billie Eilish</div></div>
+          <span class="dur" style="position:relative;z-index:3">4:58</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="fav-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.05)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <span class="num" style="position:relative;z-index:3">6</span>
+          <img src="https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=100&h=100&fit=crop" style="position:relative;z-index:3" alt="">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Good 4 U</div><div class="meta">Olivia Rodrigo</div></div>
+          <span class="dur" style="position:relative;z-index:3">2:58</span>
+          <i class="fa-solid fa-heart heart" style="position:relative;z-index:3"></i>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── PROFILE ── -->
+    <section class="screen" id="screen-profile">
+      <div class="profile-hero">
+        <img class="profile-avatar" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200&fit=crop" alt="">
+        <div class="info">
+          <div class="username">Suraj</div>
+          <div class="handle">@suraj · Mumbai</div>
+          <div class="follow-row">
+            <div class="follow-item"><div class="count">248</div><div class="label">Following</div></div>
+            <div class="follow-item"><div class="count">1.2k</div><div class="label">Followers</div></div>
+            <div class="follow-item"><div class="count">4,812</div><div class="label">Scrobbles</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-head mb-4"><h2>📊 Listening Stats</h2></div>
+      <div class="stats-grid mb-6">
+        <div class="stat-card glass">
+          <div class="glass-filter"></div><div class="glass-overlay"></div><div class="glass-specular"></div>
+          <div class="glass-content" style="position:relative;z-index:3;text-align:center;padding:14px 8px">
+            <div class="stat-icon">🎵</div>
+            <div class="stat-val">382</div>
+            <div class="stat-label">Songs Played</div>
+          </div>
+        </div>
+        <div class="stat-card glass">
+          <div class="glass-filter"></div><div class="glass-overlay"></div><div class="glass-specular"></div>
+          <div class="glass-content" style="position:relative;z-index:3;text-align:center;padding:14px 8px">
+            <div class="stat-icon">⏱️</div>
+            <div class="stat-val">94h</div>
+            <div class="stat-label">Listen Time</div>
+          </div>
+        </div>
+        <div class="stat-card glass">
+          <div class="glass-filter"></div><div class="glass-overlay"></div><div class="glass-specular"></div>
+          <div class="glass-content" style="position:relative;z-index:3;text-align:center;padding:14px 8px">
+            <div class="stat-icon">❤️</div>
+            <div class="stat-val">64</div>
+            <div class="stat-label">Favorites</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-head mb-4"><h2>🎸 Favorite Genres</h2></div>
+      <div class="genre-chips mb-6">
+        <div class="genre-chip active">Pop</div>
+        <div class="genre-chip active">R&amp;B</div>
+        <div class="genre-chip active">Electronic</div>
+        <div class="genre-chip">Hip-Hop</div>
+        <div class="genre-chip">Indie</div>
+        <div class="genre-chip">Jazz</div>
+        <div class="genre-chip">Ambient</div>
+      </div>
+
+      <div class="section-head mb-4"><h2>🕓 Recently Played</h2></div>
+      <div class="recent-list">
+        <div class="recent-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Levitating</div><div class="meta">2 mins ago</div></div>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+        <div class="recent-row glass" onclick="openNowPlaying()"><div class="glass-filter"></div><div class="glass-overlay" style="background:rgba(255,255,255,0.04)"></div><div class="glass-specular" style="box-shadow:none"></div>
+          <img src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=100&h=100&fit=crop" alt="" style="position:relative;z-index:3">
+          <div class="info" style="position:relative;z-index:3"><div class="name">Blinding Lights</div><div class="meta">34 mins ago</div></div>
+          <i class="fa-solid fa-play play-icon" style="position:relative;z-index:3"></i>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- ═══ NOW PLAYING BAR ═══ -->
+<div class="now-bar glass" id="now-bar" onclick="openNowPlaying()">
+  <div class="glass-filter"></div>
+  <div class="glass-overlay"></div>
+  <div class="glass-specular"></div>
+  <div class="glass-content">
+    <img id="bar-art" src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=100&h=100&fit=crop" alt="">
+    <div class="bar-info">
+      <div class="bar-title" id="bar-title">Blinding Lights</div>
+      <div class="bar-artist" id="bar-artist">The Weeknd</div>
+    </div>
+    <div class="bar-controls" onclick="event.stopPropagation()">
+      <i class="fa-solid fa-backward-step" onclick="prevTrack()"></i>
+      <div class="bar-play" id="bar-play-btn" onclick="toggleMainPlay()">
+        <i class="fa-solid fa-play" id="bar-play-icon"></i>
+      </div>
+      <i class="fa-solid fa-forward-step" onclick="nextTrack()"></i>
+      <i class="fa-solid fa-heart" style="color:#f472b6"></i>
+    </div>
+  </div>
+  <div class="bar-progress">
+    <div class="bar-progress-fill" id="bar-fill"></div>
+  </div>
+</div>
+
+
+</body>
+</html>
