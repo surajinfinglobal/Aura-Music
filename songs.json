@@ -847,4 +847,2106 @@
         "sampleRate": 44100,
         "file": "music/50_Musafir_Reprise_From_Sweetiee_Weds_Nri_SpotiDost.mp3"
     }
+,
+
+    {
+        "id": 54,
+        "title": "Beete Lamhein",
+        "artist": "Kk - Topic",
+        "album": "Beete Lamhein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 298,
+        "durationText": "04:58",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/01_Beete_Lamhein_Lofi_Mix_From_The_Train_SpotiDost.mp3"
+    },
+    {
+        "id": 55,
+        "title": "Dil Aaj Kal",
+        "artist": "Ram Sampath - Topic",
+        "album": "Dil Aaj Kal",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 322,
+        "durationText": "05:22",
+        "bitrate": 131997.7740489902,
+        "sampleRate": 44100,
+        "file": "music/02_Dil_Aaj_Kal_SpotiDost.mp3"
+    },
+    {
+        "id": 56,
+        "title": "Zara Sa (From \"Jannat\")",
+        "artist": "Pritam - Topic",
+        "album": "Zara Sa (From \"Jannat\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 303,
+        "durationText": "05:03",
+        "bitrate": 133909.92624924745,
+        "sampleRate": 44100,
+        "file": "music/03_Zara_Sa_SpotiDost.mp3"
+    },
+    {
+        "id": 57,
+        "title": "Khuda Jaane",
+        "artist": "KK - Topic",
+        "album": "Khuda Jaane",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 333,
+        "durationText": "05:33",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/04_Khuda_Jaane_SpotiDost.mp3"
+    },
+    {
+        "id": 58,
+        "title": "Mann Mera (From \"Table No. 21\")",
+        "artist": "Gajendra Verma - Topic",
+        "album": "Mann Mera (From \"Table No. 21\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 198,
+        "durationText": "03:18",
+        "bitrate": 127833.0938571052,
+        "sampleRate": 44100,
+        "file": "music/05_Mann_Mera_SpotiDost.mp3"
+    },
+    {
+        "id": 59,
+        "title": "Tum Ho Mera Pyar",
+        "artist": "KK - Topic",
+        "album": "Tum Ho Mera Pyar",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 305,
+        "durationText": "05:05",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/06_Tum_Ho_Mera_Pyar_SpotiDost.mp3"
+    },
+    {
+        "id": 60,
+        "title": "Pani Da Rang (Male)",
+        "artist": "Ayushmann Khurrana - Topic",
+        "album": "Pani Da Rang (Male)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 240,
+        "durationText": "04:00",
+        "bitrate": 134096.3168311463,
+        "sampleRate": 44100,
+        "file": "music/07_Pani_Da_Rang_-_Male_SpotiDost.mp3"
+    },
+    {
+        "id": 61,
+        "title": "Aye Bekhabar",
+        "artist": "Roopkumar Rathod - Topic",
+        "album": "Aye Bekhabar",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 343,
+        "durationText": "05:43",
+        "bitrate": 143599.90487786318,
+        "sampleRate": 44100,
+        "file": "music/08_Aye_Bekhabar_SpotiDost.mp3"
+    },
+    {
+        "id": 62,
+        "title": "Tu Hi Meri Shab Hai",
+        "artist": "Pritam - Topic",
+        "album": "Tu Hi Meri Shab Hai",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 388,
+        "durationText": "06:28",
+        "bitrate": 133562.66027798344,
+        "sampleRate": 44100,
+        "file": "music/09_Tu_Hi_Meri_Shab_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 63,
+        "title": "TU BHOOLA JISE",
+        "artist": "Amaal Mallik - Topic",
+        "album": "TU BHOOLA JISE",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 271,
+        "durationText": "04:31",
+        "bitrate": 125068.08967025572,
+        "sampleRate": 44100,
+        "file": "music/10_Tu_Bhoola_Jise_SpotiDost.mp3"
+    },
+    {
+        "id": 64,
+        "title": "Ajab Si",
+        "artist": "Kk - Topic",
+        "album": "Ajab Si",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 241,
+        "durationText": "04:01",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/11_Ajab_Si_From_Om_Shanti_Om_SpotiDost.mp3"
+    },
+    {
+        "id": 65,
+        "title": "Kaho Na Kaho",
+        "artist": "Anu Malik - Topic",
+        "album": "Kaho Na Kaho",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 311,
+        "durationText": "05:11",
+        "bitrate": 131627.1582055793,
+        "sampleRate": 44100,
+        "file": "music/12_Kaho_Na_Kaho_SpotiDost.mp3"
+    },
+    {
+        "id": 66,
+        "title": "AYE KHUDA",
+        "artist": "Salim Merchant - Topic",
+        "album": "AYE KHUDA",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 280,
+        "durationText": "04:40",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/13_Aye_Khuda_SpotiDost.mp3"
+    },
+    {
+        "id": 67,
+        "title": "Mitwa",
+        "artist": "Shankar–Ehsaan–Loy - Topic",
+        "album": "Mitwa",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 383,
+        "durationText": "06:23",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/14_Mitwa_SpotiDost.mp3"
+    },
+    {
+        "id": 68,
+        "title": "Haan Tu Hain",
+        "artist": "Pritam - Topic",
+        "album": "Haan Tu Hain",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 323,
+        "durationText": "05:23",
+        "bitrate": 132444.70528865562,
+        "sampleRate": 44100,
+        "file": "music/15_Haan_Tu_Hain_SpotiDost.mp3"
+    },
+    {
+        "id": 69,
+        "title": "Jaavedaan Hai",
+        "artist": "KK - Topic",
+        "album": "Jaavedaan Hai",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 346,
+        "durationText": "05:46",
+        "bitrate": 134393.67036715924,
+        "sampleRate": 44100,
+        "file": "music/16_Jaavedaan_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 70,
+        "title": "Dilko Tumse Pyar Hua",
+        "artist": "Roopkumar Rathod - Topic",
+        "album": "Dilko Tumse Pyar Hua",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 331,
+        "durationText": "05:31",
+        "bitrate": 142829.96542280714,
+        "sampleRate": 44100,
+        "file": "music/17_Dilko_Tumse_Pyar_Hua_SpotiDost.mp3"
+    },
+    {
+        "id": 71,
+        "title": "Teri Deewani",
+        "artist": "Kailash Kher - Topic",
+        "album": "Teri Deewani",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 323,
+        "durationText": "05:23",
+        "bitrate": 126840.88234700469,
+        "sampleRate": 44100,
+        "file": "music/18_Teri_Deewani_SpotiDost.mp3"
+    },
+    {
+        "id": 72,
+        "title": "AAOGE JAB TUM",
+        "artist": "Rashid Kaithwadiya - Topic",
+        "album": "AAOGE JAB TUM",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 355,
+        "durationText": "05:55",
+        "bitrate": 130054.82003604797,
+        "sampleRate": 44100,
+        "file": "music/19_Aaoge_Jab_Tum_SpotiDost.mp3"
+    },
+    {
+        "id": 73,
+        "title": "SAADI GALLI AAJA",
+        "artist": "Ayushmann Khurrana - Topic",
+        "album": "SAADI GALLI AAJA",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 253,
+        "durationText": "04:13",
+        "bitrate": 141997.76937545088,
+        "sampleRate": 44100,
+        "file": "music/20_Mitti_Di_Khushboo_SpotiDost.mp3"
+    },
+    {
+        "id": 74,
+        "title": "ZINDAGI DO PAL KI",
+        "artist": "Kk - Topic",
+        "album": "ZINDAGI DO PAL KI",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 253,
+        "durationText": "04:13",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/21_Zindagi_Do_Pal_Ki_From_Kites_SpotiDost.mp3"
+    },
+    {
+        "id": 75,
+        "title": "Dil Ibaadat",
+        "artist": "Pritam - Topic",
+        "album": "Dil Ibaadat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 329,
+        "durationText": "05:29",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/22_Dil_Ibaadat_SpotiDost.mp3"
+    },
+    {
+        "id": 76,
+        "title": "Such Keh Raha Hai",
+        "artist": "KK - Topic",
+        "album": "Such Keh Raha Hai",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 328,
+        "durationText": "05:28",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/23_Such_Keh_Raha_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 77,
+        "title": "Piya Aaye Na",
+        "artist": "K.K. - Topic",
+        "album": "Piya Aaye Na",
+        "genre": [
+            "Music"
+        ],
+        "year": 2015,
+        "track": "",
+        "duration": 286,
+        "durationText": "04:46",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/24_Piya_Aaye_Na_SpotiDost.mp3"
+    },
+    {
+        "id": 78,
+        "title": "Saajna",
+        "artist": "Falak Shabir - Topic",
+        "album": "Saajna",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 281,
+        "durationText": "04:41",
+        "bitrate": 142595.90505242647,
+        "sampleRate": 44100,
+        "file": "music/25_Saajna_SpotiDost.mp3"
+    },
+    {
+        "id": 79,
+        "title": "Maine Dil Se Kaha",
+        "artist": "Kay Kay - Topic",
+        "album": "Maine Dil Se Kaha",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 312,
+        "durationText": "05:12",
+        "bitrate": 133879.96868475992,
+        "sampleRate": 44100,
+        "file": "music/26_Maine_Dil_Se_Kaha_SpotiDost.mp3"
+    },
+    {
+        "id": 80,
+        "title": "Agar Tum (Instrumental)",
+        "artist": "Anu Malik - Topic",
+        "album": "Agar Tum (Instrumental)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 360,
+        "durationText": "06:00",
+        "bitrate": 139477.067951502,
+        "sampleRate": 44100,
+        "file": "music/27_Agar_Tum_-_Instrumental_SpotiDost.mp3"
+    },
+    {
+        "id": 81,
+        "title": "Tujhe Sochta Hoon",
+        "artist": "Pritam - Topic",
+        "album": "Tujhe Sochta Hoon",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 313,
+        "durationText": "05:13",
+        "bitrate": 129603.32338380897,
+        "sampleRate": 44100,
+        "file": "music/28_Tujhe_Sochta_Hoon_SpotiDost.mp3"
+    },
+    {
+        "id": 82,
+        "title": "Zara Zara",
+        "artist": "Bombay Jayashri - Topic",
+        "album": "Zara Zara",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 298,
+        "durationText": "04:58",
+        "bitrate": 147067.10197915757,
+        "sampleRate": 44100,
+        "file": "music/29_Zara_Zara_SpotiDost.mp3"
+    },
+    {
+        "id": 83,
+        "title": "Challa",
+        "artist": "Rabbi Shergill - Topic",
+        "album": "Challa",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 320,
+        "durationText": "05:20",
+        "bitrate": 139900.60908423117,
+        "sampleRate": 44100,
+        "file": "music/30_Challa_SpotiDost.mp3"
+    },
+    {
+        "id": 84,
+        "title": "Abhi Abhi",
+        "artist": "KK - Topic",
+        "album": "Abhi Abhi",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 342,
+        "durationText": "05:42",
+        "bitrate": 130134.42335543867,
+        "sampleRate": 44100,
+        "file": "music/31_Abhi_Abhi_From_Jism_2_SpotiDost.mp3"
+    },
+    {
+        "id": 85,
+        "title": "Kaise Bataaoon",
+        "artist": "Mithoon - Topic",
+        "album": "Kaise Bataaoon",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 282,
+        "durationText": "04:42",
+        "bitrate": 120014.48824263143,
+        "sampleRate": 44100,
+        "file": "music/32_Kaise_Bataaoon_SpotiDost.mp3"
+    },
+    {
+        "id": 86,
+        "title": "Kiya Kiya",
+        "artist": "Anand Raj Anand - Topic",
+        "album": "Kiya Kiya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 302,
+        "durationText": "05:02",
+        "bitrate": 128214.57414374675,
+        "sampleRate": 44100,
+        "file": "music/33_Kiya_Kiya_SpotiDost.mp3"
+    },
+    {
+        "id": 87,
+        "title": "Labon Ko",
+        "artist": "KK - Topic",
+        "album": "Labon Ko",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 341,
+        "durationText": "05:41",
+        "bitrate": 133805.3773169424,
+        "sampleRate": 44100,
+        "file": "music/34_Labon_Ko_SpotiDost.mp3"
+    },
+    {
+        "id": 88,
+        "title": "Darmiyaan",
+        "artist": "Shafqat Amanat Ali - Topic",
+        "album": "Darmiyaan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 353,
+        "durationText": "05:53",
+        "bitrate": 121505.44554455446,
+        "sampleRate": 44100,
+        "file": "music/35_Darmiyaan_SpotiDost.mp3"
+    },
+    {
+        "id": 89,
+        "title": "MERA PEHLA PEHLA PYAAR",
+        "artist": "KK - Topic",
+        "album": "MERA PEHLA PEHLA PYAAR",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 271,
+        "durationText": "04:31",
+        "bitrate": 115680.16045099738,
+        "sampleRate": 44100,
+        "file": "music/36_Mera_Pehla_Pehla_Pyaar_SpotiDost.mp3"
+    },
+    {
+        "id": 90,
+        "title": "Hasi (Male Version)",
+        "artist": "Ami Mishra - Topic",
+        "album": "Hasi (Male Version)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 272,
+        "durationText": "04:32",
+        "bitrate": 123002.66189290161,
+        "sampleRate": 44100,
+        "file": "music/37_Hasi_-_Male_Version_SpotiDost.mp3"
+    },
+    {
+        "id": 91,
+        "title": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+        "artist": "Sachin-Jigar - Topic",
+        "album": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 230,
+        "durationText": "03:50",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/38_Tumhare_Hi_Rahenge_Hum_From_Stree_2_SpotiDost.mp3"
+    },
+    {
+        "id": 92,
+        "title": "Maahi",
+        "artist": "Shaarib Toshi - Topic",
+        "album": "Maahi",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 329,
+        "durationText": "05:29",
+        "bitrate": 125581.96874999999,
+        "sampleRate": 44100,
+        "file": "music/39_Maahi_SpotiDost.mp3"
+    },
+    {
+        "id": 93,
+        "title": "Zara Sa (From \"Jannat\")",
+        "artist": "Pritam - Topic",
+        "album": "Zara Sa (From \"Jannat\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 303,
+        "durationText": "05:03",
+        "bitrate": 133909.92624924745,
+        "sampleRate": 44100,
+        "file": "music/40_I_Am_In_Love_SpotiDost.mp3"
+    },
+    {
+        "id": 94,
+        "title": "Dilnashin Dilnashin",
+        "artist": "KK - Topic",
+        "album": "Dilnashin Dilnashin",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 392,
+        "durationText": "06:32",
+        "bitrate": 146288.3057534794,
+        "sampleRate": 44100,
+        "file": "music/41_Dilnashin_Dilnashin_From_Aashiq_Banaya_Aapne_SpotiDost.mp3"
+    },
+    {
+        "id": 95,
+        "title": "Kabhi Kabhi Aditi",
+        "artist": "Rashid Ali Warbartan - Topic",
+        "album": "Kabhi Kabhi Aditi",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 218,
+        "durationText": "03:38",
+        "bitrate": 133857.09681270143,
+        "sampleRate": 44100,
+        "file": "music/42_Kabhi_Kabhi_Aditi_SpotiDost.mp3"
+    },
+    {
+        "id": 96,
+        "title": "Humsafar",
+        "artist": "Akhil Sachdeva - Topic",
+        "album": "Humsafar",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 268,
+        "durationText": "04:28",
+        "bitrate": 133287.4312852695,
+        "sampleRate": 44100,
+        "file": "music/43_Humsafar_From_Badrinath_Ki_Dulhania_SpotiDost.mp3"
+    },
+    {
+        "id": 97,
+        "title": "Tere Naina (From \"My Name Is Khan\")",
+        "artist": "Shankar–Ehsaan–Loy - Topic",
+        "album": "Tere Naina (From \"My Name Is Khan\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 278,
+        "durationText": "04:38",
+        "bitrate": 132587.95655945237,
+        "sampleRate": 44100,
+        "file": "music/44_Tere_Naina_SpotiDost.mp3"
+    },
+    {
+        "id": 98,
+        "title": "Saiyyan",
+        "artist": "Kailash Kher - Topic",
+        "album": "Saiyyan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 344,
+        "durationText": "05:44",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/45_Saiyyan_SpotiDost.mp3"
+    },
+    {
+        "id": 99,
+        "title": "Soniye",
+        "artist": "KK - Topic",
+        "album": "Soniye",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 301,
+        "durationText": "05:01",
+        "bitrate": 131352.62875303713,
+        "sampleRate": 44100,
+        "file": "music/46_Soniye_SpotiDost.mp3"
+    },
+    {
+        "id": 100,
+        "title": "SAJDE",
+        "artist": "Sunidhi Chauhan - Topic",
+        "album": "SAJDE",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 305,
+        "durationText": "05:05",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/47_Sajde_SpotiDost.mp3"
+    },
+    {
+        "id": 101,
+        "title": "DIL DE DIYA HAI",
+        "artist": "Anand Raaj Anand - Topic",
+        "album": "DIL DE DIYA HAI",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 365,
+        "durationText": "06:05",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/48_Dil_De_Diya_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 102,
+        "title": "Khud Ko Tere",
+        "artist": "Mahalakshmi Iyer - Topic",
+        "album": "Khud Ko Tere",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 306,
+        "durationText": "05:06",
+        "bitrate": 135505.16126287126,
+        "sampleRate": 44100,
+        "file": "music/49_Khud_Ko_Tere_SpotiDost.mp3"
+    },
+    {
+        "id": 103,
+        "title": "O Jaana",
+        "artist": "Raju Singh - Topic",
+        "album": "O Jaana",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 269,
+        "durationText": "04:29",
+        "bitrate": 137337.09632516705,
+        "sampleRate": 44100,
+        "file": "music/50_O_Jaana_SpotiDost.mp3"
+    }
+,
+
+    {
+        "id": 104,
+        "title": "Too Shayar Hai Main Teri Shayari",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Too Shayar Hai Main Teri Shayari",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 389,
+        "durationText": "06:29",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/01_Too_Shayar_Hai_Main_Teri_Shayari_From_Saajan_SpotiDost.mp3"
+    },
+    {
+        "id": 105,
+        "title": "Pyar Ke Liye",
+        "artist": "Jatin-Lalit - Topic",
+        "album": "Pyar Ke Liye",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 305,
+        "durationText": "05:05",
+        "bitrate": 132315.5272101573,
+        "sampleRate": 44100,
+        "file": "music/03_Pyar_Ke_Liye_SpotiDost.mp3"
+    },
+    {
+        "id": 106,
+        "title": "Tumsa Koi Pyaara",
+        "artist": "Kumar Sanu - Topic",
+        "album": "Tumsa Koi Pyaara",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 342,
+        "durationText": "05:42",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/04_Tumsa_Koi_Pyaara_SpotiDost.mp3"
+    },
+    {
+        "id": 107,
+        "title": "Jaan O Meri Jaan",
+        "artist": "Manhar Udhas - Topic",
+        "album": "Jaan O Meri Jaan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 524,
+        "durationText": "08:44",
+        "bitrate": 141556.4226347484,
+        "sampleRate": 44100,
+        "file": "music/05_Jaan_O_Meri_Jaan_SpotiDost.mp3"
+    },
+    {
+        "id": 108,
+        "title": "Aapke Pyaar Mein Hum",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Aapke Pyaar Mein Hum",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 330,
+        "durationText": "05:30",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/06_Aapke_Pyaar_Mein_Hum_SpotiDost.mp3"
+    },
+    {
+        "id": 109,
+        "title": "Aashiq Mujhe Aashiq",
+        "artist": "Roopkumar Rathod - Topic",
+        "album": "Aashiq Mujhe Aashiq",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 303,
+        "durationText": "05:03",
+        "bitrate": 133000.35449530213,
+        "sampleRate": 44100,
+        "file": "music/09_Aashiq_Mujhe_Aashiq_SpotiDost.mp3"
+    },
+    {
+        "id": 110,
+        "title": "DILBAR DILBAR",
+        "artist": "Alka Yagnik - Topic",
+        "album": "DILBAR DILBAR",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 341,
+        "durationText": "05:41",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/11_Dilbar_Dilbar_SpotiDost.mp3"
+    },
+    {
+        "id": 111,
+        "title": "Savariya",
+        "artist": "Kamal Khan - Topic",
+        "album": "Savariya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 313,
+        "durationText": "05:13",
+        "bitrate": 137621.28845993496,
+        "sampleRate": 44100,
+        "file": "music/12_Savariya_SpotiDost.mp3"
+    },
+    {
+        "id": 112,
+        "title": "Dekhne Walon Ne (From ''Chori Chori Chupke Chupke'')",
+        "artist": "Udit Narayan - Topic",
+        "album": "Dekhne Walon Ne (From ''Chori Chori Chupke Chupke'')",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 373,
+        "durationText": "06:13",
+        "bitrate": 127273.34978300433,
+        "sampleRate": 44100,
+        "file": "music/13_Dekhne_Walon_Ne_-_From_Chori_Chori_Chupke_Chupke_SpotiDost.mp3"
+    },
+    {
+        "id": 113,
+        "title": "Dil Jab Se Toot Gaya",
+        "artist": "Pankaj Udhas - Topic",
+        "album": "Dil Jab Se Toot Gaya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 333,
+        "durationText": "05:33",
+        "bitrate": 145398.13043393122,
+        "sampleRate": 44100,
+        "file": "music/15_Dil_Jab_Se_Toot_Gaya_SpotiDost.mp3"
+    },
+    {
+        "id": 114,
+        "title": "Aksar Is Duniya Mein",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Aksar Is Duniya Mein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 343,
+        "durationText": "05:43",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/16_Aksar_Is_Duniya_Mein_SpotiDost.mp3"
+    },
+    {
+        "id": 115,
+        "title": "Ladki Badi Anjani Hai",
+        "artist": "Jatin-Lalit - Topic",
+        "album": "Ladki Badi Anjani Hai",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 381,
+        "durationText": "06:21",
+        "bitrate": 143648.372168617,
+        "sampleRate": 44100,
+        "file": "music/18_Ladki_Badi_Anjani_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 116,
+        "title": "Main Agar Saamne",
+        "artist": "Abhijeet - Topic",
+        "album": "Main Agar Saamne",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 346,
+        "durationText": "05:46",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/19_Main_Agar_Saamne_SpotiDost.mp3"
+    },
+    {
+        "id": 117,
+        "title": "TUMSE MILNA",
+        "artist": "Udit Narayan - Topic",
+        "album": "TUMSE MILNA",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 279,
+        "durationText": "04:39",
+        "bitrate": 135682.43491165747,
+        "sampleRate": 44100,
+        "file": "music/22_Tumse_Milna_SpotiDost.mp3"
+    },
+    {
+        "id": 118,
+        "title": "Woh Ladki Bahut Yaad Aati",
+        "artist": "Kumar Sanu - Topic",
+        "album": "Woh Ladki Bahut Yaad Aati",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 405,
+        "durationText": "06:45",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/23_Woh_Ladki_Bahut_Yaad_Aati_From_Qayamat_SpotiDost.mp3"
+    },
+    {
+        "id": 119,
+        "title": "To Chalun",
+        "artist": "Roopkumar Rathod - Topic",
+        "album": "To Chalun",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 458,
+        "durationText": "07:38",
+        "bitrate": 130848.79598257503,
+        "sampleRate": 44100,
+        "file": "music/25_To_Chalun_-_From_Border_SpotiDost.mp3"
+    },
+    {
+        "id": 120,
+        "title": "Aaye Ho Meri Zindagi Mein (Female)",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Aaye Ho Meri Zindagi Mein (Female)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 363,
+        "durationText": "06:03",
+        "bitrate": 131905.2655463695,
+        "sampleRate": 44100,
+        "file": "music/26_Aaye_Ho_Meri_Zindagi_Mein_-_Female_Version_SpotiDost.mp3"
+    },
+    {
+        "id": 121,
+        "title": "Tip Tip Barsa Paani",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Tip Tip Barsa Paani",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 363,
+        "durationText": "06:03",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/28_Tip_Tip_Barsa_Paani_From_Mohra_SpotiDost.mp3"
+    },
+    {
+        "id": 122,
+        "title": "KABHI KHUSIYON KI SARGAM",
+        "artist": "Vinod Rathod, Anuradha,Praful Dave, Pooja Kanodiya, Praful Dave, Purn... - Topic",
+        "album": "KABHI KHUSIYON KI SARGAM",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 451,
+        "durationText": "07:31",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/30_Kabhi_Khusiyon_Ki_Sargam_SpotiDost.mp3"
+    },
+    {
+        "id": 123,
+        "title": "Aapke Pyaar Mein Hum",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Aapke Pyaar Mein Hum",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 330,
+        "durationText": "05:30",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/32_Hamne_Tumko_Dil_Ye_De_Diya_SpotiDost.mp3"
+    },
+    {
+        "id": 124,
+        "title": "Hum Pyaar Hai Tumhare",
+        "artist": "Kumar Sanu - Topic",
+        "album": "Hum Pyaar Hai Tumhare",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 426,
+        "durationText": "07:06",
+        "bitrate": 133741.55311158797,
+        "sampleRate": 44100,
+        "file": "music/35_Hum_Pyaar_Hai_Tumhare_SpotiDost.mp3"
+    },
+    {
+        "id": 125,
+        "title": "Hote Hote Pyar Ho",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Hote Hote Pyar Ho",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 350,
+        "durationText": "05:50",
+        "bitrate": 128144.98060135791,
+        "sampleRate": 44100,
+        "file": "music/36_Hote_Hote_Pyar_Ho_SpotiDost.mp3"
+    },
+    {
+        "id": 126,
+        "title": "Dil Laga Liya Maine",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Dil Laga Liya Maine",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 271,
+        "durationText": "04:31",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/38_Dil_Laga_Liya_Maine_SpotiDost.mp3"
+    },
+    {
+        "id": 127,
+        "title": "PYAR TU DIL TU",
+        "artist": "Vinod Rathod - Topic",
+        "album": "PYAR TU DIL TU",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 338,
+        "durationText": "05:38",
+        "bitrate": 141311.69200602736,
+        "sampleRate": 44100,
+        "file": "music/39_Pyar_Tu_Dil_Tu_SpotiDost.mp3"
+    },
+    {
+        "id": 128,
+        "title": "Main Agar Saamne (Jhankar)",
+        "artist": "Abhijeet Bhattacharya - Topic",
+        "album": "Main Agar Saamne (Jhankar)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 340,
+        "durationText": "05:40",
+        "bitrate": 129443.24741280184,
+        "sampleRate": 44100,
+        "file": "music/43_Main_Agar_Saamne_-_Jhankar_SpotiDost.mp3"
+    },
+    {
+        "id": 129,
+        "title": "Yeh Teri Aankhen Jhuki Jhuki",
+        "artist": "Abhijeet Bhattacharya - Topic",
+        "album": "Yeh Teri Aankhen Jhuki Jhuki",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 208,
+        "durationText": "03:28",
+        "bitrate": 126641.67215324806,
+        "sampleRate": 44100,
+        "file": "music/44_Yeh_Teri_Aankhen_Jhuki_Jhuki_SpotiDost.mp3"
+    },
+    {
+        "id": 130,
+        "title": "Kasam Khake Kaho",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Kasam Khake Kaho",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 353,
+        "durationText": "05:53",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/45_Kasam_Khake_Kaho_SpotiDost.mp3"
+    },
+    {
+        "id": 131,
+        "title": "Dil Mera Tod Diya",
+        "artist": "Alka Yagnik - Topic",
+        "album": "Dil Mera Tod Diya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 307,
+        "durationText": "05:07",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/46_Dil_Mera_Tod_Diya_SpotiDost.mp3"
+    },
+    {
+        "id": 132,
+        "title": "RAB KARE",
+        "artist": "Udit Narayan - Topic",
+        "album": "RAB KARE",
+        "genre": [
+            "Music"
+        ],
+        "year": 2023,
+        "track": "",
+        "duration": 257,
+        "durationText": "04:17",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/47_Rab_Kare_SpotiDost.mp3"
+    },
+    {
+        "id": 133,
+        "title": "Is Pyar Se Meri Taraf Na Dekho (Duet)",
+        "artist": "Kumar Sanu - Topic",
+        "album": "Is Pyar Se Meri Taraf Na Dekho (Duet)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 323,
+        "durationText": "05:23",
+        "bitrate": 131515.88438735178,
+        "sampleRate": 44100,
+        "file": "music/48_Is_Pyar_Se_Meri_Taraf_Na_Dekho_-_Duet_Version_SpotiDost.mp3"
+    },
+    {
+        "id": 134,
+        "title": "Aankhon Mein Base Ho Tum (Male)",
+        "artist": "Various Artists - Topic",
+        "album": "Aankhon Mein Base Ho Tum (Male)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2021,
+        "track": "",
+        "duration": 335,
+        "durationText": "05:35",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/50_Aankhon_Mein_Base_Ho_Tum_-_Male_Version_SpotiDost.mp3"
+    }
+,
+
+    {
+        "id": 135,
+        "title": "Gehra Hua (From \"Dhurandhar\")",
+        "artist": "Shashwat Sachdev - Topic",
+        "album": "Gehra Hua (From \"Dhurandhar\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 362,
+        "durationText": "06:02",
+        "bitrate": 136389.0630629008,
+        "sampleRate": 44100,
+        "file": "music/01_Gehra_Hua_From_Dhurandhar_SpotiDost.mp3"
+    },
+    {
+        "id": 136,
+        "title": "Jithe Mera Ghar",
+        "artist": "Release - Topic",
+        "album": "Jithe Mera Ghar",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 180,
+        "durationText": "03:00",
+        "bitrate": 119364.43325119583,
+        "sampleRate": 44100,
+        "file": "music/02_Jaiye_Sajana_SpotiDost.mp3"
+    },
+    {
+        "id": 137,
+        "title": "Sitaare (From \"Ikkis\")",
+        "artist": "Release - Topic",
+        "album": "Sitaare (From \"Ikkis\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 243,
+        "durationText": "04:03",
+        "bitrate": 122933.98307361633,
+        "sampleRate": 44100,
+        "file": "music/03_Sitaare_From_Ikkis_SpotiDost.mp3"
+    },
+    {
+        "id": 138,
+        "title": "Khat",
+        "artist": "Navjot Ahuja - Topic",
+        "album": "Khat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 296,
+        "durationText": "04:56",
+        "bitrate": 121482.89253283963,
+        "sampleRate": 44100,
+        "file": "music/04_Khat_SpotiDost.mp3"
+    },
+    {
+        "id": 139,
+        "title": "Saiyaara (Movie: Saiyaara)",
+        "artist": "Release - Topic",
+        "album": "Saiyaara (Movie: Saiyaara)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 371,
+        "durationText": "06:11",
+        "bitrate": 126348.86651647423,
+        "sampleRate": 44100,
+        "file": "music/05_Saiyaara_From_Saiyaara_SpotiDost.mp3"
+    },
+    {
+        "id": 140,
+        "title": "Sajni",
+        "artist": "Arijit Singh - Topic",
+        "album": "Sajni",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 170,
+        "durationText": "02:50",
+        "bitrate": 128000,
+        "sampleRate": 44100,
+        "file": "music/06_Sajni_From_Laapataa_Ladies_SpotiDost.mp3"
+    },
+    {
+        "id": 141,
+        "title": "Arz Kiya Hai | Coke Studio Bharat",
+        "artist": "Anuv Jain - Topic",
+        "album": "Arz Kiya Hai | Coke Studio Bharat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 294,
+        "durationText": "04:54",
+        "bitrate": 124884.70467641843,
+        "sampleRate": 44100,
+        "file": "music/07_Arz_Kiya_Hai_Coke_Studio_Bharat_SpotiDost.mp3"
+    },
+    {
+        "id": 142,
+        "title": "Chunnari Chunnari - Let’s Go! (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "artist": "Anu Malik - Topic",
+        "album": "Chunnari Chunnari - Let’s Go! (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 165,
+        "durationText": "02:45",
+        "bitrate": 129989.58695137354,
+        "sampleRate": 44100,
+        "file": "music/08_Chunnari_Chunnari_-_Lets_Go_From_Hai_Jawani_Toh_Ishq_Hona_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 143,
+        "title": "Shararat (From \"Dhurandhar\")",
+        "artist": "Shashwat Sachdev - Topic",
+        "album": "Shararat (From \"Dhurandhar\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 224,
+        "durationText": "03:44",
+        "bitrate": 134600.33646003265,
+        "sampleRate": 44100,
+        "file": "music/09_Shararat_From_Dhurandhar_SpotiDost.mp3"
+    },
+    {
+        "id": 144,
+        "title": "Sun Saathiya",
+        "artist": "Priya Saraiya - Topic",
+        "album": "Sun Saathiya",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 218,
+        "durationText": "03:38",
+        "bitrate": 129527.25820895523,
+        "sampleRate": 44100,
+        "file": "music/10_Sahiba_SpotiDost.mp3"
+    },
+    {
+        "id": 145,
+        "title": "Dil Lagana Mana Tha 2 /Karish,Kishore Mondal",
+        "artist": "Haarji saini - Topic",
+        "album": "Dil Lagana Mana Tha 2 /Karish,Kishore Mondal",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 182,
+        "durationText": "03:02",
+        "bitrate": 132762.2244488978,
+        "sampleRate": 44100,
+        "file": "music/11_Dil_Lagana_Mana_Tha_SpotiDost.mp3"
+    },
+    {
+        "id": 146,
+        "title": "Aawaara Angaara",
+        "artist": "Release - Topic",
+        "album": "Aawaara Angaara",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 311,
+        "durationText": "05:11",
+        "bitrate": 128322.86211816047,
+        "sampleRate": 44100,
+        "file": "music/12_Aawaara_Angaara_SpotiDost.mp3"
+    },
+    {
+        "id": 147,
+        "title": "Finding Her",
+        "artist": "Kushagra - Topic",
+        "album": "Finding Her",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 207,
+        "durationText": "03:27",
+        "bitrate": 117120.38345105953,
+        "sampleRate": 44100,
+        "file": "music/13_Finding_Her_SpotiDost.mp3"
+    },
+    {
+        "id": 148,
+        "title": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+        "artist": "Vishal Mishra - Topic",
+        "album": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 257,
+        "durationText": "04:17",
+        "bitrate": 118393.40246125798,
+        "sampleRate": 44100,
+        "file": "music/14_Deewaniyat_From_Ek_Deewane_Ki_Deewaniyat_Original_Motion_Picture_Soundtrack_SpotiDost.mp3"
+    },
+    {
+        "id": 149,
+        "title": "Pardesiya (From \"Param Sundari\")",
+        "artist": "Release - Topic",
+        "album": "Pardesiya (From \"Param Sundari\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 231,
+        "durationText": "03:51",
+        "bitrate": 130386.9896091462,
+        "sampleRate": 44100,
+        "file": "music/15_Pardesiya_-_From_Param_Sundari_SpotiDost.mp3"
+    },
+    {
+        "id": 150,
+        "title": "Dhun (Movie: Saiyaara)",
+        "artist": "Release - Topic",
+        "album": "Dhun (Movie: Saiyaara)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 276,
+        "durationText": "04:36",
+        "bitrate": 120576.32112862132,
+        "sampleRate": 44100,
+        "file": "music/16_Dhun_From_Saiyaara_SpotiDost.mp3"
+    },
+    {
+        "id": 151,
+        "title": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
+        "artist": "Release - Topic",
+        "album": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 281,
+        "durationText": "04:41",
+        "bitrate": 130567.44557144183,
+        "sampleRate": 44100,
+        "file": "music/17_Prem_Ki_Leela_SpotiDost.mp3"
+    },
+    {
+        "id": 152,
+        "title": "Phir Se (From \"Dhurandhar The Revenge\")",
+        "artist": "Shashwat Sachdev - Topic",
+        "album": "Phir Se (From \"Dhurandhar The Revenge\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 354,
+        "durationText": "05:54",
+        "bitrate": 122149.52568404749,
+        "sampleRate": 44100,
+        "file": "music/18_Phir_Se_From_Dhurandhar_The_Revenge_SpotiDost.mp3"
+    },
+    {
+        "id": 153,
+        "title": "Deewaana Deewaana",
+        "artist": "Release - Topic",
+        "album": "Deewaana Deewaana",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 337,
+        "durationText": "05:37",
+        "bitrate": 138721.8123306233,
+        "sampleRate": 44100,
+        "file": "music/19_Deewaana_Deewaana_SpotiDost.mp3"
+    },
+    {
+        "id": 154,
+        "title": "Aavan Jaavan (Movie: WAR 2)",
+        "artist": "Release - Topic",
+        "album": "Aavan Jaavan (Movie: WAR 2)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 225,
+        "durationText": "03:45",
+        "bitrate": 132048.83246527778,
+        "sampleRate": 44100,
+        "file": "music/20_Aavan_Jaavan_From_WAR_2_SpotiDost.mp3"
+    },
+    {
+        "id": 155,
+        "title": "Thodi Si Daaru",
+        "artist": "AP Dhillon - Topic",
+        "album": "Thodi Si Daaru",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 180,
+        "durationText": "03:00",
+        "bitrate": 127361.71875,
+        "sampleRate": 44100,
+        "file": "music/21_Thodi_Si_Daaru_SpotiDost.mp3"
+    },
+    {
+        "id": 156,
+        "title": "Run Down The City - Monica",
+        "artist": "Shashwat Sachdev - Topic",
+        "album": "Run Down The City - Monica",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 140,
+        "durationText": "02:20",
+        "bitrate": 133327.51274328082,
+        "sampleRate": 44100,
+        "file": "music/22_Run_Down_The_City_-_Monica_SpotiDost.mp3"
+    },
+    {
+        "id": 157,
+        "title": "Ehsaas",
+        "artist": "Faheem Abdullah - Topic",
+        "album": "Ehsaas",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 233,
+        "durationText": "03:53",
+        "bitrate": 117765.4978706713,
+        "sampleRate": 44100,
+        "file": "music/23_Ehsaas_SpotiDost.mp3"
+    },
+    {
+        "id": 158,
+        "title": "Humsafar (Movie: Saiyaara)",
+        "artist": "Release - Topic",
+        "album": "Humsafar (Movie: Saiyaara)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 322,
+        "durationText": "05:22",
+        "bitrate": 128279.6690283401,
+        "sampleRate": 44100,
+        "file": "music/24_Humsafar_From_Saiyaara_SpotiDost.mp3"
+    },
+    {
+        "id": 159,
+        "title": "Guzaara",
+        "artist": "Release - Topic",
+        "album": "Guzaara",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 244,
+        "durationText": "04:04",
+        "bitrate": 125195.39976995507,
+        "sampleRate": 44100,
+        "file": "music/25_Guzaara_From_Baaghi_4_SpotiDost.mp3"
+    },
+    {
+        "id": 160,
+        "title": "Paro",
+        "artist": "Aditya Rikhari - Topic",
+        "album": "Paro",
+        "genre": [
+            "Music"
+        ],
+        "year": 2024,
+        "track": "",
+        "duration": 70,
+        "durationText": "01:10",
+        "bitrate": 108554.16048925128,
+        "sampleRate": 44100,
+        "file": "music/26_Paro_SpotiDost.mp3"
+    },
+    {
+        "id": 161,
+        "title": "Andaaz e Karam",
+        "artist": "Madhur Sharma - Topic",
+        "album": "Andaaz e Karam",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 437,
+        "durationText": "07:17",
+        "bitrate": 130118.2085645248,
+        "sampleRate": 44100,
+        "file": "music/27_Andaaz_e_Karam_SpotiDost.mp3"
+    },
+    {
+        "id": 162,
+        "title": "Ishq Hai",
+        "artist": "Release - Topic",
+        "album": "Ishq Hai",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 312,
+        "durationText": "05:12",
+        "bitrate": 126473.1208263773,
+        "sampleRate": 44100,
+        "file": "music/28_Ishq_Hai_SpotiDost.mp3"
+    },
+    {
+        "id": 163,
+        "title": "I'M Done",
+        "artist": "Maan Panu - Topic",
+        "album": "I'M Done",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 159,
+        "durationText": "02:39",
+        "bitrate": 131893.17306115758,
+        "sampleRate": 44100,
+        "file": "music/29_Im_Done._-_I-Popstar_Vol._1_SpotiDost.mp3"
+    },
+    {
+        "id": 164,
+        "title": "Tere Ishk Mein",
+        "artist": "Release - Topic",
+        "album": "Tere Ishk Mein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 350,
+        "durationText": "05:50",
+        "bitrate": 126919.90835695107,
+        "sampleRate": 44100,
+        "file": "music/30_Tere_Ishk_Mein_From_Tere_Ishk_Mein_SpotiDost.mp3"
+    },
+    {
+        "id": 165,
+        "title": "Jaane Na Tu",
+        "artist": "Bhoomi - Topic",
+        "album": "Jaane Na Tu",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 190,
+        "durationText": "03:10",
+        "bitrate": 125043.58690427139,
+        "sampleRate": 44100,
+        "file": "music/31_Jaane_Na_Tu_From_UR_Debut_SpotiDost.mp3"
+    },
+    {
+        "id": 166,
+        "title": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "artist": "Release - Topic",
+        "album": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 268,
+        "durationText": "04:28",
+        "bitrate": 129657.67785936588,
+        "sampleRate": 44100,
+        "file": "music/32_Tumse_Behtar_From_Sunny_Sanskari_Ki_Tulsi_Kumari_SpotiDost.mp3"
+    },
+    {
+        "id": 167,
+        "title": "Qayde Se",
+        "artist": "Arijit Singh - Topic",
+        "album": "Qayde Se",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 215,
+        "durationText": "03:35",
+        "bitrate": 117187.23149271845,
+        "sampleRate": 44100,
+        "file": "music/33_Qayde_Se_From_Metro_..._In_Dino_SpotiDost.mp3"
+    },
+    {
+        "id": 168,
+        "title": "Zulfein",
+        "artist": "Mehul Mahesh - Topic",
+        "album": "Zulfein",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 198,
+        "durationText": "03:18",
+        "bitrate": 131596.67437967702,
+        "sampleRate": 44100,
+        "file": "music/34_Zulfein_SpotiDost.mp3"
+    },
+    {
+        "id": 169,
+        "title": "Ae Ajnabee | Coke Studio Bharat",
+        "artist": "Aditya Rikhari - Topic",
+        "album": "Ae Ajnabee | Coke Studio Bharat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 259,
+        "durationText": "04:19",
+        "bitrate": 121933.33123805694,
+        "sampleRate": 44100,
+        "file": "music/35_Ae_Ajnabee_Coke_Studio_Bharat_SpotiDost.mp3"
+    },
+    {
+        "id": 170,
+        "title": "Main Aur Tu",
+        "artist": "Release - Topic",
+        "album": "Main Aur Tu",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 210,
+        "durationText": "03:30",
+        "bitrate": 141216.72253258844,
+        "sampleRate": 44100,
+        "file": "music/36_Dhurandhar_The_Revenge_-_Aari_Aari_SpotiDost.mp3"
+    },
+    {
+        "id": 171,
+        "title": "Aarzu",
+        "artist": "Noor - Topic",
+        "album": "Aarzu",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 187,
+        "durationText": "03:07",
+        "bitrate": 122486.7440848991,
+        "sampleRate": 44100,
+        "file": "music/37_Aarzu_SpotiDost.mp3"
+    },
+    {
+        "id": 172,
+        "title": "Ghar Kab Aaoge",
+        "artist": "Sonu Nigam - Topic",
+        "album": "Ghar Kab Aaoge",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 634,
+        "durationText": "10:34",
+        "bitrate": 131283.20761420275,
+        "sampleRate": 44100,
+        "file": "music/38_Ghar_Kab_Aaoge_From_BORDER_2_SpotiDost.mp3"
+    },
+    {
+        "id": 173,
+        "title": "Tum Mere Na Huye (From “Thamma”)",
+        "artist": "Sachin-Jigar - Topic",
+        "album": "Tum Mere Na Huye (From “Thamma”)",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 194,
+        "durationText": "03:14",
+        "bitrate": 132401.80954137055,
+        "sampleRate": 44100,
+        "file": "music/39_Tum_Mere_Na_Huye_-_From_Thamma_SpotiDost.mp3"
+    },
+    {
+        "id": 174,
+        "title": "Uyi Amma (From \"Azaad\")",
+        "artist": "Amit Trivedi - Topic",
+        "album": "Uyi Amma (From \"Azaad\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 253,
+        "durationText": "04:13",
+        "bitrate": 124544.26049274766,
+        "sampleRate": 44100,
+        "file": "music/40_Uyi_Amma_-_From_Azaad_SpotiDost.mp3"
+    },
+    {
+        "id": 175,
+        "title": "Nafrat",
+        "artist": "Darshan Raval - Topic",
+        "album": "Nafrat",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 214,
+        "durationText": "03:34",
+        "bitrate": 119772.63587618814,
+        "sampleRate": 44100,
+        "file": "music/41_Nafrat_SpotiDost.mp3"
+    },
+    {
+        "id": 176,
+        "title": "Inaam",
+        "artist": "Jasleen Royal - Topic",
+        "album": "Inaam",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 178,
+        "durationText": "02:58",
+        "bitrate": 124205.03846153847,
+        "sampleRate": 44100,
+        "file": "music/42_Inaam_Ft._Badshah_SpotiDost.mp3"
+    },
+    {
+        "id": 177,
+        "title": "Ghafoor",
+        "artist": "Shashwat Sachdev - Topic",
+        "album": "Ghafoor",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 166,
+        "durationText": "02:46",
+        "bitrate": 135859.83152686144,
+        "sampleRate": 44100,
+        "file": "music/43_Ghafoor_SpotiDost.mp3"
+    },
+    {
+        "id": 178,
+        "title": "Paan Ki Dukaan",
+        "artist": "Vishal Bhardwaj - Topic",
+        "album": "Paan Ki Dukaan",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 300,
+        "durationText": "05:00",
+        "bitrate": 134559.1767470194,
+        "sampleRate": 44100,
+        "file": "music/44_Paan_Ki_Dukaan_From_O_Romeo_SpotiDost.mp3"
+    },
+    {
+        "id": 179,
+        "title": "Qubool (From \"Haq\")",
+        "artist": "Vishal Mishra - Topic",
+        "album": "Qubool (From \"Haq\")",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 284,
+        "durationText": "04:44",
+        "bitrate": 126665.7579055912,
+        "sampleRate": 44100,
+        "file": "music/45_Qubool_From_Haq_SpotiDost.mp3"
+    },
+    {
+        "id": 180,
+        "title": "Banda Kaam Ka",
+        "artist": "Chaar Diwaari - Topic",
+        "album": "Banda Kaam Ka",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 249,
+        "durationText": "04:09",
+        "bitrate": 129354.21103010596,
+        "sampleRate": 44100,
+        "file": "music/46_Banda_Kaam_Ka_SpotiDost.mp3"
+    },
+    {
+        "id": 181,
+        "title": "Inaam",
+        "artist": "Anuv Jain - Topic",
+        "album": "Inaam",
+        "genre": [
+            "Music"
+        ],
+        "year": 2025,
+        "track": "",
+        "duration": 257,
+        "durationText": "04:17",
+        "bitrate": 115406.68532338309,
+        "sampleRate": 44100,
+        "file": "music/47_Inaam_SpotiDost.mp3"
+    },
+    {
+        "id": 182,
+        "title": "Ek Din Title Track",
+        "artist": "Arijit Singh - Topic",
+        "album": "Ek Din Title Track",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 261,
+        "durationText": "04:21",
+        "bitrate": 125387.41710710012,
+        "sampleRate": 44100,
+        "file": "music/48_Ek_Din_Title_Track_-_From_Ek_Din_SpotiDost.mp3"
+    },
+    {
+        "id": 183,
+        "title": "Jo Ishq Hua",
+        "artist": "King - Topic",
+        "album": "Jo Ishq Hua",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 272,
+        "durationText": "04:32",
+        "bitrate": 121028.09327107281,
+        "sampleRate": 44100,
+        "file": "music/49_Jo_Ishq_Hua_SpotiDost.mp3"
+    },
+    {
+        "id": 184,
+        "title": "The Last Letter",
+        "artist": "Maan Panu - Topic",
+        "album": "The Last Letter",
+        "genre": [
+            "Music"
+        ],
+        "year": 2026,
+        "track": "",
+        "duration": 170,
+        "durationText": "02:50",
+        "bitrate": 126844.47783837763,
+        "sampleRate": 44100,
+        "file": "music/50_The_Last_Letter_SpotiDost.mp3"
+    }
 ]
