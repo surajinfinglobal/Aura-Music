@@ -449,6 +449,11 @@ function onPlaylistReady() {
   renderAllSongsList();
   loadTrack(0, false);
   renderFavorites();
+  const totalSongsEl = $('total-songs-count');
+  if (totalSongsEl) {
+    totalSongsEl.textContent = PLAYLIST.length;
+    totalSongsEl.dataset.count = PLAYLIST.length;
+  }
   initReveal($('screen-home'));
 }
 
