@@ -54,7 +54,8 @@ function normalizeSong(raw, idx) {
     bitrate:     raw.bitrate     || null,
     sampleRate:  raw.sampleRate  || null,
     src:         raw.file        || raw.src || '',
-    img:         raw.img         || raw.cover || ART_POOL[idx % ART_POOL.length],
+    // img:         raw.img         || raw.cover || ART_POOL[idx % ART_POOL.length],
+    img: raw.img || (raw.cover ? raw.cover.replace(/ /g, '%20') : null) || ART_POOL[idx % ART_POOL.length],
     accentColor: raw.accentColor || ACCENT_POOL[idx % ACCENT_POOL.length],
   };
 }
@@ -267,15 +268,18 @@ function loadTrack(idx, autoPlay) {
   audio.src = t.src;
 
   // Update bar
+  $('bar-art').onerror = function(){ this.src = ART_POOL[currentIdx % ART_POOL.length]; this.onerror=null; };
   $('bar-art').src = t.img;
   $('bar-title').textContent = t.title;
   $('bar-artist').textContent = t.artist;
+  $('np-art').onerror  = function(){ this.src = ART_POOL[currentIdx % ART_POOL.length]; this.onerror=null; };
 
   // Update NP screen
   $('np-art').src = t.img;
   $('np-title').textContent = t.title;
   $('np-artist').textContent = t.artist;
   $('np-album-badge').textContent = t.album;
+  $('fs-art').onerror  = function(){ this.src = ART_POOL[currentIdx % ART_POOL.length]; this.onerror=null; };
 
   // Update FS
   $('fs-art').src = t.img;
