@@ -466,19 +466,26 @@ function onPlaylistReady() {
 
 /* ═══════════════════════════════
    RENDER HOME SECTIONS FROM PLAYLIST
+   Accepts an optional `list` of {song, idx} pairs (filtered by genre tab).
+   If omitted, renders the full PLAYLIST.
 ═══════════════════════════════ */
-function renderHomeSections() {
+function renderHomeSections(list) {
+  // Build a list of { song, idx } so original PLAYLIST indices are preserved
+  const items = list || PLAYLIST.map((t, i) => ({ song: t, idx: i }));
 
-  /* ── 1. TRENDING NOW — all songs as horizontal cards ── */
+  /* ── 1. TRENDING NOW — songs as horizontal cards ── */
   const trendingEl = $('home-trending');
   if (trendingEl) {
     trendingEl.innerHTML = '';
-    PLAYLIST.forEach((t, i) => {
+    if (items.length === 0) {
+      trendingEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No songs in this category yet.</div>`;
+    }
+    items.forEach(({ song: t, idx: i }, pos) => {
       const card = document.createElement('div');
-      card.className = 'trending-card' + (i < 5 ? ' anim-in' : '');
+      card.className = 'trending-card' + (pos < 5 ? ' anim-in' : '');
       card.innerHTML = `
         <img src="${t.img}" alt="${t.title}">
-        <span class="trending-rank">#${i + 1}</span>
+        <span class="trending-rank">#${pos + 1}</span>
         <div class="trending-play"><i class="fa-solid fa-play"></i></div>
         <div class="trending-card-info">
           <div class="title">${t.title}</div>
@@ -498,11 +505,14 @@ function renderHomeSections() {
     });
   }
 
-  /* ── 2. RECENTLY PLAYED — all songs as rows ── */
+  /* ── 2. RECENTLY PLAYED — songs as rows ── */
   const recentEl = $('home-recent');
   if (recentEl) {
     recentEl.innerHTML = '';
-    PLAYLIST.forEach((t, i) => {
+    if (items.length === 0) {
+      recentEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No songs in this category yet.</div>`;
+    }
+    items.forEach(({ song: t, idx: i }) => {
       const row = document.createElement('div');
       row.className = 'recent-row';
       row.innerHTML = `
@@ -519,17 +529,20 @@ function renderHomeSections() {
     });
   }
 
-  /* ── 3. PLAYLISTS — group songs into albums/genres as playlist cards ── */
+  /* ── 3. PLAYLISTS — group songs into albums as playlist cards ── */
   const playlistEl = $('home-playlists');
   if (playlistEl) {
     playlistEl.innerHTML = '';
     // Group by album — each unique album becomes a "playlist card"
     const albumMap = {};
-    PLAYLIST.forEach((t, i) => {
+    items.forEach(({ song: t, idx: i }) => {
       const key = t.album || 'Singles';
       if (!albumMap[key]) albumMap[key] = { name: key, songs: [], img: t.img, firstIdx: i };
       albumMap[key].songs.push(i);
     });
+    if (Object.keys(albumMap).length === 0) {
+      playlistEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No playlists in this category yet.</div>`;
+    }
     Object.values(albumMap).forEach(album => {
       const card = document.createElement('div');
       card.className = 'playlist-card';
@@ -556,12 +569,12 @@ function renderHomeSections() {
     });
   }
 
-  /* ── 4. TOP ARTISTS — unique artists extracted from PLAYLIST ── */
+  /* ── 4. TOP ARTISTS — unique artists extracted from filtered items ── */
   const artistsEl = $('home-artists');
   if (artistsEl) {
     artistsEl.innerHTML = '';
     const artistMap = {};
-    PLAYLIST.forEach((t, i) => {
+    items.forEach(({ song: t, idx: i }) => {
       if (!artistMap[t.artist]) {
         artistMap[t.artist] = {
           name: t.artist,
@@ -571,6 +584,9 @@ function renderHomeSections() {
         };
       }
     });
+    if (Object.keys(artistMap).length === 0) {
+      artistsEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No artists in this category yet.</div>`;
+    }
     Object.values(artistMap).forEach(a => {
       const card = document.createElement('div');
       card.className = 'artist-card';
@@ -765,6 +781,47 @@ document.querySelectorAll('.genre-chip').forEach(chip => {
 });
 
 /* ═══════════════════════════════
+   HOME GENRE FILTER TABS
+   "All / Pop / Hip-Hop / Electronic / Indie / R&B / Jazz" — filters the
+   Home sections (Trending, Recently Played, Playlists, Top Artists) by genre.
+═══════════════════════════════ */
+function matchesGenreTab(song, genre) {
+  if (genre === 'All') return true;
+  const genreStr = Array.isArray(song.genre) ? song.genre.join(' ').toLowerCase() : String(song.genre || '').toLowerCase();
+  const q = genre.toLowerCase();
+  // Handle "R&B" / "Hip-Hop" punctuation variants in stored genre tags
+  const normalized = genreStr.replace(/&/g, 'and').replace(/-/g, ' ');
+  const qNorm = q.replace(/&/g, 'and').replace(/-/g, ' ');
+  return genreStr.includes(q) || normalized.includes(qNorm);
+}
+
+function filterHomeByGenre(genre) {
+  if (genre === 'All') {
+    renderHomeSections();
+    return;
+  }
+  const items = [];
+  PLAYLIST.forEach((t, i) => {
+    if (matchesGenreTab(t, genre)) items.push({ song: t, idx: i });
+  });
+  renderHomeSections(items);
+  if (items.length === 0) {
+    showToast('info', genre, 'No songs tagged with this genre yet');
+  } else {
+    showToast('info', genre, `${items.length} track${items.length !== 1 ? 's' : ''}`);
+  }
+}
+
+const homeTabsGroup = document.querySelector('#screen-home .tabs');
+if (homeTabsGroup) {
+  homeTabsGroup.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      filterHomeByGenre(tab.textContent.trim());
+    });
+  });
+}
+
+/* ═══════════════════════════════
    VISUALIZER
 ═══════════════════════════════ */
 const vis = $('visualizer');
@@ -910,15 +967,41 @@ setupSearch('search-input', 'search-suggestions');
 
 function clearSearch() { $('search-input').value = ''; $('search-suggestions').classList.remove('visible'); }
 
+/**
+ * Used by the Search screen category cards:
+ * Trending / Podcasts / Indie / Hip-Hop / Romance / Top Charts
+ * Filters PLAYLIST by genre/title/artist match and shows results in #search-results.
+ * "Trending" and "Top Charts" aren't real genre tags, so they show the full
+ * catalogue (acting as a "browse everything" shortcut), matching how a
+ * real music app surfaces trending/top-chart songs from across all genres.
+ */
 function filterByGenre(genre) {
   const q = genre.toLowerCase();
-  const matches = PLAYLIST.filter(t => {
-    const genreStr = Array.isArray(t.genre) ? t.genre.join(' ').toLowerCase() : String(t.genre||'').toLowerCase();
-    return genreStr.includes(q) || t.title.toLowerCase().includes(q) || t.artist.toLowerCase().includes(q);
-  });
-  renderAllSongsList(matches.length ? matches : null);
+  const isBrowseAll = (q === 'trending' || q === 'top charts');
+
+  let matches;
+  if (isBrowseAll) {
+    matches = PLAYLIST.slice();
+  } else {
+    matches = PLAYLIST.filter(t => {
+      const genreStr = Array.isArray(t.genre) ? t.genre.join(' ').toLowerCase() : String(t.genre||'').toLowerCase();
+      const normalized = genreStr.replace(/&/g, 'and').replace(/-/g, ' ');
+      const qNorm = q.replace(/&/g, 'and').replace(/-/g, ' ');
+      return genreStr.includes(q) || normalized.includes(qNorm) ||
+             t.title.toLowerCase().includes(q) || t.artist.toLowerCase().includes(q);
+    });
+  }
+
+  renderAllSongsList(isBrowseAll ? null : matches);
   switchScreen('search');
-  showToast('info', genre, `${matches.length} track${matches.length!==1?'s':''} found`);
+
+  if (isBrowseAll) {
+    showToast('info', genre, `Showing all ${matches.length} track${matches.length!==1?'s':''}`);
+  } else if (matches.length === 0) {
+    showToast('info', genre, 'No songs in this category yet');
+  } else {
+    showToast('info', genre, `${matches.length} track${matches.length!==1?'s':''} found`);
+  }
 }
 
 /* ═══════════════════════════════

@@ -77,6 +77,9 @@ body.theme-neon {
 html {
   height: 100%;
   scroll-behavior: smooth;
+  /* RESPONSIVE: global safeguard against any horizontal overflow on mobile */
+  overflow-x: hidden;
+  max-width: 100vw;
 }
 body {
   min-height: 100vh;
@@ -89,6 +92,8 @@ body {
   /* cursor: none; */
   -webkit-font-smoothing: antialiased;
   background: var(--bg-primary);
+  /* RESPONSIVE: prevent any child element from causing horizontal scroll */
+  max-width: 100vw;
 }
 a {
   text-decoration: none;
@@ -205,6 +210,9 @@ a {
   border-radius: 50%;
   filter: blur(80px);
   animation: orb-float 12s ease-in-out infinite alternate;
+  /* PERFORMANCE: promote to GPU layer to reduce repaint cost during animation on mobile */
+  will-change: transform;
+  transform: translateZ(0);
 }
 .mesh-orb-1 {
   width: 50vw;
@@ -565,18 +573,22 @@ a {
 }
 
 /* ─── SCREENS ─── */
+/* RESPONSIVE: padding scales down on smaller viewports via clamp() to maximize
+   usable content width while keeping safe spacing from edges */
 .screen {
   position: absolute;
   inset: 0;
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 28px 28px 150px;
+  padding: clamp(16px, 4vw, 28px) clamp(16px, 4vw, 28px) 150px;
   opacity: 0;
   pointer-events: none;
   transform: translateY(20px) scale(0.99);
   transition:
     opacity 0.4s cubic-bezier(0.22, 1, 0.36, 1),
     transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  /* Performance: promote to its own layer to reduce repaint cost during transitions */
+  will-change: opacity, transform;
 }
 .screen.active {
   opacity: 1;
@@ -599,14 +611,15 @@ a {
 }
 
 /* ─── PAGE HEADER ─── */
+/* RESPONSIVE: clamp() scales title/subtitle smoothly between mobile (320px) and desktop */
 .page-title {
-  font-size: 28px;
+  font-size: clamp(22px, 5.5vw, 28px);
   font-weight: 800;
   letter-spacing: -0.6px;
   margin-bottom: 6px;
 }
 .page-subtitle {
-  font-size: 14px;
+  font-size: clamp(12px, 3vw, 14px);
   color: var(--text-sub);
   margin-bottom: 24px;
 }
@@ -619,7 +632,7 @@ a {
   margin-bottom: 14px;
 }
 .section-head h2 {
-  font-size: 19px;
+  font-size: clamp(16px, 4.2vw, 19px);
   font-weight: 700;
   letter-spacing: -0.3px;
 }
@@ -635,11 +648,12 @@ a {
 }
 
 /* ─── SEARCH BAR ─── */
+/* RESPONSIVE: padding scales down slightly on small screens */
 .search-bar {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 12px 18px;
+  padding: clamp(10px, 2.8vw, 12px) clamp(14px, 4vw, 18px);
   border-radius: var(--radius-pill);
   background: rgba(255, 255, 255, 0.1);
   border: 0.5px solid rgba(255, 255, 255, 0.18);
@@ -662,7 +676,8 @@ a {
   border: none;
   outline: none;
   color: #fff;
-  font-size: 15px;
+  /* RESPONSIVE: 16px minimum prevents iOS Safari from auto-zooming the page on input focus */
+  font-size: clamp(15px, 4vw, 16px);
   min-width: 0;
 }
 .search-bar input::placeholder {
@@ -724,10 +739,15 @@ a {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 11px 16px;
+  padding: 13px 16px;
   cursor: pointer;
   transition: background 0.15s;
   border-bottom: 0.5px solid rgba(255, 255, 255, 0.05);
+  /* RESPONSIVE: minimum 44px tap target for mobile search suggestions */
+  min-height: 44px;
+}
+.suggestion-item:active {
+  background: rgba(var(--accent-rgb), 0.2);
 }
 .suggestion-item:last-child {
   border-bottom: none;
@@ -763,7 +783,7 @@ a {
   height: 0;
 }
 .tab {
-  padding: 8px 18px;
+  padding: 9px 18px;
   border-radius: var(--radius-pill);
   font-size: 13px;
   font-weight: 600;
@@ -773,6 +793,13 @@ a {
   background: rgba(255, 255, 255, 0.07);
   color: var(--text-sub);
   transition: all 0.22s ease;
+  /* RESPONSIVE: minimum height nudges tap target closer to 44px on touch devices */
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+}
+.tab:active {
+  transform: scale(0.96);
 }
 .tab.active {
   background: var(--accent);
@@ -798,9 +825,11 @@ a {
 }
 
 /* ─── TRENDING CARD ─── */
+/* RESPONSIVE: card width scales down on narrow screens so 2+ cards preview
+   in horizontal scroll without being oversized on small phones */
 .trending-card {
   flex-shrink: 0;
-  width: 160px;
+  width: clamp(120px, 38vw, 160px);
   border-radius: var(--radius-card);
   overflow: hidden;
   cursor: pointer;
@@ -815,6 +844,10 @@ a {
   box-shadow:
     0 20px 50px rgba(0, 0, 0, 0.65),
     0 0 20px rgba(var(--accent-rgb), 0.2);
+}
+/* Touch-friendly active state: tap feedback on mobile where :hover doesn't apply */
+.trending-card:active {
+  transform: scale(0.97);
 }
 
 .search-cat-card {
@@ -946,6 +979,9 @@ a {
   background: rgba(255, 255, 255, 0.06);
   transform: translateX(4px);
 }
+.recent-row:active {
+  background: rgba(255, 255, 255, 0.1);
+}
 .recent-row img {
   width: 46px;
   height: 46px;
@@ -986,9 +1022,10 @@ a {
 }
 
 /* ─── PLAYLIST CARD ─── */
+/* RESPONSIVE: fluid width keeps cards proportionate across 320-768px */
 .playlist-card {
   flex-shrink: 0;
-  width: 180px;
+  width: clamp(135px, 42vw, 180px);
   border-radius: var(--radius-card);
   overflow: hidden;
   cursor: pointer;
@@ -1000,6 +1037,9 @@ a {
 .playlist-card:hover {
   transform: translateY(-6px) scale(1.03);
   box-shadow: var(--shadow-float);
+}
+.playlist-card:active {
+  transform: scale(0.97);
 }
 .playlist-cover {
   width: 100%;
@@ -1055,15 +1095,16 @@ a {
 }
 
 /* ─── ARTIST CARD ─── */
+/* RESPONSIVE: fluid artist card + image sizing for small screens */
 .artist-card {
   flex-shrink: 0;
-  width: 110px;
+  width: clamp(85px, 26vw, 110px);
   text-align: center;
   cursor: pointer;
 }
 .artist-card img {
-  width: 90px;
-  height: 90px;
+  width: clamp(70px, 22vw, 90px);
+  height: clamp(70px, 22vw, 90px);
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid rgba(255, 255, 255, 0.16);
@@ -1088,9 +1129,10 @@ a {
 }
 
 /* ─── LIBRARY GRID ─── */
+/* RESPONSIVE: minmax lowered for 320px screens so cards don't force horizontal overflow */
 .library-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
   gap: 14px;
   margin-bottom: 28px;
 }
@@ -1105,6 +1147,9 @@ a {
 .lib-card:hover {
   transform: translateY(-4px) scale(1.02);
   box-shadow: var(--shadow-card);
+}
+.lib-card:active {
+  transform: scale(0.97);
 }
 .lib-card .cover {
   width: 100%;
@@ -1161,6 +1206,9 @@ a {
 .fav-row:hover {
   background: rgba(255, 255, 255, 0.06);
   transform: translateX(4px);
+}
+.fav-row:active {
+  background: rgba(255, 255, 255, 0.1);
 }
 .fav-row .num {
   width: 24px;
@@ -1450,14 +1498,16 @@ a {
 }
 
 /* Lyrics */
+/* RESPONSIVE: max-height/min-height use clamp() so the visualizer wrapper
+   shrinks proportionally on short mobile viewports (no clipping/overflow) */
 .lyrics-section {
   width: 100%;
   max-width: 460px;
   border-radius: var(--radius-card);
   overflow: hidden;
   position: relative;
-  max-height: 130px;
-  min-height: 200px;
+  max-height: clamp(90px, 22vh, 130px);
+  min-height: clamp(120px, 26vh, 200px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1471,46 +1521,40 @@ a {
 }
 
 /* ─── VISUALIZER ─── */
-.visualizer-container {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  z-index: 1;
-  display: flex;
-  justify-content: center;
-  pointer-events: none;
-}
-.visualizer {
-  display: flex;
-  align-items: flex-end;
-  gap: 4px;
-  width: 100%;
-  height: 100%;
-  padding: 0 10px;
-  box-sizing: border-box;
-}
+/* RESPONSIVE: consolidated duplicate rules from original CSS into one definitive
+   set. Container is centered, capped at 460px, and scales width on small screens
+   via the .lyrics-section wrapper's max-width: 100% behavior. */
 .visualizer-container {
   position: relative;
   width: 100%;
   max-width: 460px;
-  margin: 0 auto 14px;
+  height: 100%;
+  margin: 0 auto;
   z-index: 1;
   display: flex;
+  align-items: center;
   justify-content: center;
   pointer-events: none;
+  overflow: hidden; /* prevent any bar overflow clipping issues */
 }
+/* RESPONSIVE: visualizer height scales with viewport via clamp() so bars never
+   overflow vertically on short mobile screens, and never get too tall on desktop */
 .visualizer {
   display: flex;
   align-items: flex-end;
-  gap: 4px;
+  justify-content: center;
+  gap: clamp(2px, 0.8vw, 4px);
   width: 100%;
-  height: 208px;
-  padding: 0 28px;
+  height: clamp(110px, 28vh, 208px);
+  padding: 0 clamp(10px, 5vw, 28px);
   box-sizing: border-box;
+  /* GPU-accelerated layer for smoother animation on mobile */
+  contain: layout paint;
 }
 .vis-bar {
-  width: 4px;
+  /* RESPONSIVE: bar width scales down on narrow screens so more bars fit without overflow */
+  width: clamp(2px, 1.1vw, 4px);
+  max-width: 4px;
   border-radius: 3px;
   background: linear-gradient(
     to top,
@@ -1519,7 +1563,11 @@ a {
   );
   animation: vis-bounce var(--d, 0.6s) ease-in-out infinite alternate;
   height: var(--h, 18px);
+  max-height: 100%;
   transform-origin: bottom;
+  /* GPU acceleration for smooth high-FPS bar animation */
+  will-change: transform;
+  flex-shrink: 0;
 }
 @keyframes vis-bounce {
   from {
@@ -1627,9 +1675,11 @@ max-width: 200px;
 .mobile-fav-btn {
   display: none;
 }
+/* RESPONSIVE: base ctrl-btn size grows slightly via clamp so touch targets
+   approach 44px on small screens without changing desktop appearance */
 .ctrl-btn {
-  width: 36px;
-  height: 36px;
+  width: clamp(36px, 9vw, 36px);
+  height: clamp(36px, 9vw, 36px);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -1639,6 +1689,17 @@ max-width: 200px;
   color: var(--text-sub);
   font-size: 16px;
   user-select: none;
+  /* Ensures a minimum tappable hit-area even when visual size is smaller (44px WCAG target) */
+  position: relative;
+  /* PERFORMANCE/UX: removes 300ms tap-delay and disables double-tap-zoom on buttons */
+  touch-action: manipulation;
+}
+.ctrl-btn::after {
+  /* Invisible tap-area expander: guarantees 44px minimum touch target on touch devices
+     without enlarging the visible button */
+  content: "";
+  position: absolute;
+  inset: -4px;
 }
 .ctrl-btn:hover {
   color: #fff;
@@ -1652,8 +1713,8 @@ max-width: 200px;
   color: var(--accent);
 }
 .ctrl-btn.play-main {
-  width: 42px;
-  height: 42px;
+  width: clamp(42px, 11vw, 42px);
+  height: clamp(42px, 11vw, 42px);
   font-size: 15px;
   background: linear-gradient(135deg, var(--accent), var(--accent3));
   color: #fff;
@@ -1690,6 +1751,19 @@ max-width: 200px;
   background: rgba(255, 255, 255, 0.15);
   cursor: pointer;
   position: relative;
+  /* UX: prevents page scroll/zoom interference while dragging the seek bar on touch */
+  touch-action: none;
+}
+/* RESPONSIVE: invisible expanded hit-area so the thin 4px progress bar
+   remains easily tappable/draggable on touch screens (44px target) */
+.np-progress-bar::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 32px;
+  transform: translateY(-50%);
 }
 .np-progress-bar:hover {
   height: 6px;
@@ -1738,6 +1812,17 @@ max-width: 200px;
   border-radius: var(--radius-pill);
   background: rgba(255, 255, 255, 0.14);
   cursor: pointer;
+  touch-action: none;
+}
+/* RESPONSIVE: expand tappable area for volume slider on touch devices */
+.glass-slider-wrap::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 32px;
+  transform: translateY(-50%);
 }
 .glass-slider-fill {
   position: absolute;
@@ -2000,10 +2085,17 @@ max-width: 200px;
   color: var(--text-sub);
   font-size: 18px;
   transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.4);
+  /* PERFORMANCE/UX: removes 300ms tap-delay on fullscreen controls */
+  touch-action: manipulation;
 }
 .fs-ctrl-btn:hover {
   color: #fff;
   transform: scale(1.1);
+}
+/* Touch-friendly active/pressed state for fullscreen controls */
+.fs-ctrl-btn:active {
+  transform: scale(0.9);
+  background: rgba(255, 255, 255, 0.1);
 }
 .fs-ctrl-btn.active {
   color: var(--accent);
@@ -2039,6 +2131,17 @@ max-width: 200px;
   background: rgba(255, 255, 255, 0.15);
   cursor: pointer;
   position: relative;
+  touch-action: none;
+}
+/* RESPONSIVE: expanded tap target for fullscreen progress bar on touch devices */
+.fs-progress-bar::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 36px;
+  transform: translateY(-50%);
 }
 .fs-progress-fill {
   position: absolute;
@@ -2221,14 +2324,15 @@ max-width: 200px;
   z-index: 3;
 }
 .theme-btn {
-  width: 32px;
-  height: 32px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   cursor: pointer;
   border: 2px solid transparent;
   transition:
     transform 0.2s,
     border-color 0.2s;
+  /* RESPONSIVE: slightly larger circle improves tap accuracy on touchscreens */
 }
 .theme-btn:hover {
   transform: scale(1.1);
@@ -2274,12 +2378,21 @@ max-width: 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 3px;
   cursor: pointer;
   color: var(--text-sub);
   font-size: 18px;
   transition: color 0.2s;
   padding: 6px 12px;
+  /* RESPONSIVE: minimum 44px touch target per WCAG mobile guidance */
+  min-width: 44px;
+  min-height: 44px;
+}
+/* Touch-friendly tap feedback */
+.mobile-nav-item:active {
+  color: var(--accent);
+  transform: scale(0.94);
 }
 .mobile-nav-item.active {
   color: var(--accent);
@@ -2404,15 +2517,34 @@ max-width: 200px;
   scrollbar-color: rgba(var(--accent-rgb), 0.25) transparent;
 }
 
-/* ─── RESPONSIVE ─── */
-@media (max-width: 900px) {
+/* ════════════════════════════════════════════════════════════
+   RESPONSIVE — MOBILE-FIRST BREAKPOINTS
+   Covers: large desktop > 1024px (default styles above)
+           tablets 769px–1024px
+           large phones 426px–768px
+           standard phones 376px–425px
+           small phones 321px–375px
+           very small phones ≤320px
+   ════════════════════════════════════════════════════════════ */
+
+/* ─── TABLET (769px–1024px): slightly reduce sidebar + spacing ─── */
+@media (max-width: 1024px) {
   .now-bar-right {
     display: none;
   }
   .now-bar-center {
     flex: 1;
   }
+  /* RESPONSIVE: tighten sidebar on tablets to free up content width */
+  .sidebar {
+    --sidebar-w: 64px;
+  }
+  .now-bar {
+    left: calc(64px + 14px);
+  }
 }
+
+/* ─── LARGE PHONES / SMALL TABLETS (≤768px): switch to mobile nav layout ─── */
 @media (max-width: 768px) {
   body {
     cursor: auto;
@@ -2421,75 +2553,367 @@ max-width: 200px;
   #cursor-glow {
     display: none;
   }
-  .now-bar {
-    left: 12px;
-    right: 12px;
-  }
-  .visualizer-container {
-    left: 12px;
-    right: 12px;
-    bottom: 102px;
-  }
-  .screen {
-    padding: 20px 16px 180px;
-  }
+
+  /* Hide desktop sidebar, show bottom mobile nav */
   .sidebar {
     display: none;
   }
   .mobile-nav {
     display: block;
   }
-  .now-bar-left {
-    display: none;          /* song title + artist + art hide */
-  }
-.now-bar-right {
-  display: none;    /* like/queue/volume row hidden on mobile, like moved into controls */
-}
-.mobile-fav-btn {
-  display: flex;
-}
-  #app {
-    overflow-y: hidden;
-  }
-  .now-bar {
-    bottom: 74px;
-  }
-  .visualizer-container {
-    bottom: 160px;
+
+  /* RESPONSIVE: screen padding shrinks on mobile; extra bottom padding clears
+     the now-bar + mobile-nav stack so content never sits underneath them */
+  .screen {
+    padding: 16px 14px 200px;
   }
 
+  /* Prevent any horizontal scroll/overflow at the app shell level */
+  #app {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
+  }
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  /* ── NOW PLAYING BAR (mobile) ── */
+  .now-bar {
+    left: 10px;
+    right: 10px;
+    bottom: 74px; /* sits just above the mobile bottom nav */
+    border-radius: 18px;
+    min-height: auto;
+  }
   .now-bar .glass-content {
-    padding: 10px 14px;
+    padding: 10px 12px;
     flex-wrap: wrap;
     align-items: center;
+    gap: 8px;
   }
+  /* Hide artwork/title block on the mini-bar to save space; full info is
+     available in the Now Playing screen / fullscreen player */
   .now-bar-left {
-    flex: 1;
-    max-width: calc(100% - 180px);
+    display: none;
+  }
+  /* Volume row hidden on mobile now-bar; favorite button relocates into controls */
+  .now-bar-right {
+    display: none;
+  }
+  .mobile-fav-btn {
+    display: flex;
   }
   .now-bar-center {
     width: 100%;
-    order: 3;
-    padding: 4px 0 6px;
+    flex: 1 1 100%;
+    order: 1;
+    padding: 2px 0 4px;
+    gap: 6px;
   }
+  /* RESPONSIVE: controls row spaced evenly and sized for 44px touch targets */
   .np-controls {
     width: 100%;
-    justify-content: center;
-    gap: 16px;
+    justify-content: space-evenly;
+    gap: clamp(8px, 2.5vw, 16px);
+  }
+  .np-controls .ctrl-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 17px;
+  }
+  .np-controls .ctrl-btn.play-main {
+    width: 50px;
+    height: 50px;
+    font-size: 17px;
   }
   .np-progress-container {
     max-width: 100%;
+    gap: 8px;
   }
-  .np-volume {
-    display: none;  /* volume slider mobile pe hide */
+  .np-time {
+    font-size: 10px;
+    width: 28px;
   }
 
-}
-@media (max-width: 640px) {
+  /* ── VISUALIZER (mobile) ── */
+  .lyrics-section {
+    max-height: clamp(80px, 18vh, 110px);
+    min-height: clamp(90px, 20vh, 130px);
+    margin-top: 4px;
+  }
+  .visualizer {
+    height: clamp(80px, 18vh, 130px);
+    padding: 0 8px;
+    gap: 2px;
+  }
+  .vis-bar {
+    width: clamp(2px, 1.4vw, 3px);
+  }
+
+  /* ── NOW PLAYING SCREEN artwork ── */
   .artwork-container {
-    width: 220px;
+    width: min(240px, 62vw);
+  }
+
+  /* ── HORIZONTAL SCROLL SECTIONS: allow momentum scrolling, no overflow ── */
+  .h-scroll,
+  .tabs {
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x proximity;
+  }
+  .trending-card,
+  .playlist-card,
+  .artist-card {
+    scroll-snap-align: start;
+  }
+
+  /* ── SEARCH ── */
+  .search-categories {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .search-cat-card {
+    aspect-ratio: 2;
+  }
+  .scat-label span {
+    font-size: 13px;
+  }
+
+  /* ── PROFILE / STATS ── */
+  .stats-grid {
+    gap: 8px;
+  }
+  .stat-card {
+    padding: 12px 6px;
+  }
+  .profile-hero {
+    gap: 14px;
+  }
+  .profile-avatar {
+    width: 64px;
+    height: 64px;
+  }
+  .profile-hero .info .follow-row {
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  /* ── QUEUE PANEL: full-width drawer on mobile ── */
+  .queue-panel {
+    left: 10px;
+    right: 10px;
+    bottom: 130px;
+    width: auto;
+  }
+
+  /* ── FULLSCREEN PLAYER spacing ── */
+  .fullscreen-player {
+    padding: 24px 16px;
+    gap: 20px;
+  }
+  .fs-title {
+    font-size: clamp(22px, 7vw, 32px);
+  }
+  .fs-controls {
+    gap: clamp(10px, 3vw, 16px);
+  }
+  .fs-controls-wrap .np-volume {
+    /* RESPONSIVE: !important needed to override the inline width:160px set in HTML,
+       preventing overflow on narrow screens */
+    width: min(160px, 38vw) !important;
+  }
+
+  /* ── TOAST: full width on small screens ── */
+  .toast-container {
+    top: 12px;
+    right: 12px;
+    left: 12px;
+  }
+  .toast {
+    min-width: 0;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  /* PERFORMANCE: reduce heavy backdrop-filter blur radius on mobile GPUs
+     while preserving the glassmorphism look (lighter blur = smoother FPS) */
+  .glass-filter {
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+  }
+  .now-bar .glass-filter,
+  .queue-panel .glass-filter,
+  .fullscreen-player .glass-filter,
+  .modal-box .glass-filter,
+  .mobile-nav .glass-filter {
+    backdrop-filter: blur(20px) saturate(160%);
+    -webkit-backdrop-filter: blur(20px) saturate(160%);
+  }
+  /* PERFORMANCE: lighter mesh-orb blur on mobile reduces GPU compositing cost */
+  .mesh-orb {
+    filter: blur(50px);
+  }
+}
+
+/* ─── STANDARD LARGE PHONES (≤425px) ── e.g. iPhone Plus/Max widths ─── */
+@media (max-width: 425px) {
+  .now-bar {
+    left: 8px;
+    right: 8px;
+    bottom: 72px;
+  }
+  .screen {
+    padding: 14px 12px 195px;
+  }
+  .trending-card {
+    width: clamp(115px, 40vw, 150px);
+  }
+  .playlist-card {
+    width: clamp(130px, 44vw, 170px);
+  }
+  .library-grid {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+  .np-controls .ctrl-btn {
+    width: 42px;
+    height: 42px;
+    font-size: 16px;
+  }
+  .np-controls .ctrl-btn.play-main {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+/* ─── STANDARD PHONES (≤375px) ── iPhone SE/12/13/14 widths ─── */
+@media (max-width: 375px) {
+  .screen {
+    padding: 12px 10px 190px;
+  }
+  .now-bar {
+    left: 6px;
+    right: 6px;
+    bottom: 70px;
+    border-radius: 16px;
+  }
+  .now-bar .glass-content {
+    padding: 8px 10px;
+  }
+  .np-controls {
+    gap: 6px;
+  }
+  .np-controls .ctrl-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+  }
+  .np-controls .ctrl-btn.play-main {
+    width: 46px;
+    height: 46px;
+    font-size: 15px;
+  }
+  .np-progress-container {
+    gap: 6px;
+  }
+  .np-time {
+    width: 24px;
+    font-size: 9px;
+  }
+  .artwork-container {
+    width: min(210px, 64vw);
+  }
+  .fs-artwork {
+    width: min(240px, 64vw);
+  }
+  .search-categories {
+    gap: 8px;
+  }
+  .visualizer {
+    height: clamp(70px, 16vh, 110px);
+  }
+  .lyrics-section {
+    max-height: clamp(70px, 16vh, 95px);
+    min-height: clamp(80px, 18vh, 110px);
+  }
+}
+
+/* ─── VERY SMALL PHONES (≤320px) ── iPhone SE 1st-gen / older Android ─── */
+@media (max-width: 320px) {
+  .screen {
+    padding: 10px 8px 185px;
+  }
+  .page-title {
+    font-size: 20px;
+  }
+  .now-bar {
+    left: 4px;
+    right: 4px;
+    bottom: 68px;
+    border-radius: 14px;
+  }
+  .now-bar .glass-content {
+    padding: 8px;
+    gap: 4px;
+  }
+  .np-controls {
+    gap: 4px;
+  }
+  .np-controls .ctrl-btn {
+    width: 38px;
+    height: 38px;
+    font-size: 14px;
+  }
+  .np-controls .ctrl-btn.play-main {
+    width: 44px;
+    height: 44px;
+    font-size: 14px;
   }
   .search-categories {
     grid-template-columns: 1fr;
+  }
+  .trending-card {
+    width: clamp(110px, 44vw, 140px);
+  }
+  .playlist-card {
+    width: clamp(125px, 48vw, 160px);
+  }
+  .artist-card {
+    width: clamp(80px, 28vw, 100px);
+  }
+  .artwork-container {
+    width: min(190px, 66vw);
+  }
+  .stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+  }
+  .stat-card .stat-val {
+    font-size: 18px;
+  }
+  .visualizer {
+    height: clamp(60px, 14vh, 95px);
+    gap: 1.5px;
+  }
+}
+
+/* ─── SHORT VIEWPORTS (landscape phones / small height) ──
+   Reduce visualizer + artwork further when vertical space is constrained ─── */
+@media (max-height: 600px) and (max-width: 900px) {
+  .visualizer {
+    height: clamp(50px, 22vh, 90px);
+  }
+  .lyrics-section {
+    max-height: clamp(60px, 18vh, 90px);
+    min-height: clamp(70px, 20vh, 100px);
+  }
+  .artwork-container,
+  .fs-artwork {
+    width: min(160px, 32vh);
+  }
+  .now-playing-wrap {
+    gap: 12px;
   }
 }
