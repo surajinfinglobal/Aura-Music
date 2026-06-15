@@ -45,6 +45,8 @@
   --bg-primary: #07071a;
 }
 
+
+
 /* ─── LIGHT THEME ─── */
 body.theme-light {
   --lg-bg: rgba(255, 255, 255, 0.6);

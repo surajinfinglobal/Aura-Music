@@ -232,6 +232,20 @@ audio.volume = 0.65;
 const $ = (id) => document.getElementById(id);
 const fmt = (t) => isNaN(t) || !t ? '0:00' : `${Math.floor(t/60)}:${String(Math.floor(t%60)).padStart(2,'0')}`;
 
+/**
+ * Returns a shuffled copy of an array (Fisher-Yates), original array untouched.
+ * Used to randomize Trending Now, Recommended Playlists, and Most Played
+ * sections on every Home render.
+ */
+function shuffleArray(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 function isFav(idx) { return favorites.includes(idx); }
 
 function saveFavs() {
@@ -473,14 +487,16 @@ function renderHomeSections(list) {
   // Build a list of { song, idx } so original PLAYLIST indices are preserved
   const items = list || PLAYLIST.map((t, i) => ({ song: t, idx: i }));
 
-  /* ── 1. TRENDING NOW — songs as horizontal cards ── */
+  /* ── 1. TRENDING NOW — songs as horizontal cards, randomized order each render ── */
   const trendingEl = $('home-trending');
   if (trendingEl) {
     trendingEl.innerHTML = '';
     if (items.length === 0) {
       trendingEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No songs in this category yet.</div>`;
     }
-    items.forEach(({ song: t, idx: i }, pos) => {
+    // Shuffle so Trending Now shows a fresh random order every time Home renders
+    const trendingItems = shuffleArray(items);
+    trendingItems.forEach(({ song: t, idx: i }, pos) => {
       const card = document.createElement('div');
       card.className = 'trending-card' + (pos < 5 ? ' anim-in' : '');
       card.innerHTML = `
@@ -529,7 +545,7 @@ function renderHomeSections(list) {
     });
   }
 
-  /* ── 3. PLAYLISTS — group songs into albums as playlist cards ── */
+  /* ── 3. PLAYLISTS — group songs into albums as playlist cards, randomized order ── */
   const playlistEl = $('home-playlists');
   if (playlistEl) {
     playlistEl.innerHTML = '';
@@ -543,7 +559,8 @@ function renderHomeSections(list) {
     if (Object.keys(albumMap).length === 0) {
       playlistEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No playlists in this category yet.</div>`;
     }
-    Object.values(albumMap).forEach(album => {
+    // Shuffle so Recommended Playlists shows a fresh random order every time Home renders
+    shuffleArray(Object.values(albumMap)).forEach(album => {
       const card = document.createElement('div');
       card.className = 'playlist-card';
       card.innerHTML = `
@@ -569,7 +586,7 @@ function renderHomeSections(list) {
     });
   }
 
-  /* ── 4. TOP ARTISTS — unique artists extracted from filtered items ── */
+  /* ── 4. MOST PLAYED — unique artists extracted from filtered items, randomized order ── */
   const artistsEl = $('home-artists');
   if (artistsEl) {
     artistsEl.innerHTML = '';
@@ -587,7 +604,8 @@ function renderHomeSections(list) {
     if (Object.keys(artistMap).length === 0) {
       artistsEl.innerHTML = `<div style="color:var(--text-sub);font-size:13px;padding:8px 0">No artists in this category yet.</div>`;
     }
-    Object.values(artistMap).forEach(a => {
+    // Shuffle so Most Played shows a fresh random order every time Home renders
+    shuffleArray(Object.values(artistMap)).forEach(a => {
       const card = document.createElement('div');
       card.className = 'artist-card';
       card.innerHTML = `
