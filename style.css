@@ -1706,17 +1706,17 @@ max-width: 200px;
 .np-progress-thumb {
   position: absolute;
   top: 50%;
-  right: calc(var(--pct, 0%) * -1);
+  left: var(--pct, 0%);
   width: 12px;
   height: 12px;
   border-radius: 50%;
   background: #fff;
   box-shadow: 0 0 8px rgba(var(--accent-rgb), 0.8);
-  transform: translate(50%, -50%) scale(0);
-  transition: transform 0.2s;
+  transform: translate(-50%, -50%) scale(1);
+  transition: left 0.3s linear;
 }
 .np-progress-bar:hover .np-progress-thumb {
-  transform: translate(50%, -50%) scale(1);
+  box-shadow: 0 0 12px rgba(var(--accent-rgb), 1);
 }
 
 /* Volume */

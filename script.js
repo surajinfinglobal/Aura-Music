@@ -43,6 +43,7 @@ let PLAYLIST = [];
  * Normalize a raw JSON song object into the internal PLAYLIST format.
  * Maps: file→src, durationText→duration, assigns img + accentColor if absent.
  */
+const MUSIC_BASE_URL = "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/";
 function normalizeSong(raw, idx) {
   return {
     title:       raw.title       || 'Unknown Title',
@@ -393,6 +394,8 @@ audio.addEventListener('timeupdate', () => {
   const fillCss = pct + '%';
   $('np-fill').style.width  = fillCss;
   $('fs-fill').style.width  = fillCss;
+  $('np-bar').style.setProperty('--pct', pct + '%');
+  $('fs-bar').style.setProperty('--pct', pct + '%');
   $('np-cur').textContent   = fmt(audio.currentTime);
   $('np-dur').textContent   = fmt(audio.duration);
   $('fs-cur').textContent   = fmt(audio.currentTime);
@@ -707,7 +710,17 @@ function switchScreen(target) {
   }
   const nowBar = $('now-bar');
   if (nowBar) {
-    nowBar.style.display = target === 'profile' ? 'none' : '';
+    // Hide now-bar for profile screen
+    if (target === 'profile') {
+      nowBar.style.display = 'none';
+    } 
+    // Hide now-bar on mobile for search screen, but don't pause music
+    else if (target === 'search' && window.innerWidth <= 768) {
+      nowBar.style.display = 'none';
+    } 
+    else {
+      nowBar.style.display = '';
+    }
   }
 }
 
@@ -1053,15 +1066,15 @@ document.querySelectorAll('.trending-card, .playlist-card, .lib-card').forEach(c
 /* ═══════════════════════════════
    MAGNETIC BUTTONS
 ═══════════════════════════════ */
-document.querySelectorAll('.magnetic').forEach(btn => {
-  btn.addEventListener('mousemove', e => {
-    const r = btn.getBoundingClientRect();
-    const x = (e.clientX - r.left - r.width/2)  * 0.3;
-    const y = (e.clientY - r.top  - r.height/2) * 0.3;
-    btn.style.transform = `translate(${x}px, ${y}px)`;
-  });
-  btn.addEventListener('mouseleave', () => { btn.style.transform = ''; });
-});
+// document.querySelectorAll('.magnetic').forEach(btn => {
+//   btn.addEventListener('mousemove', e => {
+//     const r = btn.getBoundingClientRect();
+//     const x = (e.clientX - r.left - r.width/2)  * 0.3;
+//     const y = (e.clientY - r.top  - r.height/2) * 0.3;
+//     btn.style.transform = `translate(${x}px, ${y}px)`;
+//   });
+//   btn.addEventListener('mouseleave', () => { btn.style.transform = ''; });
+// });
 
 /* ═══════════════════════════════
    DYNAMIC GREETING
