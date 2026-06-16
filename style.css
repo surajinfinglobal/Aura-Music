@@ -817,22 +817,20 @@ a {
 
 
 .fs-close{
-    z-index:9999;
+    z-index: 9999;
+    pointer-events: all !important;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
 }
 .fullscreen-player .glass-filter,
 .fullscreen-player .glass-overlay,
 .fullscreen-player .glass-specular{
-    pointer-events:none;
+    pointer-events: none;
 }
 
 .mobile-fav-btn {
-    display: flex;
-}
-
-@media (max-width: 768px) {
-    .mobile-fav-btn {
-        display: none !important;
-    }
+    display: none !important;
 }
 /* ─── HORIZONTAL SCROLL ─── */
 .h-scroll {
