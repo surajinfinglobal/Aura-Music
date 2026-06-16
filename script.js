@@ -758,7 +758,15 @@ function switchScreen(target) {
   }
 }
 
-function openNowPlaying() { switchScreen('nowplaying'); }
+function openNowPlaying() {
+  if (window.innerWidth <= 768) {
+    // Mobile pe fullscreen player open karo
+    openFullscreen();
+  } else {
+    // Desktop pe nowplaying screen pe jao
+    switchScreen('nowplaying');
+  }
+}
 
 // Sidebar nav
 document.querySelectorAll('.nav-item[data-screen]').forEach(item => {
@@ -767,7 +775,13 @@ document.querySelectorAll('.nav-item[data-screen]').forEach(item => {
 
 // Mobile nav
 document.querySelectorAll('.mobile-nav-item[data-screen]').forEach(item => {
-  item.addEventListener('click', () => switchScreen(item.dataset.screen));
+  item.addEventListener('click', () => {
+    if (item.dataset.screen === 'nowplaying') {
+      openFullscreen();
+    } else {
+      switchScreen(item.dataset.screen);
+    }
+  });
 });
 
 /* ═══════════════════════════════
