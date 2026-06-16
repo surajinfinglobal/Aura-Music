@@ -248,8 +248,9 @@
       <div class="now-playing-wrap">
         <div style="position:relative;display:inline-block">
           <div class="artwork-glow" id="np-glow"></div>
-          <div class="artwork-container">
+          <div class="artwork-container" onclick="openVisualizerModal()">
             <img id="np-art" src="https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&h=600&fit=crop" alt="">
+            <div class="vis-tap-hint" id="vis-tap-hint"><i class="fa-solid fa-waveform-lines"></i></div>
           </div>
         </div>
 
@@ -287,6 +288,26 @@
       </div>
     </section>
 
+<!-- ─── VISUALIZER MODAL (mobile only) ─── -->
+<div class="vis-modal-overlay" id="vis-modal" onclick="closeVisualizerModal()">
+  <div class="vis-modal-box" onclick="event.stopPropagation()">
+    <div class="vis-modal-header">
+      <span><i class="fa-solid fa-waveform-lines" style="margin-right:8px;color:var(--accent)"></i>Visualizer</span>
+      <div class="vis-modal-close" onclick="closeVisualizerModal()"><i class="fa-solid fa-xmark"></i></div>
+    </div>
+    <div class="vis-modal-art">
+      <img id="vis-modal-art" src="" alt="">
+    </div>
+    <div class="vis-modal-bars">
+      <div class="visualizer" id="visualizer-modal"></div>
+    </div>
+    <div class="vis-modal-info">
+      <div id="vis-modal-title" style="font-size:16px;font-weight:700;color:var(--text)"></div>
+      <div id="vis-modal-artist" style="font-size:13px;color:var(--text-sub);margin-top:4px"></div>
+    </div>
+  </div>
+</div>
+
     <!-- ══ LIBRARY SCREEN ══ -->
     <section class="screen" id="screen-library">
       <h1 class="page-title">Your Library</h1>
@@ -319,7 +340,7 @@
     <!-- ══ PROFILE SCREEN ══ -->
     <section class="screen" id="screen-profile">
       <div class="profile-hero reveal">
-        <img class="profile-avatar" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200&fit=crop" alt="">
+        <img class="profile-avatar" src="https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/user.jpg" alt="" height="200" width="200" style="object-fit: cover;">
         <div class="info">
           <div class="username">Suraj</div>
           <div class="handle">@suraj · Mumbai</div>

@@ -814,6 +814,26 @@ a {
   color: #fff;
 }
 
+
+
+.fs-close{
+    z-index:9999;
+}
+.fullscreen-player .glass-filter,
+.fullscreen-player .glass-overlay,
+.fullscreen-player .glass-specular{
+    pointer-events:none;
+}
+
+.mobile-fav-btn {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .mobile-fav-btn {
+        display: none !important;
+    }
+}
 /* ─── HORIZONTAL SCROLL ─── */
 .h-scroll {
   display: flex;
@@ -1675,7 +1695,7 @@ max-width: 200px;
   gap: 10px;
 }
 .mobile-fav-btn {
-  display: none;
+    display: none !important;
 }
 /* RESPONSIVE: base ctrl-btn size grows slightly via clamp so touch targets
    approach 44px on small screens without changing desktop appearance */
@@ -2918,4 +2938,130 @@ max-width: 200px;
   .now-playing-wrap {
     gap: 12px;
   }
+}
+/* ═══════════════════════════════
+   MOBILE VISUALIZER MODAL
+═══════════════════════════════ */
+
+/* Hide visualizer on mobile by default */
+@media (max-width: 768px) {
+  #vis-container {
+    display: none !important;
+  }
+}
+
+/* Tap hint on album art */
+.vis-tap-hint {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.55);
+  color: #fff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  pointer-events: none;
+  backdrop-filter: blur(6px);
+}
+@media (max-width: 768px) {
+  .artwork-container {
+    cursor: pointer;
+    position: relative;
+  }
+  .vis-tap-hint {
+    display: flex;
+  }
+}
+
+/* Visualizer modal overlay */
+.vis-modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(10px);
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0;
+}
+.vis-modal-overlay.open {
+  display: flex;
+}
+
+/* Modal box */
+.vis-modal-box {
+  background: rgba(15,10,30,0.96);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 24px 24px 0 0;
+  width: 100%;
+  max-width: 480px;
+  padding: 20px 20px 36px;
+  animation: slideUpVis 0.3s cubic-bezier(0.34,1.56,0.64,1);
+}
+@keyframes slideUpVis {
+  from { transform: translateY(100%); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+
+/* Modal header */
+.vis-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+}
+.vis-modal-close {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--text-sub);
+  transition: background 0.2s;
+}
+.vis-modal-close:hover { background: rgba(255,255,255,0.18); }
+
+/* Album art in modal */
+.vis-modal-art {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+.vis-modal-art img {
+  width: 120px;
+  height: 120px;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+
+/* Visualizer bars in modal */
+.vis-modal-bars {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  margin-bottom: 16px;
+}
+.vis-modal-bars .visualizer {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 80px;
+}
+
+/* Song info in modal */
+.vis-modal-info {
+  text-align: center;
 }

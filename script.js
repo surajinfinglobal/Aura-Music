@@ -346,12 +346,15 @@ function toggleMainPlay() {
 }
 
 function nextTrack() {
-  if (shuffleOn) {
-    const r = Math.floor(Math.random() * PLAYLIST.length);
-    loadTrack(r, isPlaying);
-  } else {
-    loadTrack(currentIdx + 1, isPlaying);
-  }
+    if (PLAYLIST.length === 0) return;
+
+    if (shuffleOn) {
+        currentIdx = Math.floor(Math.random() * PLAYLIST.length);
+    } else {
+        currentIdx = (currentIdx + 1) % PLAYLIST.length;
+    }
+
+    loadTrack(currentIdx, true);
 }
 
 function prevTrack() {
@@ -416,11 +419,23 @@ audio.addEventListener('timeupdate', () => {
   $('fs-dur').textContent   = fmt(audio.duration);
 });
 
+audio.addEventListener('ended', async () => {
+
+    if (repeatMode === 2) {
+        audio.currentTime = 0;
+        await audio.play();
+        return;
+    }
+
+    nextTrack();
+});
 audio.addEventListener('ended', () => {
-  if (repeatMode === 2) { audio.currentTime = 0; audio.play(); }
-  else nextTrack();
+    nextTrack();
 });
 
+audio.addEventListener('error', () => {
+    nextTrack();
+});
 /* ── SEEK ── */
 function makeSeekable(barEl, fsBarEl) {
   let seeking = false;
@@ -468,7 +483,9 @@ function onPlaylistReady() {
   renderHomeSections();
   renderHomeSuggestions();
   renderAllSongsList();
-  loadTrack(0, false);
+  // loadTrack(0, false);
+const randomIndex = Math.floor(Math.random() * PLAYLIST.length);
+  loadTrack(randomIndex, true);
   renderFavorites();
   const totalSongsEl = $('total-songs-count');
   if (totalSongsEl) {
@@ -717,6 +734,10 @@ function openFullscreen() {
 function closeFullscreen() {
   $('fullscreen-player').classList.remove('open');
   document.body.style.overflow = '';
+      const fs = $('fullscreen-player');
+    fs.classList.remove('open');
+
+    switchScreen('home'); // test
 }
 
 /* ═══════════════════════════════
@@ -762,10 +783,45 @@ function openNowPlaying() {
   if (window.innerWidth <= 768) {
     // Mobile pe fullscreen player open karo
     openFullscreen();
+    
   } else {
     // Desktop pe nowplaying screen pe jao
     switchScreen('nowplaying');
   }
+}
+
+
+/* ═══════════════════════════════
+   VISUALIZER MODAL (mobile)
+═══════════════════════════════ */
+function openVisualizerModal() {
+  if (window.innerWidth > 768) return; // only mobile
+  const modal = $('vis-modal');
+  if (!modal) return;
+  const t = PLAYLIST[currentIdx];
+  $('vis-modal-art').src = t ? t.img : '';
+  $('vis-modal-title').textContent = t ? t.title : '';
+  $('vis-modal-artist').textContent = t ? t.artist : '';
+  // Copy vis-bars into modal visualizer
+  const modalVis = $('visualizer-modal');
+  if (modalVis) {
+    modalVis.innerHTML = '';
+    for (let i = 0; i < 50; i++) {
+      const b = document.createElement('div');
+      b.className = 'vis-bar';
+      b.style.setProperty('--h', (80 + Math.random() * 28) + 'px');
+      b.style.animationPlayState = isPlaying ? 'running' : 'paused';
+      modalVis.appendChild(b);
+    }
+  }
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeVisualizerModal() {
+  const modal = $('vis-modal');
+  if (modal) modal.classList.remove('open');
+  document.body.style.overflow = '';
 }
 
 // Sidebar nav
