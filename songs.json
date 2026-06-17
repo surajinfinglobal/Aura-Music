@@ -7,7 +7,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 150,
     "durationText": "02:30",
@@ -24,7 +24,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 298,
     "durationText": "04:58",
@@ -35,13 +35,13 @@
   },
   {
     "id": 3,
-    "title": "Gehra Hua (From \"Dhurandhar\")",
+    "title": "Gehra Hua",
     "artist": "Shashwat Sachdev - Topic",
-    "album": "Gehra Hua (From \"Dhurandhar\")",
+    "album": "Gehra Hua",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 362,
     "durationText": "06:02",
@@ -58,7 +58,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 354,
     "durationText": "05:54",
@@ -75,7 +75,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 389,
     "durationText": "06:29",
@@ -92,7 +92,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 310,
     "durationText": "05:10",
@@ -109,7 +109,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 322,
     "durationText": "05:22",
@@ -126,7 +126,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 180,
     "durationText": "03:00",
@@ -143,7 +143,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 296,
     "durationText": "04:56",
@@ -160,7 +160,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 305,
     "durationText": "05:05",
@@ -171,13 +171,13 @@
   },
   {
     "id": 12,
-    "title": "Sitaare (From \"Ikkis\")",
+    "title": "Sitaare",
     "artist": "Release - Topic",
-    "album": "Sitaare (From \"Ikkis\")",
+    "album": "Sitaare",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 243,
     "durationText": "04:03",
@@ -194,7 +194,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 338,
     "durationText": "05:38",
@@ -205,13 +205,13 @@
   },
   {
     "id": 14,
-    "title": "Zara Sa (From \"Jannat\")",
+    "title": "Zara Sa",
     "artist": "Pritam - Topic",
-    "album": "Zara Sa (From \"Jannat\")",
+    "album": "Zara Sa",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 303,
     "durationText": "05:03",
@@ -222,13 +222,13 @@
   },
   {
     "id": 15,
-    "title": "Arz Kiya Hai | Coke Studio Bharat",
+    "title": "Arz Kiya Hai",
     "artist": "Anuv Jain - Topic",
-    "album": "Arz Kiya Hai | Coke Studio Bharat",
+    "album": "Arz Kiya Hai",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 294,
     "durationText": "04:54",
@@ -245,7 +245,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 419,
     "durationText": "06:59",
@@ -262,7 +262,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 296,
     "durationText": "04:56",
@@ -279,7 +279,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 333,
     "durationText": "05:33",
@@ -296,7 +296,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 342,
     "durationText": "05:42",
@@ -313,7 +313,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 343,
     "durationText": "05:43",
@@ -330,7 +330,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 524,
     "durationText": "08:44",
@@ -341,13 +341,13 @@
   },
   {
     "id": 22,
-    "title": "Mann Mera (From \"Table No. 21\")",
+    "title": "Mann Mera",
     "artist": "Gajendra Verma - Topic",
-    "album": "Mann Mera (From \"Table No. 21\")",
+    "album": "Mann Mera",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 198,
     "durationText": "03:18",
@@ -364,7 +364,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 408,
     "durationText": "06:48",
@@ -375,13 +375,13 @@
   },
   {
     "id": 24,
-    "title": "Saiyaara (Movie: Saiyaara)",
+    "title": "Saiyaara",
     "artist": "Release - Topic",
-    "album": "Saiyaara (Movie: Saiyaara)",
+    "album": "Saiyaara",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 371,
     "durationText": "06:11",
@@ -398,7 +398,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 196,
     "durationText": "03:16",
@@ -415,7 +415,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 330,
     "durationText": "05:30",
@@ -432,7 +432,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 207,
     "durationText": "03:27",
@@ -449,7 +449,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 443,
     "durationText": "07:23",
@@ -466,7 +466,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 170,
     "durationText": "02:50",
@@ -483,7 +483,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 305,
     "durationText": "05:05",
@@ -494,13 +494,13 @@
   },
   {
     "id": 31,
-    "title": "Arz Kiya Hai | Coke Studio Bharat",
+    "title": "Arz Kiya Hai",
     "artist": "Anuv Jain - Topic",
-    "album": "Arz Kiya Hai | Coke Studio Bharat",
+    "album": "Arz Kiya Hai",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 294,
     "durationText": "04:54",
@@ -511,13 +511,13 @@
   },
   {
     "id": 32,
-    "title": "Mann Mera (From \"Table No. 21\")",
+    "title": "Mann Mera",
     "artist": "Gajendra Verma - Topic",
-    "album": "Mann Mera (From \"Table No. 21\")",
+    "album": "Mann Mera",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 198,
     "durationText": "03:18",
@@ -528,13 +528,13 @@
   },
   {
     "id": 33,
-    "title": "Pani Da Rang (Male)",
+    "title": "Pani Da Rang",
     "artist": "Ayushmann Khurrana - Topic",
-    "album": "Pani Da Rang (Male)",
+    "album": "Pani Da Rang",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 240,
     "durationText": "04:00",
@@ -551,7 +551,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 190,
     "durationText": "03:10",
@@ -568,7 +568,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 458,
     "durationText": "07:38",
@@ -585,7 +585,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 343,
     "durationText": "05:43",
@@ -596,13 +596,13 @@
   },
   {
     "id": 37,
-    "title": "Chunnari Chunnari - Let’s Go! (From \"Hai Jawani Toh Ishq Hona Hai\")",
+    "title": "Chunnari Chunnari - Let’s Go!",
     "artist": "Anu Malik - Topic",
-    "album": "Chunnari Chunnari - Let’s Go! (From \"Hai Jawani Toh Ishq Hona Hai\")",
+    "album": "Chunnari Chunnari - Let’s Go!",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 165,
     "durationText": "02:45",
@@ -619,7 +619,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 414,
     "durationText": "06:54",
@@ -636,7 +636,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 279,
     "durationText": "04:39",
@@ -653,7 +653,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -670,7 +670,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 303,
     "durationText": "05:03",
@@ -687,7 +687,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 180,
     "durationText": "03:00",
@@ -698,13 +698,13 @@
   },
   {
     "id": 43,
-    "title": "Shararat (From \"Dhurandhar\")",
+    "title": "Shararat",
     "artist": "Shashwat Sachdev - Topic",
-    "album": "Shararat (From \"Dhurandhar\")",
+    "album": "Shararat",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 224,
     "durationText": "03:44",
@@ -721,7 +721,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 388,
     "durationText": "06:28",
@@ -738,7 +738,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 408,
     "durationText": "06:48",
@@ -755,7 +755,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 311,
     "durationText": "05:11",
@@ -772,7 +772,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2022,
+    "year": "2022",
     "track": "",
     "duration": 383,
     "durationText": "06:23",
@@ -789,7 +789,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 218,
     "durationText": "03:38",
@@ -800,13 +800,13 @@
   },
   {
     "id": 49,
-    "title": "Tum Ho Toh (Movie: Saiyaara)",
+    "title": "Tum Ho Toh",
     "artist": "Vishal Mishra - Topic",
-    "album": "Tum Ho Toh (Movie: Saiyaara)",
+    "album": "Tum Ho Toh",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 318,
     "durationText": "05:18",
@@ -823,7 +823,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -840,7 +840,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 241,
     "durationText": "04:01",
@@ -857,7 +857,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 341,
     "durationText": "05:41",
@@ -874,7 +874,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 182,
     "durationText": "03:02",
@@ -885,13 +885,13 @@
   },
   {
     "id": 54,
-    "title": "Mann Mera (From \"Table No. 21\")",
+    "title": "Mann Mera",
     "artist": "Gajendra Verma - Topic",
-    "album": "Mann Mera (From \"Table No. 21\")",
+    "album": "Mann Mera",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 198,
     "durationText": "03:18",
@@ -908,7 +908,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 362,
     "durationText": "06:02",
@@ -925,7 +925,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 253,
     "durationText": "04:13",
@@ -942,7 +942,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 311,
     "durationText": "05:11",
@@ -959,7 +959,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 331,
     "durationText": "05:31",
@@ -976,7 +976,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 424,
     "durationText": "07:04",
@@ -993,7 +993,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 311,
     "durationText": "05:11",
@@ -1004,13 +1004,13 @@
   },
   {
     "id": 61,
-    "title": "Pavazha Malli (From \"Think Indie\")",
+    "title": "Pavazha Malli",
     "artist": "Sai Abhyankkar - Topic",
-    "album": "Pavazha Malli (From \"Think Indie\")",
+    "album": "Pavazha Malli",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 252,
     "durationText": "04:12",
@@ -1027,7 +1027,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 313,
     "durationText": "05:13",
@@ -1044,7 +1044,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 280,
     "durationText": "04:40",
@@ -1061,7 +1061,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 358,
     "durationText": "05:58",
@@ -1072,13 +1072,13 @@
   },
   {
     "id": 65,
-    "title": "Dekhne Walon Ne (From ''Chori Chori Chupke Chupke'')",
+    "title": "Dekhne Walon Ne",
     "artist": "Udit Narayan - Topic",
-    "album": "Dekhne Walon Ne (From ''Chori Chori Chupke Chupke'')",
+    "album": "Dekhne Walon Ne",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 373,
     "durationText": "06:13",
@@ -1095,7 +1095,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 207,
     "durationText": "03:27",
@@ -1112,7 +1112,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 269,
     "durationText": "04:29",
@@ -1129,7 +1129,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 374,
     "durationText": "06:14",
@@ -1140,13 +1140,13 @@
   },
   {
     "id": 69,
-    "title": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+    "title": "Deewaniyat",
     "artist": "Vishal Mishra - Topic",
-    "album": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+    "album": "Deewaniyat",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 257,
     "durationText": "04:17",
@@ -1163,7 +1163,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 383,
     "durationText": "06:23",
@@ -1180,7 +1180,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 309,
     "durationText": "05:09",
@@ -1197,7 +1197,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 368,
     "durationText": "06:08",
@@ -1214,7 +1214,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 333,
     "durationText": "05:33",
@@ -1231,7 +1231,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 323,
     "durationText": "05:23",
@@ -1242,13 +1242,13 @@
   },
   {
     "id": 75,
-    "title": "Pardesiya (From \"Param Sundari\")",
+    "title": "Pardesiya",
     "artist": "Release - Topic",
-    "album": "Pardesiya (From \"Param Sundari\")",
+    "album": "Pardesiya",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 231,
     "durationText": "03:51",
@@ -1259,13 +1259,13 @@
   },
   {
     "id": 76,
-    "title": "Sitaare (From \"Ikkis\")",
+    "title": "Sitaare",
     "artist": "Release - Topic",
-    "album": "Sitaare (From \"Ikkis\")",
+    "album": "Sitaare",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 243,
     "durationText": "04:03",
@@ -1282,7 +1282,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 343,
     "durationText": "05:43",
@@ -1293,13 +1293,13 @@
   },
   {
     "id": 78,
-    "title": "Dhun (Movie: Saiyaara)",
+    "title": "Dhun",
     "artist": "Release - Topic",
-    "album": "Dhun (Movie: Saiyaara)",
+    "album": "Dhun",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 276,
     "durationText": "04:36",
@@ -1310,13 +1310,13 @@
   },
   {
     "id": 79,
-    "title": "Ek Sanam Chahiye Aashiqui Ke Liye (From \"Aashiqui\")",
+    "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
     "artist": "Kumar Sanu - Topic",
-    "album": "Ek Sanam Chahiye Aashiqui Ke Liye (From \"Aashiqui\")",
+    "album": "Ek Sanam Chahiye Aashiqui Ke Liye",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 372,
     "durationText": "06:12",
@@ -1327,13 +1327,13 @@
   },
   {
     "id": 80,
-    "title": "Ishq (From \"Lost;Found\")",
+    "title": "Ishq",
     "artist": "Faheem Abdullah - Topic",
-    "album": "Ishq (From \"Lost;Found\")",
+    "album": "Ishq",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 228,
     "durationText": "03:48",
@@ -1350,7 +1350,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 346,
     "durationText": "05:46",
@@ -1367,7 +1367,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 268,
     "durationText": "04:28",
@@ -1384,7 +1384,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 331,
     "durationText": "05:31",
@@ -1401,7 +1401,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 145,
     "durationText": "02:25",
@@ -1412,13 +1412,13 @@
   },
   {
     "id": 85,
-    "title": "Pani Da Rang (Male)",
+    "title": "Pani Da Rang",
     "artist": "Ayushmann Khurrana - Topic",
-    "album": "Pani Da Rang (Male)",
+    "album": "Pani Da Rang",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 240,
     "durationText": "04:00",
@@ -1429,13 +1429,13 @@
   },
   {
     "id": 86,
-    "title": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
+    "title": "Prem Ki Leela \")",
     "artist": "Release - Topic",
-    "album": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
+    "album": "Prem Ki Leela \")",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 281,
     "durationText": "04:41",
@@ -1452,7 +1452,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 378,
     "durationText": "06:18",
@@ -1463,13 +1463,13 @@
   },
   {
     "id": 88,
-    "title": "Agar Tum (Instrumental)",
+    "title": "Agar Tum",
     "artist": "Anu Malik - Topic",
-    "album": "Agar Tum (Instrumental)",
+    "album": "Agar Tum",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 360,
     "durationText": "06:00",
@@ -1480,13 +1480,13 @@
   },
   {
     "id": 89,
-    "title": "Apna Bana Le (From \"Bhediya\")",
+    "title": "Apna Bana Le",
     "artist": "Arijit Singh - Topic",
-    "album": "Apna Bana Le (From \"Bhediya\")",
+    "album": "Apna Bana Le",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 261,
     "durationText": "04:21",
@@ -1503,7 +1503,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 366,
     "durationText": "06:06",
@@ -1520,7 +1520,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 381,
     "durationText": "06:21",
@@ -1531,13 +1531,13 @@
   },
   {
     "id": 92,
-    "title": "Phir Se (From \"Dhurandhar The Revenge\")",
+    "title": "Phir Se",
     "artist": "Shashwat Sachdev - Topic",
-    "album": "Phir Se (From \"Dhurandhar The Revenge\")",
+    "album": "Phir Se",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 354,
     "durationText": "05:54",
@@ -1554,7 +1554,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 323,
     "durationText": "05:23",
@@ -1571,7 +1571,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 355,
     "durationText": "05:55",
@@ -1588,7 +1588,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 337,
     "durationText": "05:37",
@@ -1605,7 +1605,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 324,
     "durationText": "05:24",
@@ -1622,7 +1622,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 346,
     "durationText": "05:46",
@@ -1639,7 +1639,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 281,
     "durationText": "04:41",
@@ -1656,7 +1656,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 161,
     "durationText": "02:41",
@@ -1667,13 +1667,13 @@
   },
   {
     "id": 100,
-    "title": "Aavan Jaavan (Movie: WAR 2)",
+    "title": "Aavan Jaavan",
     "artist": "Release - Topic",
-    "album": "Aavan Jaavan (Movie: WAR 2)",
+    "album": "Aavan Jaavan",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 225,
     "durationText": "03:45",
@@ -1690,7 +1690,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 215,
     "durationText": "03:35",
@@ -1707,7 +1707,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 253,
     "durationText": "04:13",
@@ -1724,7 +1724,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2015,
+    "year": "2015",
     "track": "",
     "duration": 286,
     "durationText": "04:46",
@@ -1741,7 +1741,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 208,
     "durationText": "03:28",
@@ -1758,7 +1758,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 241,
     "durationText": "04:01",
@@ -1769,13 +1769,13 @@
   },
   {
     "id": 106,
-    "title": "Barbaad (Movie: Saiyaara)",
+    "title": "Barbaad",
     "artist": "Release - Topic",
-    "album": "Barbaad (Movie: Saiyaara)",
+    "album": "Barbaad",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 357,
     "durationText": "05:57",
@@ -1792,7 +1792,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 401,
     "durationText": "06:41",
@@ -1809,7 +1809,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 180,
     "durationText": "03:00",
@@ -1826,7 +1826,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 253,
     "durationText": "04:13",
@@ -1843,7 +1843,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 377,
     "durationText": "06:17",
@@ -1860,7 +1860,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 329,
     "durationText": "05:29",
@@ -1877,7 +1877,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 140,
     "durationText": "02:20",
@@ -1888,13 +1888,13 @@
   },
   {
     "id": 113,
-    "title": "Saiyaara (Movie: Saiyaara)",
+    "title": "Saiyaara",
     "artist": "Release - Topic",
-    "album": "Saiyaara (Movie: Saiyaara)",
+    "album": "Saiyaara",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 371,
     "durationText": "06:11",
@@ -1911,7 +1911,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 279,
     "durationText": "04:39",
@@ -1928,7 +1928,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 337,
     "durationText": "05:37",
@@ -1945,7 +1945,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 233,
     "durationText": "03:53",
@@ -1962,7 +1962,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 353,
     "durationText": "05:53",
@@ -1979,7 +1979,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 328,
     "durationText": "05:28",
@@ -1996,7 +1996,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 405,
     "durationText": "06:45",
@@ -2013,7 +2013,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 160,
     "durationText": "02:40",
@@ -2024,13 +2024,13 @@
   },
   {
     "id": 121,
-    "title": "Hasi (Male Version)",
+    "title": "Hasi",
     "artist": "Ami Mishra - Topic",
-    "album": "Hasi (Male Version)",
+    "album": "Hasi",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 272,
     "durationText": "04:32",
@@ -2041,13 +2041,13 @@
   },
   {
     "id": 122,
-    "title": "Humsafar (Movie: Saiyaara)",
+    "title": "Humsafar",
     "artist": "Release - Topic",
-    "album": "Humsafar (Movie: Saiyaara)",
+    "album": "Humsafar",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 322,
     "durationText": "05:22",
@@ -2064,7 +2064,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2015,
+    "year": "2015",
     "track": "",
     "duration": 286,
     "durationText": "04:46",
@@ -2081,7 +2081,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 371,
     "durationText": "06:11",
@@ -2098,7 +2098,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 244,
     "durationText": "04:04",
@@ -2115,7 +2115,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 251,
     "durationText": "04:11",
@@ -2132,7 +2132,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 363,
     "durationText": "06:03",
@@ -2149,7 +2149,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 253,
     "durationText": "04:13",
@@ -2166,7 +2166,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 281,
     "durationText": "04:41",
@@ -2183,7 +2183,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 458,
     "durationText": "07:38",
@@ -2194,13 +2194,13 @@
   },
   {
     "id": 131,
-    "title": "Aaye Ho Meri Zindagi Mein (Female)",
+    "title": "Aaye Ho Meri Zindagi Mein",
     "artist": "Alka Yagnik - Topic",
-    "album": "Aaye Ho Meri Zindagi Mein (Female)",
+    "album": "Aaye Ho Meri Zindagi Mein",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 363,
     "durationText": "06:03",
@@ -2217,7 +2217,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 381,
     "durationText": "06:21",
@@ -2234,7 +2234,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 233,
     "durationText": "03:53",
@@ -2251,7 +2251,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 346,
     "durationText": "05:46",
@@ -2268,7 +2268,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 312,
     "durationText": "05:12",
@@ -2285,7 +2285,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 70,
     "durationText": "01:10",
@@ -2296,13 +2296,13 @@
   },
   {
     "id": 137,
-    "title": "Agar Tum (Instrumental)",
+    "title": "Agar Tum",
     "artist": "Anu Malik - Topic",
-    "album": "Agar Tum (Instrumental)",
+    "album": "Agar Tum",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 360,
     "durationText": "06:00",
@@ -2319,7 +2319,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 437,
     "durationText": "07:17",
@@ -2336,7 +2336,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 282,
     "durationText": "04:42",
@@ -2353,7 +2353,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 353,
     "durationText": "05:53",
@@ -2364,13 +2364,13 @@
   },
   {
     "id": 141,
-    "title": "Shararat (From \"Dhurandhar\")",
+    "title": "Shararat",
     "artist": "Shashwat Sachdev - Topic",
-    "album": "Shararat (From \"Dhurandhar\")",
+    "album": "Shararat",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 224,
     "durationText": "03:44",
@@ -2387,7 +2387,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 326,
     "durationText": "05:26",
@@ -2404,7 +2404,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 312,
     "durationText": "05:12",
@@ -2415,13 +2415,13 @@
   },
   {
     "id": 144,
-    "title": "Mast Magan (From \"2 States)",
+    "title": "Mast Magan",
     "artist": "Arijit Singh - Topic",
-    "album": "Mast Magan (From \"2 States)",
+    "album": "Mast Magan",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 280,
     "durationText": "04:40",
@@ -2438,7 +2438,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 363,
     "durationText": "06:03",
@@ -2455,7 +2455,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 313,
     "durationText": "05:13",
@@ -2472,7 +2472,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 341,
     "durationText": "05:41",
@@ -2489,7 +2489,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 159,
     "durationText": "02:39",
@@ -2506,7 +2506,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 256,
     "durationText": "04:16",
@@ -2523,7 +2523,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 298,
     "durationText": "04:58",
@@ -2540,7 +2540,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 320,
     "durationText": "05:20",
@@ -2557,7 +2557,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 451,
     "durationText": "07:31",
@@ -2574,7 +2574,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 302,
     "durationText": "05:02",
@@ -2591,7 +2591,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 240,
     "durationText": "04:00",
@@ -2608,7 +2608,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 350,
     "durationText": "05:50",
@@ -2625,7 +2625,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 375,
     "durationText": "06:15",
@@ -2642,7 +2642,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 187,
     "durationText": "03:07",
@@ -2659,7 +2659,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 342,
     "durationText": "05:42",
@@ -2676,7 +2676,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 190,
     "durationText": "03:10",
@@ -2693,7 +2693,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 351,
     "durationText": "05:51",
@@ -2710,7 +2710,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 330,
     "durationText": "05:30",
@@ -2727,7 +2727,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 415,
     "durationText": "06:55",
@@ -2744,7 +2744,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 282,
     "durationText": "04:42",
@@ -2755,13 +2755,13 @@
   },
   {
     "id": 164,
-    "title": "Raga of Revenge (From \"DC\")",
+    "title": "Raga of Revenge",
     "artist": "Anirudh Ravichander - Topic",
-    "album": "Raga of Revenge (From \"DC\")",
+    "album": "Raga of Revenge",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 131,
     "durationText": "02:11",
@@ -2772,13 +2772,13 @@
   },
   {
     "id": 165,
-    "title": "Tere Naina (From \"My Name Is Khan\")",
+    "title": "Tere Naina",
     "artist": "Shankar–Ehsaan–Loy - Topic",
-    "album": "Tere Naina (From \"My Name Is Khan\")",
+    "album": "Tere Naina",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 278,
     "durationText": "04:38",
@@ -2789,13 +2789,13 @@
   },
   {
     "id": 166,
-    "title": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+    "title": "Tumse Behtar",
     "artist": "Release - Topic",
-    "album": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+    "album": "Tumse Behtar",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 268,
     "durationText": "04:28",
@@ -2812,7 +2812,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 322,
     "durationText": "05:22",
@@ -2829,7 +2829,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 302,
     "durationText": "05:02",
@@ -2846,7 +2846,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 215,
     "durationText": "03:35",
@@ -2863,7 +2863,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 319,
     "durationText": "05:19",
@@ -2880,7 +2880,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 323,
     "durationText": "05:23",
@@ -2897,7 +2897,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 319,
     "durationText": "05:19",
@@ -2914,7 +2914,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 306,
     "durationText": "05:06",
@@ -2931,7 +2931,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 266,
     "durationText": "04:26",
@@ -2948,7 +2948,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 341,
     "durationText": "05:41",
@@ -2965,7 +2965,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 198,
     "durationText": "03:18",
@@ -2976,13 +2976,13 @@
   },
   {
     "id": 177,
-    "title": "Ae Ajnabee | Coke Studio Bharat",
+    "title": "Ae Ajnabee",
     "artist": "Aditya Rikhari - Topic",
-    "album": "Ae Ajnabee | Coke Studio Bharat",
+    "album": "Ae Ajnabee",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 259,
     "durationText": "04:19",
@@ -2999,7 +2999,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 353,
     "durationText": "05:53",
@@ -3016,7 +3016,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 426,
     "durationText": "07:06",
@@ -3033,7 +3033,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 324,
     "durationText": "05:24",
@@ -3050,7 +3050,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 269,
     "durationText": "04:29",
@@ -3067,7 +3067,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 314,
     "durationText": "05:14",
@@ -3084,7 +3084,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 210,
     "durationText": "03:30",
@@ -3101,7 +3101,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 350,
     "durationText": "05:50",
@@ -3118,7 +3118,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 177,
     "durationText": "02:57",
@@ -3135,7 +3135,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 312,
     "durationText": "05:12",
@@ -3152,7 +3152,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -3163,13 +3163,13 @@
   },
   {
     "id": 188,
-    "title": "Tere Dar Par Sanam (Male)",
+    "title": "Tere Dar Par Sanam",
     "artist": "Kumar Sanu - Topic",
-    "album": "Tere Dar Par Sanam (Male)",
+    "album": "Tere Dar Par Sanam",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 368,
     "durationText": "06:08",
@@ -3186,7 +3186,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 187,
     "durationText": "03:07",
@@ -3203,7 +3203,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 328,
     "durationText": "05:28",
@@ -3220,7 +3220,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 365,
     "durationText": "06:05",
@@ -3237,7 +3237,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 180,
     "durationText": "03:00",
@@ -3248,13 +3248,13 @@
   },
   {
     "id": 193,
-    "title": "Hasi (Male Version)",
+    "title": "Hasi",
     "artist": "Ami Mishra - Topic",
-    "album": "Hasi (Male Version)",
+    "album": "Hasi",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 272,
     "durationText": "04:32",
@@ -3271,7 +3271,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -3288,7 +3288,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 634,
     "durationText": "10:34",
@@ -3305,7 +3305,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 425,
     "durationText": "07:05",
@@ -3322,7 +3322,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 401,
     "durationText": "06:41",
@@ -3333,13 +3333,13 @@
   },
   {
     "id": 198,
-    "title": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+    "title": "Tumhare Hi Rahenge Hum",
     "artist": "Sachin-Jigar - Topic",
-    "album": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
+    "album": "Tumhare Hi Rahenge Hum",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 230,
     "durationText": "03:50",
@@ -3356,7 +3356,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 299,
     "durationText": "04:59",
@@ -3373,7 +3373,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 332,
     "durationText": "05:32",
@@ -3390,7 +3390,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 329,
     "durationText": "05:29",
@@ -3407,7 +3407,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 338,
     "durationText": "05:38",
@@ -3424,7 +3424,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 356,
     "durationText": "05:56",
@@ -3435,13 +3435,13 @@
   },
   {
     "id": 204,
-    "title": "Tum Mere Na Huye (From “Thamma”)",
+    "title": "Tum Mere Na Huye",
     "artist": "Sachin-Jigar - Topic",
-    "album": "Tum Mere Na Huye (From “Thamma”)",
+    "album": "Tum Mere Na Huye",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 194,
     "durationText": "03:14",
@@ -3458,7 +3458,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 268,
     "durationText": "04:28",
@@ -3469,13 +3469,13 @@
   },
   {
     "id": 206,
-    "title": "Zara Sa (From \"Jannat\")",
+    "title": "Zara Sa",
     "artist": "Pritam - Topic",
-    "album": "Zara Sa (From \"Jannat\")",
+    "album": "Zara Sa",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 303,
     "durationText": "05:03",
@@ -3492,7 +3492,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 378,
     "durationText": "06:18",
@@ -3503,13 +3503,13 @@
   },
   {
     "id": 208,
-    "title": "Uyi Amma (From \"Azaad\")",
+    "title": "Uyi Amma",
     "artist": "Amit Trivedi - Topic",
-    "album": "Uyi Amma (From \"Azaad\")",
+    "album": "Uyi Amma",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 253,
     "durationText": "04:13",
@@ -3526,7 +3526,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 468,
     "durationText": "07:48",
@@ -3543,7 +3543,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 210,
     "durationText": "03:30",
@@ -3560,7 +3560,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 392,
     "durationText": "06:32",
@@ -3577,7 +3577,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 214,
     "durationText": "03:34",
@@ -3588,13 +3588,13 @@
   },
   {
     "id": 213,
-    "title": "Dhun (Movie: Saiyaara)",
+    "title": "Dhun",
     "artist": "Release - Topic",
-    "album": "Dhun (Movie: Saiyaara)",
+    "album": "Dhun",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 276,
     "durationText": "04:36",
@@ -3611,7 +3611,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 304,
     "durationText": "05:04",
@@ -3628,7 +3628,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 178,
     "durationText": "02:58",
@@ -3645,7 +3645,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 218,
     "durationText": "03:38",
@@ -3662,7 +3662,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 321,
     "durationText": "05:21",
@@ -3679,7 +3679,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 355,
     "durationText": "05:55",
@@ -3696,7 +3696,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 468,
     "durationText": "07:48",
@@ -3707,13 +3707,13 @@
   },
   {
     "id": 220,
-    "title": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "title": "Dhurandhar - Title Track",
     "artist": "Release - Topic",
-    "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "album": "Dhurandhar - Title Track",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 155,
     "durationText": "02:35",
@@ -3730,7 +3730,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 166,
     "durationText": "02:46",
@@ -3747,7 +3747,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 268,
     "durationText": "04:28",
@@ -3758,13 +3758,13 @@
   },
   {
     "id": 223,
-    "title": "Main Agar Saamne (Jhankar)",
+    "title": "Main Agar Saamne",
     "artist": "Abhijeet Bhattacharya - Topic",
-    "album": "Main Agar Saamne (Jhankar)",
+    "album": "Main Agar Saamne",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 340,
     "durationText": "05:40",
@@ -3781,7 +3781,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 281,
     "durationText": "04:41",
@@ -3798,7 +3798,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 276,
     "durationText": "04:36",
@@ -3815,7 +3815,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 300,
     "durationText": "05:00",
@@ -3826,13 +3826,13 @@
   },
   {
     "id": 227,
-    "title": "Tere Naina (From \"My Name Is Khan\")",
+    "title": "Tere Naina",
     "artist": "Shankar–Ehsaan–Loy - Topic",
-    "album": "Tere Naina (From \"My Name Is Khan\")",
+    "album": "Tere Naina",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 278,
     "durationText": "04:38",
@@ -3849,7 +3849,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 330,
     "durationText": "05:30",
@@ -3866,7 +3866,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 208,
     "durationText": "03:28",
@@ -3883,7 +3883,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 304,
     "durationText": "05:04",
@@ -3900,7 +3900,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 353,
     "durationText": "05:53",
@@ -3917,7 +3917,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 269,
     "durationText": "04:29",
@@ -3928,13 +3928,13 @@
   },
   {
     "id": 233,
-    "title": "Qubool (From \"Haq\")",
+    "title": "Qubool",
     "artist": "Vishal Mishra - Topic",
-    "album": "Qubool (From \"Haq\")",
+    "album": "Qubool",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 284,
     "durationText": "04:44",
@@ -3951,7 +3951,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 344,
     "durationText": "05:44",
@@ -3968,7 +3968,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 327,
     "durationText": "05:27",
@@ -3985,7 +3985,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 249,
     "durationText": "04:09",
@@ -4002,7 +4002,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 313,
     "durationText": "05:13",
@@ -4019,7 +4019,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 307,
     "durationText": "05:07",
@@ -4030,13 +4030,13 @@
   },
   {
     "id": 239,
-    "title": "Mann Mera (Original Version)",
+    "title": "Mann Mera",
     "artist": "Gajendra Verma - Topic",
-    "album": "Mann Mera (Original Version)",
+    "album": "Mann Mera",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 228,
     "durationText": "03:48",
@@ -4053,7 +4053,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 301,
     "durationText": "05:01",
@@ -4070,7 +4070,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 257,
     "durationText": "04:17",
@@ -4087,7 +4087,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 341,
     "durationText": "05:41",
@@ -4104,7 +4104,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 422,
     "durationText": "07:02",
@@ -4115,13 +4115,13 @@
   },
   {
     "id": 244,
-    "title": "Naal Nachna (From \"Dhurandhar\")",
+    "title": "Naal Nachna",
     "artist": "Shashwat Sachdev - Topic",
-    "album": "Naal Nachna (From \"Dhurandhar\")",
+    "album": "Naal Nachna",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 155,
     "durationText": "02:35",
@@ -4138,7 +4138,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 257,
     "durationText": "04:17",
@@ -4155,7 +4155,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 305,
     "durationText": "05:05",
@@ -4172,7 +4172,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 365,
     "durationText": "06:05",
@@ -4189,7 +4189,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 261,
     "durationText": "04:21",
@@ -4206,7 +4206,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 292,
     "durationText": "04:52",
@@ -4217,13 +4217,13 @@
   },
   {
     "id": 250,
-    "title": "Humsafar (Movie: Saiyaara)",
+    "title": "Humsafar",
     "artist": "Release - Topic",
-    "album": "Humsafar (Movie: Saiyaara)",
+    "album": "Humsafar",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 322,
     "durationText": "05:22",
@@ -4234,13 +4234,13 @@
   },
   {
     "id": 251,
-    "title": "Is Pyar Se Meri Taraf Na Dekho (Duet)",
+    "title": "Is Pyar Se Meri Taraf Na Dekho",
     "artist": "Kumar Sanu - Topic",
-    "album": "Is Pyar Se Meri Taraf Na Dekho (Duet)",
+    "album": "Is Pyar Se Meri Taraf Na Dekho",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 323,
     "durationText": "05:23",
@@ -4257,7 +4257,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 290,
     "durationText": "04:50",
@@ -4274,7 +4274,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 230,
     "durationText": "03:50",
@@ -4291,7 +4291,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 272,
     "durationText": "04:32",
@@ -4308,7 +4308,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 306,
     "durationText": "05:06",
@@ -4325,7 +4325,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2022,
+    "year": "2022",
     "track": "",
     "duration": 335,
     "durationText": "05:35",
@@ -4342,7 +4342,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 284,
     "durationText": "04:44",
@@ -4353,13 +4353,13 @@
   },
   {
     "id": 258,
-    "title": "Aankhon Mein Base Ho Tum (Male)",
+    "title": "Aankhon Mein Base Ho Tum",
     "artist": "Various Artists - Topic",
-    "album": "Aankhon Mein Base Ho Tum (Male)",
+    "album": "Aankhon Mein Base Ho Tum",
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 335,
     "durationText": "05:35",
@@ -4376,7 +4376,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 346,
     "durationText": "05:46",
@@ -4393,7 +4393,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 363,
     "durationText": "06:03",
@@ -4410,7 +4410,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 342,
     "durationText": "05:42",
@@ -4427,7 +4427,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 269,
     "durationText": "04:29",
@@ -4444,7 +4444,7 @@
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 170,
     "durationText": "02:50",
@@ -4452,17 +4452,16 @@
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_The_Last_Letter_SpotiDost.mp3",
     "cover": "covers/The_Last_Letter.jpg"
-  }
-  ,
+  },
   {
     "id": 264,
-    "title": "Pardesiya (Lyrical) Param Sundari | Sidharth M, Janhvi K |Sachin-Jigar, Sonu, Krishnakali, Amitabh B",
+    "title": "Pardesiya Param Sundari",
     "artist": "Universal Music India",
-    "album": "Pardesiya (Lyrical) Param Sundari | Sidharth M, Janhvi K |Sachin-Jigar, Sonu, Krishnakali, Amitabh B",
+    "album": "Pardesiya Param Sundari",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 228,
     "durationText": "03:48",
@@ -4473,13 +4472,13 @@
   },
   {
     "id": 265,
-    "title": "Main Rang Sharbaton Ka (Lyrical) - Atif Aslam And Chinmayi Sripaada - Phata Poster Nikhla Hero",
+    "title": "Main Rang Sharbaton Ka - Atif Aslam And Chinmayi Sripaada - Phata Poster Nikhla Hero",
     "artist": "Wild Music",
-    "album": "Main Rang Sharbaton Ka (Lyrical) - Atif Aslam And Chinmayi Sripaada - Phata Poster Nikhla Hero",
+    "album": "Main Rang Sharbaton Ka - Atif Aslam And Chinmayi Sripaada - Phata Poster Nikhla Hero",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 263,
     "durationText": "04:23",
@@ -4490,13 +4489,13 @@
   },
   {
     "id": 266,
-    "title": "Khuda Jaane - Full Song Audio | Bachna Ae Haseeno | KK | Shilpa Rao | Vishal and Shekhar",
+    "title": "Khuda Jaane",
     "artist": "YRF",
-    "album": "Khuda Jaane - Full Song Audio | Bachna Ae Haseeno | KK | Shilpa Rao | Vishal and Shekhar",
+    "album": "Khuda Jaane",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 331,
     "durationText": "05:31",
@@ -4507,13 +4506,13 @@
   },
   {
     "id": 267,
-    "title": "Ishq Nibhaavan De - Neeti Mohan | Chand Mera Dil | Ananya Panday, Lakshya | Sachin-Jigar, Amitabh B.",
+    "title": "Ishq Nibhaavan De - Neeti Mohan",
     "artist": "Sony Music India",
-    "album": "Ishq Nibhaavan De - Neeti Mohan | Chand Mera Dil | Ananya Panday, Lakshya | Sachin-Jigar, Amitabh B.",
+    "album": "Ishq Nibhaavan De - Neeti Mohan",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 228,
     "durationText": "03:48",
@@ -4524,13 +4523,13 @@
   },
   {
     "id": 268,
-    "title": "Tum Se Hi Lyrcial | Jab We Met | Kareena Kapoor, Shahid Kapoor | Mohit Chauhan | Pritam",
+    "title": "Tum Se Hi Lyrcial",
     "artist": "T-Series",
-    "album": "Tum Se Hi Lyrcial | Jab We Met | Kareena Kapoor, Shahid Kapoor | Mohit Chauhan | Pritam",
+    "album": "Tum Se Hi Lyrcial",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 338,
     "durationText": "05:38",
@@ -4541,13 +4540,13 @@
   },
   {
     "id": 269,
-    "title": "ANIMAL: Hua Main (Full Video) | Ranbir Kapoor | Rashmika M | Sandeep V | Raghav,Manoj M | Bhushan K",
-    "artist": "T-Series",
-    "album": "ANIMAL: Hua Main (Full Video) | Ranbir Kapoor | Rashmika M | Sandeep V | Raghav,Manoj M | Bhushan K",
+    "title": "ANIMAL",
+    "artist": "Ranbir Kapoor, Rashmika M, Sandeep V, Raghav,Manoj M",
+    "album": "ANIMAL",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 275,
     "durationText": "04:35",
@@ -4558,13 +4557,13 @@
   },
   {
     "id": 270,
-    "title": "O Meri Laila (Lyrics) || Laila Majnu || Atif Aslam & Jyotica Tangri |",
+    "title": "O Meri Laila",
     "artist": "SGA_Music",
-    "album": "O Meri Laila (Lyrics) || Laila Majnu || Atif Aslam & Jyotica Tangri |",
+    "album": "O Meri Laila",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 282,
     "durationText": "04:42",
@@ -4575,13 +4574,13 @@
   },
   {
     "id": 271,
-    "title": "Maskara | Main Vaapas Aaunga |@ARRahman| Imtiaz Ali, Irshad Kamil, Vedang Raina, Nilanjana, Sharvari",
+    "title": "Maskara",
     "artist": "Tips Official",
-    "album": "Maskara | Main Vaapas Aaunga |@ARRahman| Imtiaz Ali, Irshad Kamil, Vedang Raina, Nilanjana, Sharvari",
+    "album": "Maskara",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 213,
     "durationText": "03:33",
@@ -4592,13 +4591,13 @@
   },
   {
     "id": 272,
-    "title": "Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh",
+    "title": "Gehra Hua",
     "artist": "Saregama Music",
-    "album": "Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh",
+    "album": "Gehra Hua",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 363,
     "durationText": "06:03",
@@ -4609,13 +4608,13 @@
   },
   {
     "id": 273,
-    "title": "Arijit Singh - Tu Hi Disda | Bhooth Bangla | Akshay Kumar & Wamiqa Gabbi | Pritam, Nikhita | Lyrical",
+    "title": "Arijit Singh - Tu Hi Disda",
     "artist": "Zee Music Company",
-    "album": "Arijit Singh - Tu Hi Disda | Bhooth Bangla | Akshay Kumar & Wamiqa Gabbi | Pritam, Nikhita | Lyrical",
+    "album": "Arijit Singh - Tu Hi Disda",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 293,
     "durationText": "04:53",
@@ -4626,13 +4625,13 @@
   },
   {
     "id": 274,
-    "title": "Tera Hoke Rahoon - Full Audio | Behen Hogi Teri | Rajkummar Rao & Shruti Haasan",
+    "title": "Tera Hoke Rahoon - Full",
     "artist": "Zee Music Company",
-    "album": "Tera Hoke Rahoon - Full Audio | Behen Hogi Teri | Rajkummar Rao & Shruti Haasan",
+    "album": "Tera Hoke Rahoon - Full",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 211,
     "durationText": "03:31",
@@ -4643,13 +4642,13 @@
   },
   {
     "id": 275,
-    "title": "Jeene Laga Hoon (Lyrics) | Ramaiya Vastavaiya | Atif Aslam, Shreya Ghoshal, Priya Panchal, Shruti",
+    "title": "Jeene Laga Hoon",
     "artist": "Vevo Lyrics",
-    "album": "Jeene Laga Hoon (Lyrics) | Ramaiya Vastavaiya | Atif Aslam, Shreya Ghoshal, Priya Panchal, Shruti",
+    "album": "Jeene Laga Hoon",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 229,
     "durationText": "03:49",
@@ -4660,13 +4659,13 @@
   },
   {
     "id": 276,
-    "title": "Halka Halka Full Audio Song | FANNEY KHAN | Aishwarya Rai Bachchan | Rajkummar Rao",
+    "title": "Halka Halka Full Song",
     "artist": "T-Series",
-    "album": "Halka Halka Full Audio Song | FANNEY KHAN | Aishwarya Rai Bachchan | Rajkummar Rao",
+    "album": "Halka Halka Full Song",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 247,
     "durationText": "04:07",
@@ -4677,13 +4676,13 @@
   },
   {
     "id": 277,
-    "title": "SOCH NA SAKE Video Song (LYRICS) | AIRLIFT | Akshay Kumar, Nimrat Kaur | T-Series",
+    "title": "SOCH NA SAKE",
     "artist": "T-Series",
-    "album": "SOCH NA SAKE Video Song (LYRICS) | AIRLIFT | Akshay Kumar, Nimrat Kaur | T-Series",
+    "album": "SOCH NA SAKE",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 280,
     "durationText": "04:40",
@@ -4694,13 +4693,13 @@
   },
   {
     "id": 278,
-    "title": "Itni Si Baat Hain Lyrical Vide Song | Azhar | Emraan Hashmi, Prachi Desai | Pritam | T-Series",
+    "title": "Itni Si Baat Hain Vide Song",
     "artist": "T-Series",
-    "album": "Itni Si Baat Hain Lyrical Vide Song | Azhar | Emraan Hashmi, Prachi Desai | Pritam | T-Series",
+    "album": "Itni Si Baat Hain Vide Song",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 294,
     "durationText": "04:54",
@@ -4711,13 +4710,13 @@
   },
   {
     "id": 279,
-    "title": "Thodi Der - Full Audio | Half Girlfriend | Arjun K & Shraddha K | Farhan Saeed & Shreya Ghoshal",
+    "title": "Thodi Der - Full",
     "artist": "Zee Music Company",
-    "album": "Thodi Der - Full Audio | Half Girlfriend | Arjun K & Shraddha K | Farhan Saeed & Shreya Ghoshal",
+    "album": "Thodi Der - Full",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 306,
     "durationText": "05:06",
@@ -4728,13 +4727,13 @@
   },
   {
     "id": 280,
-    "title": "'Tu Chahiye' Full AUDIO Song | Atif Aslam Pritam | Bajrangi Bhaijaan | Salman Khan, Kareena Kapoor",
+    "title": "'Tu Chahiye' Full Song",
     "artist": "T-Series",
-    "album": "'Tu Chahiye' Full AUDIO Song | Atif Aslam Pritam | Bajrangi Bhaijaan | Salman Khan, Kareena Kapoor",
+    "album": "'Tu Chahiye' Full Song",
     "genre": [
       "Music"
     ],
-    "year": 2022,
+    "year": "2022",
     "track": "",
     "duration": 272,
     "durationText": "04:32",
@@ -4745,13 +4744,13 @@
   },
   {
     "id": 281,
-    "title": "Arijit Singh, Pritam - Hawayein (Lyrics)",
+    "title": "Arijit Singh, Pritam - Hawayein",
     "artist": "7clouds Hindi",
-    "album": "Arijit Singh, Pritam - Hawayein (Lyrics)",
+    "album": "Arijit Singh, Pritam - Hawayein",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 290,
     "durationText": "04:50",
@@ -4762,13 +4761,13 @@
   },
   {
     "id": 282,
-    "title": "Tu Hi Meri Shab Hai Full Audio | KK | Gangster | Emraan Hashmi | Pritam | Romantic Hindi Song",
+    "title": "Tu Hi Meri Shab Hai Full",
     "artist": "Bollywood Audioverse",
-    "album": "Tu Hi Meri Shab Hai Full Audio | KK | Gangster | Emraan Hashmi | Pritam | Romantic Hindi Song",
+    "album": "Tu Hi Meri Shab Hai Full",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 389,
     "durationText": "06:29",
@@ -4779,13 +4778,13 @@
   },
   {
     "id": 283,
-    "title": "Channa Ve - Lyrical | Bhoot - Part One | Vicky Kaushal & Bhumi Pednekar | Akhil Sachdeva & Mansheel",
+    "title": "Channa Ve",
     "artist": "Zee Music Company",
-    "album": "Channa Ve - Lyrical | Bhoot - Part One | Vicky Kaushal & Bhumi Pednekar | Akhil Sachdeva & Mansheel",
+    "album": "Channa Ve",
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 217,
     "durationText": "03:37",
@@ -4796,13 +4795,13 @@
   },
   {
     "id": 284,
-    "title": "Dildaara (Stand By Me) - Ra.One - Shafqat Amanat Ali feat. Other",
+    "title": "Dildaara - Ra.One - Shafqat Amanat Ali feat. Other",
     "artist": "BAvideoblog",
-    "album": "Dildaara (Stand By Me) - Ra.One - Shafqat Amanat Ali feat. Other",
+    "album": "Dildaara - Ra.One - Shafqat Amanat Ali feat. Other",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 248,
     "durationText": "04:08",
@@ -4813,13 +4812,13 @@
   },
   {
     "id": 255,
-    "title": "Full Audio: Chashni | Bharat | Salman Khan, Katrina Kaif | Vishal & Shekhar ft. Abhijeet Srivastava",
-    "artist": "T-Series",
-    "album": "Full Audio: Chashni | Bharat | Salman Khan, Katrina Kaif | Vishal & Shekhar ft. Abhijeet Srivastava",
+    "title": "Full",
+    "artist": "Chashni, Bharat, Salman Khan, Katrina Kaif, Vishal & Shekhar ft. Abhijeet Srivastava",
+    "album": "Full",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 266,
     "durationText": "04:26",
@@ -4830,13 +4829,13 @@
   },
   {
     "id": 286,
-    "title": "Naina Da Kya Kasoor - Lyrical | AndhaDhun | Ayushmann Khurrana | Radhika Apte | Amit Trivedi",
+    "title": "Naina Da Kya Kasoor",
     "artist": "Zee Music Company",
-    "album": "Naina Da Kya Kasoor - Lyrical | AndhaDhun | Ayushmann Khurrana | Radhika Apte | Amit Trivedi",
+    "album": "Naina Da Kya Kasoor",
     "genre": [
       "Music"
     ],
-    "year": 2022,
+    "year": "2022",
     "track": "",
     "duration": 217,
     "durationText": "03:37",
@@ -4847,13 +4846,13 @@
   },
   {
     "id": 287,
-    "title": "DEEWANIYAT -Title Track |Ek Deewane Ki Deewaniyat| Harshvardhan, Sonam| Vishal| Kaushik-Guddu,Kunaal",
+    "title": "DEEWANIYAT -Title Track",
     "artist": "Play DMF",
-    "album": "DEEWANIYAT -Title Track |Ek Deewane Ki Deewaniyat| Harshvardhan, Sonam| Vishal| Kaushik-Guddu,Kunaal",
+    "album": "DEEWANIYAT -Title Track",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 240,
     "durationText": "04:00",
@@ -4864,13 +4863,13 @@
   },
   {
     "id": 289,
-    "title": "Arijit Singh - Bolna Mahi Bolna (Audio Lyrical) Alia B | Sidharth M | Fawad K | Asees K | Tanishk B",
+    "title": "Arijit Singh - Bolna Mahi Bolna Alia B",
     "artist": "Sony Music India",
-    "album": "Arijit Singh - Bolna Mahi Bolna (Audio Lyrical) Alia B | Sidharth M | Fawad K | Asees K | Tanishk B",
+    "album": "Arijit Singh - Bolna Mahi Bolna Alia B",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 212,
     "durationText": "03:32",
@@ -4881,13 +4880,13 @@
   },
   {
     "id": 290,
-    "title": "Do Patti: Maiyya (Lyrics) Kriti Sanon, Kajol, Shaheer S, Tanvi Azmi | Sachet-Parampara | Kausar M",
-    "artist": "T-Series",
-    "album": "Do Patti: Maiyya (Lyrics) Kriti Sanon, Kajol, Shaheer S, Tanvi Azmi | Sachet-Parampara | Kausar M",
+    "title": "Do Patti",
+    "artist": "Sachet-Parampara, Kausar M",
+    "album": "Do Patti",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 234,
     "durationText": "03:54",
@@ -4898,13 +4897,13 @@
   },
   {
     "id": 300,
-    "title": "Arijit Singh - Dekha Hazaro Dafaa | Akshay Kumar & Ileana D'cruz | Palak Muchhal | Rustom",
+    "title": "Arijit Singh - Dekha Hazaro Dafaa",
     "artist": "Soulful Arijit Singh Songs",
-    "album": "Arijit Singh - Dekha Hazaro Dafaa | Akshay Kumar & Ileana D'cruz | Palak Muchhal | Rustom",
+    "album": "Arijit Singh - Dekha Hazaro Dafaa",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 214,
     "durationText": "03:34",
@@ -4915,13 +4914,13 @@
   },
   {
     "id": 301,
-    "title": "Kedarnath - Qaafirana (Lyrics) | Amit Trivedi, Arijit Singh, Nikhita Gandhi",
+    "title": "Kedarnath - Qaafirana",
     "artist": "Polo Music Official",
-    "album": "Kedarnath - Qaafirana (Lyrics) | Amit Trivedi, Arijit Singh, Nikhita Gandhi",
+    "album": "Kedarnath - Qaafirana",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 340,
     "durationText": "05:40",
@@ -4932,13 +4931,13 @@
   },
   {
     "id": 302,
-    "title": "Ve Maahi - Full Audio | Kesari | Akshay Kumar & Parineeti Chopra | Arijit Singh & Asees Kaur",
+    "title": "Ve Maahi - Full",
     "artist": "Zee Music Company",
-    "album": "Ve Maahi - Full Audio | Kesari | Akshay Kumar & Parineeti Chopra | Arijit Singh & Asees Kaur",
+    "album": "Ve Maahi - Full",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 232,
     "durationText": "03:52",
@@ -4949,13 +4948,13 @@
   },
   {
     "id": 303,
-    "title": "Bakhuda Tumhi Ho Lyrical - Kismat Konnection |Shahid, Vidya Balan | Atif Aslam, Alka Yagnik | Pritam",
+    "title": "Bakhuda Tumhi Ho - Kismat Konnection",
     "artist": "Tips Official",
-    "album": "Bakhuda Tumhi Ho Lyrical - Kismat Konnection |Shahid, Vidya Balan | Atif Aslam, Alka Yagnik | Pritam",
+    "album": "Bakhuda Tumhi Ho - Kismat Konnection",
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 316,
     "durationText": "05:16",
@@ -4966,13 +4965,13 @@
   },
   {
     "id": 304,
-    "title": "Piyu Bole | Parineeta | Saif Ali Khan & Vidya Balan | Sonu Nigam & Shreya Ghoshal | Lyrical",
+    "title": "Piyu Bole",
     "artist": "Zee Music Company",
-    "album": "Piyu Bole | Parineeta | Saif Ali Khan & Vidya Balan | Sonu Nigam & Shreya Ghoshal | Lyrical",
+    "album": "Piyu Bole",
     "genre": [
       "Music"
     ],
-    "year": 2023,
+    "year": "2023",
     "track": "",
     "duration": 264,
     "durationText": "04:24",
@@ -4983,13 +4982,13 @@
   },
   {
     "id": 305,
-    "title": "Song || Tum kya mile || तुम क्या मिले || Singer || Arijit Singh || musiclife",
+    "title": "Song",
     "artist": "Music life",
-    "album": "Song || Tum kya mile || तुम क्या मिले || Singer || Arijit Singh || musiclife",
+    "album": "Song",
     "genre": [
       "Music"
     ],
-    "year": 2024,
+    "year": "2024",
     "track": "",
     "duration": 287,
     "durationText": "04:47",
@@ -5000,13 +4999,13 @@
   },
   {
     "id": 306,
-    "title": "Mehrama - Official Lyric Video | Love Aaj Kal | Kartik | Sara | Pritam | Darshan",
+    "title": "Mehrama - Official Lyric Video",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "Mehrama - Official Lyric Video | Love Aaj Kal | Kartik | Sara | Pritam | Darshan",
+    "album": "Mehrama - Official Lyric Video",
     "genre": [
       "Music"
     ],
-    "year": 2021,
+    "year": "2021",
     "track": "",
     "duration": 250,
     "durationText": "04:10",
@@ -5017,13 +5016,13 @@
   },
   {
     "id": 307,
-    "title": "Metro…In Dino (Side B): Qayde Se (Full Audio) | Arijit Singh | Pritam | Amitabh Bhattacharya",
-    "artist": "T-Series",
-    "album": "Metro…In Dino (Side B): Qayde Se (Full Audio) | Arijit Singh | Pritam | Amitabh Bhattacharya",
+    "title": "Metro…In Dino",
+    "artist": "Arijit Singh, Pritam, Amitabh Bhattacharya",
+    "album": "Metro…In Dino",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 215,
     "durationText": "03:35",
@@ -5034,13 +5033,13 @@
   },
   {
     "id": 308,
-    "title": "Hunny & Bunny - Tu Hain Toh (Lyrics) ft. Neeti Mohan",
+    "title": "Hunny & Bunny - Tu Hain Toh ft. Neeti Mohan",
     "artist": "seventyskye",
-    "album": "Hunny & Bunny - Tu Hain Toh (Lyrics) ft. Neeti Mohan",
+    "album": "Hunny & Bunny - Tu Hain Toh ft. Neeti Mohan",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 212,
     "durationText": "03:32",
@@ -5051,13 +5050,13 @@
   },
   {
     "id": 309,
-    "title": "Deva Deva - Lyric Video|Brahmāstra|Amitabh B, Ranbir, Alia|Pritam, Arijit, Jonita",
+    "title": "Deva Deva - Lyric Video",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "Deva Deva - Lyric Video|Brahmāstra|Amitabh B, Ranbir, Alia|Pritam, Arijit, Jonita",
+    "album": "Deva Deva - Lyric Video",
     "genre": [
       "Music"
     ],
-    "year": 2022,
+    "year": "2022",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -5068,13 +5067,13 @@
   },
   {
     "id": 310,
-    "title": "Mera Mann Kehne Laga Nautanki Saala Full Video Song ★ Falak ★",
+    "title": "Mera Mann Kehne Laga Nautanki Saala Full ★ Falak ★",
     "artist": "T-Series",
-    "album": "Mera Mann Kehne Laga Nautanki Saala Full Video Song ★ Falak ★",
+    "album": "Mera Mann Kehne Laga Nautanki Saala Full ★ Falak ★",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 226,
     "durationText": "03:46",
@@ -5085,13 +5084,13 @@
   },
   {
     "id": 311,
-    "title": "YODHA: Zindagi Tere Naam (Full Audio) | Sidharth Malhotra, Raashii Khanna | Vishal Mishra",
-    "artist": "T-Series",
-    "album": "YODHA: Zindagi Tere Naam (Full Audio) | Sidharth Malhotra, Raashii Khanna | Vishal Mishra",
+    "title": "YODHA",
+    "artist": "Sidharth Malhotra, Raashii Khanna, Vishal Mishra",
+    "album": "YODHA",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 208,
     "durationText": "03:28",
@@ -5102,13 +5101,13 @@
   },
   {
     "id": 312,
-    "title": "Tumse Behtar Lyric Video | SSKTK | Varun, Janhvi, Sanya, Rohit | Arijit, Tanishk, Manoj",
+    "title": "Tumse Behtar Lyric Video",
     "artist": "Sony Music India",
-    "album": "Tumse Behtar Lyric Video | SSKTK | Varun, Janhvi, Sanya, Rohit | Arijit, Tanishk, Manoj",
+    "album": "Tumse Behtar Lyric Video",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 271,
     "durationText": "04:31",
@@ -5119,13 +5118,13 @@
   },
   {
     "id": 313,
-    "title": "Saiyaara Reprise - Female | Full Song | Ahaan, Aneet | Tanishk, Faheem, Arslan | Shreya | Irshad",
+    "title": "Saiyaara Reprise - Female",
     "artist": "YRF",
-    "album": "Saiyaara Reprise - Female | Full Song | Ahaan, Aneet | Tanishk, Faheem, Arslan | Shreya | Irshad",
+    "album": "Saiyaara Reprise - Female",
     "genre": [
       "Music"
     ],
-    "year": 2025,
+    "year": "2025",
     "track": "",
     "duration": 183,
     "durationText": "03:03",
@@ -5136,13 +5135,13 @@
   },
   {
     "id": 314,
-    "title": "RANGISARI (Audio) | JugJugg Jeeyo | Varun D, Kiara A, Anil K, Neetu K | Kanishk & Kavita | Bhushan K",
+    "title": "RANGISARI",
     "artist": "T-Series",
-    "album": "RANGISARI (Audio) | JugJugg Jeeyo | Varun D, Kiara A, Anil K, Neetu K | Kanishk & Kavita | Bhushan K",
+    "album": "RANGISARI",
     "genre": [
       "Music"
     ],
-    "year": 2026,
+    "year": "2026",
     "track": "",
     "duration": 223,
     "durationText": "03:43",
@@ -5151,7 +5150,7 @@
     "file": "music/75_Rangisari_From_Jugjugg_Jeeyo_SpotiDost.mp3",
     "cover": "covers/RANGISARI_(Audio)__JugJugg_Jeeyo__Varun_D,_Kiara_A,_Anil_K,_Neetu_K__Kanishk_&_Kavita__Bhushan_K.jpg"
   },
-    {
+  {
     "id": 315,
     "title": "Mitwa",
     "artist": "Shankar–Ehsaan–Loy - Topic",
@@ -5170,9 +5169,9 @@
   },
   {
     "id": 316,
-    "title": "KK | Zara Sa - Audio Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+    "title": "KK",
     "artist": "Sony Music India",
-    "album": "KK | Zara Sa - Audio Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+    "album": "KK",
     "genre": [
       "Music"
     ],
@@ -5187,9 +5186,9 @@
   },
   {
     "id": 317,
-    "title": "Ye Ishq Hai - Video Song | Jab We Met | Pritam | Shreya Ghoshal | Kareena Kapoor, Shahid Kapoor",
+    "title": "Ye Ishq Hai",
     "artist": "T-Series Bollywood Classics",
-    "album": "Ye Ishq Hai - Video Song | Jab We Met | Pritam | Shreya Ghoshal | Kareena Kapoor, Shahid Kapoor",
+    "album": "Ye Ishq Hai",
     "genre": [
       "Music"
     ],
@@ -5238,9 +5237,9 @@
   },
   {
     "id": 320,
-    "title": "Lagaan - Ghanan Ghanan (Lyrics) | Sukhwinder Singh, Shankar Mahadevan",
+    "title": "Lagaan - Ghanan Ghanan",
     "artist": "Polo Music Official",
-    "album": "Lagaan - Ghanan Ghanan (Lyrics) | Sukhwinder Singh, Shankar Mahadevan",
+    "album": "Lagaan - Ghanan Ghanan",
     "genre": [
       "Music"
     ],
@@ -5306,9 +5305,9 @@
   },
   {
     "id": 324,
-    "title": "O Re Piya (Lyrical) | Aaja Nachle | Rahat Fateh Ali Khan | Salim-Sulaiman",
+    "title": "O Re Piya",
     "artist": "Soulful Music AZ",
-    "album": "O Re Piya (Lyrical) | Aaja Nachle | Rahat Fateh Ali Khan | Salim-Sulaiman",
+    "album": "O Re Piya",
     "genre": [
       "Music"
     ],
@@ -5340,9 +5339,9 @@
   },
   {
     "id": 326,
-    "title": "Tu Hi Haqeeqat - Tum Mile|Official Bollywood Lyrics|Javed Ali",
+    "title": "Tu Hi Haqeeqat - Tum Mile",
     "artist": "LyricGuruVEVO",
-    "album": "Tu Hi Haqeeqat - Tum Mile|Official Bollywood Lyrics|Javed Ali",
+    "album": "Tu Hi Haqeeqat - Tum Mile",
     "genre": [
       "Music"
     ],
@@ -5357,9 +5356,9 @@
   },
   {
     "id": 327,
-    "title": "Uncha Lamba Kad | Full Audio | Welcome | Akshay Kumar | Katrina Kaif | Nana Patekar | Anil Kapoor",
+    "title": "Uncha Lamba Kad",
     "artist": "Times Music",
-    "album": "Uncha Lamba Kad | Full Audio | Welcome | Akshay Kumar | Katrina Kaif | Nana Patekar | Anil Kapoor",
+    "album": "Uncha Lamba Kad",
     "genre": [
       "Music"
     ],
@@ -5391,9 +5390,9 @@
   },
   {
     "id": 329,
-    "title": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020-",
+    "title": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020",
     "artist": "Rashid Ali Official",
-    "album": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020-",
+    "album": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020",
     "genre": [
       "Music"
     ],
@@ -5408,9 +5407,9 @@
   },
   {
     "id": 330,
-    "title": "A.R. Rahman - Tere Bina | Lyrical Song | Aishwarya Rai | Abhishek Bachchan | Guru | Gulzar",
+    "title": "A.R. Rahman - Tere Bina",
     "artist": "Sony Music India",
-    "album": "A.R. Rahman - Tere Bina | Lyrical Song | Aishwarya Rai | Abhishek Bachchan | Guru | Gulzar",
+    "album": "A.R. Rahman - Tere Bina",
     "genre": [
       "Music"
     ],
@@ -5425,9 +5424,9 @@
   },
   {
     "id": 331,
-    "title": "Tera Hone Laga Hoon Lyrical - Ajab Prem Ki Ghazab Kahani | Atif Aslam | Ranbir, Katrina K | Pritam",
+    "title": "Tera Hone Laga Hoon - Ajab Prem Ki Ghazab Kahani",
     "artist": "Tips Official",
-    "album": "Tera Hone Laga Hoon Lyrical - Ajab Prem Ki Ghazab Kahani | Atif Aslam | Ranbir, Katrina K | Pritam",
+    "album": "Tera Hone Laga Hoon - Ajab Prem Ki Ghazab Kahani",
     "genre": [
       "Music"
     ],
@@ -5459,9 +5458,9 @@
   },
   {
     "id": 333,
-    "title": "Aankhon Mein Teri Ajab Si (Lyrical) Om Shanti Om | K.K. | Shahrukh Khan | Deepika Padukone",
+    "title": "Aankhon Mein Teri Ajab Si Om Shanti Om",
     "artist": "T-Series",
-    "album": "Aankhon Mein Teri Ajab Si (Lyrical) Om Shanti Om | K.K. | Shahrukh Khan | Deepika Padukone",
+    "album": "Aankhon Mein Teri Ajab Si Om Shanti Om",
     "genre": [
       "Music"
     ],
@@ -5476,9 +5475,9 @@
   },
   {
     "id": 334,
-    "title": "Millionaire (Visualizer): Yo Yo Honey Singh | GLORY | Bhushan Kumar",
-    "artist": "T-Series",
-    "album": "Millionaire (Visualizer): Yo Yo Honey Singh | GLORY | Bhushan Kumar",
+    "title": "Millionaire",
+    "artist": "Yo Yo Honey Singh, GLORY, Bhushan Kumar",
+    "album": "Millionaire",
     "genre": [
       "Music"
     ],
@@ -5493,9 +5492,9 @@
   },
   {
     "id": 335,
-    "title": "Main Agar Saamne Lyrical | Raaz | Bipasha Basu, Dino Moreo | Abhijeet, Alka Yagnik |Hindi Hit Songs",
+    "title": "Main Agar Saamne",
     "artist": "Tips Official",
-    "album": "Main Agar Saamne Lyrical | Raaz | Bipasha Basu, Dino Moreo | Abhijeet, Alka Yagnik |Hindi Hit Songs",
+    "album": "Main Agar Saamne",
     "genre": [
       "Music"
     ],
@@ -5510,9 +5509,9 @@
   },
   {
     "id": 336,
-    "title": "Guzarish Lyrics - Ghajini | A. R. Rahman, Javed Ali, Sonu Nigam",
+    "title": "Guzarish - Ghajini",
     "artist": "Vibe Bird",
-    "album": "Guzarish Lyrics - Ghajini | A. R. Rahman, Javed Ali, Sonu Nigam",
+    "album": "Guzarish - Ghajini",
     "genre": [
       "Music"
     ],
@@ -5527,9 +5526,9 @@
   },
   {
     "id": 337,
-    "title": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Audio Song (Singer: Sukhwinder Singh)",
+    "title": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Song",
     "artist": "Samudragupta Movie Songs समुद्रगुप्त फिल्म के गाने",
-    "album": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Audio Song (Singer: Sukhwinder Singh)",
+    "album": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Song",
     "genre": [
       "Music"
     ],
@@ -5544,9 +5543,9 @@
   },
   {
     "id": 338,
-    "title": "Mann Ki Lagan | Rahat Fateh Ali Khan | John Abraham | Paap",
+    "title": "Mann Ki Lagan",
     "artist": "2000s Hindi Songs",
-    "album": "Mann Ki Lagan | Rahat Fateh Ali Khan | John Abraham | Paap",
+    "album": "Mann Ki Lagan",
     "genre": [
       "Music"
     ],
@@ -5612,9 +5611,9 @@
   },
   {
     "id": 342,
-    "title": "KK - Beete Lamhein - (Lyrics)",
+    "title": "KK - Beete Lamhein",
     "artist": "Musicgenree",
-    "album": "KK - Beete Lamhein - (Lyrics)",
+    "album": "KK - Beete Lamhein",
     "genre": [
       "Music"
     ],
@@ -5629,9 +5628,9 @@
   },
   {
     "id": 343,
-    "title": "Jab Se Tere Naina Lyrical Video - Saawariya | Ranbir Kapoor | Sonam Kapoor | Shaan",
+    "title": "Jab Se Tere Naina Video - Saawariya",
     "artist": "Sony Music India",
-    "album": "Jab Se Tere Naina Lyrical Video - Saawariya | Ranbir Kapoor | Sonam Kapoor | Shaan",
+    "album": "Jab Se Tere Naina Video - Saawariya",
     "genre": [
       "Music"
     ],
@@ -5646,9 +5645,9 @@
   },
   {
     "id": 344,
-    "title": "Le Le Mazaa Le - Video Song | Sajid -Wajid | Wanted | Salman Khan, Mahek Chahal",
+    "title": "Le Le Mazaa Le",
     "artist": "T-Series Bollywood Classics",
-    "album": "Le Le Mazaa Le - Video Song | Sajid -Wajid | Wanted | Salman Khan, Mahek Chahal",
+    "album": "Le Le Mazaa Le",
     "genre": [
       "Music"
     ],
@@ -5680,9 +5679,9 @@
   },
   {
     "id": 346,
-    "title": "Pehli nazar mein . Atif aslam.audio",
+    "title": "Pehli nazar mein . Atif aslam.",
     "artist": "Audio songs zone",
-    "album": "Pehli nazar mein . Atif aslam.audio",
+    "album": "Pehli nazar mein . Atif aslam.",
     "genre": [
       "Music"
     ],
@@ -5697,9 +5696,9 @@
   },
   {
     "id": 347,
-    "title": "Jo Bhi Kasmein Khai Thi Humne - Raaz | Bipasha Basu & Dino Morea | Alka Yagnik & Udit Narayan",
+    "title": "Jo Bhi Kasmein Khai Thi Humne - Raaz",
     "artist": "90's Gaane",
-    "album": "Jo Bhi Kasmein Khai Thi Humne - Raaz | Bipasha Basu & Dino Morea | Alka Yagnik & Udit Narayan",
+    "album": "Jo Bhi Kasmein Khai Thi Humne - Raaz",
     "genre": [
       "Music"
     ],
@@ -5714,9 +5713,9 @@
   },
   {
     "id": 348,
-    "title": "Is this Love - Kismat Konnection | Shahid Kapoor & Vidya Balan | Mohit & Shreya Ghoshal | Pritam",
+    "title": "Is this Love - Kismat Konnection",
     "artist": "Tips Official",
-    "album": "Is this Love - Kismat Konnection | Shahid Kapoor & Vidya Balan | Mohit & Shreya Ghoshal | Pritam",
+    "album": "Is this Love - Kismat Konnection",
     "genre": [
       "Music"
     ],
@@ -5731,9 +5730,9 @@
   },
   {
     "id": 349,
-    "title": "Jhalak Dikhla Ja (Lyrical) | Emraan Hashmi | Himesh Reshammiya | Aksar | Udita Goswami,Dino Morea",
+    "title": "Jhalak Dikhla Ja",
     "artist": "T-Series",
-    "album": "Jhalak Dikhla Ja (Lyrical) | Emraan Hashmi | Himesh Reshammiya | Aksar | Udita Goswami,Dino Morea",
+    "album": "Jhalak Dikhla Ja",
     "genre": [
       "Music"
     ],
@@ -5748,9 +5747,9 @@
   },
   {
     "id": 350,
-    "title": "Hum Pyaar Hai Tumhare (Jhankar)",
+    "title": "Hum Pyaar Hai Tumhare",
     "artist": "Kumar Sanu - Topic",
-    "album": "Hum Pyaar Hai Tumhare (Jhankar)",
+    "album": "Hum Pyaar Hai Tumhare",
     "genre": [
       "Music"
     ],
@@ -5765,9 +5764,9 @@
   },
   {
     "id": 351,
-    "title": "Dil De Diya Hai Lyrical Video | Masti | Anand Raj Anand | Vivek Oberoi,Amrita,Ritesh Deshmukh,Genila",
+    "title": "Dil De Diya Hai Video",
     "artist": "T-Series Bollywood Classics",
-    "album": "Dil De Diya Hai Lyrical Video | Masti | Anand Raj Anand | Vivek Oberoi,Amrita,Ritesh Deshmukh,Genila",
+    "album": "Dil De Diya Hai Video",
     "genre": [
       "Music"
     ],
@@ -5782,9 +5781,9 @@
   },
   {
     "id": 352,
-    "title": "Kal Ho Naa Ho - Lyrical Audio | Shahrukh Khan, Saif, Preity | Alka Y, Richa Sharma, Sonu Nigam",
+    "title": "Kal Ho Naa Ho",
     "artist": "Sony Music India",
-    "album": "Kal Ho Naa Ho - Lyrical Audio | Shahrukh Khan, Saif, Preity | Alka Y, Richa Sharma, Sonu Nigam",
+    "album": "Kal Ho Naa Ho",
     "genre": [
       "Music"
     ],
@@ -5816,9 +5815,9 @@
   },
   {
     "id": 354,
-    "title": "Sach Keh Raha Hai | सच कह रहा है के बोल | Lyrics |Dia Mirza,Madhavan| K.K |Rehnaa Hai Terre Dil Mein",
+    "title": "Sach Keh Raha Hai",
     "artist": "Saregama Music",
-    "album": "Sach Keh Raha Hai | सच कह रहा है के बोल | Lyrics |Dia Mirza,Madhavan| K.K |Rehnaa Hai Terre Dil Mein",
+    "album": "Sach Keh Raha Hai",
     "genre": [
       "Music"
     ],
@@ -5833,9 +5832,9 @@
   },
   {
     "id": 355,
-    "title": "Bole Chudiyan Full Video - K3G|Amitabh, Shah Rukh, Kajol, Kareena, Hrithik|Udit Narayan",
+    "title": "Bole Chudiyan Full Video - K3G",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "Bole Chudiyan Full Video - K3G|Amitabh, Shah Rukh, Kajol, Kareena, Hrithik|Udit Narayan",
+    "album": "Bole Chudiyan Full Video - K3G",
     "genre": [
       "Music"
     ],
@@ -5884,9 +5883,9 @@
   },
   {
     "id": 358,
-    "title": "Kajra Re Lyrical Song | Aishwarya, Abhishek, Amitabh | Shankar-Ehsaan-Loy, Alisha, Javed, Gulzar",
+    "title": "Kajra Re Song",
     "artist": "YRF",
-    "album": "Kajra Re Lyrical Song | Aishwarya, Abhishek, Amitabh | Shankar-Ehsaan-Loy, Alisha, Javed, Gulzar",
+    "album": "Kajra Re Song",
     "genre": [
       "Music"
     ],
@@ -5901,9 +5900,9 @@
   },
   {
     "id": 359,
-    "title": "Dil Ke Badle Sanam(romantic song) lyrics Udit Narayan, Alka Yagnik",
+    "title": "Dil Ke Badle Sanam Udit Narayan, Alka Yagnik",
     "artist": "Romeo music",
-    "album": "Dil Ke Badle Sanam(romantic song) lyrics Udit Narayan, Alka Yagnik",
+    "album": "Dil Ke Badle Sanam Udit Narayan, Alka Yagnik",
     "genre": [
       "Music"
     ],
@@ -5918,9 +5917,9 @@
   },
   {
     "id": 360,
-    "title": "Tere liye | Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta | Javed Akhtar, Madan Mohan",
+    "title": "Tere liye",
     "artist": "YRF",
-    "album": "Tere liye | Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta | Javed Akhtar, Madan Mohan",
+    "album": "Tere liye",
     "genre": [
       "Music"
     ],
@@ -5935,9 +5934,9 @@
   },
   {
     "id": 361,
-    "title": "Mere Haath Mein | Full Song | Fanaa | Aamir Khan, Kajol | Sonu Nigam, Sunidhi Chauhan | Jatin-Lalit",
+    "title": "Mere Haath Mein",
     "artist": "YRF",
-    "album": "Mere Haath Mein | Full Song | Fanaa | Aamir Khan, Kajol | Sonu Nigam, Sunidhi Chauhan | Jatin-Lalit",
+    "album": "Mere Haath Mein",
     "genre": [
       "Music"
     ],
@@ -5952,9 +5951,9 @@
   },
   {
     "id": 362,
-    "title": "Dil Dooba - Khakee (2004) Full Song Audio Akshay Kumar Aishwarya Rai Sonu Nigam  Shreya Ghoshal",
+    "title": "Dil Dooba - Khakee Akshay Kumar Aishwarya Rai Sonu Nigam Shreya Ghoshal",
     "artist": "Evergreen Hitzz",
-    "album": "Dil Dooba - Khakee (2004) Full Song Audio Akshay Kumar Aishwarya Rai Sonu Nigam  Shreya Ghoshal",
+    "album": "Dil Dooba - Khakee Akshay Kumar Aishwarya Rai Sonu Nigam Shreya Ghoshal",
     "genre": [
       "Music"
     ],
@@ -5986,9 +5985,9 @@
   },
   {
     "id": 364,
-    "title": "Tera Chehra | Adnan Sami | (HIGH QUALITY 5.1)",
+    "title": "Tera Chehra",
     "artist": "F L A C 9",
-    "album": "Tera Chehra | Adnan Sami | (HIGH QUALITY 5.1)",
+    "album": "Tera Chehra",
     "genre": [
       "Music"
     ],
@@ -6037,9 +6036,9 @@
   },
   {
     "id": 367,
-    "title": "Dope Shope (Lyrics) | Yo Yo Honey Singh | Kushuu lyrics",
+    "title": "Dope Shope",
     "artist": "Kushuu Lyrics",
-    "album": "Dope Shope (Lyrics) | Yo Yo Honey Singh | Kushuu lyrics",
+    "album": "Dope Shope",
     "genre": [
       "Music"
     ],
@@ -6054,9 +6053,9 @@
   },
   {
     "id": 368,
-    "title": "Dil Ne Yeh Kaha Hain Dil Se | Dhadkan (2000) Udit Narayan & Alka Yagnik (High quality & 5.1)",
+    "title": "Dil Ne Yeh Kaha Hain Dil Se",
     "artist": "F L A C 9",
-    "album": "Dil Ne Yeh Kaha Hain Dil Se | Dhadkan (2000) Udit Narayan & Alka Yagnik (High quality & 5.1)",
+    "album": "Dil Ne Yeh Kaha Hain Dil Se",
     "genre": [
       "Music"
     ],
@@ -6072,7 +6071,7 @@
   {
     "id": 369,
     "title": "Lyrical: You'Re My Love | Partner | Salman Khan, Lara Dutta, Govinda, Katreena Kaif |Sajid - Wajid",
-    "artist": "T-Series",
+    "artist": "You'Re My Love, Partner, Sajid - Wajid",
     "album": "Lyrical: You'Re My Love | Partner | Salman Khan, Lara Dutta, Govinda, Katreena Kaif |Sajid - Wajid",
     "genre": [
       "Music"
@@ -6088,9 +6087,9 @@
   },
   {
     "id": 370,
-    "title": "Desi Girl - Audio Lyrical | Priyanka C | Abhishek B | John A | Sunidhi Chauhan | Vishal D | Dostana",
+    "title": "Desi Girl",
     "artist": "Sony Music India",
-    "album": "Desi Girl - Audio Lyrical | Priyanka C | Abhishek B | John A | Sunidhi Chauhan | Vishal D | Dostana",
+    "album": "Desi Girl",
     "genre": [
       "Music"
     ],
@@ -6105,9 +6104,9 @@
   },
   {
     "id": 371,
-    "title": "Zara Zara Touch Me (Asian Rnb Mix)",
+    "title": "Zara Zara Touch Me",
     "artist": "Pritam - Topic",
-    "album": "Zara Zara Touch Me (Asian Rnb Mix)",
+    "album": "Zara Zara Touch Me",
     "genre": [
       "Music"
     ],
@@ -6139,9 +6138,9 @@
   },
   {
     "id": 373,
-    "title": "A.R. Rahman - Radha Kaise Na Jale Best Video|Lagaan|Aamir Khan|Asha Bhosle|Udit Narayan",
+    "title": "A.R. Rahman - Radha Kaise Na Jale Best Video",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "A.R. Rahman - Radha Kaise Na Jale Best Video|Lagaan|Aamir Khan|Asha Bhosle|Udit Narayan",
+    "album": "A.R. Rahman - Radha Kaise Na Jale Best Video",
     "genre": [
       "Music"
     ],
@@ -6156,9 +6155,9 @@
   },
   {
     "id": 374,
-    "title": "Chhoti Chhoti Raatein Full Song with Lyrics | Tum Bin | Priyanshu Chatterjee, Sandali, Himanshu",
+    "title": "Chhoti Chhoti Raatein with",
     "artist": "Bollywood Classics",
-    "album": "Chhoti Chhoti Raatein Full Song with Lyrics | Tum Bin | Priyanshu Chatterjee, Sandali, Himanshu",
+    "album": "Chhoti Chhoti Raatein with",
     "genre": [
       "Music"
     ],
@@ -6173,9 +6172,9 @@
   },
   {
     "id": 375,
-    "title": "Full Audio: Dus Bahane 2.0 | Baaghi 3 | Vishal & Shekhar FEAT. KK,Shaan&Tulsi Kumar | Tiger,Shraddha",
-    "artist": "T-Series",
-    "album": "Full Audio: Dus Bahane 2.0 | Baaghi 3 | Vishal & Shekhar FEAT. KK,Shaan&Tulsi Kumar | Tiger,Shraddha",
+    "title": "Full",
+    "artist": "Dus Bahane 2.0, Baaghi 3, Tiger,Shraddha",
+    "album": "Full",
     "genre": [
       "Music"
     ],
@@ -6190,9 +6189,9 @@
   },
   {
     "id": 376,
-    "title": "Hum Tum - Hum Tum (2004) - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
+    "title": "Hum Tum - Hum Tum - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
     "artist": "Leo Studio 27",
-    "album": "Hum Tum - Hum Tum (2004) - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
+    "album": "Hum Tum - Hum Tum - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
     "genre": [
       "Music"
     ],
@@ -6224,9 +6223,9 @@
   },
   {
     "id": 378,
-    "title": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "title": "Kath Lagda",
     "artist": "Zebron Records Music",
-    "album": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "album": "Kath Lagda",
     "genre": [
       "Music"
     ],
@@ -6241,9 +6240,9 @@
   },
   {
     "id": 379,
-    "title": "KUCH KHAAS Lyrical | Fashion | Priyanka Chopra, Kangna Ranawat | Mohit Chauhan, Neha Bhasin",
+    "title": "KUCH KHAAS",
     "artist": "T-Series",
-    "album": "KUCH KHAAS Lyrical | Fashion | Priyanka Chopra, Kangna Ranawat | Mohit Chauhan, Neha Bhasin",
+    "album": "KUCH KHAAS",
     "genre": [
       "Music"
     ],
@@ -6258,9 +6257,9 @@
   },
   {
     "id": 380,
-    "title": "You Are My Soniya (From \"Kabhi Khushi Kabhie Gham\")",
+    "title": "You Are My Soniya",
     "artist": "Sandesh Shandilya - Topic",
-    "album": "You Are My Soniya (From \"Kabhi Khushi Kabhie Gham\")",
+    "album": "You Are My Soniya",
     "genre": [
       "Music"
     ],
@@ -6275,9 +6274,9 @@
   },
   {
     "id": 381,
-    "title": "Chhaliya  | Tashan |Kareena Kapoor, Sunidhi Chauhan, Piyush Mishra, Vishal-Shekhar, Anvita Dutt",
+    "title": "Chhaliya",
     "artist": "MyTinyWorld-Pragati Karyappa",
-    "album": "Chhaliya  | Tashan |Kareena Kapoor, Sunidhi Chauhan, Piyush Mishra, Vishal-Shekhar, Anvita Dutt",
+    "album": "Chhaliya",
     "genre": [
       "Music"
     ],
@@ -6326,9 +6325,9 @@
   },
   {
     "id": 384,
-    "title": "Gela Gela Gela Lyrical - Aitraaz | Akshay Kumar, Kareena Kapoor | Adnan Sami, Sunidhi Chauhan",
+    "title": "Gela Gela Gela - Aitraaz",
     "artist": "Tips Official",
-    "album": "Gela Gela Gela Lyrical - Aitraaz | Akshay Kumar, Kareena Kapoor | Adnan Sami, Sunidhi Chauhan",
+    "album": "Gela Gela Gela - Aitraaz",
     "genre": [
       "Music"
     ],
@@ -6343,9 +6342,9 @@
   },
   {
     "id": 385,
-    "title": "Zara Zara | Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM",
+    "title": "Zara Zara",
     "artist": "Jjust Music",
-    "album": "Zara Zara | Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM",
+    "album": "Zara Zara",
     "genre": [
       "Music"
     ],
@@ -6361,7 +6360,7 @@
   {
     "id": 386,
     "title": "Lyrical: Deewangi Deewangi |  Om Shanti Om | Shahrukh Khan | Deepika Padukone | Vishal-Shekhar",
-    "artist": "T-Series",
+    "artist": "Deewangi Deewangi, Om Shanti Om, Shahrukh Khan, Deepika Padukone",
     "album": "Lyrical: Deewangi Deewangi |  Om Shanti Om | Shahrukh Khan | Deepika Padukone | Vishal-Shekhar",
     "genre": [
       "Music"
@@ -6377,9 +6376,9 @@
   },
   {
     "id": 387,
-    "title": "Mujhse Shadi Karogi Full Song | Mujhse Shaadi Karogi",
+    "title": "Mujhse Shadi Karogi",
     "artist": "T-Series",
-    "album": "Mujhse Shadi Karogi Full Song | Mujhse Shaadi Karogi",
+    "album": "Mujhse Shadi Karogi",
     "genre": [
       "Music"
     ],
@@ -6394,9 +6393,9 @@
   },
   {
     "id": 388,
-    "title": "Aaja Nachle | Madhuri Dixit | Sunidhi Chauhan",
+    "title": "Aaja Nachle",
     "artist": "Best of Lyrics and music",
-    "album": "Aaja Nachle | Madhuri Dixit | Sunidhi Chauhan",
+    "album": "Aaja Nachle",
     "genre": [
       "Music"
     ],
@@ -6411,9 +6410,9 @@
   },
   {
     "id": 389,
-    "title": "Blue Eyes - Yo Yo HONEY SINGH | Audio",
+    "title": "Blue Eyes - Yo Yo HONEY SINGH",
     "artist": "Trending One",
-    "album": "Blue Eyes - Yo Yo HONEY SINGH | Audio",
+    "album": "Blue Eyes - Yo Yo HONEY SINGH",
     "genre": [
       "Music"
     ],
@@ -6445,9 +6444,9 @@
   },
   {
     "id": 391,
-    "title": "Aahista Aahista || BACHNA AE HASEENO - 2008 || Shreya Ghoshal, Lucky Ali.",
+    "title": "Aahista Aahista",
     "artist": "MUSIC TOKRI",
-    "album": "Aahista Aahista || BACHNA AE HASEENO - 2008 || Shreya Ghoshal, Lucky Ali.",
+    "album": "Aahista Aahista",
     "genre": [
       "Music"
     ],
@@ -6462,9 +6461,9 @@
   },
   {
     "id": 392,
-    "title": "Suna Suna | Full Audio | Krishna Cottage | Shreya Ghoshal | Anu Malik | Sohail Khan | Isha Koppikar",
+    "title": "Suna Suna",
     "artist": "Times Music",
-    "album": "Suna Suna | Full Audio | Krishna Cottage | Shreya Ghoshal | Anu Malik | Sohail Khan | Isha Koppikar",
+    "album": "Suna Suna",
     "genre": [
       "Music"
     ],
@@ -6496,9 +6495,9 @@
   },
   {
     "id": 394,
-    "title": "Anand Raj Anand - Hoth Rasiley (Lyrics)",
+    "title": "Anand Raj Anand - Hoth Rasiley",
     "artist": "Polo Music Official",
-    "album": "Anand Raj Anand - Hoth Rasiley (Lyrics)",
+    "album": "Anand Raj Anand - Hoth Rasiley",
     "genre": [
       "Music"
     ],
@@ -6513,9 +6512,9 @@
   },
   {
     "id": 395,
-    "title": "Paisa Paisa - (best official audio) || Akshay Kumar 😍 || @HVmusic283",
+    "title": "Paisa Paisa",
     "artist": "HV Music",
-    "album": "Paisa Paisa - (best official audio) || Akshay Kumar 😍 || @HVmusic283",
+    "album": "Paisa Paisa",
     "genre": [
       "Music"
     ],
@@ -6564,9 +6563,9 @@
   },
   {
     "id": 398,
-    "title": "Pretty Woman Best Audio Song - Kal Ho Naa Ho|Shah Rukh Khan|Preity|Shankar Mahadevan",
+    "title": "Pretty Woman Best Song - Kal Ho Naa Ho",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "Pretty Woman Best Audio Song - Kal Ho Naa Ho|Shah Rukh Khan|Preity|Shankar Mahadevan",
+    "album": "Pretty Woman Best Song - Kal Ho Naa Ho",
     "genre": [
       "Music"
     ],
@@ -6581,9 +6580,9 @@
   },
   {
     "id": 399,
-    "title": "Dhan Te Nan - Full (Audio) Song | Kaminey | Shahid Kapoor, Priyanka Chopra | Vishal Bharadwaj",
+    "title": "Dhan Te Nan",
     "artist": "T-Series Bollywood Classics",
-    "album": "Dhan Te Nan - Full (Audio) Song | Kaminey | Shahid Kapoor, Priyanka Chopra | Vishal Bharadwaj",
+    "album": "Dhan Te Nan",
     "genre": [
       "Music"
     ],
@@ -6598,9 +6597,9 @@
   },
   {
     "id": 400,
-    "title": "Hood Ambience (3D AUDIO) - Navaan Sandhu | Bipolar",
+    "title": "Hood Ambience - Navaan Sandhu",
     "artist": "3D Music",
-    "album": "Hood Ambience (3D AUDIO) - Navaan Sandhu | Bipolar",
+    "album": "Hood Ambience - Navaan Sandhu",
     "genre": [
       "Music"
     ],
@@ -6615,9 +6614,9 @@
   },
   {
     "id": 401,
-    "title": "Koi Kahe Kehta Rahe Lyrical Video | Dil Chahta Hai | Aamir Khan, Akshaye Khanna, Saif Ali Khan",
+    "title": "Koi Kahe Kehta Rahe Video",
     "artist": "T-Series Bollywood Classics",
-    "album": "Koi Kahe Kehta Rahe Lyrical Video | Dil Chahta Hai | Aamir Khan, Akshaye Khanna, Saif Ali Khan",
+    "album": "Koi Kahe Kehta Rahe Video",
     "genre": [
       "Music"
     ],
@@ -6649,9 +6648,9 @@
   },
   {
     "id": 403,
-    "title": "Bhage Re Mann [Lyrics] Sunidhi Chauhan",
+    "title": "Bhage Re Mann Sunidhi Chauhan",
     "artist": "Rehantracks",
-    "album": "Bhage Re Mann [Lyrics] Sunidhi Chauhan",
+    "album": "Bhage Re Mann Sunidhi Chauhan",
     "genre": [
       "Music"
     ],
@@ -6683,9 +6682,9 @@
   },
   {
     "id": 405,
-    "title": "Suno Na Suno Na (Full Song) 8K | Shah Rukh Khan,Rani Mukherjee | Chalte Chalte| Abhijeet,Alka Yagnik",
+    "title": "Suno Na Suno Na 8K",
     "artist": "T-Series",
-    "album": "Suno Na Suno Na (Full Song) 8K | Shah Rukh Khan,Rani Mukherjee | Chalte Chalte| Abhijeet,Alka Yagnik",
+    "album": "Suno Na Suno Na 8K",
     "genre": [
       "Music"
     ],
@@ -6717,9 +6716,9 @@
   },
   {
     "id": 407,
-    "title": "Aaj Ki Raat || DON - The Chase Begins Again - 2006 || Sonu Nigam, Mahalakshmi Iyer, Alisha Chinai.",
+    "title": "Aaj Ki Raat",
     "artist": "MUSIC TOKRI",
-    "album": "Aaj Ki Raat || DON - The Chase Begins Again - 2006 || Sonu Nigam, Mahalakshmi Iyer, Alisha Chinai.",
+    "album": "Aaj Ki Raat",
     "genre": [
       "Music"
     ],
@@ -6751,9 +6750,9 @@
   },
   {
     "id": 409,
-    "title": "Chale Jaise Hawaien 8K Full Song | Amrita Rao | Shah Rukh Khan | Main Hoon Na | Zayed Khan",
+    "title": "Chale Jaise Hawaien 8K",
     "artist": "T-Series",
-    "album": "Chale Jaise Hawaien 8K Full Song | Amrita Rao | Shah Rukh Khan | Main Hoon Na | Zayed Khan",
+    "album": "Chale Jaise Hawaien 8K",
     "genre": [
       "Music"
     ],
@@ -6768,9 +6767,9 @@
   },
   {
     "id": 410,
-    "title": "Deewana Hai Dekho Best Audio - K3G|Hrithik Roshan|Kareena Kapoor|Alka Yagnik|Sonu Nigam",
+    "title": "Deewana Hai Dekho Best - K3G",
     "artist": "SonyMusicIndiaVEVO",
-    "album": "Deewana Hai Dekho Best Audio - K3G|Hrithik Roshan|Kareena Kapoor|Alka Yagnik|Sonu Nigam",
+    "album": "Deewana Hai Dekho Best - K3G",
     "genre": [
       "Music"
     ],
@@ -6785,9 +6784,9 @@
   },
   {
     "id": 411,
-    "title": "BROWN RANG [OFFICIAL VIDEO] - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
+    "title": "BROWN RANG - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
     "artist": "Moviebox Record Label",
-    "album": "BROWN RANG [OFFICIAL VIDEO] - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
+    "album": "BROWN RANG - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
     "genre": [
       "Music"
     ],
@@ -6819,9 +6818,9 @@
   },
   {
     "id": 413,
-    "title": "Banthan Chali Bolo - Lyrical | Sukhwinder Singh | Sunidhi Chauhan | Kurukshetra | Trending Songs",
+    "title": "Banthan Chali Bolo",
     "artist": "Saregama Music",
-    "album": "Banthan Chali Bolo - Lyrical | Sukhwinder Singh | Sunidhi Chauhan | Kurukshetra | Trending Songs",
+    "album": "Banthan Chali Bolo",
     "genre": [
       "Music"
     ],
@@ -6836,9 +6835,9 @@
   },
   {
     "id": 414,
-    "title": "Qayamat Qayamat __ Full Audio Lyrical Song __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
+    "title": "Qayamat Qayamat __ __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
     "artist": "Muskan Khan",
-    "album": "Qayamat Qayamat __ Full Audio Lyrical Song __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
+    "album": "Qayamat Qayamat __ __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
     "genre": [
       "Music"
     ],
@@ -6904,9 +6903,9 @@
   },
   {
     "id": 418,
-    "title": "Dil Mein Baji Guitar Lyrical - Apna Sapna Money Money | Riteish Deshmukh & Koena Mitra | Pritam",
+    "title": "Dil Mein Baji Guitar - Apna Sapna Money Money",
     "artist": "Tips Official",
-    "album": "Dil Mein Baji Guitar Lyrical - Apna Sapna Money Money | Riteish Deshmukh & Koena Mitra | Pritam",
+    "album": "Dil Mein Baji Guitar - Apna Sapna Money Money",
     "genre": [
       "Music"
     ],
@@ -6921,9 +6920,9 @@
   },
   {
     "id": 419,
-    "title": "Babuji Zara Dheere Chalo - Dum|Official Bollywood Lyrics|Sonu|Sukhwinder",
+    "title": "Babuji Zara Dheere Chalo - Dum",
     "artist": "LyricGuruVEVO",
-    "album": "Babuji Zara Dheere Chalo - Dum|Official Bollywood Lyrics|Sonu|Sukhwinder",
+    "album": "Babuji Zara Dheere Chalo - Dum",
     "genre": [
       "Music"
     ],
@@ -6938,9 +6937,9 @@
   },
   {
     "id": 420,
-    "title": "Maine Dil Se Kaha - K.K. - Rog [2005]",
+    "title": "Maine Dil Se Kaha - K.K. - Rog",
     "artist": "Saregama Music",
-    "album": "Maine Dil Se Kaha - K.K. - Rog [2005]",
+    "album": "Maine Dil Se Kaha - K.K. - Rog",
     "genre": [
       "Music"
     ],
@@ -6972,9 +6971,9 @@
   },
   {
     "id": 422,
-    "title": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
+    "title": "Boom Shaka",
     "artist": "KRSNA",
-    "album": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
+    "album": "Boom Shaka",
     "genre": [
       "Music"
     ],
@@ -7006,9 +7005,9 @@
   },
   {
     "id": 424,
-    "title": "Desi Kalakaar Full AUDIO Song | Yo Yo Honey Singh | Desi Kalakaar, Honey Singh New Songs 2014",
+    "title": "Desi Kalakaar",
     "artist": "T-Series",
-    "album": "Desi Kalakaar Full AUDIO Song | Yo Yo Honey Singh | Desi Kalakaar, Honey Singh New Songs 2014",
+    "album": "Desi Kalakaar",
     "genre": [
       "Music"
     ],
@@ -7023,9 +7022,9 @@
   },
   {
     "id": 425,
-    "title": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram M | 26th June",
+    "title": "Ucha Lamba Kad Forever",
     "artist": "Times Music",
-    "album": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram M | 26th June",
+    "album": "Ucha Lamba Kad Forever",
     "genre": [
       "Music"
     ],
@@ -7040,9 +7039,9 @@
   },
   {
     "id": 426,
-    "title": "\"BOSS Title Song\" Full Audio Feat. Yo Yo Honey Singh | Akshay Kumar | Meet Bros Anjjan",
+    "title": "\"BOSS Title Song\" Full Feat. Yo Yo Honey Singh",
     "artist": "T-Series",
-    "album": "\"BOSS Title Song\" Full Audio Feat. Yo Yo Honey Singh | Akshay Kumar | Meet Bros Anjjan",
+    "album": "\"BOSS Title Song\" Full Feat. Yo Yo Honey Singh",
     "genre": [
       "Music"
     ],
@@ -7057,9 +7056,9 @@
   },
   {
     "id": 427,
-    "title": "Yaad - Navaan Sandhu (official audio)",
+    "title": "Yaad - Navaan Sandhu",
     "artist": "Manni Yadav",
-    "album": "Yaad - Navaan Sandhu (official audio)",
+    "album": "Yaad - Navaan Sandhu",
     "genre": [
       "Music"
     ],
@@ -7091,9 +7090,9 @@
   },
   {
     "id": 429,
-    "title": "AADAT (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS | AP DHILLON",
-    "artist": "T-Series",
-    "album": "AADAT (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS | AP DHILLON",
+    "title": "AADAT",
+    "artist": "YO YO HONEY SINGH, 51 GLORIOUS DAYS, AP DHILLON",
+    "album": "AADAT",
     "genre": [
       "Music"
     ],
@@ -7142,9 +7141,9 @@
   },
   {
     "id": 432,
-    "title": "MAFIA (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
-    "artist": "T-Series",
-    "album": "MAFIA (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "title": "MAFIA",
+    "artist": "YO YO HONEY SINGH, 51 GLORIOUS DAYS",
+    "album": "MAFIA",
     "genre": [
       "Music"
     ],
@@ -7193,9 +7192,9 @@
   },
   {
     "id": 435,
-    "title": "Angreji Beat (Full Song): Yo Yo Honey Singh | Gippy Grewal|International Villager | NewPunjabi Songs",
-    "artist": "4Kmusic-topic",
-    "album": "Angreji Beat (Full Song): Yo Yo Honey Singh | Gippy Grewal|International Villager | NewPunjabi Songs",
+    "title": "Angreji Beat",
+    "artist": "Yo Yo Honey Singh, Gippy Grewal, International Villager",
+    "album": "Angreji Beat",
     "genre": [
       "Music"
     ],
@@ -7244,9 +7243,9 @@
   },
   {
     "id": 438,
-    "title": "Laal Pari (Audio): Yo Yo Honey Singh | Alfaaz | Simar Kaur | Housefull 5",
-    "artist": "T-Series",
-    "album": "Laal Pari (Audio): Yo Yo Honey Singh | Alfaaz | Simar Kaur | Housefull 5",
+    "title": "Laal Pari",
+    "artist": "Yo Yo Honey Singh, Alfaaz, Simar Kaur, Housefull 5",
+    "album": "Laal Pari",
     "genre": [
       "Music"
     ],
@@ -7278,9 +7277,9 @@
   },
   {
     "id": 440,
-    "title": "Kaafi Hai (Official Video) | Lakhwinder Wadali | Sufiyan Bhatt | Aishwarya Pandit | Hindi Songs 2026",
+    "title": "Kaafi Hai",
     "artist": "Wadali Music",
-    "album": "Kaafi Hai (Official Video) | Lakhwinder Wadali | Sufiyan Bhatt | Aishwarya Pandit | Hindi Songs 2026",
+    "album": "Kaafi Hai",
     "genre": [
       "Music"
     ],
@@ -7295,9 +7294,9 @@
   },
   {
     "id": 441,
-    "title": "Chaar Botal Vodka Lyrical Video Ragini MMS 2 | Yo Yo Honey Singh, Sunny Leone",
+    "title": "Chaar Botal Vodka Video Ragini MMS 2",
     "artist": "T-Series",
-    "album": "Chaar Botal Vodka Lyrical Video Ragini MMS 2 | Yo Yo Honey Singh, Sunny Leone",
+    "album": "Chaar Botal Vodka Video Ragini MMS 2",
     "genre": [
       "Music"
     ],
@@ -7312,9 +7311,9 @@
   },
   {
     "id": 442,
-    "title": "NAZAR (Official Music Video) - Armaan Gill & Arnaaz Gill | Tanu Grewal | STAR AND LIGHTNING",
+    "title": "NAZAR - Armaan Gill & Arnaaz Gill",
     "artist": "Chronicle Records",
-    "album": "NAZAR (Official Music Video) - Armaan Gill & Arnaaz Gill | Tanu Grewal | STAR AND LIGHTNING",
+    "album": "NAZAR - Armaan Gill & Arnaaz Gill",
     "genre": [
       "Music"
     ],
@@ -7329,9 +7328,9 @@
   },
   {
     "id": 443,
-    "title": "BINI | ‘First Luv’ Official Lyric Video",
+    "title": "BINI",
     "artist": "BINI Official",
-    "album": "BINI | ‘First Luv’ Official Lyric Video",
+    "album": "BINI",
     "genre": [
       "Music"
     ],
@@ -7346,9 +7345,9 @@
   },
   {
     "id": 444,
-    "title": "SAWAAL PUCHDI (Audio): YO YO HONEY SINGH | BOHEMIA | 51 GLORIOUS DAYS",
-    "artist": "T-Series",
-    "album": "SAWAAL PUCHDI (Audio): YO YO HONEY SINGH | BOHEMIA | 51 GLORIOUS DAYS",
+    "title": "SAWAAL PUCI",
+    "artist": "YO YO HONEY SINGH, BOHEMIA, 51 GLORIOUS DAYS",
+    "album": "SAWAAL PUCI",
     "genre": [
       "Music"
     ],
@@ -7363,9 +7362,9 @@
   },
   {
     "id": 445,
-    "title": "BREATHLESS (Official Music Video) - Arnaaz Gill and Armaan Gill",
+    "title": "BREATHLESS - Arnaaz Gill and Armaan Gill",
     "artist": "Chronicle Records",
-    "album": "BREATHLESS (Official Music Video) - Arnaaz Gill and Armaan Gill",
+    "album": "BREATHLESS - Arnaaz Gill and Armaan Gill",
     "genre": [
       "Music"
     ],
@@ -7397,9 +7396,9 @@
   },
   {
     "id": 447,
-    "title": "Mashooqa (Full HD Video) Kriti Sanon, Shahid Kapoor, Rashmika Mandanna | Cocktail 2 Songs | Pritam",
+    "title": "Mashooqa Kriti Sanon, Shahid Kapoor, Rashmika Mandanna",
     "artist": "iPop Superhits",
-    "album": "Mashooqa (Full HD Video) Kriti Sanon, Shahid Kapoor, Rashmika Mandanna | Cocktail 2 Songs | Pritam",
+    "album": "Mashooqa Kriti Sanon, Shahid Kapoor, Rashmika Mandanna",
     "genre": [
       "Music"
     ],
@@ -7414,9 +7413,9 @@
   },
   {
     "id": 448,
-    "title": "CHILLGUM (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
-    "artist": "T-Series",
-    "album": "CHILLGUM (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "title": "CHILLGUM",
+    "artist": "YO YO HONEY SINGH, 51 GLORIOUS DAYS",
+    "album": "CHILLGUM",
     "genre": [
       "Music"
     ],
@@ -7465,9 +7464,9 @@
   },
   {
     "id": 451,
-    "title": "KALAASTAR | Honey 3.0 | Yo Yo Honey Singh & Sonakshi Sinha | Zee Music Originals | Lyrical Video",
+    "title": "KALAASTAR",
     "artist": "Zee Music Company",
-    "album": "KALAASTAR | Honey 3.0 | Yo Yo Honey Singh & Sonakshi Sinha | Zee Music Originals | Lyrical Video",
+    "album": "KALAASTAR",
     "genre": [
       "Music"
     ],
@@ -7482,9 +7481,9 @@
   },
   {
     "id": 452,
-    "title": "JAS DHALIWAL | YOUNG THUGS | OFFICIAL MUSIC VIDEO | SPACE | 2K26",
+    "title": "JAS DHALIWAL",
     "artist": "Jas dhaliwal",
-    "album": "JAS DHALIWAL | YOUNG THUGS | OFFICIAL MUSIC VIDEO | SPACE | 2K26",
+    "album": "JAS DHALIWAL",
     "genre": [
       "Music"
     ],
@@ -7584,9 +7583,9 @@
   },
   {
     "id": 458,
-    "title": "PAYAL SONG (Official Video): YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY |",
+    "title": "PAYAL SONG",
     "artist": "RISHU KE MUMMY",
-    "album": "PAYAL SONG (Official Video): YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY |",
+    "album": "PAYAL SONG",
     "genre": [
       "Music"
     ],
@@ -7601,9 +7600,9 @@
   },
   {
     "id": 459,
-    "title": "Walk With Rats (Official Video) Jas Dhaliwal | Space | Indomi | New Punjabi Songs 2026",
+    "title": "Walk With Rats Jas Dhaliwal",
     "artist": "Indomi Entertainment",
-    "album": "Walk With Rats (Official Video) Jas Dhaliwal | Space | Indomi | New Punjabi Songs 2026",
+    "album": "Walk With Rats Jas Dhaliwal",
     "genre": [
       "Music"
     ],
@@ -7618,9 +7617,9 @@
   },
   {
     "id": 460,
-    "title": "Bulletproof (From \"Lukkhe\")",
+    "title": "Bulletproof",
     "artist": "King - Topic",
-    "album": "Bulletproof (From \"Lukkhe\")",
+    "album": "Bulletproof",
     "genre": [
       "Music"
     ],
@@ -7635,9 +7634,9 @@
   },
   {
     "id": 461,
-    "title": "One Thousand Miles Full AUDIO Song | Yo Yo Honey Singh, Desi Kalakaar, Honey Singh New Songs 2014",
+    "title": "One Thousand Miles",
     "artist": "T-Series",
-    "album": "One Thousand Miles Full AUDIO Song | Yo Yo Honey Singh, Desi Kalakaar, Honey Singh New Songs 2014",
+    "album": "One Thousand Miles",
     "genre": [
       "Music"
     ],
@@ -7669,9 +7668,9 @@
   },
   {
     "id": 463,
-    "title": "Naa chalda - Inder Kaur | Narinder Batth | Latest Punjabi Songs 2018 | White Notes Entertainment",
+    "title": "Naa chalda - Inder Kaur",
     "artist": "White Notes Entertainment",
-    "album": "Naa chalda - Inder Kaur | Narinder Batth | Latest Punjabi Songs 2018 | White Notes Entertainment",
+    "album": "Naa chalda - Inder Kaur",
     "genre": [
       "Music"
     ],
@@ -7686,9 +7685,9 @@
   },
   {
     "id": 464,
-    "title": "High Heels | Jaz dhami ft. Yo Yo Honey Singh | Audio |",
+    "title": "High Heels",
     "artist": "Rishika Bhatt",
-    "album": "High Heels | Jaz dhami ft. Yo Yo Honey Singh | Audio |",
+    "album": "High Heels",
     "genre": [
       "Music"
     ],
@@ -7720,9 +7719,9 @@
   },
   {
     "id": 466,
-    "title": "JAS DHALIWAL | HOT TOPIC | OFFICIAL VISUALIZER | SONA ROHIL | AIM-E Singh | 2K26",
+    "title": "JAS DHALIWAL",
     "artist": "Jas dhaliwal",
-    "album": "JAS DHALIWAL | HOT TOPIC | OFFICIAL VISUALIZER | SONA ROHIL | AIM-E Singh | 2K26",
+    "album": "JAS DHALIWAL",
     "genre": [
       "Music"
     ],
@@ -7737,9 +7736,9 @@
   },
   {
     "id": 467,
-    "title": "Maniac - Bonus Track [From \"Glory\"]",
+    "title": "Maniac - Bonus Track",
     "artist": "Honey Singh - Topic",
-    "album": "Maniac - Bonus Track [From \"Glory\"]",
+    "album": "Maniac - Bonus Track",
     "genre": [
       "Music"
     ],
@@ -7754,9 +7753,9 @@
   },
   {
     "id": 468,
-    "title": "Jab Talak (LYRICS) - Cocktail 2 | Arijit Singh, AKASA & Madhubanti Bagchi",
+    "title": "Jab Talak - Cocktail 2",
     "artist": "The Lyrics Record",
-    "album": "Jab Talak (LYRICS) - Cocktail 2 | Arijit Singh, AKASA & Madhubanti Bagchi",
+    "album": "Jab Talak - Cocktail 2",
     "genre": [
       "Music"
     ],
@@ -7788,9 +7787,9 @@
   },
   {
     "id": 470,
-    "title": "Chennai Express Title Song With Lyrics | Shahrukh Khan, Deepika Padukone",
+    "title": "Chennai Express Title Song With",
     "artist": "T-Series",
-    "album": "Chennai Express Title Song With Lyrics | Shahrukh Khan, Deepika Padukone",
+    "album": "Chennai Express Title Song With",
     "genre": [
       "Music"
     ],
@@ -7839,9 +7838,9 @@
   },
   {
     "id": 473,
-    "title": "Manali Trance | Yo Yo Honey Singh & Neha Kakkar | The Shaukeens | Lisa Haydon",
+    "title": "Manali Trance",
     "artist": "Zee Music Company",
-    "album": "Manali Trance | Yo Yo Honey Singh & Neha Kakkar | The Shaukeens | Lisa Haydon",
+    "album": "Manali Trance",
     "genre": [
       "Music"
     ],
@@ -7873,9 +7872,9 @@
   },
   {
     "id": 475,
-    "title": "DIVINE - You & I | Prod. by Zzorawar | Official Audio",
+    "title": "DIVINE - You & I",
     "artist": "DIVINE",
-    "album": "DIVINE - You & I | Prod. by Zzorawar | Official Audio",
+    "album": "DIVINE - You & I",
     "genre": [
       "Music"
     ],
@@ -7890,9 +7889,9 @@
   },
   {
     "id": 476,
-    "title": "Jingle Bell | Hommie Dilliwala Ft. Yo Yo Honey Singh (Official Video)",
+    "title": "Jingle Bell",
     "artist": "Yo Yo Honey Singh",
-    "album": "Jingle Bell | Hommie Dilliwala Ft. Yo Yo Honey Singh (Official Video)",
+    "album": "Jingle Bell",
     "genre": [
       "Music"
     ],
@@ -7907,9 +7906,9 @@
   },
   {
     "id": 477,
-    "title": "Baazigara (Official Video) | Afsana Khan x Snipr | Nitin Chauhan | Aveera | Elev8 Music",
+    "title": "Baazigara",
     "artist": "Elev8 Music",
-    "album": "Baazigara (Official Video) | Afsana Khan x Snipr | Nitin Chauhan | Aveera | Elev8 Music",
+    "album": "Baazigara",
     "genre": [
       "Music"
     ],
@@ -7924,9 +7923,9 @@
   },
   {
     "id": 478,
-    "title": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "title": "Kath Lagda",
     "artist": "Zebron Records Music",
-    "album": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "album": "Kath Lagda",
     "genre": [
       "Music"
     ],
@@ -7941,9 +7940,9 @@
   },
   {
     "id": 479,
-    "title": "ONE BOTTLE DOWN  - LYRICS -  YO! YO! HONEY SINGH - T-SERIES",
+    "title": "ONE BOTTLE DOWN - - YO! YO! HONEY SINGH - T-SERIES",
     "artist": "madness lyrics",
-    "album": "ONE BOTTLE DOWN  - LYRICS -  YO! YO! HONEY SINGH - T-SERIES",
+    "album": "ONE BOTTLE DOWN - - YO! YO! HONEY SINGH - T-SERIES",
     "genre": [
       "Music"
     ],
@@ -7975,9 +7974,9 @@
   },
   {
     "id": 481,
-    "title": "Wild Rivers - Amsterdam (Official Visualizer)",
+    "title": "Wild Rivers - Amsterdam",
     "artist": "Wild Rivers",
-    "album": "Wild Rivers - Amsterdam (Official Visualizer)",
+    "album": "Wild Rivers - Amsterdam",
     "genre": [
       "Music"
     ],
@@ -7992,9 +7991,9 @@
   },
   {
     "id": 482,
-    "title": "SUPERMAN Full Song | ZORAWAR | Yo Yo Honey Singh | T-Series",
+    "title": "SUPERMAN",
     "artist": "T-Series",
-    "album": "SUPERMAN Full Song | ZORAWAR | Yo Yo Honey Singh | T-Series",
+    "album": "SUPERMAN",
     "genre": [
       "Music"
     ],
@@ -8009,9 +8008,9 @@
   },
   {
     "id": 483,
-    "title": "Sachi Muchi (feat. Mellow D)",
+    "title": "Sachi Muchi",
     "artist": "Aariana - Topic",
-    "album": "Sachi Muchi (feat. Mellow D)",
+    "album": "Sachi Muchi",
     "genre": [
       "Music"
     ],
@@ -8026,9 +8025,9 @@
   },
   {
     "id": 484,
-    "title": "Tumhi Ho Bandhu | Cocktail | Neeraj Sridhar & Kavita Seth",
+    "title": "Tumhi Ho Bandhu",
     "artist": "Musical Music",
-    "album": "Tumhi Ho Bandhu | Cocktail | Neeraj Sridhar & Kavita Seth",
+    "album": "Tumhi Ho Bandhu",
     "genre": [
       "Music"
     ],
@@ -8043,9 +8042,9 @@
   },
   {
     "id": 485,
-    "title": "BIRTHDAY BASH",
+    "title": "BIRTAY BASH",
     "artist": "Yo Yo Honey Singh - Topic",
-    "album": "BIRTHDAY BASH",
+    "album": "BIRTAY BASH",
     "genre": [
       "Music"
     ],
@@ -8077,9 +8076,9 @@
   },
   {
     "id": 487,
-    "title": "Official: Issey Kehte Hain Hip Hop Full Video Song | Yo Yo Honey Singh | World Music Day",
-    "artist": "T-Series",
-    "album": "Official: Issey Kehte Hain Hip Hop Full Video Song | Yo Yo Honey Singh | World Music Day",
+    "title": "Official",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Official",
     "genre": [
       "Music"
     ],
@@ -8128,9 +8127,9 @@
   },
   {
     "id": 490,
-    "title": "Noor, Khan & Madhurxo - Aarzu (Official Audio)",
+    "title": "Noor, Khan & Madhurxo - Aarzu",
     "artist": "Noor",
-    "album": "Noor, Khan & Madhurxo - Aarzu (Official Audio)",
+    "album": "Noor, Khan & Madhurxo - Aarzu",
     "genre": [
       "Music"
     ],
