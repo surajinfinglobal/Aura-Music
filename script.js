@@ -1267,6 +1267,25 @@ document.addEventListener('click', e => {
   }
 });
 
+
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  const btn = document.querySelector(".fs-close");
+
+  if (!btn) return;
+
+  btn.addEventListener("touchstart", function(e){
+    e.preventDefault();
+    closeFullscreen();
+  }, { passive:false });
+
+  btn.addEventListener("click", function(e){
+    e.preventDefault();
+    closeFullscreen();
+  });
+
+});
 /* ═══════════════════════════════
    LOADING SCREEN
 ═══════════════════════════════ */

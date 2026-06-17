@@ -5150,5 +5150,2997 @@
     "sampleRate": 44100,
     "file": "music/75_Rangisari_From_Jugjugg_Jeeyo_SpotiDost.mp3",
     "cover": "covers/RANGISARI_(Audio)__JugJugg_Jeeyo__Varun_D,_Kiara_A,_Anil_K,_Neetu_K__Kanishk_&_Kavita__Bhushan_K.jpg"
+  },
+    {
+    "id": 315,
+    "title": "Mitwa",
+    "artist": "Shankar–Ehsaan–Loy - Topic",
+    "album": "Mitwa",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 383,
+    "durationText": "06:23",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/001_Mitwa_SpotiDost.mp3",
+    "cover": "covers_2/Mitwa.jpg"
+  },
+  {
+    "id": 316,
+    "title": "KK | Zara Sa - Audio Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+    "artist": "Sony Music India",
+    "album": "KK | Zara Sa - Audio Lyrical | Emraan Hashmi | Sonal Chauhan | Pritam | Sayeed Quadri | Jannat",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 308,
+    "durationText": "05:08",
+    "bitrate": 131179,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/002_Zara_Sa_SpotiDost.mp3",
+    "cover": "covers_2/Zara_Sa.jpg"
+  },
+  {
+    "id": 317,
+    "title": "Ye Ishq Hai - Video Song | Jab We Met | Pritam | Shreya Ghoshal | Kareena Kapoor, Shahid Kapoor",
+    "artist": "T-Series Bollywood Classics",
+    "album": "Ye Ishq Hai - Video Song | Jab We Met | Pritam | Shreya Ghoshal | Kareena Kapoor, Shahid Kapoor",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 265,
+    "durationText": "04:25",
+    "bitrate": 118457,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/003_Ye_Ishq_Hai_SpotiDost.mp3",
+    "cover": "covers_2/Ye_Ishq_Hai.jpg"
+  },
+  {
+    "id": 318,
+    "title": "Maahi",
+    "artist": "Shaarib Toshi - Topic",
+    "album": "Maahi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 329,
+    "durationText": "05:29",
+    "bitrate": 125577,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/004_Maahi_SpotiDost.mp3",
+    "cover": "covers_2/Aahista_Aahista.jpg"
+  },
+  {
+    "id": 319,
+    "title": "Mitwa",
+    "artist": "Shankar–Ehsaan–Loy - Topic",
+    "album": "Mitwa",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 383,
+    "durationText": "06:23",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/005_Mitwa_SpotiDost.mp3",
+    "cover": "covers_2/Mitwa.jpg"
+  },
+  {
+    "id": 320,
+    "title": "Lagaan - Ghanan Ghanan (Lyrics) | Sukhwinder Singh, Shankar Mahadevan",
+    "artist": "Polo Music Official",
+    "album": "Lagaan - Ghanan Ghanan (Lyrics) | Sukhwinder Singh, Shankar Mahadevan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 369,
+    "durationText": "06:09",
+    "bitrate": 144046,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/006_Ghanan_Ghanan_SpotiDost.mp3",
+    "cover": "covers_2/Ghanan_Ghanan.jpg"
+  },
+  {
+    "id": 321,
+    "title": "Teri Ore",
+    "artist": "Rahat Fateh Ali Khan - Topic",
+    "album": "Teri Ore",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 340,
+    "durationText": "05:40",
+    "bitrate": 137229,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/007_Teri_Ore_SpotiDost.mp3",
+    "cover": "covers_2/Teri_Ore.jpg"
+  },
+  {
+    "id": 322,
+    "title": "Kiya Kiya",
+    "artist": "Anand Raaj Anand - Topic",
+    "album": "Kiya Kiya",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 304,
+    "durationText": "05:04",
+    "bitrate": 130029,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/008_Kiya_Kiya_SpotiDost.mp3",
+    "cover": "covers_2/Kiya_Kiya.jpg"
+  },
+  {
+    "id": 323,
+    "title": "Ek Din Teri Raahon",
+    "artist": "Javed Ali - Topic",
+    "album": "Ek Din Teri Raahon",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 292,
+    "durationText": "04:52",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/009_Ek_Din_Teri_Raahon_SpotiDost.mp3",
+    "cover": "covers_2/Ek_Din_Teri_Raahon.jpg"
+  },
+  {
+    "id": 324,
+    "title": "O Re Piya (Lyrical) | Aaja Nachle | Rahat Fateh Ali Khan | Salim-Sulaiman",
+    "artist": "Soulful Music AZ",
+    "album": "O Re Piya (Lyrical) | Aaja Nachle | Rahat Fateh Ali Khan | Salim-Sulaiman",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 379,
+    "durationText": "06:19",
+    "bitrate": 128698,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/010_O_Re_Piya_SpotiDost.mp3",
+    "cover": "covers_2/O_Re_Piya.jpg"
+  },
+  {
+    "id": 325,
+    "title": "A.R. Rahman - Chale Chalo",
+    "artist": "Vighu Clasic Hindi Songs",
+    "album": "A.R. Rahman - Chale Chalo",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 397,
+    "durationText": "06:37",
+    "bitrate": 138984,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/011_Chale_Chalo_SpotiDost.mp3",
+    "cover": "covers_2/Chale_Chalo.jpg"
+  },
+  {
+    "id": 326,
+    "title": "Tu Hi Haqeeqat - Tum Mile|Official Bollywood Lyrics|Javed Ali",
+    "artist": "LyricGuruVEVO",
+    "album": "Tu Hi Haqeeqat - Tum Mile|Official Bollywood Lyrics|Javed Ali",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 303,
+    "durationText": "05:03",
+    "bitrate": 135087,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/012_Tu_Hi_Haqeeqat_SpotiDost.mp3",
+    "cover": "covers_2/Tu_Hi_Haqeeqat.jpg"
+  },
+  {
+    "id": 327,
+    "title": "Uncha Lamba Kad | Full Audio | Welcome | Akshay Kumar | Katrina Kaif | Nana Patekar | Anil Kapoor",
+    "artist": "Times Music",
+    "album": "Uncha Lamba Kad | Full Audio | Welcome | Akshay Kumar | Katrina Kaif | Nana Patekar | Anil Kapoor",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 277,
+    "durationText": "04:37",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/013_Ucha_Lamba_Kad_SpotiDost.mp3",
+    "cover": "covers_2/Ucha_Lamba_Kad.jpg"
+  },
+  {
+    "id": 328,
+    "title": "Lyrical: Main Yahaan Hoon Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta, Javed Akhtar",
+    "artist": "YRF",
+    "album": "Lyrical: Main Yahaan Hoon Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta, Javed Akhtar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 302,
+    "durationText": "05:02",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/014_Main_Yahaan_Hoon_SpotiDost.mp3",
+    "cover": "covers_2/Main_Yahaan_Hoon.jpg"
+  },
+  {
+    "id": 329,
+    "title": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020-",
+    "artist": "Rashid Ali Official",
+    "album": "Rashid Ali -Kabhi Kabhi Aditi Live Dubai With A R Rahman At Expo 2020-",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 214,
+    "durationText": "03:34",
+    "bitrate": 122199,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/015_Kabhi_Kabhi_Aditi_SpotiDost.mp3",
+    "cover": "covers_2/Kabhi_Kabhi_Aditi.jpg"
+  },
+  {
+    "id": 330,
+    "title": "A.R. Rahman - Tere Bina | Lyrical Song | Aishwarya Rai | Abhishek Bachchan | Guru | Gulzar",
+    "artist": "Sony Music India",
+    "album": "A.R. Rahman - Tere Bina | Lyrical Song | Aishwarya Rai | Abhishek Bachchan | Guru | Gulzar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 309,
+    "durationText": "05:09",
+    "bitrate": 131344,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/016_Tere_Bina_SpotiDost.mp3",
+    "cover": "covers_2/Tere_Bina.jpg"
+  },
+  {
+    "id": 331,
+    "title": "Tera Hone Laga Hoon Lyrical - Ajab Prem Ki Ghazab Kahani | Atif Aslam | Ranbir, Katrina K | Pritam",
+    "artist": "Tips Official",
+    "album": "Tera Hone Laga Hoon Lyrical - Ajab Prem Ki Ghazab Kahani | Atif Aslam | Ranbir, Katrina K | Pritam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 299,
+    "durationText": "04:59",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/017_Tera_Hone_Laga_Hoon_SpotiDost.mp3",
+    "cover": "covers_2/Tera_Hone_Laga_Hoon.jpg"
+  },
+  {
+    "id": 332,
+    "title": "SONI DE NAKHRE",
+    "artist": "Sneha Pant - Topic",
+    "album": "SONI DE NAKHRE",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 259,
+    "durationText": "04:19",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/018_Soni_De_Nakhre_SpotiDost.mp3",
+    "cover": "covers_2/Soni_De_Nakhre.jpg"
+  },
+  {
+    "id": 333,
+    "title": "Aankhon Mein Teri Ajab Si (Lyrical) Om Shanti Om | K.K. | Shahrukh Khan | Deepika Padukone",
+    "artist": "T-Series",
+    "album": "Aankhon Mein Teri Ajab Si (Lyrical) Om Shanti Om | K.K. | Shahrukh Khan | Deepika Padukone",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 261,
+    "durationText": "04:21",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/019_Ajab_Si_SpotiDost.mp3",
+    "cover": "covers_2/Ajab_Si.jpg"
+  },
+  {
+    "id": 334,
+    "title": "Millionaire (Visualizer): Yo Yo Honey Singh | GLORY | Bhushan Kumar",
+    "artist": "T-Series",
+    "album": "Millionaire (Visualizer): Yo Yo Honey Singh | GLORY | Bhushan Kumar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 199,
+    "durationText": "03:19",
+    "bitrate": 136772,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/01_Millionaire_SpotiDost.mp3",
+    "cover": "covers_2/Millionaire.jpg"
+  },
+  {
+    "id": 335,
+    "title": "Main Agar Saamne Lyrical | Raaz | Bipasha Basu, Dino Moreo | Abhijeet, Alka Yagnik |Hindi Hit Songs",
+    "artist": "Tips Official",
+    "album": "Main Agar Saamne Lyrical | Raaz | Bipasha Basu, Dino Moreo | Abhijeet, Alka Yagnik |Hindi Hit Songs",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 357,
+    "durationText": "05:57",
+    "bitrate": 129630,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/020_Main_Agar_Saamne_SpotiDost.mp3",
+    "cover": "covers_2/Main_Agar_Saamne.jpg"
+  },
+  {
+    "id": 336,
+    "title": "Guzarish Lyrics - Ghajini | A. R. Rahman, Javed Ali, Sonu Nigam",
+    "artist": "Vibe Bird",
+    "album": "Guzarish Lyrics - Ghajini | A. R. Rahman, Javed Ali, Sonu Nigam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 328,
+    "durationText": "05:28",
+    "bitrate": 126394,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/021_Guzarish_SpotiDost.mp3",
+    "cover": "covers_2/Guzarish.jpg"
+  },
+  {
+    "id": 337,
+    "title": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Audio Song (Singer: Sukhwinder Singh)",
+    "artist": "Samudragupta Movie Songs समुद्रगुप्त फिल्म के गाने",
+    "album": "Rab Ne Bana Di Jodi, 2008 - \"Haule Haule\" Audio Song (Singer: Sukhwinder Singh)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 264,
+    "durationText": "04:24",
+    "bitrate": 134618,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/022_Haule_Haule_SpotiDost.mp3",
+    "cover": "covers_2/Haule_Haule.jpg"
+  },
+  {
+    "id": 338,
+    "title": "Mann Ki Lagan | Rahat Fateh Ali Khan | John Abraham | Paap",
+    "artist": "2000s Hindi Songs",
+    "album": "Mann Ki Lagan | Rahat Fateh Ali Khan | John Abraham | Paap",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 305,
+    "durationText": "05:05",
+    "bitrate": 78305,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/023_Mann_Ki_Lagan_SpotiDost.mp3",
+    "cover": "covers_2/Mann_Ki_Lagan.jpg"
+  },
+  {
+    "id": 339,
+    "title": "Lyrical | Aankhein Khuli | Shah Rukh Khan, Aishwarya | Jatin-Lalit | Lata Mangeshkar, Udit | Anand",
+    "artist": "YRF",
+    "album": "Lyrical | Aankhein Khuli | Shah Rukh Khan, Aishwarya | Jatin-Lalit | Lata Mangeshkar, Udit | Anand",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 430,
+    "durationText": "07:10",
+    "bitrate": 137077,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/024_Aankhein_Khuli_SpotiDost.mp3",
+    "cover": "covers_2/Aankhein_Khuli.jpg"
+  },
+  {
+    "id": 340,
+    "title": "Falak Tak",
+    "artist": "Udit Narayan Jha - Topic",
+    "album": "Falak Tak",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 356,
+    "durationText": "05:56",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/025_Falak_Tak_SpotiDost.mp3",
+    "cover": "covers_2/Falak_Tak.jpg"
+  },
+  {
+    "id": 341,
+    "title": "Dil Laga Liya Maine",
+    "artist": "Alka Yagnik - Topic",
+    "album": "Dil Laga Liya Maine",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 271,
+    "durationText": "04:31",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/026_Dil_Laga_Liya_Maine_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Laga_Liya_Maine.jpg"
+  },
+  {
+    "id": 342,
+    "title": "KK - Beete Lamhein - (Lyrics)",
+    "artist": "Musicgenree",
+    "album": "KK - Beete Lamhein - (Lyrics)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 300,
+    "durationText": "05:00",
+    "bitrate": 113421,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/027_Beete_Lamhein_SpotiDost.mp3",
+    "cover": "covers_2/Beete_Lamhein.jpg"
+  },
+  {
+    "id": 343,
+    "title": "Jab Se Tere Naina Lyrical Video - Saawariya | Ranbir Kapoor | Sonam Kapoor | Shaan",
+    "artist": "Sony Music India",
+    "album": "Jab Se Tere Naina Lyrical Video - Saawariya | Ranbir Kapoor | Sonam Kapoor | Shaan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 285,
+    "durationText": "04:45",
+    "bitrate": 121152,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/028_Jab_Se_Tere_Naina_SpotiDost.mp3",
+    "cover": "covers_2/Jab_Se_Tere_Naina.jpg"
+  },
+  {
+    "id": 344,
+    "title": "Le Le Mazaa Le - Video Song | Sajid -Wajid | Wanted | Salman Khan, Mahek Chahal",
+    "artist": "T-Series Bollywood Classics",
+    "album": "Le Le Mazaa Le - Video Song | Sajid -Wajid | Wanted | Salman Khan, Mahek Chahal",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 244,
+    "durationText": "04:04",
+    "bitrate": 130642,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/029_Le_Le_Mazaa_Le_SpotiDost.mp3",
+    "cover": "covers_2/Le_Le_Mazaa_Le.jpg"
+  },
+  {
+    "id": 345,
+    "title": "Love Dose",
+    "artist": "Yo Yo Honey Singh - Topic",
+    "album": "Love Dose",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 224,
+    "durationText": "03:44",
+    "bitrate": 124439,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/02_Love_Dose_SpotiDost.mp3",
+    "cover": "covers_2/Love_Dose.jpg"
+  },
+  {
+    "id": 346,
+    "title": "Pehli nazar mein . Atif aslam.audio",
+    "artist": "Audio songs zone",
+    "album": "Pehli nazar mein . Atif aslam.audio",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 313,
+    "durationText": "05:13",
+    "bitrate": 118603,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/030_Pehli_Nazar_Mein_SpotiDost.mp3",
+    "cover": "covers_2/Pehli_Nazar_Mein.jpg"
+  },
+  {
+    "id": 347,
+    "title": "Jo Bhi Kasmein Khai Thi Humne - Raaz | Bipasha Basu & Dino Morea | Alka Yagnik & Udit Narayan",
+    "artist": "90's Gaane",
+    "album": "Jo Bhi Kasmein Khai Thi Humne - Raaz | Bipasha Basu & Dino Morea | Alka Yagnik & Udit Narayan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 335,
+    "durationText": "05:35",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/031_Jo_Bhi_Kasmein_SpotiDost.mp3",
+    "cover": "covers_2/Jo_Bhi_Kasmein.jpg"
+  },
+  {
+    "id": 348,
+    "title": "Is this Love - Kismat Konnection | Shahid Kapoor & Vidya Balan | Mohit & Shreya Ghoshal | Pritam",
+    "artist": "Tips Official",
+    "album": "Is this Love - Kismat Konnection | Shahid Kapoor & Vidya Balan | Mohit & Shreya Ghoshal | Pritam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 342,
+    "durationText": "05:42",
+    "bitrate": 101097,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/032_Is_This_Love_SpotiDost.mp3",
+    "cover": "covers_2/Is_This_Love.jpg"
+  },
+  {
+    "id": 349,
+    "title": "Jhalak Dikhla Ja (Lyrical) | Emraan Hashmi | Himesh Reshammiya | Aksar | Udita Goswami,Dino Morea",
+    "artist": "T-Series",
+    "album": "Jhalak Dikhla Ja (Lyrical) | Emraan Hashmi | Himesh Reshammiya | Aksar | Udita Goswami,Dino Morea",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 325,
+    "durationText": "05:25",
+    "bitrate": 130052,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/033_Jhalak_Dikhla_Ja_SpotiDost.mp3",
+    "cover": "covers_2/Jhalak_Dikhla_Ja.jpg"
+  },
+  {
+    "id": 350,
+    "title": "Hum Pyaar Hai Tumhare (Jhankar)",
+    "artist": "Kumar Sanu - Topic",
+    "album": "Hum Pyaar Hai Tumhare (Jhankar)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 421,
+    "durationText": "07:01",
+    "bitrate": 136732,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/034_Hum_Pyaar_Hai_Tumhare_SpotiDost.mp3",
+    "cover": "covers_2/Hum_Pyaar_Hai_Tumhare.jpg"
+  },
+  {
+    "id": 351,
+    "title": "Dil De Diya Hai Lyrical Video | Masti | Anand Raj Anand | Vivek Oberoi,Amrita,Ritesh Deshmukh,Genila",
+    "artist": "T-Series Bollywood Classics",
+    "album": "Dil De Diya Hai Lyrical Video | Masti | Anand Raj Anand | Vivek Oberoi,Amrita,Ritesh Deshmukh,Genila",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 364,
+    "durationText": "06:04",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/035_Dil_De_Diya_Hai_SpotiDost.mp3",
+    "cover": "covers_2/Dil_De_Diya_Hai.jpg"
+  },
+  {
+    "id": 352,
+    "title": "Kal Ho Naa Ho - Lyrical Audio | Shahrukh Khan, Saif, Preity | Alka Y, Richa Sharma, Sonu Nigam",
+    "artist": "Sony Music India",
+    "album": "Kal Ho Naa Ho - Lyrical Audio | Shahrukh Khan, Saif, Preity | Alka Y, Richa Sharma, Sonu Nigam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 324,
+    "durationText": "05:24",
+    "bitrate": 119111,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/036_Kal_Ho_Naa_Ho_SpotiDost.mp3",
+    "cover": "covers_2/Kal_Ho_Naa_Ho.jpg"
+  },
+  {
+    "id": 353,
+    "title": "MASAKALI",
+    "artist": "Mohit Chauhan - Topic",
+    "album": "MASAKALI",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 289,
+    "durationText": "04:49",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/037_Masakali_SpotiDost.mp3",
+    "cover": "covers_2/Masakali.jpg"
+  },
+  {
+    "id": 354,
+    "title": "Sach Keh Raha Hai | सच कह रहा है के बोल | Lyrics |Dia Mirza,Madhavan| K.K |Rehnaa Hai Terre Dil Mein",
+    "artist": "Saregama Music",
+    "album": "Sach Keh Raha Hai | सच कह रहा है के बोल | Lyrics |Dia Mirza,Madhavan| K.K |Rehnaa Hai Terre Dil Mein",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 349,
+    "durationText": "05:49",
+    "bitrate": 79520,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/038_Such_Keh_Raha_Hai_SpotiDost.mp3",
+    "cover": "covers_2/Such_Keh_Raha_Hai.jpg"
+  },
+  {
+    "id": 355,
+    "title": "Bole Chudiyan Full Video - K3G|Amitabh, Shah Rukh, Kajol, Kareena, Hrithik|Udit Narayan",
+    "artist": "SonyMusicIndiaVEVO",
+    "album": "Bole Chudiyan Full Video - K3G|Amitabh, Shah Rukh, Kajol, Kareena, Hrithik|Udit Narayan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 404,
+    "durationText": "06:44",
+    "bitrate": 138543,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/039_Bole_Chudiyan_SpotiDost.mp3",
+    "cover": "covers_2/Bole_Chudiyan.jpg"
+  },
+  {
+    "id": 356,
+    "title": "PARIS",
+    "artist": "Guru Randhawa - Topic",
+    "album": "PARIS",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 119,
+    "durationText": "01:59",
+    "bitrate": 128905,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/03_PARIS_SpotiDost.mp3",
+    "cover": "covers_2/PARIS.jpg"
+  },
+  {
+    "id": 357,
+    "title": "TUMSE MILKE DIL KA",
+    "artist": "Sonu Nigam - Topic",
+    "album": "TUMSE MILKE DIL KA",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 359,
+    "durationText": "05:59",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/040_Tumse_Milke_Dil_Ka_SpotiDost.mp3",
+    "cover": "covers_2/Tumse_Milke_Dil_Ka.jpg"
+  },
+  {
+    "id": 358,
+    "title": "Kajra Re Lyrical Song | Aishwarya, Abhishek, Amitabh | Shankar-Ehsaan-Loy, Alisha, Javed, Gulzar",
+    "artist": "YRF",
+    "album": "Kajra Re Lyrical Song | Aishwarya, Abhishek, Amitabh | Shankar-Ehsaan-Loy, Alisha, Javed, Gulzar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 491,
+    "durationText": "08:11",
+    "bitrate": 136150,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/041_Kajra_Re_SpotiDost.mp3",
+    "cover": "covers_2/Kajra_Re.jpg"
+  },
+  {
+    "id": 359,
+    "title": "Dil Ke Badle Sanam(romantic song) lyrics Udit Narayan, Alka Yagnik",
+    "artist": "Romeo music",
+    "album": "Dil Ke Badle Sanam(romantic song) lyrics Udit Narayan, Alka Yagnik",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 255,
+    "durationText": "04:15",
+    "bitrate": 120777,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/042_Dil_Ke_Badle_Sanam_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Ke_Badle_Sanam.jpg"
+  },
+  {
+    "id": 360,
+    "title": "Tere liye | Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta | Javed Akhtar, Madan Mohan",
+    "artist": "YRF",
+    "album": "Tere liye | Song with Lyrics | Veer-Zaara | Shah Rukh Khan, Preity Zinta | Javed Akhtar, Madan Mohan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 335,
+    "durationText": "05:35",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/043_Tere_Liye_SpotiDost.mp3",
+    "cover": "covers_2/Tere_Liye.jpg"
+  },
+  {
+    "id": 361,
+    "title": "Mere Haath Mein | Full Song | Fanaa | Aamir Khan, Kajol | Sonu Nigam, Sunidhi Chauhan | Jatin-Lalit",
+    "artist": "YRF",
+    "album": "Mere Haath Mein | Full Song | Fanaa | Aamir Khan, Kajol | Sonu Nigam, Sunidhi Chauhan | Jatin-Lalit",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 283,
+    "durationText": "04:43",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/044_Mere_Haath_Mein_SpotiDost.mp3",
+    "cover": "covers_2/Mere_Haath_Mein.jpg"
+  },
+  {
+    "id": 362,
+    "title": "Dil Dooba - Khakee (2004) Full Song Audio Akshay Kumar Aishwarya Rai Sonu Nigam  Shreya Ghoshal",
+    "artist": "Evergreen Hitzz",
+    "album": "Dil Dooba - Khakee (2004) Full Song Audio Akshay Kumar Aishwarya Rai Sonu Nigam  Shreya Ghoshal",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 229,
+    "durationText": "03:49",
+    "bitrate": 131715,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/045_Dil_Dooba_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Dooba.jpg"
+  },
+  {
+    "id": 363,
+    "title": "Woh Ladki Hai Kahan",
+    "artist": "Shaan - Topic",
+    "album": "Woh Ladki Hai Kahan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 306,
+    "durationText": "05:06",
+    "bitrate": 129772,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/046_Woh_Ladki_Hai_Kahan_SpotiDost.mp3",
+    "cover": "covers_2/Woh_Ladki_Hai_Kahan.jpg"
+  },
+  {
+    "id": 364,
+    "title": "Tera Chehra | Adnan Sami | (HIGH QUALITY 5.1)",
+    "artist": "F L A C 9",
+    "album": "Tera Chehra | Adnan Sami | (HIGH QUALITY 5.1)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 392,
+    "durationText": "06:32",
+    "bitrate": 127552,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/047_Tera_Chehra_SpotiDost.mp3",
+    "cover": "covers_2/Tera_Chehra.jpg"
+  },
+  {
+    "id": 365,
+    "title": "Dard - E - Disco",
+    "artist": "Sukhwinder Singh - Topic",
+    "album": "Dard - E - Disco",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 269,
+    "durationText": "04:29",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/048_Dard_-_E_-_Disco_SpotiDost.mp3",
+    "cover": "covers_2/Dard_-_E_-_Disco.jpg"
+  },
+  {
+    "id": 366,
+    "title": "Kitni Bechain Hoke",
+    "artist": "Alka Yagnik - Topic",
+    "album": "Kitni Bechain Hoke",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 445,
+    "durationText": "07:25",
+    "bitrate": 135928,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/049_Kitni_Bechain_Hoke_SpotiDost.mp3",
+    "cover": "covers_2/Kitni_Bechain_Hoke.jpg"
+  },
+  {
+    "id": 367,
+    "title": "Dope Shope (Lyrics) | Yo Yo Honey Singh | Kushuu lyrics",
+    "artist": "Kushuu Lyrics",
+    "album": "Dope Shope (Lyrics) | Yo Yo Honey Singh | Kushuu lyrics",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 188,
+    "durationText": "03:08",
+    "bitrate": 140747,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/04_Dope_Shope_SpotiDost.mp3",
+    "cover": "covers_2/Dope_Shope.jpg"
+  },
+  {
+    "id": 368,
+    "title": "Dil Ne Yeh Kaha Hain Dil Se | Dhadkan (2000) Udit Narayan & Alka Yagnik (High quality & 5.1)",
+    "artist": "F L A C 9",
+    "album": "Dil Ne Yeh Kaha Hain Dil Se | Dhadkan (2000) Udit Narayan & Alka Yagnik (High quality & 5.1)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 426,
+    "durationText": "07:06",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/050_Dil_Ne_Yeh_Kaha_Hain_Dil_Se_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Ne_Yeh_Kaha_Hain_Dil_Se.jpg"
+  },
+  {
+    "id": 369,
+    "title": "Lyrical: You'Re My Love | Partner | Salman Khan, Lara Dutta, Govinda, Katreena Kaif |Sajid - Wajid",
+    "artist": "T-Series",
+    "album": "Lyrical: You'Re My Love | Partner | Salman Khan, Lara Dutta, Govinda, Katreena Kaif |Sajid - Wajid",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 293,
+    "durationText": "04:53",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/051_Youre_My_Love_SpotiDost.mp3",
+    "cover": "covers_2/Youre_My_Love.jpg"
+  },
+  {
+    "id": 370,
+    "title": "Desi Girl - Audio Lyrical | Priyanka C | Abhishek B | John A | Sunidhi Chauhan | Vishal D | Dostana",
+    "artist": "Sony Music India",
+    "album": "Desi Girl - Audio Lyrical | Priyanka C | Abhishek B | John A | Sunidhi Chauhan | Vishal D | Dostana",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 303,
+    "durationText": "05:03",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/052_Desi_Girl_SpotiDost.mp3",
+    "cover": "covers_2/Desi_Girl.jpg"
+  },
+  {
+    "id": 371,
+    "title": "Zara Zara Touch Me (Asian Rnb Mix)",
+    "artist": "Pritam - Topic",
+    "album": "Zara Zara Touch Me (Asian Rnb Mix)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 241,
+    "durationText": "04:01",
+    "bitrate": 135309,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/053_Zara_Zara_Touch_Me_SpotiDost.mp3",
+    "cover": "covers_2/Zara_Zara_Touch_Me.jpg"
+  },
+  {
+    "id": 372,
+    "title": "Ve Maahi",
+    "artist": "Arijit Singh - Topic",
+    "album": "Ve Maahi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 224,
+    "durationText": "03:44",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/054_Maahi_Ve_SpotiDost.mp3",
+    "cover": "covers_2/Maahi_Ve.jpg"
+  },
+  {
+    "id": 373,
+    "title": "A.R. Rahman - Radha Kaise Na Jale Best Video|Lagaan|Aamir Khan|Asha Bhosle|Udit Narayan",
+    "artist": "SonyMusicIndiaVEVO",
+    "album": "A.R. Rahman - Radha Kaise Na Jale Best Video|Lagaan|Aamir Khan|Asha Bhosle|Udit Narayan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2015",
+    "track": "",
+    "duration": 335,
+    "durationText": "05:35",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/055_Radha_Kaise_Na_Jale_SpotiDost.mp3",
+    "cover": "covers_2/Radha_Kaise_Na_Jale.jpg"
+  },
+  {
+    "id": 374,
+    "title": "Chhoti Chhoti Raatein Full Song with Lyrics | Tum Bin | Priyanshu Chatterjee, Sandali, Himanshu",
+    "artist": "Bollywood Classics",
+    "album": "Chhoti Chhoti Raatein Full Song with Lyrics | Tum Bin | Priyanshu Chatterjee, Sandali, Himanshu",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 327,
+    "durationText": "05:27",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/056_Chhoti_Chhoti_Raatein_SpotiDost.mp3",
+    "cover": "covers_2/Chhoti_Chhoti_Raatein.jpg"
+  },
+  {
+    "id": 375,
+    "title": "Full Audio: Dus Bahane 2.0 | Baaghi 3 | Vishal & Shekhar FEAT. KK,Shaan&Tulsi Kumar | Tiger,Shraddha",
+    "artist": "T-Series",
+    "album": "Full Audio: Dus Bahane 2.0 | Baaghi 3 | Vishal & Shekhar FEAT. KK,Shaan&Tulsi Kumar | Tiger,Shraddha",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 202,
+    "durationText": "03:22",
+    "bitrate": 140277,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/057_Dus_Bahane_SpotiDost.mp3",
+    "cover": "covers_2/Dus_Bahane.jpg"
+  },
+  {
+    "id": 376,
+    "title": "Hum Tum - Hum Tum (2004) - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
+    "artist": "Leo Studio 27",
+    "album": "Hum Tum - Hum Tum (2004) - Alka Yagnik & Babul Supriyo - Jatin Lalit - 320Kbps",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 329,
+    "durationText": "05:29",
+    "bitrate": 139191,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/058_Hum_Tum_SpotiDost.mp3",
+    "cover": "covers_2/Hum_Tum.jpg"
+  },
+  {
+    "id": 377,
+    "title": "SONIYE",
+    "artist": "KK - Topic",
+    "album": "SONIYE",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 297,
+    "durationText": "04:57",
+    "bitrate": 119003,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/059_Soniye_SpotiDost.mp3",
+    "cover": "covers_2/Soniye.jpg"
+  },
+  {
+    "id": 378,
+    "title": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "artist": "Zebron Records Music",
+    "album": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 312,
+    "durationText": "05:12",
+    "bitrate": 122057,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/05_Kath_Lagda_SpotiDost.mp3",
+    "cover": "covers_2/Kath_Lagda.jpg"
+  },
+  {
+    "id": 379,
+    "title": "KUCH KHAAS Lyrical | Fashion | Priyanka Chopra, Kangna Ranawat | Mohit Chauhan, Neha Bhasin",
+    "artist": "T-Series",
+    "album": "KUCH KHAAS Lyrical | Fashion | Priyanka Chopra, Kangna Ranawat | Mohit Chauhan, Neha Bhasin",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 315,
+    "durationText": "05:15",
+    "bitrate": 135266,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/060_Kuchh_Khaas_SpotiDost.mp3",
+    "cover": "covers_2/Kuchh_Khaas.jpg"
+  },
+  {
+    "id": 380,
+    "title": "You Are My Soniya (From \"Kabhi Khushi Kabhie Gham\")",
+    "artist": "Sandesh Shandilya - Topic",
+    "album": "You Are My Soniya (From \"Kabhi Khushi Kabhie Gham\")",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 344,
+    "durationText": "05:44",
+    "bitrate": 134587,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/061_You_Are_My_Soniya_SpotiDost.mp3",
+    "cover": "covers_2/You_Are_My_Soniya.jpg"
+  },
+  {
+    "id": 381,
+    "title": "Chhaliya  | Tashan |Kareena Kapoor, Sunidhi Chauhan, Piyush Mishra, Vishal-Shekhar, Anvita Dutt",
+    "artist": "MyTinyWorld-Pragati Karyappa",
+    "album": "Chhaliya  | Tashan |Kareena Kapoor, Sunidhi Chauhan, Piyush Mishra, Vishal-Shekhar, Anvita Dutt",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 281,
+    "durationText": "04:41",
+    "bitrate": 121332,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/062_Chhaliya_SpotiDost.mp3",
+    "cover": "covers_2/Chhaliya.jpg"
+  },
+  {
+    "id": 382,
+    "title": "Tainu Leke - Remix",
+    "artist": "Sonu Nigam - Topic",
+    "album": "Tainu Leke - Remix",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 265,
+    "durationText": "04:25",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/063_Tainu_Leke_SpotiDost.mp3",
+    "cover": "covers_2/Tainu_Leke.jpg"
+  },
+  {
+    "id": 383,
+    "title": "OODHNI",
+    "artist": "Udit Narayan - Topic",
+    "album": "OODHNI",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 410,
+    "durationText": "06:50",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/064_Oodhni_SpotiDost.mp3",
+    "cover": "covers_2/Oodhni.jpg"
+  },
+  {
+    "id": 384,
+    "title": "Gela Gela Gela Lyrical - Aitraaz | Akshay Kumar, Kareena Kapoor | Adnan Sami, Sunidhi Chauhan",
+    "artist": "Tips Official",
+    "album": "Gela Gela Gela Lyrical - Aitraaz | Akshay Kumar, Kareena Kapoor | Adnan Sami, Sunidhi Chauhan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 274,
+    "durationText": "04:34",
+    "bitrate": 133013,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/065_Gela_Gela_Gela_SpotiDost.mp3",
+    "cover": "covers_2/Gela_Gela_Gela.jpg"
+  },
+  {
+    "id": 385,
+    "title": "Zara Zara | Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM",
+    "artist": "Jjust Music",
+    "album": "Zara Zara | Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 284,
+    "durationText": "04:44",
+    "bitrate": 112081,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/066_Zara_Zara_SpotiDost.mp3",
+    "cover": "covers_2/Zara_Zara.jpg"
+  },
+  {
+    "id": 386,
+    "title": "Lyrical: Deewangi Deewangi |  Om Shanti Om | Shahrukh Khan | Deepika Padukone | Vishal-Shekhar",
+    "artist": "T-Series",
+    "album": "Lyrical: Deewangi Deewangi |  Om Shanti Om | Shahrukh Khan | Deepika Padukone | Vishal-Shekhar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 371,
+    "durationText": "06:11",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/067_Deewangi_Deewangi_SpotiDost.mp3",
+    "cover": "covers_2/Deewangi_Deewangi.jpg"
+  },
+  {
+    "id": 387,
+    "title": "Mujhse Shadi Karogi Full Song | Mujhse Shaadi Karogi",
+    "artist": "T-Series",
+    "album": "Mujhse Shadi Karogi Full Song | Mujhse Shaadi Karogi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 308,
+    "durationText": "05:08",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/068_Mujhse_Shaadi_Karogi_SpotiDost.mp3",
+    "cover": "covers_2/Mujhse_Shaadi_Karogi.jpg"
+  },
+  {
+    "id": 388,
+    "title": "Aaja Nachle | Madhuri Dixit | Sunidhi Chauhan",
+    "artist": "Best of Lyrics and music",
+    "album": "Aaja Nachle | Madhuri Dixit | Sunidhi Chauhan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 300,
+    "durationText": "05:00",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/069_Aaja_Nachle_SpotiDost.mp3",
+    "cover": "covers_2/Aaja_Nachle.jpg"
+  },
+  {
+    "id": 389,
+    "title": "Blue Eyes - Yo Yo HONEY SINGH | Audio",
+    "artist": "Trending One",
+    "album": "Blue Eyes - Yo Yo HONEY SINGH | Audio",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 221,
+    "durationText": "03:41",
+    "bitrate": 120902,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/06_Blue_Eyes_SpotiDost.mp3",
+    "cover": "covers_2/Blue_Eyes.jpg"
+  },
+  {
+    "id": 390,
+    "title": "Kola Laka Vellari",
+    "artist": "Himesh Reshammiya - Topic",
+    "album": "Kola Laka Vellari",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 338,
+    "durationText": "05:38",
+    "bitrate": 130509,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/070_Kola_Laka_Vellari_SpotiDost.mp3",
+    "cover": "covers_2/Kola_Laka_Vellari.jpg"
+  },
+  {
+    "id": 391,
+    "title": "Aahista Aahista || BACHNA AE HASEENO - 2008 || Shreya Ghoshal, Lucky Ali.",
+    "artist": "MUSIC TOKRI",
+    "album": "Aahista Aahista || BACHNA AE HASEENO - 2008 || Shreya Ghoshal, Lucky Ali.",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 352,
+    "durationText": "05:52",
+    "bitrate": 139756,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/071_Aahista_Aahista_SpotiDost.mp3",
+    "cover": "covers_2/Aahista_Aahista.jpg"
+  },
+  {
+    "id": 392,
+    "title": "Suna Suna | Full Audio | Krishna Cottage | Shreya Ghoshal | Anu Malik | Sohail Khan | Isha Koppikar",
+    "artist": "Times Music",
+    "album": "Suna Suna | Full Audio | Krishna Cottage | Shreya Ghoshal | Anu Malik | Sohail Khan | Isha Koppikar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 450,
+    "durationText": "07:30",
+    "bitrate": 125724,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/072_Suna_Suna_SpotiDost.mp3",
+    "cover": "covers_2/Suna_Suna.jpg"
+  },
+  {
+    "id": 393,
+    "title": "Tu Meri Dost Hain",
+    "artist": "Shreya Ghoshal - Topic",
+    "album": "Tu Meri Dost Hain",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 372,
+    "durationText": "06:12",
+    "bitrate": 130669,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/073_Tu_Meri_Dost_Hain_SpotiDost.mp3",
+    "cover": "covers_2/Tu_Meri_Dost_Hain.jpg"
+  },
+  {
+    "id": 394,
+    "title": "Anand Raj Anand - Hoth Rasiley (Lyrics)",
+    "artist": "Polo Music Official",
+    "album": "Anand Raj Anand - Hoth Rasiley (Lyrics)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 279,
+    "durationText": "04:39",
+    "bitrate": 136321,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/074_Hoth_Rasiley_SpotiDost.mp3",
+    "cover": "covers_2/Hoth_Rasiley.jpg"
+  },
+  {
+    "id": 395,
+    "title": "Paisa Paisa - (best official audio) || Akshay Kumar 😍 || @HVmusic283",
+    "artist": "HV Music",
+    "album": "Paisa Paisa - (best official audio) || Akshay Kumar 😍 || @HVmusic283",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 235,
+    "durationText": "03:55",
+    "bitrate": 134414,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/075_Paisa_SpotiDost.mp3",
+    "cover": "covers_2/Paisa.jpg"
+  },
+  {
+    "id": 396,
+    "title": "DIL DIL NAZAR",
+    "artist": "Shaan - Topic",
+    "album": "DIL DIL NAZAR",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 322,
+    "durationText": "05:22",
+    "bitrate": 156784,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/076_Dil_Dil_Nazar_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Dil_Nazar.jpg"
+  },
+  {
+    "id": 397,
+    "title": "Tauba Tumhare Ishare",
+    "artist": "Abhijeet Bhattacharya - Topic",
+    "album": "Tauba Tumhare Ishare",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 314,
+    "durationText": "05:14",
+    "bitrate": 124978,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/077_Tauba_Tumhare_Ishare_SpotiDost.mp3",
+    "cover": "covers_2/Tauba_Tumhare_Ishare.jpg"
+  },
+  {
+    "id": 398,
+    "title": "Pretty Woman Best Audio Song - Kal Ho Naa Ho|Shah Rukh Khan|Preity|Shankar Mahadevan",
+    "artist": "SonyMusicIndiaVEVO",
+    "album": "Pretty Woman Best Audio Song - Kal Ho Naa Ho|Shah Rukh Khan|Preity|Shankar Mahadevan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 356,
+    "durationText": "05:56",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/078_Pretty_Woman_SpotiDost.mp3",
+    "cover": "covers_2/Pretty_Woman.jpg"
+  },
+  {
+    "id": 399,
+    "title": "Dhan Te Nan - Full (Audio) Song | Kaminey | Shahid Kapoor, Priyanka Chopra | Vishal Bharadwaj",
+    "artist": "T-Series Bollywood Classics",
+    "album": "Dhan Te Nan - Full (Audio) Song | Kaminey | Shahid Kapoor, Priyanka Chopra | Vishal Bharadwaj",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 280,
+    "durationText": "04:40",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/079_Dhan_Te_Nan_SpotiDost.mp3",
+    "cover": "covers_2/Dhan_Te_Nan.jpg"
+  },
+  {
+    "id": 400,
+    "title": "Hood Ambience (3D AUDIO) - Navaan Sandhu | Bipolar",
+    "artist": "3D Music",
+    "album": "Hood Ambience (3D AUDIO) - Navaan Sandhu | Bipolar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 228,
+    "durationText": "03:48",
+    "bitrate": 130106,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/07_Hood_Ambience_SpotiDost.mp3",
+    "cover": "covers_2/Hood_Ambience.jpg"
+  },
+  {
+    "id": 401,
+    "title": "Koi Kahe Kehta Rahe Lyrical Video | Dil Chahta Hai | Aamir Khan, Akshaye Khanna, Saif Ali Khan",
+    "artist": "T-Series Bollywood Classics",
+    "album": "Koi Kahe Kehta Rahe Lyrical Video | Dil Chahta Hai | Aamir Khan, Akshaye Khanna, Saif Ali Khan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 341,
+    "durationText": "05:41",
+    "bitrate": 134476,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/080_Koi_Kahe_Kehta_Rahe_SpotiDost.mp3",
+    "cover": "covers_2/Koi_Kahe_Kehta_Rahe.jpg"
+  },
+  {
+    "id": 402,
+    "title": "Lyrical | Chalte Chalte (Male) | Mohabbatein, Uday, Jugal, Jimmy, Shamita, Kim, Preeti, Anand Bakshi",
+    "artist": "YRF",
+    "album": "Lyrical | Chalte Chalte (Male) | Mohabbatein, Uday, Jugal, Jimmy, Shamita, Kim, Preeti, Anand Bakshi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2021",
+    "track": "",
+    "duration": 469,
+    "durationText": "07:49",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/081_Chalte_Chalte_SpotiDost.mp3",
+    "cover": "covers_2/Chalte_Chalte.jpg"
+  },
+  {
+    "id": 403,
+    "title": "Bhage Re Mann [Lyrics] Sunidhi Chauhan",
+    "artist": "Rehantracks",
+    "album": "Bhage Re Mann [Lyrics] Sunidhi Chauhan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 331,
+    "durationText": "05:31",
+    "bitrate": 128766,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/082_Bhage_Re_Mann_SpotiDost.mp3",
+    "cover": "covers_2/Bhage_Re_Mann.jpg"
+  },
+  {
+    "id": 404,
+    "title": "LOVE ME LOVE ME",
+    "artist": "Amrita Kak - Topic",
+    "album": "LOVE ME LOVE ME",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 245,
+    "durationText": "04:05",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/083_Love_Me_Love_Me_SpotiDost.mp3",
+    "cover": "covers_2/Love_Me_Love_Me.jpg"
+  },
+  {
+    "id": 405,
+    "title": "Suno Na Suno Na (Full Song) 8K | Shah Rukh Khan,Rani Mukherjee | Chalte Chalte| Abhijeet,Alka Yagnik",
+    "artist": "T-Series",
+    "album": "Suno Na Suno Na (Full Song) 8K | Shah Rukh Khan,Rani Mukherjee | Chalte Chalte| Abhijeet,Alka Yagnik",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 307,
+    "durationText": "05:07",
+    "bitrate": 146570,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/084_Suno_Na_Suno_Na_SpotiDost.mp3",
+    "cover": "covers_2/Suno_Na_Suno_Na.jpg"
+  },
+  {
+    "id": 406,
+    "title": "CHORI CHORI",
+    "artist": "Alka Yagnik - Topic",
+    "album": "CHORI CHORI",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 325,
+    "durationText": "05:25",
+    "bitrate": 134122,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/085_Chori_Chori_SpotiDost.mp3",
+    "cover": "covers_2/Chori_Chori.jpg"
+  },
+  {
+    "id": 407,
+    "title": "Aaj Ki Raat || DON - The Chase Begins Again - 2006 || Sonu Nigam, Mahalakshmi Iyer, Alisha Chinai.",
+    "artist": "MUSIC TOKRI",
+    "album": "Aaj Ki Raat || DON - The Chase Begins Again - 2006 || Sonu Nigam, Mahalakshmi Iyer, Alisha Chinai.",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 369,
+    "durationText": "06:09",
+    "bitrate": 127997,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/086_Aaj_Ki_Raat_SpotiDost.mp3",
+    "cover": "covers_2/Aaj_Ki_Raat.jpg"
+  },
+  {
+    "id": 408,
+    "title": "Aashiqui Mein Teri",
+    "artist": "Himesh Reshammiya - Topic",
+    "album": "Aashiqui Mein Teri",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 294,
+    "durationText": "04:54",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/087_Aashiqui_Mein_Teri_SpotiDost.mp3",
+    "cover": "covers_2/Aashiqui_Mein_Teri.jpg"
+  },
+  {
+    "id": 409,
+    "title": "Chale Jaise Hawaien 8K Full Song | Amrita Rao | Shah Rukh Khan | Main Hoon Na | Zayed Khan",
+    "artist": "T-Series",
+    "album": "Chale Jaise Hawaien 8K Full Song | Amrita Rao | Shah Rukh Khan | Main Hoon Na | Zayed Khan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 317,
+    "durationText": "05:17",
+    "bitrate": 131512,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/088_Chale_Jaise_Hawaien_SpotiDost.mp3",
+    "cover": "covers_2/Chale_Jaise_Hawaien.jpg"
+  },
+  {
+    "id": 410,
+    "title": "Deewana Hai Dekho Best Audio - K3G|Hrithik Roshan|Kareena Kapoor|Alka Yagnik|Sonu Nigam",
+    "artist": "SonyMusicIndiaVEVO",
+    "album": "Deewana Hai Dekho Best Audio - K3G|Hrithik Roshan|Kareena Kapoor|Alka Yagnik|Sonu Nigam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2022",
+    "track": "",
+    "duration": 347,
+    "durationText": "05:47",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/089_Deewana_Hai_Dekho_SpotiDost.mp3",
+    "cover": "covers_2/Deewana_Hai_Dekho.jpg"
+  },
+  {
+    "id": 411,
+    "title": "BROWN RANG [OFFICIAL VIDEO] - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
+    "artist": "Moviebox Record Label",
+    "album": "BROWN RANG [OFFICIAL VIDEO] - YO YO HONEY SINGH - INTERNATIONAL VILLAGER",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 186,
+    "durationText": "03:06",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/08_Brown_Rang_SpotiDost.mp3",
+    "cover": "covers_2/Brown_Rang.jpg"
+  },
+  {
+    "id": 412,
+    "title": "DIL KEH REHA HA",
+    "artist": "Kunal Ganjawala - Topic",
+    "album": "DIL KEH REHA HA",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 306,
+    "durationText": "05:06",
+    "bitrate": 139234,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/090_Dil_Keh_Reha_Ha_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Keh_Reha_Ha.jpg"
+  },
+  {
+    "id": 413,
+    "title": "Banthan Chali Bolo - Lyrical | Sukhwinder Singh | Sunidhi Chauhan | Kurukshetra | Trending Songs",
+    "artist": "Saregama Music",
+    "album": "Banthan Chali Bolo - Lyrical | Sukhwinder Singh | Sunidhi Chauhan | Kurukshetra | Trending Songs",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 294,
+    "durationText": "04:54",
+    "bitrate": 133764,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/091_Banthan_Ke_SpotiDost.mp3",
+    "cover": "covers_2/Banthan_Ke.jpg"
+  },
+  {
+    "id": 414,
+    "title": "Qayamat Qayamat __ Full Audio Lyrical Song __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
+    "artist": "Muskan Khan",
+    "album": "Qayamat Qayamat __ Full Audio Lyrical Song __ Ajay Devgan __ Alka Yagnik __ _Song_160K)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 375,
+    "durationText": "06:15",
+    "bitrate": 131277,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/092_Qayamat_SpotiDost.mp3",
+    "cover": "covers_2/Qayamat.jpg"
+  },
+  {
+    "id": 415,
+    "title": "Mehbooba Mehbooba",
+    "artist": "Adnan Sami - Topic",
+    "album": "Mehbooba Mehbooba",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 447,
+    "durationText": "07:27",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/093_Mehbooba_Mehbooba_SpotiDost.mp3",
+    "cover": "covers_2/Mehbooba_Mehbooba.jpg"
+  },
+  {
+    "id": 416,
+    "title": "Dil Hai Tumhaara",
+    "artist": "Alka Yagnik - Topic",
+    "album": "Dil Hai Tumhaara",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 401,
+    "durationText": "06:41",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/094_Dil_Hai_Tumhaara_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Hai_Tumhaara.jpg"
+  },
+  {
+    "id": 417,
+    "title": "Yun Hi Chala Chal",
+    "artist": "Udit Narayan - Topic",
+    "album": "Yun Hi Chala Chal",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 447,
+    "durationText": "07:27",
+    "bitrate": 138599,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/095_Yun_Hi_Chala_Chal_SpotiDost.mp3",
+    "cover": "covers_2/Yun_Hi_Chala_Chal.jpg"
+  },
+  {
+    "id": 418,
+    "title": "Dil Mein Baji Guitar Lyrical - Apna Sapna Money Money | Riteish Deshmukh & Koena Mitra | Pritam",
+    "artist": "Tips Official",
+    "album": "Dil Mein Baji Guitar Lyrical - Apna Sapna Money Money | Riteish Deshmukh & Koena Mitra | Pritam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2022",
+    "track": "",
+    "duration": 283,
+    "durationText": "04:43",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/096_Dil_Mein_Baji_Guitar_SpotiDost.mp3",
+    "cover": "covers_2/Dil_Mein_Baji_Guitar.jpg"
+  },
+  {
+    "id": 419,
+    "title": "Babuji Zara Dheere Chalo - Dum|Official Bollywood Lyrics|Sonu|Sukhwinder",
+    "artist": "LyricGuruVEVO",
+    "album": "Babuji Zara Dheere Chalo - Dum|Official Bollywood Lyrics|Sonu|Sukhwinder",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 300,
+    "durationText": "05:00",
+    "bitrate": 140873,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/097_Babuji_Zara_Dheere_Chalo_SpotiDost.mp3",
+    "cover": "covers_2/Babuji_Zara_Dheere_Chalo.jpg"
+  },
+  {
+    "id": 420,
+    "title": "Maine Dil Se Kaha - K.K. - Rog [2005]",
+    "artist": "Saregama Music",
+    "album": "Maine Dil Se Kaha - K.K. - Rog [2005]",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 319,
+    "durationText": "05:19",
+    "bitrate": 132274,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/098_Maine_Dil_Se_Kaha_SpotiDost.mp3",
+    "cover": "covers_2/Maine_Dil_Se_Kaha.jpg"
+  },
+  {
+    "id": 421,
+    "title": "Saajan Saajan",
+    "artist": "Alka Yagnik - Topic",
+    "album": "Saajan Saajan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 381,
+    "durationText": "06:21",
+    "bitrate": 133429,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/099_Saajan_Saajan_SpotiDost.mp3",
+    "cover": "covers_2/Saajan_Saajan.jpg"
+  },
+  {
+    "id": 422,
+    "title": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
+    "artist": "KRSNA",
+    "album": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 219,
+    "durationText": "03:39",
+    "bitrate": 138418,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/09_Boom_Shaka_SpotiDost.mp3",
+    "cover": "covers_2/Boom_Shaka.jpg"
+  },
+  {
+    "id": 423,
+    "title": "Aai Paapi",
+    "artist": "Pritam - Topic",
+    "album": "Aai Paapi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 260,
+    "durationText": "04:20",
+    "bitrate": 144182,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/100_Aai_Paapi_SpotiDost.mp3",
+    "cover": "covers_2/Aai_Paapi.jpg"
+  },
+  {
+    "id": 424,
+    "title": "Desi Kalakaar Full AUDIO Song | Yo Yo Honey Singh | Desi Kalakaar, Honey Singh New Songs 2014",
+    "artist": "T-Series",
+    "album": "Desi Kalakaar Full AUDIO Song | Yo Yo Honey Singh | Desi Kalakaar, Honey Singh New Songs 2014",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 253,
+    "durationText": "04:13",
+    "bitrate": 120084,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/10_Desi_Kalakaar_SpotiDost.mp3",
+    "cover": "covers_2/Desi_Kalakaar.jpg"
+  },
+  {
+    "id": 425,
+    "title": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram M | 26th June",
+    "artist": "Times Music",
+    "album": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram M | 26th June",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 227,
+    "durationText": "03:47",
+    "bitrate": 135775,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/11_Ucha_Lamba_Kad_Forever_From_Welcome_To_The_Jungle_SpotiDost.mp3",
+    "cover": "covers_2/Ucha_Lamba_Kad_Forever_From_Welcome_To_The_Jungle.jpg"
+  },
+  {
+    "id": 426,
+    "title": "\"BOSS Title Song\" Full Audio Feat. Yo Yo Honey Singh | Akshay Kumar | Meet Bros Anjjan",
+    "artist": "T-Series",
+    "album": "\"BOSS Title Song\" Full Audio Feat. Yo Yo Honey Singh | Akshay Kumar | Meet Bros Anjjan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 287,
+    "durationText": "04:47",
+    "bitrate": 137337,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/12_Party_All_Night_From_Boss_SpotiDost.mp3",
+    "cover": "covers_2/Party_All_Night_From_Boss.jpg"
+  },
+  {
+    "id": 427,
+    "title": "Yaad - Navaan Sandhu (official audio)",
+    "artist": "Manni Yadav",
+    "album": "Yaad - Navaan Sandhu (official audio)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 196,
+    "durationText": "03:16",
+    "bitrate": 31850,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/13_Yaad_SpotiDost.mp3",
+    "cover": "covers_2/Yaad.jpg"
+  },
+  {
+    "id": 428,
+    "title": "Zulfaan",
+    "artist": "Ace Cheema - Topic",
+    "album": "Zulfaan",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 171,
+    "durationText": "02:51",
+    "bitrate": 123687,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/14_Zulfaan_SpotiDost.mp3",
+    "cover": "covers_2/Zulfaan.jpg"
+  },
+  {
+    "id": 429,
+    "title": "AADAT (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS | AP DHILLON",
+    "artist": "T-Series",
+    "album": "AADAT (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS | AP DHILLON",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 220,
+    "durationText": "03:40",
+    "bitrate": 126914,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/15_Aadat_Feat._AP_Dhillon_SpotiDost.mp3",
+    "cover": "covers_2/Aadat_Feat._AP_Dhillon.jpg"
+  },
+  {
+    "id": 430,
+    "title": "Yaara ve yaara",
+    "artist": "Navaan Sandhu - Topic",
+    "album": "Yaara ve yaara",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 189,
+    "durationText": "03:09",
+    "bitrate": 128561,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/16_Yaara_ve_yaara_SpotiDost.mp3",
+    "cover": "covers_2/Yaara_ve_yaara.jpg"
+  },
+  {
+    "id": 431,
+    "title": "Almiighty",
+    "artist": "GAGAN DEOL - Topic",
+    "album": "Almiighty",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 117,
+    "durationText": "01:57",
+    "bitrate": 134188,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/17_Almiighty_SpotiDost.mp3",
+    "cover": "covers_2/Almiighty.jpg"
+  },
+  {
+    "id": 432,
+    "title": "MAFIA (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "artist": "T-Series",
+    "album": "MAFIA (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 202,
+    "durationText": "03:22",
+    "bitrate": 122956,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/18_Mafia_SpotiDost.mp3",
+    "cover": "covers_2/Mafia.jpg"
+  },
+  {
+    "id": 433,
+    "title": "Nanke",
+    "artist": "Savraj - Topic",
+    "album": "Nanke",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 154,
+    "durationText": "02:34",
+    "bitrate": 133533,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/19_Nanke_SpotiDost.mp3",
+    "cover": "covers_2/Nanke.jpg"
+  },
+  {
+    "id": 434,
+    "title": "VADDA BAI",
+    "artist": "Release - Topic",
+    "album": "VADDA BAI",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 167,
+    "durationText": "02:47",
+    "bitrate": 137031,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/20_VADDA_BAI_SpotiDost.mp3",
+    "cover": "covers_2/VADDA_BAI.jpg"
+  },
+  {
+    "id": 435,
+    "title": "Angreji Beat (Full Song): Yo Yo Honey Singh | Gippy Grewal|International Villager | NewPunjabi Songs",
+    "artist": "4Kmusic-topic",
+    "album": "Angreji Beat (Full Song): Yo Yo Honey Singh | Gippy Grewal|International Villager | NewPunjabi Songs",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 270,
+    "durationText": "04:30",
+    "bitrate": 114779,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/21_Angreji_Beat_SpotiDost.mp3",
+    "cover": "covers_2/Angreji_Beat.jpg"
+  },
+  {
+    "id": 436,
+    "title": "Low",
+    "artist": "Release - Topic",
+    "album": "Low",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 160,
+    "durationText": "02:40",
+    "bitrate": 138567,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/22_Low_SpotiDost.mp3",
+    "cover": "covers_2/Low.jpg"
+  },
+  {
+    "id": 437,
+    "title": "Safety",
+    "artist": "Harman Kang - Topic",
+    "album": "Safety",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 142,
+    "durationText": "02:22",
+    "bitrate": 119875,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/23_Safety_SpotiDost.mp3",
+    "cover": "covers_2/Safety.jpg"
+  },
+  {
+    "id": 438,
+    "title": "Laal Pari (Audio): Yo Yo Honey Singh | Alfaaz | Simar Kaur | Housefull 5",
+    "artist": "T-Series",
+    "album": "Laal Pari (Audio): Yo Yo Honey Singh | Alfaaz | Simar Kaur | Housefull 5",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 256,
+    "durationText": "04:16",
+    "bitrate": 132743,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/24_Laal_Pari_From_Housefull_5_SpotiDost.mp3",
+    "cover": "covers_2/Laal_Pari_From_Housefull_5.jpg"
+  },
+  {
+    "id": 439,
+    "title": "Tick Tick Tick",
+    "artist": "Arash Boparai - Topic",
+    "album": "Tick Tick Tick",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 168,
+    "durationText": "02:48",
+    "bitrate": 131817,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/25_Tick_Tick_Tick_SpotiDost.mp3",
+    "cover": "covers_2/Tick_Tick_Tick.jpg"
+  },
+  {
+    "id": 440,
+    "title": "Kaafi Hai (Official Video) | Lakhwinder Wadali | Sufiyan Bhatt | Aishwarya Pandit | Hindi Songs 2026",
+    "artist": "Wadali Music",
+    "album": "Kaafi Hai (Official Video) | Lakhwinder Wadali | Sufiyan Bhatt | Aishwarya Pandit | Hindi Songs 2026",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 300,
+    "durationText": "05:00",
+    "bitrate": 135368,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/26_Kaafi_Hai_SpotiDost.mp3",
+    "cover": "covers_2/Kaafi_Hai.jpg"
+  },
+  {
+    "id": 441,
+    "title": "Chaar Botal Vodka Lyrical Video Ragini MMS 2 | Yo Yo Honey Singh, Sunny Leone",
+    "artist": "T-Series",
+    "album": "Chaar Botal Vodka Lyrical Video Ragini MMS 2 | Yo Yo Honey Singh, Sunny Leone",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 231,
+    "durationText": "03:51",
+    "bitrate": 127307,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/27_Chaar_Botal_Vodka_From_Ragini_Mms_2_SpotiDost.mp3",
+    "cover": "covers_2/Chaar_Botal_Vodka_From_Ragini_Mms_2.jpg"
+  },
+  {
+    "id": 442,
+    "title": "NAZAR (Official Music Video) - Armaan Gill & Arnaaz Gill | Tanu Grewal | STAR AND LIGHTNING",
+    "artist": "Chronicle Records",
+    "album": "NAZAR (Official Music Video) - Armaan Gill & Arnaaz Gill | Tanu Grewal | STAR AND LIGHTNING",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 183,
+    "durationText": "03:03",
+    "bitrate": 130506,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/28_NAZAR_SpotiDost.mp3",
+    "cover": "covers_2/NAZAR.jpg"
+  },
+  {
+    "id": 443,
+    "title": "BINI | ‘First Luv’ Official Lyric Video",
+    "artist": "BINI Official",
+    "album": "BINI | ‘First Luv’ Official Lyric Video",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 180,
+    "durationText": "03:00",
+    "bitrate": 128145,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/29_First_Luv_SpotiDost.mp3",
+    "cover": "covers_2/First_Luv.jpg"
+  },
+  {
+    "id": 444,
+    "title": "SAWAAL PUCHDI (Audio): YO YO HONEY SINGH | BOHEMIA | 51 GLORIOUS DAYS",
+    "artist": "T-Series",
+    "album": "SAWAAL PUCHDI (Audio): YO YO HONEY SINGH | BOHEMIA | 51 GLORIOUS DAYS",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 249,
+    "durationText": "04:09",
+    "bitrate": 138053,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/30_Sawaal_Puchdi_Feat._Bohemia_SpotiDost.mp3",
+    "cover": "covers_2/Sawaal_Puchdi_Feat._Bohemia.jpg"
+  },
+  {
+    "id": 445,
+    "title": "BREATHLESS (Official Music Video) - Arnaaz Gill and Armaan Gill",
+    "artist": "Chronicle Records",
+    "album": "BREATHLESS (Official Music Video) - Arnaaz Gill and Armaan Gill",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 197,
+    "durationText": "03:17",
+    "bitrate": 128938,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/31_BREATHLESS_SpotiDost.mp3",
+    "cover": "covers_2/BREATHLESS.jpg"
+  },
+  {
+    "id": 446,
+    "title": "Kiya Kiya",
+    "artist": "Anand Raaj Anand - Topic",
+    "album": "Kiya Kiya",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 304,
+    "durationText": "05:04",
+    "bitrate": 130029,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/32_Kiya_Kiya_SpotiDost.mp3",
+    "cover": "covers_2/Kiya_Kiya.jpg"
+  },
+  {
+    "id": 447,
+    "title": "Mashooqa (Full HD Video) Kriti Sanon, Shahid Kapoor, Rashmika Mandanna | Cocktail 2 Songs | Pritam",
+    "artist": "iPop Superhits",
+    "album": "Mashooqa (Full HD Video) Kriti Sanon, Shahid Kapoor, Rashmika Mandanna | Cocktail 2 Songs | Pritam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 227,
+    "durationText": "03:47",
+    "bitrate": 122180,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/33_Mashooqa_-_From_Cocktail_2_SpotiDost.mp3",
+    "cover": "covers_2/Mashooqa_-_From_Cocktail_2.jpg"
+  },
+  {
+    "id": 448,
+    "title": "CHILLGUM (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "artist": "T-Series",
+    "album": "CHILLGUM (Audio): YO YO HONEY SINGH | 51 GLORIOUS DAYS",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 184,
+    "durationText": "03:04",
+    "bitrate": 132001,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/34_Chillgum_SpotiDost.mp3",
+    "cover": "covers_2/Chillgum.jpg"
+  },
+  {
+    "id": 449,
+    "title": "Nazar",
+    "artist": "Imran Khan - Topic",
+    "album": "Nazar",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 185,
+    "durationText": "03:05",
+    "bitrate": 130320,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/35_Nazar_SpotiDost.mp3",
+    "cover": "covers_2/Pehli_Nazar_Mein.jpg"
+  },
+  {
+    "id": 450,
+    "title": "QUEEN",
+    "artist": "armaan gill - Topic",
+    "album": "QUEEN",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 158,
+    "durationText": "02:38",
+    "bitrate": 138126,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/36_QUEEN_SpotiDost.mp3",
+    "cover": "covers_2/QUEEN.jpg"
+  },
+  {
+    "id": 451,
+    "title": "KALAASTAR | Honey 3.0 | Yo Yo Honey Singh & Sonakshi Sinha | Zee Music Originals | Lyrical Video",
+    "artist": "Zee Music Company",
+    "album": "KALAASTAR | Honey 3.0 | Yo Yo Honey Singh & Sonakshi Sinha | Zee Music Originals | Lyrical Video",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 220,
+    "durationText": "03:40",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/37_Kalaastar_From_Honey_3.0_SpotiDost.mp3",
+    "cover": "covers_2/Kalaastar_From_Honey_3.0.jpg"
+  },
+  {
+    "id": 452,
+    "title": "JAS DHALIWAL | YOUNG THUGS | OFFICIAL MUSIC VIDEO | SPACE | 2K26",
+    "artist": "Jas dhaliwal",
+    "album": "JAS DHALIWAL | YOUNG THUGS | OFFICIAL MUSIC VIDEO | SPACE | 2K26",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 156,
+    "durationText": "02:36",
+    "bitrate": 124512,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/38_Young_Thugs_SpotiDost.mp3",
+    "cover": "covers_2/Young_Thugs.jpg"
+  },
+  {
+    "id": 453,
+    "title": "Laare",
+    "artist": "Harp Multani - Topic",
+    "album": "Laare",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 147,
+    "durationText": "02:27",
+    "bitrate": 128947,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/39_Laare_SpotiDost.mp3",
+    "cover": "covers_2/Laare.jpg"
+  },
+  {
+    "id": 454,
+    "title": "Jawani Flex",
+    "artist": "Release - Topic",
+    "album": "Jawani Flex",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 148,
+    "durationText": "02:28",
+    "bitrate": 134707,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/40_Jawani_Flex_SpotiDost.mp3",
+    "cover": "covers_2/Jawani_Flex.jpg"
+  },
+  {
+    "id": 455,
+    "title": "Money Money",
+    "artist": "Honey Singh - Topic",
+    "album": "Money Money",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 201,
+    "durationText": "03:21",
+    "bitrate": 134984,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/41_Money_Money_From_Raid_2_SpotiDost.mp3",
+    "cover": "covers_2/Money_Money_From_Raid_2.jpg"
+  },
+  {
+    "id": 456,
+    "title": "Jail Life",
+    "artist": "Jas Dhaliwal - Topic",
+    "album": "Jail Life",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 114,
+    "durationText": "01:54",
+    "bitrate": 134858,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/42_Jail_Life_SpotiDost.mp3",
+    "cover": "covers_2/Jail_Life.jpg"
+  },
+  {
+    "id": 457,
+    "title": "Nabhe Di Bottal",
+    "artist": "Hustinder - Topic",
+    "album": "Nabhe Di Bottal",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 202,
+    "durationText": "03:22",
+    "bitrate": 131784,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/43_Nabhe_Di_Bottal_SpotiDost.mp3",
+    "cover": "covers_2/Nabhe_Di_Bottal.jpg"
+  },
+  {
+    "id": 458,
+    "title": "PAYAL SONG (Official Video): YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY |",
+    "artist": "RISHU KE MUMMY",
+    "album": "PAYAL SONG (Official Video): YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY |",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 232,
+    "durationText": "03:52",
+    "bitrate": 127419,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/44_Payal_SpotiDost.mp3",
+    "cover": "covers_2/Payal.jpg"
+  },
+  {
+    "id": 459,
+    "title": "Walk With Rats (Official Video) Jas Dhaliwal | Space | Indomi | New Punjabi Songs 2026",
+    "artist": "Indomi Entertainment",
+    "album": "Walk With Rats (Official Video) Jas Dhaliwal | Space | Indomi | New Punjabi Songs 2026",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 159,
+    "durationText": "02:39",
+    "bitrate": 140013,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/45_Walk_With_Rats_SpotiDost.mp3",
+    "cover": "covers_2/Walk_With_Rats.jpg"
+  },
+  {
+    "id": 460,
+    "title": "Bulletproof (From \"Lukkhe\")",
+    "artist": "King - Topic",
+    "album": "Bulletproof (From \"Lukkhe\")",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 190,
+    "durationText": "03:10",
+    "bitrate": 132660,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/46_Bulletproof_From_Lukkhe_SpotiDost.mp3",
+    "cover": "covers_2/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
+  },
+  {
+    "id": 461,
+    "title": "One Thousand Miles Full AUDIO Song | Yo Yo Honey Singh, Desi Kalakaar, Honey Singh New Songs 2014",
+    "artist": "T-Series",
+    "album": "One Thousand Miles Full AUDIO Song | Yo Yo Honey Singh, Desi Kalakaar, Honey Singh New Songs 2014",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 283,
+    "durationText": "04:43",
+    "bitrate": 132640,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/47_One_Thousand_Miles_SpotiDost.mp3",
+    "cover": "covers_2/One_Thousand_Miles.jpg"
+  },
+  {
+    "id": 462,
+    "title": "Salam",
+    "artist": "Release - Topic",
+    "album": "Salam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 192,
+    "durationText": "03:12",
+    "bitrate": 113424,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/48_Salam_SpotiDost.mp3",
+    "cover": "covers_2/Salam.jpg"
+  },
+  {
+    "id": 463,
+    "title": "Naa chalda - Inder Kaur | Narinder Batth | Latest Punjabi Songs 2018 | White Notes Entertainment",
+    "artist": "White Notes Entertainment",
+    "album": "Naa chalda - Inder Kaur | Narinder Batth | Latest Punjabi Songs 2018 | White Notes Entertainment",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 197,
+    "durationText": "03:17",
+    "bitrate": 133739,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/49_Oh_Kudi_SpotiDost.mp3",
+    "cover": "covers_2/Kal_Ho_Naa_Ho.jpg"
+  },
+  {
+    "id": 464,
+    "title": "High Heels | Jaz dhami ft. Yo Yo Honey Singh | Audio |",
+    "artist": "Rishika Bhatt",
+    "album": "High Heels | Jaz dhami ft. Yo Yo Honey Singh | Audio |",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 298,
+    "durationText": "04:58",
+    "bitrate": 128382,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/50_High_Heels_SpotiDost.mp3",
+    "cover": "covers_2/High_Heels.jpg"
+  },
+  {
+    "id": 465,
+    "title": "HEERE",
+    "artist": "armaan gill - Topic",
+    "album": "HEERE",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 167,
+    "durationText": "02:47",
+    "bitrate": 130561,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/51_HEERE_SpotiDost.mp3",
+    "cover": "covers_2/HEERE.jpg"
+  },
+  {
+    "id": 466,
+    "title": "JAS DHALIWAL | HOT TOPIC | OFFICIAL VISUALIZER | SONA ROHIL | AIM-E Singh | 2K26",
+    "artist": "Jas dhaliwal",
+    "album": "JAS DHALIWAL | HOT TOPIC | OFFICIAL VISUALIZER | SONA ROHIL | AIM-E Singh | 2K26",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 148,
+    "durationText": "02:28",
+    "bitrate": 125776,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/52_Hot_Topic_SpotiDost.mp3",
+    "cover": "covers_2/Hot_Topic.jpg"
+  },
+  {
+    "id": 467,
+    "title": "Maniac - Bonus Track [From \"Glory\"]",
+    "artist": "Honey Singh - Topic",
+    "album": "Maniac - Bonus Track [From \"Glory\"]",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 173,
+    "durationText": "02:53",
+    "bitrate": 133931,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/53_Maniac_-_Bonus_Track_From_Glory_SpotiDost.mp3",
+    "cover": "covers_2/Maniac_-_Bonus_Track_From_Glory.jpg"
+  },
+  {
+    "id": 468,
+    "title": "Jab Talak (LYRICS) - Cocktail 2 | Arijit Singh, AKASA & Madhubanti Bagchi",
+    "artist": "The Lyrics Record",
+    "album": "Jab Talak (LYRICS) - Cocktail 2 | Arijit Singh, AKASA & Madhubanti Bagchi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 193,
+    "durationText": "03:13",
+    "bitrate": 130438,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/54_Jab_Talak_-_From_Cocktail_2_SpotiDost.mp3",
+    "cover": "covers_2/Jab_Talak_-_From_Cocktail_2.jpg"
+  },
+  {
+    "id": 469,
+    "title": "Well Known",
+    "artist": "Hustinder - Topic",
+    "album": "Well Known",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 199,
+    "durationText": "03:19",
+    "bitrate": 137607,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/55_Well_Known_SpotiDost.mp3",
+    "cover": "covers_2/Well_Known.jpg"
+  },
+  {
+    "id": 470,
+    "title": "Chennai Express Title Song With Lyrics | Shahrukh Khan, Deepika Padukone",
+    "artist": "T-Series",
+    "album": "Chennai Express Title Song With Lyrics | Shahrukh Khan, Deepika Padukone",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 279,
+    "durationText": "04:39",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/56_Lungi_Dance_From_Chennai_Express_SpotiDost.mp3",
+    "cover": "covers_2/Lungi_Dance_From_Chennai_Express.jpg"
+  },
+  {
+    "id": 471,
+    "title": "Golden Batt",
+    "artist": "Zikr Randhawa - Topic",
+    "album": "Golden Batt",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 159,
+    "durationText": "02:39",
+    "bitrate": 132598,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/57_Golden_Batt_SpotiDost.mp3",
+    "cover": "covers_2/Golden_Batt.jpg"
+  },
+  {
+    "id": 472,
+    "title": "All Da Vibes",
+    "artist": "nav - Topic",
+    "album": "All Da Vibes",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 130,
+    "durationText": "02:10",
+    "bitrate": 140377,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/58_All_Da_Vibes_SpotiDost.mp3",
+    "cover": "covers_2/All_Da_Vibes.jpg"
+  },
+  {
+    "id": 473,
+    "title": "Manali Trance | Yo Yo Honey Singh & Neha Kakkar | The Shaukeens | Lisa Haydon",
+    "artist": "Zee Music Company",
+    "album": "Manali Trance | Yo Yo Honey Singh & Neha Kakkar | The Shaukeens | Lisa Haydon",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 213,
+    "durationText": "03:33",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/59_Manali_Trance_SpotiDost.mp3",
+    "cover": "covers_2/Manali_Trance.jpg"
+  },
+  {
+    "id": 474,
+    "title": "Aadat",
+    "artist": "JAL - Topic",
+    "album": "Aadat",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 334,
+    "durationText": "05:34",
+    "bitrate": 119985,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/60_Aadat_SpotiDost.mp3",
+    "cover": "covers_2/Aadat_Feat._AP_Dhillon.jpg"
+  },
+  {
+    "id": 475,
+    "title": "DIVINE - You & I | Prod. by Zzorawar | Official Audio",
+    "artist": "DIVINE",
+    "album": "DIVINE - You & I | Prod. by Zzorawar | Official Audio",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 212,
+    "durationText": "03:32",
+    "bitrate": 134174,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/61_You_I_SpotiDost.mp3",
+    "cover": "covers_2/You_I.jpg"
+  },
+  {
+    "id": 476,
+    "title": "Jingle Bell | Hommie Dilliwala Ft. Yo Yo Honey Singh (Official Video)",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Jingle Bell | Hommie Dilliwala Ft. Yo Yo Honey Singh (Official Video)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2023",
+    "track": "",
+    "duration": 196,
+    "durationText": "03:16",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/62_Jingle_Bell_SpotiDost.mp3",
+    "cover": "covers_2/Jingle_Bell.jpg"
+  },
+  {
+    "id": 477,
+    "title": "Baazigara (Official Video) | Afsana Khan x Snipr | Nitin Chauhan | Aveera | Elev8 Music",
+    "artist": "Elev8 Music",
+    "album": "Baazigara (Official Video) | Afsana Khan x Snipr | Nitin Chauhan | Aveera | Elev8 Music",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 208,
+    "durationText": "03:28",
+    "bitrate": 128456,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/63_BAAZIGARA_SpotiDost.mp3",
+    "cover": "covers_2/BAAZIGARA.jpg"
+  },
+  {
+    "id": 478,
+    "title": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "artist": "Zebron Records Music",
+    "album": "Kath Lagda | Dhanda Nyoliwala x Navaan Sandhu | Official Audio",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 312,
+    "durationText": "05:12",
+    "bitrate": 122057,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/64_Kath_Lagda_SpotiDost.mp3",
+    "cover": "covers_2/Kath_Lagda.jpg"
+  },
+  {
+    "id": 479,
+    "title": "ONE BOTTLE DOWN  - LYRICS -  YO! YO! HONEY SINGH - T-SERIES",
+    "artist": "madness lyrics",
+    "album": "ONE BOTTLE DOWN  - LYRICS -  YO! YO! HONEY SINGH - T-SERIES",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 195,
+    "durationText": "03:15",
+    "bitrate": 130659,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/65_One_Bottle_Down_SpotiDost.mp3",
+    "cover": "covers_2/One_Bottle_Down.jpg"
+  },
+  {
+    "id": 480,
+    "title": "Inaam",
+    "artist": "Jasleen Royal - Topic",
+    "album": "Inaam",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 178,
+    "durationText": "02:58",
+    "bitrate": 124196,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/66_Inaam_Ft._Badshah_SpotiDost.mp3",
+    "cover": ""
+  },
+  {
+    "id": 481,
+    "title": "Wild Rivers - Amsterdam (Official Visualizer)",
+    "artist": "Wild Rivers",
+    "album": "Wild Rivers - Amsterdam (Official Visualizer)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 214,
+    "durationText": "03:34",
+    "bitrate": 132155,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/67_Amsterdam_SpotiDost.mp3",
+    "cover": "covers_2/Amsterdam.jpg"
+  },
+  {
+    "id": 482,
+    "title": "SUPERMAN Full Song | ZORAWAR | Yo Yo Honey Singh | T-Series",
+    "artist": "T-Series",
+    "album": "SUPERMAN Full Song | ZORAWAR | Yo Yo Honey Singh | T-Series",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 234,
+    "durationText": "03:54",
+    "bitrate": 128407,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/68_Superman_SpotiDost.mp3",
+    "cover": "covers_2/Superman.jpg"
+  },
+  {
+    "id": 483,
+    "title": "Sachi Muchi (feat. Mellow D)",
+    "artist": "Aariana - Topic",
+    "album": "Sachi Muchi (feat. Mellow D)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 178,
+    "durationText": "02:58",
+    "bitrate": 141442,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/69_Sachi_Muchi_SpotiDost.mp3",
+    "cover": "covers_2/Sachi_Muchi.jpg"
+  },
+  {
+    "id": 484,
+    "title": "Tumhi Ho Bandhu | Cocktail | Neeraj Sridhar & Kavita Seth",
+    "artist": "Musical Music",
+    "album": "Tumhi Ho Bandhu | Cocktail | Neeraj Sridhar & Kavita Seth",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 282,
+    "durationText": "04:42",
+    "bitrate": 135252,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/70_Tum_Hi_Ho_Bandhu_SpotiDost.mp3",
+    "cover": "covers_2/Tum_Hi_Ho_Bandhu.jpg"
+  },
+  {
+    "id": 485,
+    "title": "BIRTHDAY BASH",
+    "artist": "Yo Yo Honey Singh - Topic",
+    "album": "BIRTHDAY BASH",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 252,
+    "durationText": "04:12",
+    "bitrate": 137566,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/71_Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend_SpotiDost.mp3",
+    "cover": "covers_2/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
+  },
+  {
+    "id": 486,
+    "title": "League - GXRNOOR",
+    "artist": "GXRNOOR",
+    "album": "League - GXRNOOR",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 131,
+    "durationText": "02:11",
+    "bitrate": 118874,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/72_League_SpotiDost.mp3",
+    "cover": "covers_2/League.jpg"
+  },
+  {
+    "id": 487,
+    "title": "Official: Issey Kehte Hain Hip Hop Full Video Song | Yo Yo Honey Singh | World Music Day",
+    "artist": "T-Series",
+    "album": "Official: Issey Kehte Hain Hip Hop Full Video Song | Yo Yo Honey Singh | World Music Day",
+    "genre": [
+      "Music"
+    ],
+    "year": "2024",
+    "track": "",
+    "duration": 202,
+    "durationText": "03:22",
+    "bitrate": 128000,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/73_Issey_Kehte_Hain_Hip_Hop_SpotiDost.mp3",
+    "cover": "covers_2/Issey_Kehte_Hain_Hip_Hop.jpg"
+  },
+  {
+    "id": 488,
+    "title": "Generational Wealth",
+    "artist": "Rudra - Topic",
+    "album": "Generational Wealth",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 91,
+    "durationText": "01:31",
+    "bitrate": 145383,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/74_Generational_Wealth_SpotiDost.mp3",
+    "cover": "covers_2/Generational_Wealth.jpg"
+  },
+  {
+    "id": 489,
+    "title": "Aaropi",
+    "artist": "100RBH - Topic",
+    "album": "Aaropi",
+    "genre": [
+      "Music"
+    ],
+    "year": "2026",
+    "track": "",
+    "duration": 230,
+    "durationText": "03:50",
+    "bitrate": 127102,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/75_Aaropi_SpotiDost.mp3",
+    "cover": "covers_2/Aaropi.jpg"
+  },
+  {
+    "id": 490,
+    "title": "Noor, Khan & Madhurxo - Aarzu (Official Audio)",
+    "artist": "Noor",
+    "album": "Noor, Khan & Madhurxo - Aarzu (Official Audio)",
+    "genre": [
+      "Music"
+    ],
+    "year": "2025",
+    "track": "",
+    "duration": 188,
+    "durationText": "03:08",
+    "bitrate": 121949,
+    "sampleRate": 44100,
+    "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/76_Aarzu_SpotiDost.mp3",
+    "cover": "covers_2/Aarzu.jpg"
   }
 ]
