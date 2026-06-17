@@ -18,6 +18,10 @@
     <!-- Styles -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js"
+  type="module"
+></script>
 </head>
 <body>
     <script>
@@ -27,6 +31,7 @@
     });
   }
 </script>
+
 <!-- ─── SVG FILTERS ─── -->
 <svg class="svg-filters" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -40,14 +45,16 @@
 
 <!-- ─── LOADING SCREEN ─── -->
 <div id="loading-screen">
-  <div class="loading-logo"><i class="fa-solid fa-music"></i></div>
-  <div class="loading-title">Aura</div>
-  <div class="loading-bar-wrap"><div class="loading-bar-fill"></div></div>
+  <dotlottie-wc
+  src="https://lottie.host/de337be4-c7e5-4676-b312-0d13993eb62c/RMzeXAMKDX.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 </div>
 
 <!-- ─── CUSTOM CURSOR ─── -->
-<div id="cursor"></div>
-<div id="cursor-glow"></div>
+
 
 <!-- ─── BACKGROUND ─── -->
 <div class="bg-scene">
