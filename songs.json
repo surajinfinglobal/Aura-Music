@@ -8154,7 +8154,7 @@
   "durationText": "03:47",
   "bitrate": 121949,
   "sampleRate": 44100,
-  "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Chammak_Challo_Single_Track_SpotiDost.mp3",
+  "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Chammak_Challo_International_Version_SpotiDost.mp3",
   "cover": "covers_2/Chammak_Challo_Cover.jpg"
 },
   {
@@ -8186,5 +8186,20 @@
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Piya_Tu_Piya_Single_Track_SpotiDost.mp3",
   "cover": "covers_2/Piya_Tu_Piya_Cover.jpg"
+},
+{
+  "id": 494,
+  "title": "Chammak Challo",
+  "artist": "Akon, Hamsika Iyer",
+  "album": "Ra.One",
+  "genre": ["Bollywood"],
+  "year": "2011",
+  "track": "",
+  "duration": 188,
+  "durationText": "03:47",
+  "bitrate": 121949,
+  "sampleRate": 44100,
+  "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Chammak_Challo_SpotiDost.mp3",
+  "cover": "covers_2/Chammak_Challo_Cover.jpg"
 }
 ]
