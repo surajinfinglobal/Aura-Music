@@ -14,7 +14,7 @@
     "bitrate": 123915.33294392524,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/01_Bairan_SpotiDost.mp3",
-    "cover": "covers/Bairan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Bairan.jpg"
   },
   {
     "id": 2,
@@ -31,7 +31,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/01_Beete_Lamhein_Lofi_Mix_From_The_Train_SpotiDost.mp3",
-    "cover": "covers/Beete_Lamhein_Lofi_Mix_From_The_Train.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Beete_Lamhein_Lofi_Mix_From_The_Train.jpg"
   },
   {
     "id": 3,
@@ -48,7 +48,7 @@
     "bitrate": 136389.0630629008,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/01_Gehra_Hua_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Gehra_Hua_From_Dhurandhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Gehra_Hua_From_Dhurandhar.jpg"
   },
   {
     "id": 4,
@@ -65,7 +65,7 @@
     "bitrate": 128893.02516209845,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/01_Kitna_Haseen_Chehra_From_Dilwale_SpotiDost.mp3",
-    "cover": "covers/Kitna_Haseen_Chehra_From_Dilwale.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kitna_Haseen_Chehra_From_Dilwale.jpg"
   },
   {
     "id": 5,
@@ -82,7 +82,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/01_Too_Shayar_Hai_Main_Teri_Shayari_From_Saajan_SpotiDost.mp3",
-    "cover": "covers/Too_Shayar_Hai_Main_Teri_Shayari_From_Saajan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Too_Shayar_Hai_Main_Teri_Shayari_From_Saajan.jpg"
   },
   {
     "id": 6,
@@ -99,7 +99,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/02_Ae_Kash_Ke_Hum_SpotiDost.mp3",
-    "cover": "covers/Ae_Kash_Ke_Hum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ae_Kash_Ke_Hum.jpg"
   },
   {
     "id": 7,
@@ -116,7 +116,7 @@
     "bitrate": 131997.7740489902,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/02_Dil_Aaj_Kal_SpotiDost.mp3",
-    "cover": "covers/Dil_Aaj_Kal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Aaj_Kal.jpg"
   },
   {
     "id": 9,
@@ -133,7 +133,7 @@
     "bitrate": 119364.43325119583,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/02_Jaiye_Sajana_SpotiDost.mp3",
-    "cover": "covers/Tum_Ho_Mera_Pyar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Ho_Mera_Pyar.jpg"
   },
   {
     "id": 10,
@@ -150,7 +150,7 @@
     "bitrate": 121482.89253283963,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/03_Khat_SpotiDost.mp3",
-    "cover": "covers/Khat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khat.jpg"
   },
   {
     "id": 11,
@@ -167,7 +167,7 @@
     "bitrate": 132315.5272101573,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/03_Pyar_Ke_Liye_SpotiDost.mp3",
-    "cover": "covers/Pyar_Ke_Liye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pyar_Ke_Liye.jpg"
   },
   {
     "id": 12,
@@ -184,7 +184,7 @@
     "bitrate": 122933.98307361633,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/03_Sitaare_From_Ikkis_SpotiDost.mp3",
-    "cover": "covers/Sitaare_From_Ikkis.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sitaare_From_Ikkis.jpg"
   },
   {
     "id": 13,
@@ -201,7 +201,7 @@
     "bitrate": 142077.4013994911,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/03_Tumhein_Apna_Banane_Ki_Kasam_Khai_Hai_From_Sadak_SpotiDost.mp3",
-    "cover": "covers/Tumhein_Apna_Banane_Ki_Kasam_Khai_Hai_From_Sadak.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumhein_Apna_Banane_Ki_Kasam_Khai_Hai_From_Sadak.jpg"
   },
   {
     "id": 14,
@@ -218,7 +218,7 @@
     "bitrate": 133909.92624924745,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/03_Zara_Sa_SpotiDost.mp3",
-    "cover": "covers/Zara_Sa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Sa.jpg"
   },
   {
     "id": 15,
@@ -235,7 +235,7 @@
     "bitrate": 124884.70467641843,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/04_Arz_Kiya_Hai_Coke_Studio_Bharat_SpotiDost.mp3",
-    "cover": "covers/Arz_Kiya_Hai_Coke_Studio_Bharat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arz_Kiya_Hai_Coke_Studio_Bharat.jpg"
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "bitrate": 137855.16463566665,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/04_Chhupana_Bhi_Nahin_Aata_-_From_Baazigar-_Hindi_SpotiDost.mp3",
-    "cover": "covers/Chhupana_Bhi_Nahin_Aata_From_Baazigar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chhupana_Bhi_Nahin_Aata_From_Baazigar.jpg"
   },
   {
     "id": 17,
@@ -269,7 +269,7 @@
     "bitrate": 121482.89253283963,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/04_Khat_SpotiDost.mp3",
-    "cover": "covers/Khat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khat.jpg"
   },
   {
     "id": 18,
@@ -286,7 +286,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/04_Khuda_Jaane_SpotiDost.mp3",
-    "cover": "covers/Khuda_Jaane.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khuda_Jaane.jpg"
   },
   {
     "id": 19,
@@ -303,7 +303,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/04_Tumsa_Koi_Pyaara_SpotiDost.mp3",
-    "cover": "covers/Tumsa_Koi_Pyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumsa_Koi_Pyaara.jpg"
   },
   {
     "id": 20,
@@ -320,7 +320,7 @@
     "bitrate": 143599.90487786318,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_Aye_Bekhabar_SpotiDost.mp3",
-    "cover": "covers/Aye_Khuda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aye_Khuda.jpg"
   },
   {
     "id": 21,
@@ -337,7 +337,7 @@
     "bitrate": 141556.4226347484,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_Jaan_O_Meri_Jaan_SpotiDost.mp3",
-    "cover": "covers/Jaan_O_Meri_Jaan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jaan_O_Meri_Jaan.jpg"
   },
   {
     "id": 22,
@@ -354,7 +354,7 @@
     "bitrate": 127833.0938571052,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_Mann_Mera_SpotiDost.mp3",
-    "cover": "covers/Mann_Mera.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mann_Mera.jpg"
   },
   {
     "id": 23,
@@ -371,7 +371,7 @@
     "bitrate": 131772.29655249536,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_O_Sajan_O_Sajan_SpotiDost.mp3",
-    "cover": "covers/O_Sajan_O_Sajan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Sajan_O_Sajan.jpg"
   },
   {
     "id": 24,
@@ -388,7 +388,7 @@
     "bitrate": 126348.86651647423,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_Saiyaara_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Saiyaara_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyaara_From_Saiyaara.jpg"
   },
   {
     "id": 25,
@@ -405,7 +405,7 @@
     "bitrate": 142914.76516764236,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/05_Sheesha_-_Aakhya_Mai_Aakh_Ghali_Jo_Bairan_SpotiDost.mp3",
-    "cover": "covers/Ishq_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ishq_Hai.jpg"
   },
   {
     "id": 26,
@@ -422,7 +422,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/06_Aapke_Pyaar_Mein_Hum_SpotiDost.mp3",
-    "cover": "covers/Aapke_Pyaar_Mein_Hum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aapke_Pyaar_Mein_Hum.jpg"
   },
   {
     "id": 27,
@@ -439,7 +439,7 @@
     "bitrate": 117120.38345105953,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/06_Finding_Her_SpotiDost.mp3",
-    "cover": "covers/Finding_Her.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Finding_Her.jpg"
   },
   {
     "id": 28,
@@ -456,7 +456,7 @@
     "bitrate": 132438.40022699133,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/06_Is_Tarah_Aashiqui_Ka_-_Kumar_Sanu_Version_SpotiDost.mp3",
-    "cover": "covers/Is_Tarah_Aashiqui_Ka_-_Kumar_Sanu_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Is_Tarah_Aashiqui_Ka_-_Kumar_Sanu_Version.jpg"
   },
   {
     "id": 29,
@@ -473,7 +473,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/06_Sajni_From_Laapataa_Ladies_SpotiDost.mp3",
-    "cover": "covers/Saajna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saajna.jpg"
   },
   {
     "id": 30,
@@ -490,7 +490,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/06_Tum_Ho_Mera_Pyar_SpotiDost.mp3",
-    "cover": "covers/Tum_Ho_Mera_Pyar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Ho_Mera_Pyar.jpg"
   },
   {
     "id": 31,
@@ -507,7 +507,7 @@
     "bitrate": 124884.70467641843,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/07_Arz_Kiya_Hai_Coke_Studio_Bharat_SpotiDost.mp3",
-    "cover": "covers/Arz_Kiya_Hai_Coke_Studio_Bharat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arz_Kiya_Hai_Coke_Studio_Bharat.jpg"
   },
   {
     "id": 32,
@@ -524,7 +524,7 @@
     "bitrate": 127833.0938571052,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/07_Mann_Mera_SpotiDost.mp3",
-    "cover": "covers/Mann_Mera.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mann_Mera.jpg"
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "bitrate": 134096.3168311463,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/07_Pani_Da_Rang_-_Male_SpotiDost.mp3",
-    "cover": "covers/Pani_Da_Rang_-_Male.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pani_Da_Rang_-_Male.jpg"
   },
   {
     "id": 34,
@@ -558,7 +558,7 @@
     "bitrate": 116399.73217964565,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/07_Sahiba_SpotiDost.mp3",
-    "cover": "covers/Sahiba.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sahiba.jpg"
   },
   {
     "id": 35,
@@ -575,7 +575,7 @@
     "bitrate": 130848.79598257503,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/07_To_Chalun_-_From_Border_SpotiDost.mp3",
-    "cover": "covers/To_Chalun_-_From_Border.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/To_Chalun_-_From_Border.jpg"
   },
   {
     "id": 36,
@@ -592,7 +592,7 @@
     "bitrate": 143599.90487786318,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/08_Aye_Bekhabar_SpotiDost.mp3",
-    "cover": "covers/Aye_Khuda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aye_Khuda.jpg"
   },
   {
     "id": 37,
@@ -609,7 +609,7 @@
     "bitrate": 129989.58695137354,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/08_Chunnari_Chunnari_-_Lets_Go_From_Hai_Jawani_Toh_Ishq_Hona_Hai_SpotiDost.mp3",
-    "cover": "covers/Chunnari_Chunnari_-_Lets_Go_From_Hai_Jawani_Toh_Ishq_Hona_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chunnari_Chunnari_-_Lets_Go_From_Hai_Jawani_Toh_Ishq_Hona_Hai.jpg"
   },
   {
     "id": 38,
@@ -626,7 +626,7 @@
     "bitrate": 133394.9710969002,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/08_Jab_Kisiki_Taraf_Dil_SpotiDost.mp3",
-    "cover": "covers/Jab_Kisiki_Taraf_Dil.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jab_Kisiki_Taraf_Dil.jpg"
   },
   {
     "id": 39,
@@ -643,7 +643,7 @@
     "bitrate": 133495.49845981516,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/08_Tere_Liye_SpotiDost.mp3",
-    "cover": "covers/Tere_Liye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Liye.jpg"
   },
   {
     "id": 40,
@@ -660,7 +660,7 @@
     "bitrate": 125068.08967025572,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/08_Tu_Bhoola_Jise_SpotiDost.mp3",
-    "cover": "covers/Tu_Bhoola_Jise.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Bhoola_Jise.jpg"
   },
   {
     "id": 41,
@@ -677,7 +677,7 @@
     "bitrate": 133000.35449530213,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/09_Aashiq_Mujhe_Aashiq_SpotiDost.mp3",
-    "cover": "covers/Aashiq_Mujhe_Aashiq.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aashiq_Mujhe_Aashiq.jpg"
   },
   {
     "id": 42,
@@ -694,7 +694,7 @@
     "bitrate": 119364.43325119583,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/09_Jaiye_Sajana_SpotiDost.mp3",
-    "cover": "covers/Tum_Ho_Mera_Pyar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Ho_Mera_Pyar.jpg"
   },
   {
     "id": 43,
@@ -711,7 +711,7 @@
     "bitrate": 134600.33646003265,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/09_Shararat_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Shararat_From_Dhurandhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Shararat_From_Dhurandhar.jpg"
   },
   {
     "id": 44,
@@ -728,7 +728,7 @@
     "bitrate": 133562.66027798344,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/09_Tu_Hi_Meri_Shab_Hai_SpotiDost.mp3",
-    "cover": "covers/Tu_Hi_Meri_Shab_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Hi_Meri_Shab_Hai.jpg"
   },
   {
     "id": 45,
@@ -745,7 +745,7 @@
     "bitrate": 146205.09692833855,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/09_Tu_Pyar_Hai_Kisi_Aur_Ka_From_Dil_Hai_Ke_Manta_Nahin_SpotiDost.mp3",
-    "cover": "covers/Tu_Pyar_Hai_Kisi_Aur_Ka_From_Dil_Hai_Ke_Manta_Nahin.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Pyar_Hai_Kisi_Aur_Ka_From_Dil_Hai_Ke_Manta_Nahin.jpg"
   },
   {
     "id": 46,
@@ -762,7 +762,7 @@
     "bitrate": 131627.1582055793,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/10_Kaho_Na_Kaho_SpotiDost.mp3",
-    "cover": "covers/Kaho_Na_Kaho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kaho_Na_Kaho.jpg"
   },
   {
     "id": 47,
@@ -779,7 +779,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/10_Koi_Na_Koi_Chahiye_-_From_Deewana_SpotiDost.mp3",
-    "cover": "covers/Koi_Na_Koi_Chahiye_-_From_Deewana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Koi_Na_Koi_Chahiye_-_From_Deewana.jpg"
   },
   {
     "id": 48,
@@ -796,7 +796,7 @@
     "bitrate": 129527.25820895523,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/10_Sahiba_SpotiDost.mp3",
-    "cover": "covers/Savariya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Savariya.jpg"
   },
   {
     "id": 49,
@@ -813,7 +813,7 @@
     "bitrate": 115950.69860484201,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/10_Tum_Ho_Toh_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Tum_Ho_Toh_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Ho_Toh_From_Saiyaara.jpg"
   },
   {
     "id": 50,
@@ -830,7 +830,7 @@
     "bitrate": 125068.08967025572,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/10_Tu_Bhoola_Jise_SpotiDost.mp3",
-    "cover": "covers/Tu_Bhoola_Jise.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Bhoola_Jise.jpg"
   },
   {
     "id": 51,
@@ -847,7 +847,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Ajab_Si_From_Om_Shanti_Om_SpotiDost.mp3",
-    "cover": "covers/Ajab_Si_From_Om_Shanti_Om.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ajab_Si_From_Om_Shanti_Om.jpg"
   },
   {
     "id": 52,
@@ -864,7 +864,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Dilbar_Dilbar_SpotiDost.mp3",
-    "cover": "covers/Dilbar_Dilbar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dilbar_Dilbar.jpg"
   },
   {
     "id": 53,
@@ -881,7 +881,7 @@
     "bitrate": 132762.2244488978,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Dil_Lagana_Mana_Tha_SpotiDost.mp3",
-    "cover": "covers/Dil_Lagana_Mana_Tha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Lagana_Mana_Tha.jpg"
   },
   {
     "id": 54,
@@ -898,7 +898,7 @@
     "bitrate": 127833.0938571052,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Mann_Mera_SpotiDost.mp3",
-    "cover": "covers/Mann_Mera.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mann_Mera.jpg"
   },
   {
     "id": 55,
@@ -915,7 +915,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Sochenge_Tumhe_Pyar_From_Deewana_SpotiDost.mp3",
-    "cover": "covers/Sochenge_Tumhe_Pyar_From_Deewana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sochenge_Tumhe_Pyar_From_Deewana.jpg"
   },
   {
     "id": 56,
@@ -932,7 +932,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/11_Zindagi_Do_Pal_Ki_From_Kites_SpotiDost.mp3",
-    "cover": "covers/Zindagi_Do_Pal_Ki_From_Kites.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zindagi_Do_Pal_Ki_From_Kites.jpg"
   },
   {
     "id": 57,
@@ -949,7 +949,7 @@
     "bitrate": 128322.86211816047,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Aawaara_Angaara_SpotiDost.mp3",
-    "cover": "covers/Aawaara_Angaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aawaara_Angaara.jpg"
   },
   {
     "id": 58,
@@ -966,7 +966,7 @@
     "bitrate": 142829.96542280714,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Dilko_Tumse_Pyar_Hua_SpotiDost.mp3",
-    "cover": "covers/Dilko_Tumse_Pyar_Hua.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dilko_Tumse_Pyar_Hua.jpg"
   },
   {
     "id": 59,
@@ -983,7 +983,7 @@
     "bitrate": 138815.47252341054,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Kahin_Mujhe_Pyar_Hua_Toh_Nahin_SpotiDost.mp3",
-    "cover": "covers/Kahin_Mujhe_Pyar_Hua_Toh_Nahin.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kahin_Mujhe_Pyar_Hua_Toh_Nahin.jpg"
   },
   {
     "id": 60,
@@ -1000,7 +1000,7 @@
     "bitrate": 131627.1582055793,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Kaho_Na_Kaho_SpotiDost.mp3",
-    "cover": "covers/Kaho_Na_Kaho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kaho_Na_Kaho.jpg"
   },
   {
     "id": 61,
@@ -1017,7 +1017,7 @@
     "bitrate": 125682.66322890819,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Pavazha_Malli_-_From_Think_Indie_SpotiDost.mp3",
-    "cover": "covers/Pavazha_Malli_-_From_Think_Indie.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pavazha_Malli_-_From_Think_Indie.jpg"
   },
   {
     "id": 62,
@@ -1034,7 +1034,7 @@
     "bitrate": 137621.28845993496,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/12_Savariya_SpotiDost.mp3",
-    "cover": "covers/Savariya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Savariya.jpg"
   },
   {
     "id": 63,
@@ -1051,7 +1051,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/13_Aye_Khuda_SpotiDost.mp3",
-    "cover": "covers/Aye_Khuda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aye_Khuda.jpg"
   },
   {
     "id": 64,
@@ -1068,7 +1068,7 @@
     "bitrate": 137963.5922684172,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/13_Chehra_Kya_Dekhte_Ho_From_Salaami_SpotiDost.mp3",
-    "cover": "covers/Chehra_Kya_Dekhte_Ho_From_Salaami.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chehra_Kya_Dekhte_Ho_From_Salaami.jpg"
   },
   {
     "id": 65,
@@ -1085,7 +1085,7 @@
     "bitrate": 127273.34978300433,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/13_Dekhne_Walon_Ne_-_From_Chori_Chori_Chupke_Chupke_SpotiDost.mp3",
-    "cover": "covers/Dekhne_Walon_Ne_-_From_Chori_Chori_Chupke_Chupke.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dekhne_Walon_Ne_-_From_Chori_Chori_Chupke_Chupke.jpg"
   },
   {
     "id": 66,
@@ -1102,7 +1102,7 @@
     "bitrate": 117120.38345105953,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/13_Finding_Her_SpotiDost.mp3",
-    "cover": "covers/Finding_Her.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Finding_Her.jpg"
   },
   {
     "id": 67,
@@ -1119,7 +1119,7 @@
     "bitrate": 125933.86154219204,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/13_Samjhawan_SpotiDost.mp3",
-    "cover": "covers/Samjhawan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Samjhawan.jpg"
   },
   {
     "id": 68,
@@ -1136,7 +1136,7 @@
     "bitrate": 122084.7197043648,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/14_Darkhaast_SpotiDost.mp3",
-    "cover": "covers/Darkhaast.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Darkhaast.jpg"
   },
   {
     "id": 69,
@@ -1153,7 +1153,7 @@
     "bitrate": 118393.40246125798,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/14_Deewaniyat_From_Ek_Deewane_Ki_Deewaniyat_Original_Motion_Picture_Soundtrack_SpotiDost.mp3",
-    "cover": "covers/Deewaniyat_From_Ek_Deewane_Ki_Deewaniyat_Original_Motion_Picture_Soundtrack.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deewaniyat_From_Ek_Deewane_Ki_Deewaniyat_Original_Motion_Picture_Soundtrack.jpg"
   },
   {
     "id": 70,
@@ -1170,7 +1170,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/14_Mitwa_SpotiDost.mp3",
-    "cover": "covers/Mitwa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mitwa.jpg"
   },
   {
     "id": 71,
@@ -1187,7 +1187,7 @@
     "bitrate": 140101.8285864979,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/14_Woh_To_Hai_Albela_SpotiDost.mp3",
-    "cover": "covers/Woh_To_Hai_Albela.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Woh_To_Hai_Albela.jpg"
   },
   {
     "id": 72,
@@ -1204,7 +1204,7 @@
     "bitrate": 139691.84823074742,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/15_Dil_Hai_Ki_Manta_Nahin_From_Dil_Hai_Ke_Manta_Nahin_SpotiDost.mp3",
-    "cover": "covers/Dil_Hai_Ki_Manta_Nahin_From_Dil_Hai_Ke_Manta_Nahin.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Hai_Ki_Manta_Nahin_From_Dil_Hai_Ke_Manta_Nahin.jpg"
   },
   {
     "id": 73,
@@ -1221,7 +1221,7 @@
     "bitrate": 145398.13043393122,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/15_Dil_Jab_Se_Toot_Gaya_SpotiDost.mp3",
-    "cover": "covers/Dil_Jab_Se_Toot_Gaya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Jab_Se_Toot_Gaya.jpg"
   },
   {
     "id": 74,
@@ -1238,7 +1238,7 @@
     "bitrate": 132444.70528865562,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/15_Haan_Tu_Hain_SpotiDost.mp3",
-    "cover": "covers/Haan_Tu_Hain.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Haan_Tu_Hain.jpg"
   },
   {
     "id": 75,
@@ -1255,7 +1255,7 @@
     "bitrate": 130386.9896091462,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/15_Pardesiya_-_From_Param_Sundari_SpotiDost.mp3",
-    "cover": "covers/Pardesiya_-_From_Param_Sundari.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pardesiya_-_From_Param_Sundari.jpg"
   },
   {
     "id": 76,
@@ -1272,7 +1272,7 @@
     "bitrate": 122933.98307361633,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/15_Sitaare_From_Ikkis_SpotiDost.mp3",
-    "cover": "covers/Sitaare_From_Ikkis.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sitaare_From_Ikkis.jpg"
   },
   {
     "id": 77,
@@ -1289,7 +1289,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Aksar_Is_Duniya_Mein_SpotiDost.mp3",
-    "cover": "covers/Aksar_Is_Duniya_Mein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aksar_Is_Duniya_Mein.jpg"
   },
   {
     "id": 78,
@@ -1306,7 +1306,7 @@
     "bitrate": 120576.32112862132,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Dhun_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyaara.jpg"
   },
   {
     "id": 79,
@@ -1323,7 +1323,7 @@
     "bitrate": 140209.8055964396,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Ek_Sanam_Chahiye_Aashiqui_Ke_Liye_From_Aashiqui_SpotiDost.mp3",
-    "cover": "covers/Ek_Sanam_Chahiye_Aashiqui_Ke_Liye_From_Aashiqui.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ek_Sanam_Chahiye_Aashiqui_Ke_Liye_From_Aashiqui.jpg"
   },
   {
     "id": 80,
@@ -1340,7 +1340,7 @@
     "bitrate": 122675.28990060551,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Ishq_SpotiDost.mp3",
-    "cover": "covers/Ishq.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ishq.jpg"
   },
   {
     "id": 81,
@@ -1357,7 +1357,7 @@
     "bitrate": 134393.67036715924,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Jaavedaan_Hai_SpotiDost.mp3",
-    "cover": "covers/Jaavedaan_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jaavedaan_Hai.jpg"
   },
   {
     "id": 82,
@@ -1374,7 +1374,7 @@
     "bitrate": 128305.62882541533,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/16_Yaaron_SpotiDost.mp3",
-    "cover": "covers/Yaaron.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yaaron.jpg"
   },
   {
     "id": 83,
@@ -1391,7 +1391,7 @@
     "bitrate": 142829.96542280714,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/17_Dilko_Tumse_Pyar_Hua_SpotiDost.mp3",
-    "cover": "covers/Dilko_Tumse_Pyar_Hua.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dilko_Tumse_Pyar_Hua.jpg"
   },
   {
     "id": 84,
@@ -1408,7 +1408,7 @@
     "bitrate": 125746.51405604456,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/17_Majboor_SpotiDost.mp3",
-    "cover": "covers/Majboor.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Majboor.jpg"
   },
   {
     "id": 85,
@@ -1425,7 +1425,7 @@
     "bitrate": 134096.3168311463,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/17_Pani_Da_Rang_-_Male_SpotiDost.mp3",
-    "cover": "covers/Pani_Da_Rang_-_Male.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pani_Da_Rang_-_Male.jpg"
   },
   {
     "id": 86,
@@ -1442,7 +1442,7 @@
     "bitrate": 130567.44557144183,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/17_Prem_Ki_Leela_SpotiDost.mp3",
-    "cover": "covers/Prem_Ki_Leela.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Prem_Ki_Leela.jpg"
   },
   {
     "id": 87,
@@ -1459,7 +1459,7 @@
     "bitrate": 140277.91066381749,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/17_Teri_Umeed_Tera_Intezar_From_Deewana_SpotiDost.mp3",
-    "cover": "covers/Teri_Umeed_Tera_Intezar_From_Deewana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Teri_Umeed_Tera_Intezar_From_Deewana.jpg"
   },
   {
     "id": 88,
@@ -1476,7 +1476,7 @@
     "bitrate": 139477.067951502,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Agar_Tum_-_Instrumental_SpotiDost.mp3",
-    "cover": "covers/Agar_Tum_-_Instrumental.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Agar_Tum_-_Instrumental.jpg"
   },
   {
     "id": 89,
@@ -1493,7 +1493,7 @@
     "bitrate": 124627.06545599681,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Apna_Bana_Le_SpotiDost.mp3",
-    "cover": "covers/Apna_Bana_Le.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Apna_Bana_Le.jpg"
   },
   {
     "id": 90,
@@ -1510,7 +1510,7 @@
     "bitrate": 142852.76900991512,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Dil_Mein_Sanam_Ki_Soorat_SpotiDost.mp3",
-    "cover": "covers/Dil_Mein_Sanam_Ki_Soorat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Mein_Sanam_Ki_Soorat.jpg"
   },
   {
     "id": 91,
@@ -1527,7 +1527,7 @@
     "bitrate": 143648.372168617,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Ladki_Badi_Anjani_Hai_SpotiDost.mp3",
-    "cover": "covers/Ladki_Badi_Anjani_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ladki_Badi_Anjani_Hai.jpg"
   },
   {
     "id": 92,
@@ -1544,7 +1544,7 @@
     "bitrate": 122149.52568404749,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Phir_Se_From_Dhurandhar_The_Revenge_SpotiDost.mp3",
-    "cover": "covers/Phir_Se_From_Dhurandhar_The_Revenge.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Phir_Se_From_Dhurandhar_The_Revenge.jpg"
   },
   {
     "id": 93,
@@ -1561,7 +1561,7 @@
     "bitrate": 126840.88234700469,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/18_Teri_Deewani_SpotiDost.mp3",
-    "cover": "covers/Teri_Deewani.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Teri_Deewani.jpg"
   },
   {
     "id": 94,
@@ -1578,7 +1578,7 @@
     "bitrate": 130054.82003604797,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Aaoge_Jab_Tum_SpotiDost.mp3",
-    "cover": "covers/Aaoge_Jab_Tum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaoge_Jab_Tum.jpg"
   },
   {
     "id": 95,
@@ -1595,7 +1595,7 @@
     "bitrate": 138721.8123306233,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Deewaana_Deewaana_SpotiDost.mp3",
-    "cover": "covers/Deewaana_Deewaana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deewaana_Deewaana.jpg"
   },
   {
     "id": 96,
@@ -1612,7 +1612,7 @@
     "bitrate": 133434.19891172915,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Madhosh_Dil_Ki_Dhadkan_SpotiDost.mp3",
-    "cover": "covers/Madhosh_Dil_Ki_Dhadkan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Madhosh_Dil_Ki_Dhadkan.jpg"
   },
   {
     "id": 97,
@@ -1629,7 +1629,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Main_Agar_Saamne_SpotiDost.mp3",
-    "cover": "covers/Main_Agar_Saamne.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Agar_Saamne.jpg"
   },
   {
     "id": 98,
@@ -1646,7 +1646,7 @@
     "bitrate": 142595.90505242647,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Saajna_SpotiDost.mp3",
-    "cover": "covers/Saajna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saajna.jpg"
   },
   {
     "id": 99,
@@ -1663,7 +1663,7 @@
     "bitrate": 127794.27395209581,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/19_Udi_Udi_SpotiDost.mp3",
-    "cover": "covers/Udi_Udi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Udi_Udi.jpg"
   },
   {
     "id": 100,
@@ -1680,7 +1680,7 @@
     "bitrate": 132048.83246527778,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/20_Aavan_Jaavan_From_WAR_2_SpotiDost.mp3",
-    "cover": "covers/Aavan_Jaavan_From_WAR_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aavan_Jaavan_From_WAR_2.jpg"
   },
   {
     "id": 101,
@@ -1697,7 +1697,7 @@
     "bitrate": 121782.10732430144,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/20_Dooron_Dooron_SpotiDost.mp3",
-    "cover": "covers/Dooron_Dooron.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dooron_Dooron.jpg"
   },
   {
     "id": 102,
@@ -1714,7 +1714,7 @@
     "bitrate": 141997.76937545088,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/20_Mitti_Di_Khushboo_SpotiDost.mp3",
-    "cover": "covers/Dil_Aaj_Kal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Aaj_Kal.jpg"
   },
   {
     "id": 103,
@@ -1731,7 +1731,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/20_Piya_Aaye_Na_SpotiDost.mp3",
-    "cover": "covers/Piya_Aaye_Na.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Piya_Aaye_Na.jpg"
   },
   {
     "id": 104,
@@ -1748,7 +1748,7 @@
     "bitrate": 126641.67215324806,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/20_Yeh_Teri_Aankhen_Jhuki_Jhuki_SpotiDost.mp3",
-    "cover": "covers/Yeh_Teri_Aankhen_Jhuki_Jhuki.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yeh_Teri_Aankhen_Jhuki_Jhuki.jpg"
   },
   {
     "id": 105,
@@ -1765,7 +1765,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/21_Ajab_Si_From_Om_Shanti_Om_SpotiDost.mp3",
-    "cover": "covers/Ajab_Si_From_Om_Shanti_Om.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ajab_Si_From_Om_Shanti_Om.jpg"
   },
   {
     "id": 106,
@@ -1782,7 +1782,7 @@
     "bitrate": 131113.46596724668,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/21_Barbaad_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Barbaad_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Barbaad_From_Saiyaara.jpg"
   },
   {
     "id": 107,
@@ -1799,7 +1799,7 @@
     "bitrate": 133705.48833083783,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/21_Chori_Chori_Dil_Tera_SpotiDost.mp3",
-    "cover": "covers/Chori_Chori_Dil_Tera.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chori_Chori_Dil_Tera.jpg"
   },
   {
     "id": 108,
@@ -1816,7 +1816,7 @@
     "bitrate": 127361.71875,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/21_Thodi_Si_Daaru_SpotiDost.mp3",
-    "cover": "covers/Thodi_Si_Daaru.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Thodi_Si_Daaru.jpg"
   },
   {
     "id": 109,
@@ -1833,7 +1833,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/21_Zindagi_Do_Pal_Ki_From_Kites_SpotiDost.mp3",
-    "cover": "covers/Zindagi_Do_Pal_Ki_From_Kites.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zindagi_Do_Pal_Ki_From_Kites.jpg"
   },
   {
     "id": 110,
@@ -1850,7 +1850,7 @@
     "bitrate": 132099.72127968978,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/22_Dil_Diwana_From_Daag_The_Fire_SpotiDost.mp3",
-    "cover": "covers/Dil_Diwana_From_Daag_The_Fire.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Diwana_From_Daag_The_Fire.jpg"
   },
   {
     "id": 111,
@@ -1867,7 +1867,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/22_Dil_Ibaadat_SpotiDost.mp3",
-    "cover": "covers/Dil_Ibaadat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Ibaadat.jpg"
   },
   {
     "id": 112,
@@ -1884,7 +1884,7 @@
     "bitrate": 133327.51274328082,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/22_Run_Down_The_City_-_Monica_SpotiDost.mp3",
-    "cover": "covers/Run_Down_The_City_-_Monica.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Run_Down_The_City_-_Monica.jpg"
   },
   {
     "id": 113,
@@ -1901,7 +1901,7 @@
     "bitrate": 126348.86651647423,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/22_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Saiyaara_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyaara_From_Saiyaara.jpg"
   },
   {
     "id": 114,
@@ -1918,7 +1918,7 @@
     "bitrate": 135682.43491165747,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/22_Tumse_Milna_SpotiDost.mp3",
-    "cover": "covers/Tumse_Milna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumse_Milna.jpg"
   },
   {
     "id": 115,
@@ -1935,7 +1935,7 @@
     "bitrate": 138721.8123306233,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/23_Deewaana_Deewaana_SpotiDost.mp3",
-    "cover": "covers/Deewaana_Deewaana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deewaana_Deewaana.jpg"
   },
   {
     "id": 116,
@@ -1952,7 +1952,7 @@
     "bitrate": 117765.4978706713,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/23_Ehsaas_SpotiDost.mp3",
-    "cover": "covers/Ehsaas.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ehsaas.jpg"
   },
   {
     "id": 117,
@@ -1969,7 +1969,7 @@
     "bitrate": 140281.7877735068,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/23_Oye_Raju_SpotiDost.mp3",
-    "cover": "covers/Oye_Raju.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Oye_Raju.jpg"
   },
   {
     "id": 118,
@@ -1986,7 +1986,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/23_Such_Keh_Raha_Hai_SpotiDost.mp3",
-    "cover": "covers/Such_Keh_Raha_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Such_Keh_Raha_Hai.jpg"
   },
   {
     "id": 119,
@@ -2003,7 +2003,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/23_Woh_Ladki_Bahut_Yaad_Aati_From_Qayamat_SpotiDost.mp3",
-    "cover": "covers/Woh_Ladki_Bahut_Yaad_Aati_From_Qayamat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Woh_Ladki_Bahut_Yaad_Aati_From_Qayamat.jpg"
   },
   {
     "id": 120,
@@ -2020,7 +2020,7 @@
     "bitrate": 128817.82959896086,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/24_Boyfriend_SpotiDost.mp3",
-    "cover": "covers/Boyfriend.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Boyfriend.jpg"
   },
   {
     "id": 121,
@@ -2037,7 +2037,7 @@
     "bitrate": 123002.66189290161,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/24_Hasi_-_Male_Version_SpotiDost.mp3",
-    "cover": "covers/Hasi_-_Male_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hasi_-_Male_Version.jpg"
   },
   {
     "id": 122,
@@ -2054,7 +2054,7 @@
     "bitrate": 128279.6690283401,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/24_Humsafar_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Humsafar_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Humsafar_From_Saiyaara.jpg"
   },
   {
     "id": 123,
@@ -2071,7 +2071,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/24_Piya_Aaye_Na_SpotiDost.mp3",
-    "cover": "covers/Piya_Aaye_Na.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Piya_Aaye_Na.jpg"
   },
   {
     "id": 124,
@@ -2088,7 +2088,7 @@
     "bitrate": 128767.86931618526,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/24_Pucho_Zara_Pucho_SpotiDost.mp3",
-    "cover": "covers/Pucho_Zara_Pucho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pucho_Zara_Pucho.jpg"
   },
   {
     "id": 125,
@@ -2105,7 +2105,7 @@
     "bitrate": 125195.39976995507,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_Guzaara_From_Baaghi_4_SpotiDost.mp3",
-    "cover": "covers/Guzaara_From_Baaghi_4.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Guzaara_From_Baaghi_4.jpg"
   },
   {
     "id": 126,
@@ -2122,7 +2122,7 @@
     "bitrate": 113629.3574354454,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_Jo_Tum_Mere_Ho_SpotiDost.mp3",
-    "cover": "covers/Jo_Tum_Mere_Ho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jo_Tum_Mere_Ho.jpg"
   },
   {
     "id": 127,
@@ -2139,7 +2139,7 @@
     "bitrate": 137343.53953806302,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_Milne_Ki_Tum_Koshish_Karna_SpotiDost.mp3",
-    "cover": "covers/Milne_Ki_Tum_Koshish_Karna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Milne_Ki_Tum_Koshish_Karna.jpg"
   },
   {
     "id": 128,
@@ -2156,7 +2156,7 @@
     "bitrate": 141997.76937545088,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_Mitti_Di_Khushboo_SpotiDost.mp3",
-    "cover": "covers/Dil_Aaj_Kal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Aaj_Kal.jpg"
   },
   {
     "id": 129,
@@ -2173,7 +2173,7 @@
     "bitrate": 142595.90505242647,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_Saajna_SpotiDost.mp3",
-    "cover": "covers/Saajna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saajna.jpg"
   },
   {
     "id": 130,
@@ -2190,7 +2190,7 @@
     "bitrate": 130848.79598257503,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/25_To_Chalun_-_From_Border_SpotiDost.mp3",
-    "cover": "covers/To_Chalun_-_From_Border.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/To_Chalun_-_From_Border.jpg"
   },
   {
     "id": 131,
@@ -2207,7 +2207,7 @@
     "bitrate": 131905.2655463695,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Aaye_Ho_Meri_Zindagi_Mein_-_Female_Version_SpotiDost.mp3",
-    "cover": "covers/Aaye_Ho_Meri_Zindagi_Mein_-_Female_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaye_Ho_Meri_Zindagi_Mein_-_Female_Version.jpg"
   },
   {
     "id": 132,
@@ -2224,7 +2224,7 @@
     "bitrate": 130790.93503937009,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Chand_Se_Parda_SpotiDost.mp3",
-    "cover": "covers/Chand_Se_Parda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chand_Se_Parda.jpg"
   },
   {
     "id": 133,
@@ -2241,7 +2241,7 @@
     "bitrate": 117765.4978706713,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Ehsaas_SpotiDost.mp3",
-    "cover": "covers/Ehsaas.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ehsaas.jpg"
   },
   {
     "id": 134,
@@ -2258,7 +2258,7 @@
     "bitrate": 134393.67036715924,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Jaavedaan_Hai_SpotiDost.mp3",
-    "cover": "covers/Jaavedaan_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jaavedaan_Hai.jpg"
   },
   {
     "id": 135,
@@ -2275,7 +2275,7 @@
     "bitrate": 133879.96868475992,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Maine_Dil_Se_Kaha_SpotiDost.mp3",
-    "cover": "covers/Maine_Dil_Se_Kaha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maine_Dil_Se_Kaha.jpg"
   },
   {
     "id": 136,
@@ -2292,7 +2292,7 @@
     "bitrate": 108554.16048925128,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/26_Paro_SpotiDost.mp3",
-    "cover": "covers/Paro.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Paro.jpg"
   },
   {
     "id": 137,
@@ -2309,7 +2309,7 @@
     "bitrate": 139477.067951502,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/27_Agar_Tum_-_Instrumental_SpotiDost.mp3",
-    "cover": "covers/Agar_Tum_-_Instrumental.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Agar_Tum_-_Instrumental.jpg"
   },
   {
     "id": 138,
@@ -2326,7 +2326,7 @@
     "bitrate": 130118.2085645248,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/27_Andaaz_e_Karam_SpotiDost.mp3",
-    "cover": "covers/Andaaz_e_Karam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Andaaz_e_Karam.jpg"
   },
   {
     "id": 139,
@@ -2343,7 +2343,7 @@
     "bitrate": 120014.48824263143,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/27_Kaise_Bataaoon_SpotiDost.mp3",
-    "cover": "covers/Kaise_Bataaoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kaise_Bataaoon.jpg"
   },
   {
     "id": 140,
@@ -2360,7 +2360,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/27_Kasam_Khake_Kaho_SpotiDost.mp3",
-    "cover": "covers/Kasam_Khake_Kaho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kasam_Khake_Kaho.jpg"
   },
   {
     "id": 141,
@@ -2377,7 +2377,7 @@
     "bitrate": 134600.33646003265,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/27_Shararat_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Shararat_From_Dhurandhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Shararat_From_Dhurandhar.jpg"
   },
   {
     "id": 142,
@@ -2394,7 +2394,7 @@
     "bitrate": 146108.41398064466,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/28_Adayein_Bhi_Hain_Mohabbat_Bhi_Hai_From_Dil_Hai_Ke_Manta_Nahin_SpotiDost.mp3",
-    "cover": "covers/Adayein_Bhi_Hain_Mohabbat_Bhi_Hai_From_Dil_Hai_Ke_Manta_Nahin.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Adayein_Bhi_Hain_Mohabbat_Bhi_Hai_From_Dil_Hai_Ke_Manta_Nahin.jpg"
   },
   {
     "id": 143,
@@ -2411,7 +2411,7 @@
     "bitrate": 126473.1208263773,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/28_Ishq_Hai_SpotiDost.mp3",
-    "cover": "covers/Ishq_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ishq_Hai.jpg"
   },
   {
     "id": 144,
@@ -2428,7 +2428,7 @@
     "bitrate": 133388.47650787732,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/28_Mast_Magan_From_2_States_SpotiDost.mp3",
-    "cover": "covers/Mast_Magan_From_2_States.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mast_Magan_From_2_States.jpg"
   },
   {
     "id": 145,
@@ -2445,7 +2445,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/28_Tip_Tip_Barsa_Paani_From_Mohra_SpotiDost.mp3",
-    "cover": "covers/Tip_Tip_Barsa_Paani_From_Mohra.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tip_Tip_Barsa_Paani_From_Mohra.jpg"
   },
   {
     "id": 146,
@@ -2462,7 +2462,7 @@
     "bitrate": 129603.32338380897,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/28_Tujhe_Sochta_Hoon_SpotiDost.mp3",
-    "cover": "covers/Tujhe_Sochta_Hoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tujhe_Sochta_Hoon.jpg"
   },
   {
     "id": 147,
@@ -2479,7 +2479,7 @@
     "bitrate": 124789.05280692349,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/29_Agar_Tum_Saath_Ho_From_Tamasha_SpotiDost.mp3",
-    "cover": "covers/Agar_Tum_Saath_Ho_From_Tamasha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Agar_Tum_Saath_Ho_From_Tamasha.jpg"
   },
   {
     "id": 148,
@@ -2496,7 +2496,7 @@
     "bitrate": 131893.17306115758,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/29_Im_Done._-_I-Popstar_Vol._1_SpotiDost.mp3",
-    "cover": "covers/I_Am_In_Love.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/I_Am_In_Love.jpg"
   },
   {
     "id": 149,
@@ -2513,7 +2513,7 @@
     "bitrate": 125903.07192616697,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/29_Tere_Pyar_Mein_Main_SpotiDost.mp3",
-    "cover": "covers/Tere_Pyar_Mein_Main.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Pyar_Mein_Main.jpg"
   },
   {
     "id": 150,
@@ -2530,7 +2530,7 @@
     "bitrate": 147067.10197915757,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/29_Zara_Zara_SpotiDost.mp3",
-    "cover": "covers/Zara_Zara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Zara.jpg"
   },
   {
     "id": 151,
@@ -2547,7 +2547,7 @@
     "bitrate": 139900.60908423117,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Challa_SpotiDost.mp3",
-    "cover": "covers/Challa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Challa.jpg"
   },
   {
     "id": 152,
@@ -2564,7 +2564,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Kabhi_Khusiyon_Ki_Sargam_SpotiDost.mp3",
-    "cover": "covers/Kabhi_Kabhi_Aditi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kabhi_Kabhi_Aditi.jpg"
   },
   {
     "id": 153,
@@ -2581,7 +2581,7 @@
     "bitrate": 128214.57414374675,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Kiya_Kiya_SpotiDost.mp3",
-    "cover": "covers/Kiya_Kiya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kiya_Kiya.jpg"
   },
   {
     "id": 154,
@@ -2598,7 +2598,7 @@
     "bitrate": 113207.99589361472,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Raanjhan_From_Do_Patti_SpotiDost.mp3",
-    "cover": "covers/Raanjhan_From_Do_Patti.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Raanjhan_From_Do_Patti.jpg"
   },
   {
     "id": 155,
@@ -2615,7 +2615,7 @@
     "bitrate": 126919.90835695107,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Tere_Ishk_Mein_From_Tere_Ishk_Mein_SpotiDost.mp3",
-    "cover": "covers/Tere_Ishk_Mein_From_Tere_Ishk_Mein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Ishk_Mein_From_Tere_Ishk_Mein.jpg"
   },
   {
     "id": 156,
@@ -2632,7 +2632,7 @@
     "bitrate": 133859.78935024323,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/30_Teri_Mohabbat_Ne_Dil_SpotiDost.mp3",
-    "cover": "covers/Teri_Mohabbat_Ne_Dil.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Teri_Mohabbat_Ne_Dil.jpg"
   },
   {
     "id": 157,
@@ -2649,7 +2649,7 @@
     "bitrate": 122486.7440848991,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/31_Aarzu_SpotiDost.mp3",
-    "cover": "covers/Aarzu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aarzu.jpg"
   },
   {
     "id": 158,
@@ -2666,7 +2666,7 @@
     "bitrate": 130134.42335543867,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/31_Abhi_Abhi_From_Jism_2_SpotiDost.mp3",
-    "cover": "covers/Abhi_Abhi_From_Jism_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Abhi_Abhi_From_Jism_2.jpg"
   },
   {
     "id": 159,
@@ -2683,7 +2683,7 @@
     "bitrate": 125043.58690427139,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/31_Jaane_Na_Tu_From_UR_Debut_SpotiDost.mp3",
-    "cover": "covers/O_Jaana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Jaana.jpg"
   },
   {
     "id": 160,
@@ -2700,7 +2700,7 @@
     "bitrate": 79912.12076145152,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/31_Mera_Chand_Mujhe_Aaya_Hai_Nazar_SpotiDost.mp3",
-    "cover": "covers/Mera_Chand_Mujhe_Aaya_Hai_Nazar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mera_Chand_Mujhe_Aaya_Hai_Nazar.jpg"
   },
   {
     "id": 161,
@@ -2717,7 +2717,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Hamne_Tumko_Dil_Ye_De_Diya_SpotiDost.mp3",
-    "cover": "covers/Aapke_Pyaar_Mein_Hum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aapke_Pyaar_Mein_Hum.jpg"
   },
   {
     "id": 162,
@@ -2734,7 +2734,7 @@
     "bitrate": 131279.19878854626,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Hum_Laakh_Chupaye_SpotiDost.mp3",
-    "cover": "covers/Hum_Laakh_Chupaye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hum_Laakh_Chupaye.jpg"
   },
   {
     "id": 163,
@@ -2751,7 +2751,7 @@
     "bitrate": 120014.48824263143,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Kaise_Bataaoon_SpotiDost.mp3",
-    "cover": "covers/Kaise_Bataaoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kaise_Bataaoon.jpg"
   },
   {
     "id": 164,
@@ -2768,7 +2768,7 @@
     "bitrate": 128166.9946332737,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Raga_of_Revenge_From_DC_SpotiDost.mp3",
-    "cover": "covers/Raga_of_Revenge_From_DC.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Raga_of_Revenge_From_DC.jpg"
   },
   {
     "id": 165,
@@ -2785,7 +2785,7 @@
     "bitrate": 132587.95655945237,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Tere_Naina_SpotiDost.mp3",
-    "cover": "covers/Tere_Naina.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Naina.jpg"
   },
   {
     "id": 166,
@@ -2802,7 +2802,7 @@
     "bitrate": 129657.67785936588,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/32_Tumse_Behtar_From_Sunny_Sanskari_Ki_Tulsi_Kumari_SpotiDost.mp3",
-    "cover": "covers/Tumse_Behtar_From_Sunny_Sanskari_Ki_Tulsi_Kumari.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumse_Behtar_From_Sunny_Sanskari_Ki_Tulsi_Kumari.jpg"
   },
   {
     "id": 167,
@@ -2819,7 +2819,7 @@
     "bitrate": 132503.84377534466,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/33_Chhupana_Bhi_Nahin_Aata_From_Baazigar_SpotiDost.mp3",
-    "cover": "covers/Chhupana_Bhi_Nahin_Aata_From_Baazigar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chhupana_Bhi_Nahin_Aata_From_Baazigar.jpg"
   },
   {
     "id": 168,
@@ -2836,7 +2836,7 @@
     "bitrate": 128214.57414374675,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/33_Kiya_Kiya_SpotiDost.mp3",
-    "cover": "covers/Kiya_Kiya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kiya_Kiya.jpg"
   },
   {
     "id": 169,
@@ -2853,7 +2853,7 @@
     "bitrate": 117187.23149271845,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/33_Qayde_Se_From_Metro_..._In_Dino_SpotiDost.mp3",
-    "cover": "covers/Qayde_Se_From_Metro_..._In_Dino.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Qayde_Se_From_Metro_..._In_Dino.jpg"
   },
   {
     "id": 170,
@@ -2870,7 +2870,7 @@
     "bitrate": 144425.8317315557,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/33_Suno_Na_Suno_Na_From_Chalte_Chalte_SpotiDost.mp3",
-    "cover": "covers/Suno_Na_Suno_Na_From_Chalte_Chalte.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Suno_Na_Suno_Na_From_Chalte_Chalte.jpg"
   },
   {
     "id": 171,
@@ -2887,7 +2887,7 @@
     "bitrate": 126840.88234700469,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/33_Teri_Deewani_SpotiDost.mp3",
-    "cover": "covers/Teri_Deewani.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Teri_Deewani.jpg"
   },
   {
     "id": 172,
@@ -2904,7 +2904,7 @@
     "bitrate": 134755.56316995336,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/34_Hum_Aapke_Dil_Mein_Rehte_Hain_From_Hum_Aapke_Dil_Mein_Rahte_Hain_SpotiDost.mp3",
-    "cover": "covers/Hum_Aapke_Dil_Mein_Rehte_Hain_From_Hum_Aapke_Dil_Mein_Rahte_Hain.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hum_Aapke_Dil_Mein_Rehte_Hain_From_Hum_Aapke_Dil_Mein_Rahte_Hain.jpg"
   },
   {
     "id": 173,
@@ -2921,7 +2921,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/34_Jo_Tere_Sang_SpotiDost.mp3",
-    "cover": "covers/Jo_Tere_Sang.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jo_Tere_Sang.jpg"
   },
   {
     "id": 174,
@@ -2938,7 +2938,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/34_Kya_Mujhe_Pyar_Hai_SpotiDost.mp3",
-    "cover": "covers/Kya_Mujhe_Pyar_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kya_Mujhe_Pyar_Hai.jpg"
   },
   {
     "id": 175,
@@ -2955,7 +2955,7 @@
     "bitrate": 133805.3773169424,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/34_Labon_Ko_SpotiDost.mp3",
-    "cover": "covers/Labon_Ko.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Labon_Ko.jpg"
   },
   {
     "id": 176,
@@ -2972,7 +2972,7 @@
     "bitrate": 131596.67437967702,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/34_Zulfein_SpotiDost.mp3",
-    "cover": "covers/Zulfein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zulfein.jpg"
   },
   {
     "id": 177,
@@ -2989,7 +2989,7 @@
     "bitrate": 121933.33123805694,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Ae_Ajnabee_Coke_Studio_Bharat_SpotiDost.mp3",
-    "cover": "covers/Ae_Ajnabee_Coke_Studio_Bharat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ae_Ajnabee_Coke_Studio_Bharat.jpg"
   },
   {
     "id": 178,
@@ -3006,7 +3006,7 @@
     "bitrate": 121505.44554455446,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Darmiyaan_SpotiDost.mp3",
-    "cover": "covers/Darmiyaan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Darmiyaan.jpg"
   },
   {
     "id": 179,
@@ -3023,7 +3023,7 @@
     "bitrate": 133741.55311158797,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Hum_Pyaar_Hai_Tumhare_SpotiDost.mp3",
-    "cover": "covers/Hum_Pyaar_Hai_Tumhare.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hum_Pyaar_Hai_Tumhare.jpg"
   },
   {
     "id": 180,
@@ -3040,7 +3040,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Mera_Dil_Bhi_Kitna_Pagal_Hai_SpotiDost.mp3",
-    "cover": "covers/Mera_Dil_Bhi_Kitna_Pagal_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mera_Dil_Bhi_Kitna_Pagal_Hai.jpg"
   },
   {
     "id": 181,
@@ -3057,7 +3057,7 @@
     "bitrate": 130491.796837101,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Tere_Ho_Ke_Rahenge_-_Reprise_SpotiDost.mp3",
-    "cover": "covers/Tumhare_Hi_Rahenge_Hum_From_Stree_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumhare_Hi_Rahenge_Hum_From_Stree_2.jpg"
   },
   {
     "id": 182,
@@ -3074,7 +3074,7 @@
     "bitrate": 133649.15471737323,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/35_Ye_Tune_Kya_Kiya_SpotiDost.mp3",
-    "cover": "covers/Ye_Tune_Kya_Kiya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ye_Tune_Kya_Kiya.jpg"
   },
   {
     "id": 183,
@@ -3091,7 +3091,7 @@
     "bitrate": 141216.72253258844,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Dhurandhar_The_Revenge_-_Aari_Aari_SpotiDost.mp3",
-    "cover": "covers/Main_Agar_Saamne.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Agar_Saamne.jpg"
   },
   {
     "id": 184,
@@ -3108,7 +3108,7 @@
     "bitrate": 128144.98060135791,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Hote_Hote_Pyar_Ho_SpotiDost.mp3",
-    "cover": "covers/Hote_Hote_Pyar_Ho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hote_Hote_Pyar_Ho.jpg"
   },
   {
     "id": 185,
@@ -3125,7 +3125,7 @@
     "bitrate": 145321.00018436578,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Jackpot_SpotiDost.mp3",
-    "cover": "covers/Jackpot.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jackpot.jpg"
   },
   {
     "id": 186,
@@ -3142,7 +3142,7 @@
     "bitrate": 133879.96868475992,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Maine_Dil_Se_Kaha_SpotiDost.mp3",
-    "cover": "covers/Maine_Dil_Se_Kaha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maine_Dil_Se_Kaha.jpg"
   },
   {
     "id": 187,
@@ -3159,7 +3159,7 @@
     "bitrate": 115680.16045099738,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Mera_Pehla_Pehla_Pyaar_SpotiDost.mp3",
-    "cover": "covers/Mera_Pehla_Pehla_Pyaar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mera_Pehla_Pehla_Pyaar.jpg"
   },
   {
     "id": 188,
@@ -3176,7 +3176,7 @@
     "bitrate": 149343.29721691099,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/36_Tere_Dar_Par_Sanam_-_Male_Version_SpotiDost.mp3",
-    "cover": "covers/Tere_Dar_Par_Sanam_-_Male_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Dar_Par_Sanam_-_Male_Version.jpg"
   },
   {
     "id": 189,
@@ -3193,7 +3193,7 @@
     "bitrate": 122486.7440848991,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/37_Aarzu_SpotiDost.mp3",
-    "cover": "covers/Aarzu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aarzu.jpg"
   },
   {
     "id": 190,
@@ -3210,7 +3210,7 @@
     "bitrate": 130521.54494158785,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/37_Dheere_Dheere_Pyar_Ko_SpotiDost.mp3",
-    "cover": "covers/Dheere_Dheere_Pyar_Ko.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dheere_Dheere_Pyar_Ko.jpg"
   },
   {
     "id": 191,
@@ -3227,7 +3227,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/37_Dil_De_Diya_Hai_SpotiDost.mp3",
-    "cover": "covers/Dil_De_Diya_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_De_Diya_Hai.jpg"
   },
   {
     "id": 192,
@@ -3244,7 +3244,7 @@
     "bitrate": 129235.76751523063,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/37_For_A_Reason_SpotiDost.mp3",
-    "cover": "covers/For_A_Reason.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/For_A_Reason.jpg"
   },
   {
     "id": 193,
@@ -3261,7 +3261,7 @@
     "bitrate": 123002.66189290161,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/37_Hasi_-_Male_Version_SpotiDost.mp3",
-    "cover": "covers/Hasi_-_Male_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hasi_-_Male_Version.jpg"
   },
   {
     "id": 194,
@@ -3278,7 +3278,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Dil_Laga_Liya_Maine_SpotiDost.mp3",
-    "cover": "covers/Dil_Laga_Liya_Maine.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Laga_Liya_Maine.jpg"
   },
   {
     "id": 195,
@@ -3295,7 +3295,7 @@
     "bitrate": 131283.20761420275,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Ghar_Kab_Aaoge_From_BORDER_2_SpotiDost.mp3",
-    "cover": "covers/Ghar_Kab_Aaoge_From_BORDER_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ghar_Kab_Aaoge_From_BORDER_2.jpg"
   },
   {
     "id": 196,
@@ -3312,7 +3312,7 @@
     "bitrate": 122654.11266048282,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Jhoom_Barabar_Jhoom_SpotiDost.mp3",
-    "cover": "covers/Jhoom_Barabar_Jhoom.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jhoom_Barabar_Jhoom.jpg"
   },
   {
     "id": 197,
@@ -3329,7 +3329,7 @@
     "bitrate": 145819.8476600585,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Saathiya_Bin_Tere_Dil_Mane_Na_SpotiDost.mp3",
-    "cover": "covers/Saathiya_Bin_Tere_Dil_Mane_Na.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saathiya_Bin_Tere_Dil_Mane_Na.jpg"
   },
   {
     "id": 198,
@@ -3346,7 +3346,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Tumhare_Hi_Rahenge_Hum_From_Stree_2_SpotiDost.mp3",
-    "cover": "covers/Tumhare_Hi_Rahenge_Hum_From_Stree_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumhare_Hi_Rahenge_Hum_From_Stree_2.jpg"
   },
   {
     "id": 199,
@@ -3363,7 +3363,7 @@
     "bitrate": 133809.2395333624,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/38_Zaalima_SpotiDost.mp3",
-    "cover": "covers/Zaalima.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zaalima.jpg"
   },
   {
     "id": 200,
@@ -3380,7 +3380,7 @@
     "bitrate": 127921.32063978622,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/39_Jaan_Se_Guzarte_Hain_SpotiDost.mp3",
-    "cover": "covers/Jaan_Se_Guzarte_Hain.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jaan_Se_Guzarte_Hain.jpg"
   },
   {
     "id": 201,
@@ -3397,7 +3397,7 @@
     "bitrate": 125581.96874999999,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/39_Maahi_SpotiDost.mp3",
-    "cover": "covers/Maahi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maahi.jpg"
   },
   {
     "id": 202,
@@ -3414,7 +3414,7 @@
     "bitrate": 141311.69200602736,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/39_Pyar_Tu_Dil_Tu_SpotiDost.mp3",
-    "cover": "covers/Pyar_Tu_Dil_Tu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pyar_Tu_Dil_Tu.jpg"
   },
   {
     "id": 203,
@@ -3431,7 +3431,7 @@
     "bitrate": 142965.1961233771,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/39_Tera_Naam_Liya_SpotiDost.mp3",
-    "cover": "covers/Tera_Naam_Liya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tera_Naam_Liya.jpg"
   },
   {
     "id": 204,
@@ -3448,7 +3448,7 @@
     "bitrate": 132401.80954137055,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/39_Tum_Mere_Na_Huye_-_From_Thamma_SpotiDost.mp3",
-    "cover": "covers/Tum_Mere_Na_Huye_-_From_Thamma.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Mere_Na_Huye_-_From_Thamma.jpg"
   },
   {
     "id": 205,
@@ -3465,7 +3465,7 @@
     "bitrate": 133287.4312852695,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/40_Humsafar_From_Badrinath_Ki_Dulhania_SpotiDost.mp3",
-    "cover": "covers/Humsafar_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Humsafar_From_Saiyaara.jpg"
   },
   {
     "id": 206,
@@ -3482,7 +3482,7 @@
     "bitrate": 133909.92624924745,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/40_I_Am_In_Love_SpotiDost.mp3",
-    "cover": "covers/Zara_Sa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Sa.jpg"
   },
   {
     "id": 207,
@@ -3499,7 +3499,7 @@
     "bitrate": 140016.3926649186,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/40_Jab_Jab_Pyar_Pe_Pehra_Hua_Hai_SpotiDost.mp3",
-    "cover": "covers/Jab_Jab_Pyar_Pe_Pehra_Hua_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jab_Jab_Pyar_Pe_Pehra_Hua_Hai.jpg"
   },
   {
     "id": 208,
@@ -3516,7 +3516,7 @@
     "bitrate": 124544.26049274766,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/40_Uyi_Amma_-_From_Azaad_SpotiDost.mp3",
-    "cover": "covers/Uyi_Amma_-_From_Azaad.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Uyi_Amma_-_From_Azaad.jpg"
   },
   {
     "id": 209,
@@ -3533,7 +3533,7 @@
     "bitrate": 136207.32817557763,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/41_Chaaha_Toh_Bahut_SpotiDost.mp3",
-    "cover": "covers/Chaaha_Toh_Bahut.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chaaha_Toh_Bahut.jpg"
   },
   {
     "id": 210,
@@ -3550,7 +3550,7 @@
     "bitrate": 141216.72253258844,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/41_Dhurandhar_The_Revenge_-_Aari_Aari_SpotiDost.mp3",
-    "cover": "covers/Main_Agar_Saamne.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Agar_Saamne.jpg"
   },
   {
     "id": 211,
@@ -3567,7 +3567,7 @@
     "bitrate": 146288.3057534794,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/41_Dilnashin_Dilnashin_From_Aashiq_Banaya_Aapne_SpotiDost.mp3",
-    "cover": "covers/Dilnashin_Dilnashin_From_Aashiq_Banaya_Aapne.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dilnashin_Dilnashin_From_Aashiq_Banaya_Aapne.jpg"
   },
   {
     "id": 212,
@@ -3584,7 +3584,7 @@
     "bitrate": 119772.63587618814,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/41_Nafrat_SpotiDost.mp3",
-    "cover": "covers/Nafrat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Nafrat.jpg"
   },
   {
     "id": 213,
@@ -3601,7 +3601,7 @@
     "bitrate": 120576.32112862132,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/42_Dhun_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyaara.jpg"
   },
   {
     "id": 214,
@@ -3618,7 +3618,7 @@
     "bitrate": 122864.21123281786,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/42_Dil_Ka_Rishta_SpotiDost.mp3",
-    "cover": "covers/Dil_Ka_Rishta.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Ka_Rishta.jpg"
   },
   {
     "id": 215,
@@ -3635,7 +3635,7 @@
     "bitrate": 124205.03846153847,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/42_Inaam_Ft._Badshah_SpotiDost.mp3",
-    "cover": "covers/Inaam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Inaam.jpg"
   },
   {
     "id": 216,
@@ -3652,7 +3652,7 @@
     "bitrate": 133857.09681270143,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/42_Kabhi_Kabhi_Aditi_SpotiDost.mp3",
-    "cover": "covers/Kabhi_Kabhi_Aditi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kabhi_Kabhi_Aditi.jpg"
   },
   {
     "id": 217,
@@ -3669,7 +3669,7 @@
     "bitrate": 138975.87637250914,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/42_Khudaya_Ve_SpotiDost.mp3",
-    "cover": "covers/Khudaya_Ve.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khudaya_Ve.jpg"
   },
   {
     "id": 218,
@@ -3686,7 +3686,7 @@
     "bitrate": 130054.82003604797,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Aaoge_Jab_Tum_SpotiDost.mp3",
-    "cover": "covers/Aaoge_Jab_Tum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaoge_Jab_Tum.jpg"
   },
   {
     "id": 219,
@@ -3703,7 +3703,7 @@
     "bitrate": 136248.32961827808,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Chura_Ke_Dil_Mera_From_Main_Khiladi_Tu_Anari_SpotiDost.mp3",
-    "cover": "covers/Chura_Ke_Dil_Mera_From_Main_Khiladi_Tu_Anari.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chura_Ke_Dil_Mera_From_Main_Khiladi_Tu_Anari.jpg"
   },
   {
     "id": 220,
@@ -3720,7 +3720,7 @@
     "bitrate": 129753.43005702784,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Dhurandhar_-_Title_Track_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Dhurandhar_-_Title_Track_From_Dhurandhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dhurandhar_-_Title_Track_From_Dhurandhar.jpg"
   },
   {
     "id": 221,
@@ -3737,7 +3737,7 @@
     "bitrate": 135859.83152686144,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Ghafoor_SpotiDost.mp3",
-    "cover": "covers/Ghafoor.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ghafoor.jpg"
   },
   {
     "id": 222,
@@ -3754,7 +3754,7 @@
     "bitrate": 133287.4312852695,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Humsafar_From_Badrinath_Ki_Dulhania_SpotiDost.mp3",
-    "cover": "covers/Humsafar_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Humsafar_From_Saiyaara.jpg"
   },
   {
     "id": 223,
@@ -3771,7 +3771,7 @@
     "bitrate": 129443.24741280184,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/43_Main_Agar_Saamne_-_Jhankar_SpotiDost.mp3",
-    "cover": "covers/Main_Agar_Saamne_-_Jhankar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Agar_Saamne_-_Jhankar.jpg"
   },
   {
     "id": 224,
@@ -3788,7 +3788,7 @@
     "bitrate": 133707.26329442282,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Amsham_-_SpotiDost.mp3",
-    "cover": "covers/Amsham_-.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Amsham_-.jpg"
   },
   {
     "id": 225,
@@ -3805,7 +3805,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Baarish_SpotiDost.mp3",
-    "cover": "covers/Baarish.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Baarish.jpg"
   },
   {
     "id": 226,
@@ -3822,7 +3822,7 @@
     "bitrate": 134559.1767470194,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Paan_Ki_Dukaan_From_O_Romeo_SpotiDost.mp3",
-    "cover": "covers/Paan_Ki_Dukaan_From_O_Romeo.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Paan_Ki_Dukaan_From_O_Romeo.jpg"
   },
   {
     "id": 227,
@@ -3839,7 +3839,7 @@
     "bitrate": 132587.95655945237,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Tere_Naina_SpotiDost.mp3",
-    "cover": "covers/Tere_Naina.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Naina.jpg"
   },
   {
     "id": 228,
@@ -3856,7 +3856,7 @@
     "bitrate": 135241.87148737433,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Tumse_Milne_Ki_Tamanna_Hai_SpotiDost.mp3",
-    "cover": "covers/Tumse_Milne_Ki_Tamanna_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumse_Milne_Ki_Tamanna_Hai.jpg"
   },
   {
     "id": 229,
@@ -3873,7 +3873,7 @@
     "bitrate": 126641.67215324806,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/44_Yeh_Teri_Aankhen_Jhuki_Jhuki_SpotiDost.mp3",
-    "cover": "covers/Yeh_Teri_Aankhen_Jhuki_Jhuki.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yeh_Teri_Aankhen_Jhuki_Jhuki.jpg"
   },
   {
     "id": 230,
@@ -3890,7 +3890,7 @@
     "bitrate": 130828.82988520518,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_Chahun_Main_Ya_Naa_From_Aashiqui_2_SpotiDost.mp3",
-    "cover": "covers/Chahun_Main_Ya_Naa_From_Aashiqui_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chahun_Main_Ya_Naa_From_Aashiqui_2.jpg"
   },
   {
     "id": 231,
@@ -3907,7 +3907,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_Kasam_Khake_Kaho_SpotiDost.mp3",
-    "cover": "covers/Kasam_Khake_Kaho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kasam_Khake_Kaho.jpg"
   },
   {
     "id": 232,
@@ -3924,7 +3924,7 @@
     "bitrate": 137337.09632516705,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_O_Jaana_SpotiDost.mp3",
-    "cover": "covers/O_Jaana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Jaana.jpg"
   },
   {
     "id": 233,
@@ -3941,7 +3941,7 @@
     "bitrate": 126665.7579055912,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_Qubool_From_Haq_SpotiDost.mp3",
-    "cover": "covers/Qubool_From_Haq.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Qubool_From_Haq.jpg"
   },
   {
     "id": 234,
@@ -3958,7 +3958,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_Saiyyan_SpotiDost.mp3",
-    "cover": "covers/Saiyyan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyyan.jpg"
   },
   {
     "id": 235,
@@ -3975,7 +3975,7 @@
     "bitrate": 136599.31169814328,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/45_Shukriya_Shukriya_SpotiDost.mp3",
-    "cover": "covers/Shukriya_Shukriya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Shukriya_Shukriya.jpg"
   },
   {
     "id": 236,
@@ -3992,7 +3992,7 @@
     "bitrate": 129354.21103010596,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/46_Banda_Kaam_Ka_SpotiDost.mp3",
-    "cover": "covers/Banda_Kaam_Ka.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Banda_Kaam_Ka.jpg"
   },
   {
     "id": 237,
@@ -4009,7 +4009,7 @@
     "bitrate": 133959.35674649532,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/46_Dil_Cheer_Ke_Dekh_SpotiDost.mp3",
-    "cover": "covers/Dil_Cheer_Ke_Dekh.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Cheer_Ke_Dekh.jpg"
   },
   {
     "id": 238,
@@ -4026,7 +4026,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/46_Dil_Mera_Tod_Diya_SpotiDost.mp3",
-    "cover": "covers/Dil_Mera_Tod_Diya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Mera_Tod_Diya.jpg"
   },
   {
     "id": 239,
@@ -4043,7 +4043,7 @@
     "bitrate": 135958.62505724753,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/46_Mann_Mera_-_Original_Version_SpotiDost.mp3",
-    "cover": "covers/Mann_Mera_-_Original_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mann_Mera_-_Original_Version.jpg"
   },
   {
     "id": 240,
@@ -4060,7 +4060,7 @@
     "bitrate": 131352.62875303713,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/46_Soniye_SpotiDost.mp3",
-    "cover": "covers/Soniye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Soniye.jpg"
   },
   {
     "id": 241,
@@ -4077,7 +4077,7 @@
     "bitrate": 115406.68532338309,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Inaam_SpotiDost.mp3",
-    "cover": "covers/Inaam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Inaam.jpg"
   },
   {
     "id": 242,
@@ -4094,7 +4094,7 @@
     "bitrate": 133805.3773169424,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Labon_Ko_SpotiDost.mp3",
-    "cover": "covers/Labon_Ko.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Labon_Ko.jpg"
   },
   {
     "id": 243,
@@ -4111,7 +4111,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Maine_Pyar_Tumhi_Se_Kiya_Hai_SpotiDost.mp3",
-    "cover": "covers/Maine_Pyar_Tumhi_Se_Kiya_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maine_Pyar_Tumhi_Se_Kiya_Hai.jpg"
   },
   {
     "id": 244,
@@ -4128,7 +4128,7 @@
     "bitrate": 131807.06370899917,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Naal_Nachna_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Naal_Nachna_From_Dhurandhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Naal_Nachna_From_Dhurandhar.jpg"
   },
   {
     "id": 245,
@@ -4145,7 +4145,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Rab_Kare_SpotiDost.mp3",
-    "cover": "covers/Rab_Kare.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Rab_Kare.jpg"
   },
   {
     "id": 246,
@@ -4162,7 +4162,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/47_Sajde_SpotiDost.mp3",
-    "cover": "covers/Sajde.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sajde.jpg"
   },
   {
     "id": 247,
@@ -4179,7 +4179,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Dil_De_Diya_Hai_SpotiDost.mp3",
-    "cover": "covers/Dil_De_Diya_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_De_Diya_Hai.jpg"
   },
   {
     "id": 248,
@@ -4196,7 +4196,7 @@
     "bitrate": 125387.41710710012,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Ek_Din_Title_Track_-_From_Ek_Din_SpotiDost.mp3",
-    "cover": "covers/Ek_Din_Title_Track_-_From_Ek_Din.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ek_Din_Title_Track_-_From_Ek_Din.jpg"
   },
   {
     "id": 249,
@@ -4213,7 +4213,7 @@
     "bitrate": 126001.96053220036,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Honthon_Pe_Bas_SpotiDost.mp3",
-    "cover": "covers/Honthon_Pe_Bas.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Honthon_Pe_Bas.jpg"
   },
   {
     "id": 250,
@@ -4230,7 +4230,7 @@
     "bitrate": 128279.6690283401,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Humsafar_From_Saiyaara_SpotiDost.mp3",
-    "cover": "covers/Humsafar_From_Saiyaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Humsafar_From_Saiyaara.jpg"
   },
   {
     "id": 251,
@@ -4247,7 +4247,7 @@
     "bitrate": 131515.88438735178,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Is_Pyar_Se_Meri_Taraf_Na_Dekho_-_Duet_Version_SpotiDost.mp3",
-    "cover": "covers/Is_Pyar_Se_Meri_Taraf_Na_Dekho_-_Duet_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Is_Pyar_Se_Meri_Taraf_Na_Dekho_-_Duet_Version.jpg"
   },
   {
     "id": 252,
@@ -4264,7 +4264,7 @@
     "bitrate": 125926.00507591412,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/48_Zindagi_Se_SpotiDost.mp3",
-    "cover": "covers/Zindagi_Se.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zindagi_Se.jpg"
   },
   {
     "id": 253,
@@ -4281,7 +4281,7 @@
     "bitrate": 135604.62369555354,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/49_Gulabi_SpotiDost.mp3",
-    "cover": "covers/Gulabi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Gulabi.jpg"
   },
   {
     "id": 254,
@@ -4298,7 +4298,7 @@
     "bitrate": 121028.09327107281,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/49_Jo_Ishq_Hua_SpotiDost.mp3",
-    "cover": "covers/Jo_Ishq_Hua.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jo_Ishq_Hua.jpg"
   },
   {
     "id": 255,
@@ -4315,7 +4315,7 @@
     "bitrate": 135505.16126287126,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/49_Khud_Ko_Tere_SpotiDost.mp3",
-    "cover": "covers/Khud_Ko_Tere.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khud_Ko_Tere.jpg"
   },
   {
     "id": 256,
@@ -4332,7 +4332,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/49_Mere_Khwabon_Mein_Tu_SpotiDost.mp3",
-    "cover": "covers/Mere_Khwabon_Mein_Tu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mere_Khwabon_Mein_Tu.jpg"
   },
   {
     "id": 257,
@@ -4349,7 +4349,7 @@
     "bitrate": 133625.78225288834,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/49_On_The_Floor_SpotiDost.mp3",
-    "cover": "covers/On_The_Floor.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/On_The_Floor.jpg"
   },
   {
     "id": 258,
@@ -4366,7 +4366,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_Aankhon_Mein_Base_Ho_Tum_-_Male_Version_SpotiDost.mp3",
-    "cover": "covers/Aankhon_Mein_Base_Ho_Tum_-_Male_Version.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aankhon_Mein_Base_Ho_Tum_-_Male_Version.jpg"
   },
   {
     "id": 259,
@@ -4383,7 +4383,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_Hale_Dil_SpotiDost.mp3",
-    "cover": "covers/Hale_Dil.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hale_Dil.jpg"
   },
   {
     "id": 260,
@@ -4400,7 +4400,7 @@
     "bitrate": 128515.09629909365,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_Ishq_Aur_Pyar_Ka_SpotiDost.mp3",
-    "cover": "covers/Ishq_Aur_Pyar_Ka.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ishq_Aur_Pyar_Ka.jpg"
   },
   {
     "id": 261,
@@ -4417,7 +4417,7 @@
     "bitrate": 115550.7955673488,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_Kyun_Main_Jaagoon_SpotiDost.mp3",
-    "cover": "covers/Kyun_Main_Jaagoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kyun_Main_Jaagoon.jpg"
   },
   {
     "id": 262,
@@ -4434,7 +4434,7 @@
     "bitrate": 137337.09632516705,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_O_Jaana_SpotiDost.mp3",
-    "cover": "covers/O_Jaana.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Jaana.jpg"
   },
   {
     "id": 263,
@@ -4451,7 +4451,7 @@
     "bitrate": 126844.47783837763,
     "sampleRate": 44100,
     "file": "https://yrqsbfbrqwwduhtdlidf.supabase.co/storage/v1/object/public/music/music/50_The_Last_Letter_SpotiDost.mp3",
-    "cover": "covers/The_Last_Letter.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/The_Last_Letter.jpg"
   },
   {
     "id": 264,
@@ -4468,7 +4468,7 @@
     "bitrate": 129457,
     "sampleRate": 44100,
     "file": "music/01_Pardesiya_-_From_Param_Sundari_SpotiDost.mp3",
-    "cover": "covers/Pardesiya_(Lyrical)_Param_Sundari__Sidharth_M,_Janhvi_K_Sachin-Jigar,_Sonu,_Krishnakali,_Amitabh_B.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pardesiya_(Lyrical)_Param_Sundari__Sidharth_M,_Janhvi_K_Sachin-Jigar,_Sonu,_Krishnakali,_Amitabh_B.jpg"
   },
   {
     "id": 265,
@@ -4485,7 +4485,7 @@
     "bitrate": 129435,
     "sampleRate": 44100,
     "file": "music/03_Main_Rang_Sharbaton_Ka_From_Phata_Poster_Nikhla_Hero_SpotiDost.mp3",
-    "cover": "covers/Main_Rang_Sharbaton_Ka_(Lyrical)_-_Atif_Aslam_And_Chinmayi_Sripaada_-_Phata_Poster_Nikhla_Hero.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Rang_Sharbaton_Ka_(Lyrical)_-_Atif_Aslam_And_Chinmayi_Sripaada_-_Phata_Poster_Nikhla_Hero.jpg"
   },
   {
     "id": 266,
@@ -4502,7 +4502,7 @@
     "bitrate": 130828,
     "sampleRate": 44100,
     "file": "music/04_Khuda_Jaane_SpotiDost.mp3",
-    "cover": "covers/Khuda_Jaane_-_Full_Song_Audio__Bachna_Ae_Haseeno__KK__Shilpa_Rao__Vishal_and_Shekhar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Khuda_Jaane_-_Full_Song_Audio__Bachna_Ae_Haseeno__KK__Shilpa_Rao__Vishal_and_Shekhar.jpg"
   },
   {
     "id": 267,
@@ -4519,7 +4519,7 @@
     "bitrate": 122791,
     "sampleRate": 44100,
     "file": "music/09_Ishq_Nibhaavan_De_From_Chand_Mera_Dil_SpotiDost.mp3",
-    "cover": "covers/Ishq_Nibhaavan_De_-_Neeti_Mohan__Chand_Mera_Dil__Ananya_Panday,_Lakshya__Sachin-Jigar,_Amitabh_B..jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ishq_Nibhaavan_De_-_Neeti_Mohan__Chand_Mera_Dil__Ananya_Panday,_Lakshya__Sachin-Jigar,_Amitabh_B..jpg"
   },
   {
     "id": 268,
@@ -4536,7 +4536,7 @@
     "bitrate": 130053,
     "sampleRate": 44100,
     "file": "music/10_Tum_Se_Hi_SpotiDost.mp3",
-    "cover": "covers/Tum_Se_Hi_Lyrcial__Jab_We_Met__Kareena_Kapoor,_Shahid_Kapoor__Mohit_Chauhan__Pritam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Se_Hi_Lyrcial__Jab_We_Met__Kareena_Kapoor,_Shahid_Kapoor__Mohit_Chauhan__Pritam.jpg"
   },
   {
     "id": 269,
@@ -4553,7 +4553,7 @@
     "bitrate": 125444,
     "sampleRate": 44100,
     "file": "music/14_Hua_Main_From_ANIMAL_SpotiDost.mp3",
-    "cover": "covers/ANIMAL_Hua_Main_(Full_Video)__Ranbir_Kapoor__Rashmika_M__Sandeep_V__Raghav,Manoj_M__Bhushan_K.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/ANIMAL_Hua_Main_(Full_Video)__Ranbir_Kapoor__Rashmika_M__Sandeep_V__Raghav,Manoj_M__Bhushan_K.jpg"
   },
   {
     "id": 270,
@@ -4570,7 +4570,7 @@
     "bitrate": 117022,
     "sampleRate": 44100,
     "file": "music/15_O_Meri_Laila_SpotiDost.mp3",
-    "cover": "covers/O_Meri_Laila_(Lyrics)__Laila_Majnu__Atif_Aslam_&_Jyotica_Tangri.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Meri_Laila_(Lyrics)__Laila_Majnu__Atif_Aslam_&_Jyotica_Tangri.jpg"
   },
   {
     "id": 271,
@@ -4587,7 +4587,7 @@
     "bitrate": 141715,
     "sampleRate": 44100,
     "file": "music/17_Maskara_From_Main_Vaapas_Aaunga_SpotiDost.mp3",
-    "cover": "covers/Maskara__Main_Vaapas_Aaunga_@ARRahman_Imtiaz_Ali,_Irshad_Kamil,_Vedang_Raina,_Nilanjana,_Sharvari.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maskara__Main_Vaapas_Aaunga_@ARRahman_Imtiaz_Ali,_Irshad_Kamil,_Vedang_Raina,_Nilanjana,_Sharvari.jpg"
   },
   {
     "id": 272,
@@ -4604,7 +4604,7 @@
     "bitrate": 132011,
     "sampleRate": 44100,
     "file": "music/18_Gehra_Hua_From_Dhurandhar_SpotiDost.mp3",
-    "cover": "covers/Gehra_Hua_-_Lyrical_(Full_Version)__Dhurandhar,_Ranveer_Singh,_Sara_A,Shashwat_Sachdev,Arijit_Singh.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Gehra_Hua_-_Lyrical_(Full_Version)__Dhurandhar,_Ranveer_Singh,_Sara_A,Shashwat_Sachdev,Arijit_Singh.jpg"
   },
   {
     "id": 273,
@@ -4621,7 +4621,7 @@
     "bitrate": 120734,
     "sampleRate": 44100,
     "file": "music/19_Tu_Hi_Disda_-_From_Bhooth_Bangla_SpotiDost.mp3",
-    "cover": "covers/Arijit_Singh_-_Tu_Hi_Disda__Bhooth_Bangla__Akshay_Kumar_&_Wamiqa_Gabbi__Pritam,_Nikhita__Lyrical.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arijit_Singh_-_Tu_Hi_Disda__Bhooth_Bangla__Akshay_Kumar_&_Wamiqa_Gabbi__Pritam,_Nikhita__Lyrical.jpg"
   },
   {
     "id": 274,
@@ -4638,7 +4638,7 @@
     "bitrate": 127651,
     "sampleRate": 44100,
     "file": "music/23_Tera_Hoke_Rahoon_SpotiDost.mp3",
-    "cover": "covers/Tera_Hoke_Rahoon_-_Full_Audio__Behen_Hogi_Teri__Rajkummar_Rao_&_Shruti_Haasan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tera_Hoke_Rahoon_-_Full_Audio__Behen_Hogi_Teri__Rajkummar_Rao_&_Shruti_Haasan.jpg"
   },
   {
     "id": 275,
@@ -4655,7 +4655,7 @@
     "bitrate": 129191,
     "sampleRate": 44100,
     "file": "music/24_Jeene_Laga_Hoon_SpotiDost.mp3",
-    "cover": "covers/Jeene_Laga_Hoon_(Lyrics)__Ramaiya_Vastavaiya__Atif_Aslam,_Shreya_Ghoshal,_Priya_Panchal,_Shruti.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jeene_Laga_Hoon_(Lyrics)__Ramaiya_Vastavaiya__Atif_Aslam,_Shreya_Ghoshal,_Priya_Panchal,_Shruti.jpg"
   },
   {
     "id": 276,
@@ -4672,7 +4672,7 @@
     "bitrate": 132347,
     "sampleRate": 44100,
     "file": "music/25_Halka_Halka_SpotiDost.mp3",
-    "cover": "covers/Halka_Halka_Full_Audio_Song__FANNEY_KHAN__Aishwarya_Rai_Bachchan__Rajkummar_Rao.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Halka_Halka_Full_Audio_Song__FANNEY_KHAN__Aishwarya_Rai_Bachchan__Rajkummar_Rao.jpg"
   },
   {
     "id": 277,
@@ -4689,7 +4689,7 @@
     "bitrate": 130339,
     "sampleRate": 44100,
     "file": "music/26_Soch_Na_Sake_SpotiDost.mp3",
-    "cover": "covers/SOCH_NA_SAKE_Video_Song_(LYRICS)__AIRLIFT__Akshay_Kumar,_Nimrat_Kaur__T-Series.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/SOCH_NA_SAKE_Video_Song_(LYRICS)__AIRLIFT__Akshay_Kumar,_Nimrat_Kaur__T-Series.jpg"
   },
   {
     "id": 278,
@@ -4706,7 +4706,7 @@
     "bitrate": 126091,
     "sampleRate": 44100,
     "file": "music/30_Itni_Si_Baat_Hain_SpotiDost.mp3",
-    "cover": "covers/Itni_Si_Baat_Hain_Lyrical_Vide_Song__Azhar__Emraan_Hashmi,_Prachi_Desai__Pritam__T-Series.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Itni_Si_Baat_Hain_Lyrical_Vide_Song__Azhar__Emraan_Hashmi,_Prachi_Desai__Pritam__T-Series.jpg"
   },
   {
     "id": 279,
@@ -4723,7 +4723,7 @@
     "bitrate": 124313,
     "sampleRate": 44100,
     "file": "music/31_Thodi_Der_SpotiDost.mp3",
-    "cover": "covers/Thodi_Der_-_Full_Audio__Half_Girlfriend__Arjun_K_&_Shraddha_K__Farhan_Saeed_&_Shreya_Ghoshal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Thodi_Der_-_Full_Audio__Half_Girlfriend__Arjun_K_&_Shraddha_K__Farhan_Saeed_&_Shreya_Ghoshal.jpg"
   },
   {
     "id": 280,
@@ -4740,7 +4740,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/32_Tu_Chahiye_SpotiDost.mp3",
-    "cover": "covers/'Tu_Chahiye'_Full_AUDIO_Song__Atif_Aslam_Pritam__Bajrangi_Bhaijaan__Salman_Khan,_Kareena_Kapoor.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/'Tu_Chahiye'_Full_AUDIO_Song__Atif_Aslam_Pritam__Bajrangi_Bhaijaan__Salman_Khan,_Kareena_Kapoor.jpg"
   },
   {
     "id": 281,
@@ -4757,7 +4757,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/34_Hawayein_SpotiDost.mp3",
-    "cover": "covers/Arijit_Singh,_Pritam_-_Hawayein_(Lyrics).jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arijit_Singh,_Pritam_-_Hawayein_(Lyrics).jpg"
   },
   {
     "id": 282,
@@ -4774,7 +4774,7 @@
     "bitrate": 133656,
     "sampleRate": 44100,
     "file": "music/36_Tu_Hi_Meri_Shab_Hai_-_From_Gangster_SpotiDost.mp3",
-    "cover": "covers/Tu_Hi_Meri_Shab_Hai_Full_Audio__KK__Gangster__Emraan_Hashmi__Pritam__Romantic_Hindi_Song.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Hi_Meri_Shab_Hai_Full_Audio__KK__Gangster__Emraan_Hashmi__Pritam__Romantic_Hindi_Song.jpg"
   },
   {
     "id": 283,
@@ -4791,7 +4791,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/42_Channa_Ve_-_From_Bhoot_-_Part_One_The_Haunted_Ship_SpotiDost.mp3",
-    "cover": "covers/Channa_Ve_-_Lyrical__Bhoot_-_Part_One__Vicky_Kaushal_&_Bhumi_Pednekar__Akhil_Sachdeva_&_Mansheel.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Channa_Ve_-_Lyrical__Bhoot_-_Part_One__Vicky_Kaushal_&_Bhumi_Pednekar__Akhil_Sachdeva_&_Mansheel.jpg"
   },
   {
     "id": 284,
@@ -4808,7 +4808,7 @@
     "bitrate": 117810,
     "sampleRate": 44100,
     "file": "music/43_Dildaara_Stand_By_Me_SpotiDost.mp3",
-    "cover": "covers/Dildaara_(Stand_By_Me)_-_Ra.One_-_Shafqat_Amanat_Ali_feat._Other.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dildaara_(Stand_By_Me)_-_Ra.One_-_Shafqat_Amanat_Ali_feat._Other.jpg"
   },
   {
     "id": 255,
@@ -4825,7 +4825,7 @@
     "bitrate": 125784,
     "sampleRate": 44100,
     "file": "music/44_Chashni_From_Bharat_SpotiDost.mp3",
-    "cover": "covers/Full_Audio_Chashni__Bharat__Salman_Khan,_Katrina_Kaif__Vishal_&_Shekhar_ft._Abhijeet_Srivastava.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Full_Audio_Chashni__Bharat__Salman_Khan,_Katrina_Kaif__Vishal_&_Shekhar_ft._Abhijeet_Srivastava.jpg"
   },
   {
     "id": 286,
@@ -4842,7 +4842,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/46_Naina_Da_Kya_Kasoor_SpotiDost.mp3",
-    "cover": "covers/Naina_Da_Kya_Kasoor_-_Lyrical__AndhaDhun__Ayushmann_Khurrana__Radhika_Apte__Amit_Trivedi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Naina_Da_Kya_Kasoor_-_Lyrical__AndhaDhun__Ayushmann_Khurrana__Radhika_Apte__Amit_Trivedi.jpg"
   },
   {
     "id": 287,
@@ -4859,7 +4859,7 @@
     "bitrate": 128727,
     "sampleRate": 44100,
     "file": "music/47_Deewaniyat_From_Ek_Deewane_Ki_Deewaniyat_Original_Motion_Picture_Soundtrack_SpotiDost.mp3",
-    "cover": "covers/DEEWANIYAT_-Title_Track_Ek_Deewane_Ki_Deewaniyat_Harshvardhan,_Sonam_Vishal_Kaushik-Guddu,Kunaal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/DEEWANIYAT_-Title_Track_Ek_Deewane_Ki_Deewaniyat_Harshvardhan,_Sonam_Vishal_Kaushik-Guddu,Kunaal.jpg"
   },
   {
     "id": 289,
@@ -4876,7 +4876,7 @@
     "bitrate": 130812,
     "sampleRate": 44100,
     "file": "music/48_Bolna_SpotiDost.mp3",
-    "cover": "covers/Arijit_Singh_-_Bolna_Mahi_Bolna_(Audio_Lyrical)_Alia_B__Sidharth_M__Fawad_K__Asees_K__Tanishk_B.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arijit_Singh_-_Bolna_Mahi_Bolna_(Audio_Lyrical)_Alia_B__Sidharth_M__Fawad_K__Asees_K__Tanishk_B.jpg"
   },
   {
     "id": 290,
@@ -4893,7 +4893,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/49_Maiyya_Mainu_SpotiDost.mp3",
-    "cover": "covers/Do_Patti_Maiyya_(Lyrics)_Kriti_Sanon,_Kajol,_Shaheer_S,_Tanvi_Azmi__Sachet-Parampara__Kausar_M.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Do_Patti_Maiyya_(Lyrics)_Kriti_Sanon,_Kajol,_Shaheer_S,_Tanvi_Azmi__Sachet-Parampara__Kausar_M.jpg"
   },
   {
     "id": 300,
@@ -4910,7 +4910,7 @@
     "bitrate": 77954,
     "sampleRate": 44100,
     "file": "music/50_Dekha_Hazaro_Dafaa_SpotiDost.mp3",
-    "cover": "covers/Arijit_Singh_-_Dekha_Hazaro_Dafaa__Akshay_Kumar_&_Ileana_D'cruz__Palak_Muchhal__Rustom.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Arijit_Singh_-_Dekha_Hazaro_Dafaa__Akshay_Kumar_&_Ileana_D'cruz__Palak_Muchhal__Rustom.jpg"
   },
   {
     "id": 301,
@@ -4927,7 +4927,7 @@
     "bitrate": 124085,
     "sampleRate": 44100,
     "file": "music/51_Qaafirana_SpotiDost.mp3",
-    "cover": "covers/Kedarnath_-_Qaafirana_(Lyrics)__Amit_Trivedi,_Arijit_Singh,_Nikhita_Gandhi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kedarnath_-_Qaafirana_(Lyrics)__Amit_Trivedi,_Arijit_Singh,_Nikhita_Gandhi.jpg"
   },
   {
     "id": 302,
@@ -4944,7 +4944,7 @@
     "bitrate": 131423,
     "sampleRate": 44100,
     "file": "music/55_Ve_Maahi_SpotiDost.mp3",
-    "cover": "covers/Ve_Maahi_-_Full_Audio__Kesari__Akshay_Kumar_&_Parineeti_Chopra__Arijit_Singh_&_Asees_Kaur.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ve_Maahi_-_Full_Audio__Kesari__Akshay_Kumar_&_Parineeti_Chopra__Arijit_Singh_&_Asees_Kaur.jpg"
   },
   {
     "id": 303,
@@ -4961,7 +4961,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/56_Bakhuda_Tumhi_Ho_SpotiDost.mp3",
-    "cover": "covers/Bakhuda_Tumhi_Ho_Lyrical_-_Kismat_Konnection_Shahid,_Vidya_Balan__Atif_Aslam,_Alka_Yagnik__Pritam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Bakhuda_Tumhi_Ho_Lyrical_-_Kismat_Konnection_Shahid,_Vidya_Balan__Atif_Aslam,_Alka_Yagnik__Pritam.jpg"
   },
   {
     "id": 304,
@@ -4978,7 +4978,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/57_Piyu_Bole_SpotiDost.mp3",
-    "cover": "covers/Piyu_Bole__Parineeta__Saif_Ali_Khan_&_Vidya_Balan__Sonu_Nigam_&_Shreya_Ghoshal__Lyrical.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Piyu_Bole__Parineeta__Saif_Ali_Khan_&_Vidya_Balan__Sonu_Nigam_&_Shreya_Ghoshal__Lyrical.jpg"
   },
   {
     "id": 305,
@@ -4995,7 +4995,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/62_Tum_Kya_Mile_From_Rocky_Aur_Rani_Kii_Prem_Kahaani_SpotiDost.mp3",
-    "cover": "covers/Song__Tum_kya_mile__तुम_क्या_मिले__Singer__Arijit_Singh__musiclife.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Song__Tum_kya_mile__तुम_क्या_मिले__Singer__Arijit_Singh__musiclife.jpg"
   },
   {
     "id": 306,
@@ -5012,7 +5012,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/63_Mehrama_SpotiDost.mp3",
-    "cover": "covers/Mehrama_-_Official_Lyric_Video__Love_Aaj_Kal__Kartik__Sara__Pritam__Darshan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mehrama_-_Official_Lyric_Video__Love_Aaj_Kal__Kartik__Sara__Pritam__Darshan.jpg"
   },
   {
     "id": 307,
@@ -5029,7 +5029,7 @@
     "bitrate": 106095,
     "sampleRate": 44100,
     "file": "music/66_Qayde_Se_From_Metro_..._In_Dino_SpotiDost.mp3",
-    "cover": "covers/Metro…In_Dino_(Side_B)_Qayde_Se_(Full_Audio)__Arijit_Singh__Pritam__Amitabh_Bhattacharya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Metro…In_Dino_(Side_B)_Qayde_Se_(Full_Audio)__Arijit_Singh__Pritam__Amitabh_Bhattacharya.jpg"
   },
   {
     "id": 308,
@@ -5046,7 +5046,7 @@
     "bitrate": 111891,
     "sampleRate": 44100,
     "file": "music/67_Tu_Hain_Toh_-_Neeti_Mohan_Version_From_Mr._And_Mrs._Mahi_SpotiDost.mp3",
-    "cover": "covers/Hunny_&_Bunny_-_Tu_Hain_Toh_(Lyrics)_ft._Neeti_Mohan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hunny_&_Bunny_-_Tu_Hain_Toh_(Lyrics)_ft._Neeti_Mohan.jpg"
   },
   {
     "id": 309,
@@ -5063,7 +5063,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "music/68_Deva_Deva_From_Brahmastra_SpotiDost.mp3",
-    "cover": "covers/Deva_Deva_-_Lyric_VideoBrahmāstraAmitabh_B,_Ranbir,_AliaPritam,_Arijit,_Jonita.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deva_Deva_-_Lyric_VideoBrahmāstraAmitabh_B,_Ranbir,_AliaPritam,_Arijit,_Jonita.jpg"
   },
   {
     "id": 310,
@@ -5080,7 +5080,7 @@
     "bitrate": 130496,
     "sampleRate": 44100,
     "file": "music/69_Mera_Mann_Kehne_Laga_SpotiDost.mp3",
-    "cover": "covers/Mera_Mann_Kehne_Laga_Nautanki_Saala_Full_Video_Song_★_Falak_★.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mera_Mann_Kehne_Laga_Nautanki_Saala_Full_Video_Song_★_Falak_★.jpg"
   },
   {
     "id": 311,
@@ -5097,7 +5097,7 @@
     "bitrate": 118497,
     "sampleRate": 44100,
     "file": "music/70_Zindagi_Tere_Naam_From_Yodha_SpotiDost.mp3",
-    "cover": "covers/YODHA_Zindagi_Tere_Naam_(Full_Audio)__Sidharth_Malhotra,_Raashii_Khanna__Vishal_Mishra.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/YODHA_Zindagi_Tere_Naam_(Full_Audio)__Sidharth_Malhotra,_Raashii_Khanna__Vishal_Mishra.jpg"
   },
   {
     "id": 312,
@@ -5114,7 +5114,7 @@
     "bitrate": 128730,
     "sampleRate": 44100,
     "file": "music/72_Tumse_Behtar_From_Sunny_Sanskari_Ki_Tulsi_Kumari_SpotiDost.mp3",
-    "cover": "covers/Tumse_Behtar_Lyric_Video__SSKTK__Varun,_Janhvi,_Sanya,_Rohit__Arijit,_Tanishk,_Manoj.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumse_Behtar_Lyric_Video__SSKTK__Varun,_Janhvi,_Sanya,_Rohit__Arijit,_Tanishk,_Manoj.jpg"
   },
   {
     "id": 313,
@@ -5131,7 +5131,7 @@
     "bitrate": 122822,
     "sampleRate": 44100,
     "file": "music/73_Saiyaara_Reprise_-_Female_SpotiDost.mp3",
-    "cover": "covers/Saiyaara_Reprise_-_Female__Full_Song__Ahaan,_Aneet__Tanishk,_Faheem,_Arslan__Shreya__Irshad.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saiyaara_Reprise_-_Female__Full_Song__Ahaan,_Aneet__Tanishk,_Faheem,_Arslan__Shreya__Irshad.jpg"
   },
   {
     "id": 314,
@@ -5148,7 +5148,7 @@
     "bitrate": 130637,
     "sampleRate": 44100,
     "file": "music/75_Rangisari_From_Jugjugg_Jeeyo_SpotiDost.mp3",
-    "cover": "covers/RANGISARI_(Audio)__JugJugg_Jeeyo__Varun_D,_Kiara_A,_Anil_K,_Neetu_K__Kanishk_&_Kavita__Bhushan_K.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/RANGISARI_(Audio)__JugJugg_Jeeyo__Varun_D,_Kiara_A,_Anil_K,_Neetu_K__Kanishk_&_Kavita__Bhushan_K.jpg"
   },
   {
     "id": 315,
@@ -5165,7 +5165,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/001_Mitwa_SpotiDost.mp3",
-    "cover": "covers_2/Mitwa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mitwa.jpg"
   },
   {
     "id": 316,
@@ -5182,7 +5182,7 @@
     "bitrate": 131179,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/002_Zara_Sa_SpotiDost.mp3",
-    "cover": "covers_2/Zara_Sa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Sa.jpg"
   },
   {
     "id": 317,
@@ -5199,7 +5199,7 @@
     "bitrate": 118457,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/003_Ye_Ishq_Hai_SpotiDost.mp3",
-    "cover": "covers_2/Ye_Ishq_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ye_Ishq_Hai.jpg"
   },
   {
     "id": 318,
@@ -5216,7 +5216,7 @@
     "bitrate": 125577,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/004_Maahi_SpotiDost.mp3",
-    "cover": "covers_2/Aahista_Aahista.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aahista_Aahista.jpg"
   },
   {
     "id": 319,
@@ -5233,7 +5233,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/005_Mitwa_SpotiDost.mp3",
-    "cover": "covers_2/Mitwa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mitwa.jpg"
   },
   {
     "id": 320,
@@ -5250,7 +5250,7 @@
     "bitrate": 144046,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/006_Ghanan_Ghanan_SpotiDost.mp3",
-    "cover": "covers_2/Ghanan_Ghanan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ghanan_Ghanan.jpg"
   },
   {
     "id": 321,
@@ -5267,7 +5267,7 @@
     "bitrate": 137229,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/007_Teri_Ore_SpotiDost.mp3",
-    "cover": "covers_2/Teri_Ore.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Teri_Ore.jpg"
   },
   {
     "id": 322,
@@ -5284,7 +5284,7 @@
     "bitrate": 130029,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/008_Kiya_Kiya_SpotiDost.mp3",
-    "cover": "covers_2/Kiya_Kiya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kiya_Kiya.jpg"
   },
   {
     "id": 323,
@@ -5301,7 +5301,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/009_Ek_Din_Teri_Raahon_SpotiDost.mp3",
-    "cover": "covers_2/Ek_Din_Teri_Raahon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ek_Din_Teri_Raahon.jpg"
   },
   {
     "id": 324,
@@ -5318,7 +5318,7 @@
     "bitrate": 128698,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/010_O_Re_Piya_SpotiDost.mp3",
-    "cover": "covers_2/O_Re_Piya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/O_Re_Piya.jpg"
   },
   {
     "id": 325,
@@ -5335,7 +5335,7 @@
     "bitrate": 138984,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/011_Chale_Chalo_SpotiDost.mp3",
-    "cover": "covers_2/Chale_Chalo.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chale_Chalo.jpg"
   },
   {
     "id": 326,
@@ -5352,7 +5352,7 @@
     "bitrate": 135087,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/012_Tu_Hi_Haqeeqat_SpotiDost.mp3",
-    "cover": "covers_2/Tu_Hi_Haqeeqat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Hi_Haqeeqat.jpg"
   },
   {
     "id": 327,
@@ -5369,7 +5369,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/013_Ucha_Lamba_Kad_SpotiDost.mp3",
-    "cover": "covers_2/Ucha_Lamba_Kad.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ucha_Lamba_Kad.jpg"
   },
   {
     "id": 328,
@@ -5386,7 +5386,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/014_Main_Yahaan_Hoon_SpotiDost.mp3",
-    "cover": "covers_2/Main_Yahaan_Hoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Yahaan_Hoon.jpg"
   },
   {
     "id": 329,
@@ -5403,7 +5403,7 @@
     "bitrate": 122199,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/015_Kabhi_Kabhi_Aditi_SpotiDost.mp3",
-    "cover": "covers_2/Kabhi_Kabhi_Aditi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kabhi_Kabhi_Aditi.jpg"
   },
   {
     "id": 330,
@@ -5420,7 +5420,7 @@
     "bitrate": 131344,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/016_Tere_Bina_SpotiDost.mp3",
-    "cover": "covers_2/Tere_Bina.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Bina.jpg"
   },
   {
     "id": 331,
@@ -5437,7 +5437,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/017_Tera_Hone_Laga_Hoon_SpotiDost.mp3",
-    "cover": "covers_2/Tera_Hone_Laga_Hoon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tera_Hone_Laga_Hoon.jpg"
   },
   {
     "id": 332,
@@ -5454,7 +5454,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/018_Soni_De_Nakhre_SpotiDost.mp3",
-    "cover": "covers_2/Soni_De_Nakhre.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Soni_De_Nakhre.jpg"
   },
   {
     "id": 333,
@@ -5471,7 +5471,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/019_Ajab_Si_SpotiDost.mp3",
-    "cover": "covers_2/Ajab_Si.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ajab_Si.jpg"
   },
   {
     "id": 334,
@@ -5488,7 +5488,7 @@
     "bitrate": 136772,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/01_Millionaire_SpotiDost.mp3",
-    "cover": "covers_2/Millionaire.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Millionaire.jpg"
   },
   {
     "id": 335,
@@ -5505,7 +5505,7 @@
     "bitrate": 129630,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/020_Main_Agar_Saamne_SpotiDost.mp3",
-    "cover": "covers_2/Main_Agar_Saamne.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Main_Agar_Saamne.jpg"
   },
   {
     "id": 336,
@@ -5522,7 +5522,7 @@
     "bitrate": 126394,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/021_Guzarish_SpotiDost.mp3",
-    "cover": "covers_2/Guzarish.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Guzarish.jpg"
   },
   {
     "id": 337,
@@ -5539,7 +5539,7 @@
     "bitrate": 134618,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/022_Haule_Haule_SpotiDost.mp3",
-    "cover": "covers_2/Haule_Haule.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Haule_Haule.jpg"
   },
   {
     "id": 338,
@@ -5556,7 +5556,7 @@
     "bitrate": 78305,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/023_Mann_Ki_Lagan_SpotiDost.mp3",
-    "cover": "covers_2/Mann_Ki_Lagan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mann_Ki_Lagan.jpg"
   },
   {
     "id": 339,
@@ -5573,7 +5573,7 @@
     "bitrate": 137077,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/024_Aankhein_Khuli_SpotiDost.mp3",
-    "cover": "covers_2/Aankhein_Khuli.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aankhein_Khuli.jpg"
   },
   {
     "id": 340,
@@ -5590,7 +5590,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/025_Falak_Tak_SpotiDost.mp3",
-    "cover": "covers_2/Falak_Tak.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Falak_Tak.jpg"
   },
   {
     "id": 341,
@@ -5607,7 +5607,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/026_Dil_Laga_Liya_Maine_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Laga_Liya_Maine.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Laga_Liya_Maine.jpg"
   },
   {
     "id": 342,
@@ -5624,7 +5624,7 @@
     "bitrate": 113421,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/027_Beete_Lamhein_SpotiDost.mp3",
-    "cover": "covers_2/Beete_Lamhein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Beete_Lamhein.jpg"
   },
   {
     "id": 343,
@@ -5641,7 +5641,7 @@
     "bitrate": 121152,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/028_Jab_Se_Tere_Naina_SpotiDost.mp3",
-    "cover": "covers_2/Jab_Se_Tere_Naina.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jab_Se_Tere_Naina.jpg"
   },
   {
     "id": 344,
@@ -5658,7 +5658,7 @@
     "bitrate": 130642,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/029_Le_Le_Mazaa_Le_SpotiDost.mp3",
-    "cover": "covers_2/Le_Le_Mazaa_Le.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Le_Le_Mazaa_Le.jpg"
   },
   {
     "id": 345,
@@ -5675,7 +5675,7 @@
     "bitrate": 124439,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/02_Love_Dose_SpotiDost.mp3",
-    "cover": "covers_2/Love_Dose.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Love_Dose.jpg"
   },
   {
     "id": 346,
@@ -5692,7 +5692,7 @@
     "bitrate": 118603,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/030_Pehli_Nazar_Mein_SpotiDost.mp3",
-    "cover": "covers_2/Pehli_Nazar_Mein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pehli_Nazar_Mein.jpg"
   },
   {
     "id": 347,
@@ -5709,7 +5709,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/031_Jo_Bhi_Kasmein_SpotiDost.mp3",
-    "cover": "covers_2/Jo_Bhi_Kasmein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jo_Bhi_Kasmein.jpg"
   },
   {
     "id": 348,
@@ -5726,7 +5726,7 @@
     "bitrate": 101097,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/032_Is_This_Love_SpotiDost.mp3",
-    "cover": "covers_2/Is_This_Love.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Is_This_Love.jpg"
   },
   {
     "id": 349,
@@ -5743,7 +5743,7 @@
     "bitrate": 130052,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/033_Jhalak_Dikhla_Ja_SpotiDost.mp3",
-    "cover": "covers_2/Jhalak_Dikhla_Ja.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jhalak_Dikhla_Ja.jpg"
   },
   {
     "id": 350,
@@ -5760,7 +5760,7 @@
     "bitrate": 136732,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/034_Hum_Pyaar_Hai_Tumhare_SpotiDost.mp3",
-    "cover": "covers_2/Hum_Pyaar_Hai_Tumhare.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hum_Pyaar_Hai_Tumhare.jpg"
   },
   {
     "id": 351,
@@ -5777,7 +5777,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/035_Dil_De_Diya_Hai_SpotiDost.mp3",
-    "cover": "covers_2/Dil_De_Diya_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_De_Diya_Hai.jpg"
   },
   {
     "id": 352,
@@ -5794,7 +5794,7 @@
     "bitrate": 119111,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/036_Kal_Ho_Naa_Ho_SpotiDost.mp3",
-    "cover": "covers_2/Kal_Ho_Naa_Ho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kal_Ho_Naa_Ho.jpg"
   },
   {
     "id": 353,
@@ -5811,7 +5811,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/037_Masakali_SpotiDost.mp3",
-    "cover": "covers_2/Masakali.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Masakali.jpg"
   },
   {
     "id": 354,
@@ -5828,7 +5828,7 @@
     "bitrate": 79520,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/038_Such_Keh_Raha_Hai_SpotiDost.mp3",
-    "cover": "covers_2/Such_Keh_Raha_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Such_Keh_Raha_Hai.jpg"
   },
   {
     "id": 355,
@@ -5845,7 +5845,7 @@
     "bitrate": 138543,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/039_Bole_Chudiyan_SpotiDost.mp3",
-    "cover": "covers_2/Bole_Chudiyan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Bole_Chudiyan.jpg"
   },
   {
     "id": 356,
@@ -5862,7 +5862,7 @@
     "bitrate": 128905,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/03_PARIS_SpotiDost.mp3",
-    "cover": "covers_2/PARIS.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/PARIS.jpg"
   },
   {
     "id": 357,
@@ -5879,7 +5879,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/040_Tumse_Milke_Dil_Ka_SpotiDost.mp3",
-    "cover": "covers_2/Tumse_Milke_Dil_Ka.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tumse_Milke_Dil_Ka.jpg"
   },
   {
     "id": 358,
@@ -5896,7 +5896,7 @@
     "bitrate": 136150,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/041_Kajra_Re_SpotiDost.mp3",
-    "cover": "covers_2/Kajra_Re.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kajra_Re.jpg"
   },
   {
     "id": 359,
@@ -5913,7 +5913,7 @@
     "bitrate": 120777,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/042_Dil_Ke_Badle_Sanam_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Ke_Badle_Sanam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Ke_Badle_Sanam.jpg"
   },
   {
     "id": 360,
@@ -5930,7 +5930,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/043_Tere_Liye_SpotiDost.mp3",
-    "cover": "covers_2/Tere_Liye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tere_Liye.jpg"
   },
   {
     "id": 361,
@@ -5947,7 +5947,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/044_Mere_Haath_Mein_SpotiDost.mp3",
-    "cover": "covers_2/Mere_Haath_Mein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mere_Haath_Mein.jpg"
   },
   {
     "id": 362,
@@ -5964,7 +5964,7 @@
     "bitrate": 131715,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/045_Dil_Dooba_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Dooba.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Dooba.jpg"
   },
   {
     "id": 363,
@@ -5981,7 +5981,7 @@
     "bitrate": 129772,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/046_Woh_Ladki_Hai_Kahan_SpotiDost.mp3",
-    "cover": "covers_2/Woh_Ladki_Hai_Kahan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Woh_Ladki_Hai_Kahan.jpg"
   },
   {
     "id": 364,
@@ -5998,7 +5998,7 @@
     "bitrate": 127552,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/047_Tera_Chehra_SpotiDost.mp3",
-    "cover": "covers_2/Tera_Chehra.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tera_Chehra.jpg"
   },
   {
     "id": 365,
@@ -6015,7 +6015,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/048_Dard_-_E_-_Disco_SpotiDost.mp3",
-    "cover": "covers_2/Dard_-_E_-_Disco.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dard_-_E_-_Disco.jpg"
   },
   {
     "id": 366,
@@ -6032,7 +6032,7 @@
     "bitrate": 135928,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/049_Kitni_Bechain_Hoke_SpotiDost.mp3",
-    "cover": "covers_2/Kitni_Bechain_Hoke.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kitni_Bechain_Hoke.jpg"
   },
   {
     "id": 367,
@@ -6049,7 +6049,7 @@
     "bitrate": 140747,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/04_Dope_Shope_SpotiDost.mp3",
-    "cover": "covers_2/Dope_Shope.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dope_Shope.jpg"
   },
   {
     "id": 368,
@@ -6066,7 +6066,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/050_Dil_Ne_Yeh_Kaha_Hain_Dil_Se_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Ne_Yeh_Kaha_Hain_Dil_Se.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Ne_Yeh_Kaha_Hain_Dil_Se.jpg"
   },
   {
     "id": 369,
@@ -6083,7 +6083,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/051_Youre_My_Love_SpotiDost.mp3",
-    "cover": "covers_2/Youre_My_Love.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Youre_My_Love.jpg"
   },
   {
     "id": 370,
@@ -6100,7 +6100,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/052_Desi_Girl_SpotiDost.mp3",
-    "cover": "covers_2/Desi_Girl.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Desi_Girl.jpg"
   },
   {
     "id": 371,
@@ -6117,7 +6117,7 @@
     "bitrate": 135309,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/053_Zara_Zara_Touch_Me_SpotiDost.mp3",
-    "cover": "covers_2/Zara_Zara_Touch_Me.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Zara_Touch_Me.jpg"
   },
   {
     "id": 372,
@@ -6134,7 +6134,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/054_Maahi_Ve_SpotiDost.mp3",
-    "cover": "covers_2/Maahi_Ve.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maahi_Ve.jpg"
   },
   {
     "id": 373,
@@ -6151,7 +6151,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/055_Radha_Kaise_Na_Jale_SpotiDost.mp3",
-    "cover": "covers_2/Radha_Kaise_Na_Jale.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Radha_Kaise_Na_Jale.jpg"
   },
   {
     "id": 374,
@@ -6168,7 +6168,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/056_Chhoti_Chhoti_Raatein_SpotiDost.mp3",
-    "cover": "covers_2/Chhoti_Chhoti_Raatein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chhoti_Chhoti_Raatein.jpg"
   },
   {
     "id": 375,
@@ -6185,7 +6185,7 @@
     "bitrate": 140277,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/057_Dus_Bahane_SpotiDost.mp3",
-    "cover": "covers_2/Dus_Bahane.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dus_Bahane.jpg"
   },
   {
     "id": 376,
@@ -6202,7 +6202,7 @@
     "bitrate": 139191,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/058_Hum_Tum_SpotiDost.mp3",
-    "cover": "covers_2/Hum_Tum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hum_Tum.jpg"
   },
   {
     "id": 377,
@@ -6219,7 +6219,7 @@
     "bitrate": 119003,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/059_Soniye_SpotiDost.mp3",
-    "cover": "covers_2/Soniye.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Soniye.jpg"
   },
   {
     "id": 378,
@@ -6236,7 +6236,7 @@
     "bitrate": 122057,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/05_Kath_Lagda_SpotiDost.mp3",
-    "cover": "covers_2/Kath_Lagda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kath_Lagda.jpg"
   },
   {
     "id": 379,
@@ -6253,7 +6253,7 @@
     "bitrate": 135266,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/060_Kuchh_Khaas_SpotiDost.mp3",
-    "cover": "covers_2/Kuchh_Khaas.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kuchh_Khaas.jpg"
   },
   {
     "id": 380,
@@ -6270,7 +6270,7 @@
     "bitrate": 134587,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/061_You_Are_My_Soniya_SpotiDost.mp3",
-    "cover": "covers_2/You_Are_My_Soniya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/You_Are_My_Soniya.jpg"
   },
   {
     "id": 381,
@@ -6287,7 +6287,7 @@
     "bitrate": 121332,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/062_Chhaliya_SpotiDost.mp3",
-    "cover": "covers_2/Chhaliya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chhaliya.jpg"
   },
   {
     "id": 382,
@@ -6304,7 +6304,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/063_Tainu_Leke_SpotiDost.mp3",
-    "cover": "covers_2/Tainu_Leke.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tainu_Leke.jpg"
   },
   {
     "id": 383,
@@ -6321,7 +6321,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/064_Oodhni_SpotiDost.mp3",
-    "cover": "covers_2/Oodhni.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Oodhni.jpg"
   },
   {
     "id": 384,
@@ -6338,7 +6338,7 @@
     "bitrate": 133013,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/065_Gela_Gela_Gela_SpotiDost.mp3",
-    "cover": "covers_2/Gela_Gela_Gela.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Gela_Gela_Gela.jpg"
   },
   {
     "id": 385,
@@ -6355,7 +6355,7 @@
     "bitrate": 112081,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/066_Zara_Zara_SpotiDost.mp3",
-    "cover": "covers_2/Zara_Zara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zara_Zara.jpg"
   },
   {
     "id": 386,
@@ -6372,7 +6372,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/067_Deewangi_Deewangi_SpotiDost.mp3",
-    "cover": "covers_2/Deewangi_Deewangi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deewangi_Deewangi.jpg"
   },
   {
     "id": 387,
@@ -6389,7 +6389,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/068_Mujhse_Shaadi_Karogi_SpotiDost.mp3",
-    "cover": "covers_2/Mujhse_Shaadi_Karogi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mujhse_Shaadi_Karogi.jpg"
   },
   {
     "id": 388,
@@ -6406,7 +6406,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/069_Aaja_Nachle_SpotiDost.mp3",
-    "cover": "covers_2/Aaja_Nachle.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaja_Nachle.jpg"
   },
   {
     "id": 389,
@@ -6423,7 +6423,7 @@
     "bitrate": 120902,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/06_Blue_Eyes_SpotiDost.mp3",
-    "cover": "covers_2/Blue_Eyes.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Blue_Eyes.jpg"
   },
   {
     "id": 390,
@@ -6440,7 +6440,7 @@
     "bitrate": 130509,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/070_Kola_Laka_Vellari_SpotiDost.mp3",
-    "cover": "covers_2/Kola_Laka_Vellari.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kola_Laka_Vellari.jpg"
   },
   {
     "id": 391,
@@ -6457,7 +6457,7 @@
     "bitrate": 139756,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/071_Aahista_Aahista_SpotiDost.mp3",
-    "cover": "covers_2/Aahista_Aahista.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aahista_Aahista.jpg"
   },
   {
     "id": 392,
@@ -6474,7 +6474,7 @@
     "bitrate": 125724,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/072_Suna_Suna_SpotiDost.mp3",
-    "cover": "covers_2/Suna_Suna.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Suna_Suna.jpg"
   },
   {
     "id": 393,
@@ -6491,7 +6491,7 @@
     "bitrate": 130669,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/073_Tu_Meri_Dost_Hain_SpotiDost.mp3",
-    "cover": "covers_2/Tu_Meri_Dost_Hain.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tu_Meri_Dost_Hain.jpg"
   },
   {
     "id": 394,
@@ -6508,7 +6508,7 @@
     "bitrate": 136321,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/074_Hoth_Rasiley_SpotiDost.mp3",
-    "cover": "covers_2/Hoth_Rasiley.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hoth_Rasiley.jpg"
   },
   {
     "id": 395,
@@ -6525,7 +6525,7 @@
     "bitrate": 134414,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/075_Paisa_SpotiDost.mp3",
-    "cover": "covers_2/Paisa.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Paisa.jpg"
   },
   {
     "id": 396,
@@ -6542,7 +6542,7 @@
     "bitrate": 156784,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/076_Dil_Dil_Nazar_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Dil_Nazar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Dil_Nazar.jpg"
   },
   {
     "id": 397,
@@ -6559,7 +6559,7 @@
     "bitrate": 124978,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/077_Tauba_Tumhare_Ishare_SpotiDost.mp3",
-    "cover": "covers_2/Tauba_Tumhare_Ishare.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tauba_Tumhare_Ishare.jpg"
   },
   {
     "id": 398,
@@ -6576,7 +6576,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/078_Pretty_Woman_SpotiDost.mp3",
-    "cover": "covers_2/Pretty_Woman.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pretty_Woman.jpg"
   },
   {
     "id": 399,
@@ -6593,7 +6593,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/079_Dhan_Te_Nan_SpotiDost.mp3",
-    "cover": "covers_2/Dhan_Te_Nan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dhan_Te_Nan.jpg"
   },
   {
     "id": 400,
@@ -6610,7 +6610,7 @@
     "bitrate": 130106,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/07_Hood_Ambience_SpotiDost.mp3",
-    "cover": "covers_2/Hood_Ambience.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hood_Ambience.jpg"
   },
   {
     "id": 401,
@@ -6627,7 +6627,7 @@
     "bitrate": 134476,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/080_Koi_Kahe_Kehta_Rahe_SpotiDost.mp3",
-    "cover": "covers_2/Koi_Kahe_Kehta_Rahe.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Koi_Kahe_Kehta_Rahe.jpg"
   },
   {
     "id": 402,
@@ -6644,7 +6644,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/081_Chalte_Chalte_SpotiDost.mp3",
-    "cover": "covers_2/Chalte_Chalte.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chalte_Chalte.jpg"
   },
   {
     "id": 403,
@@ -6661,7 +6661,7 @@
     "bitrate": 128766,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/082_Bhage_Re_Mann_SpotiDost.mp3",
-    "cover": "covers_2/Bhage_Re_Mann.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Bhage_Re_Mann.jpg"
   },
   {
     "id": 404,
@@ -6678,7 +6678,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/083_Love_Me_Love_Me_SpotiDost.mp3",
-    "cover": "covers_2/Love_Me_Love_Me.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Love_Me_Love_Me.jpg"
   },
   {
     "id": 405,
@@ -6695,7 +6695,7 @@
     "bitrate": 146570,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/084_Suno_Na_Suno_Na_SpotiDost.mp3",
-    "cover": "covers_2/Suno_Na_Suno_Na.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Suno_Na_Suno_Na.jpg"
   },
   {
     "id": 406,
@@ -6712,7 +6712,7 @@
     "bitrate": 134122,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/085_Chori_Chori_SpotiDost.mp3",
-    "cover": "covers_2/Chori_Chori.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chori_Chori.jpg"
   },
   {
     "id": 407,
@@ -6729,7 +6729,7 @@
     "bitrate": 127997,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/086_Aaj_Ki_Raat_SpotiDost.mp3",
-    "cover": "covers_2/Aaj_Ki_Raat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaj_Ki_Raat.jpg"
   },
   {
     "id": 408,
@@ -6746,7 +6746,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/087_Aashiqui_Mein_Teri_SpotiDost.mp3",
-    "cover": "covers_2/Aashiqui_Mein_Teri.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aashiqui_Mein_Teri.jpg"
   },
   {
     "id": 409,
@@ -6763,7 +6763,7 @@
     "bitrate": 131512,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/088_Chale_Jaise_Hawaien_SpotiDost.mp3",
-    "cover": "covers_2/Chale_Jaise_Hawaien.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chale_Jaise_Hawaien.jpg"
   },
   {
     "id": 410,
@@ -6780,7 +6780,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/089_Deewana_Hai_Dekho_SpotiDost.mp3",
-    "cover": "covers_2/Deewana_Hai_Dekho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Deewana_Hai_Dekho.jpg"
   },
   {
     "id": 411,
@@ -6797,7 +6797,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/08_Brown_Rang_SpotiDost.mp3",
-    "cover": "covers_2/Brown_Rang.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Brown_Rang.jpg"
   },
   {
     "id": 412,
@@ -6814,7 +6814,7 @@
     "bitrate": 139234,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/090_Dil_Keh_Reha_Ha_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Keh_Reha_Ha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Keh_Reha_Ha.jpg"
   },
   {
     "id": 413,
@@ -6831,7 +6831,7 @@
     "bitrate": 133764,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/091_Banthan_Ke_SpotiDost.mp3",
-    "cover": "covers_2/Banthan_Ke.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Banthan_Ke.jpg"
   },
   {
     "id": 414,
@@ -6848,7 +6848,7 @@
     "bitrate": 131277,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/092_Qayamat_SpotiDost.mp3",
-    "cover": "covers_2/Qayamat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Qayamat.jpg"
   },
   {
     "id": 415,
@@ -6865,7 +6865,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/093_Mehbooba_Mehbooba_SpotiDost.mp3",
-    "cover": "covers_2/Mehbooba_Mehbooba.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mehbooba_Mehbooba.jpg"
   },
   {
     "id": 416,
@@ -6882,7 +6882,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/094_Dil_Hai_Tumhaara_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Hai_Tumhaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Hai_Tumhaara.jpg"
   },
   {
     "id": 417,
@@ -6899,7 +6899,7 @@
     "bitrate": 138599,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/095_Yun_Hi_Chala_Chal_SpotiDost.mp3",
-    "cover": "covers_2/Yun_Hi_Chala_Chal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yun_Hi_Chala_Chal.jpg"
   },
   {
     "id": 418,
@@ -6916,7 +6916,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/096_Dil_Mein_Baji_Guitar_SpotiDost.mp3",
-    "cover": "covers_2/Dil_Mein_Baji_Guitar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Dil_Mein_Baji_Guitar.jpg"
   },
   {
     "id": 419,
@@ -6933,7 +6933,7 @@
     "bitrate": 140873,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/097_Babuji_Zara_Dheere_Chalo_SpotiDost.mp3",
-    "cover": "covers_2/Babuji_Zara_Dheere_Chalo.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Babuji_Zara_Dheere_Chalo.jpg"
   },
   {
     "id": 420,
@@ -6950,7 +6950,7 @@
     "bitrate": 132274,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/098_Maine_Dil_Se_Kaha_SpotiDost.mp3",
-    "cover": "covers_2/Maine_Dil_Se_Kaha.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maine_Dil_Se_Kaha.jpg"
   },
   {
     "id": 421,
@@ -6967,7 +6967,7 @@
     "bitrate": 133429,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/099_Saajan_Saajan_SpotiDost.mp3",
-    "cover": "covers_2/Saajan_Saajan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Saajan_Saajan.jpg"
   },
   {
     "id": 422,
@@ -6984,7 +6984,7 @@
     "bitrate": 138418,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/09_Boom_Shaka_SpotiDost.mp3",
-    "cover": "covers_2/Boom_Shaka.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Boom_Shaka.jpg"
   },
   {
     "id": 423,
@@ -7001,7 +7001,7 @@
     "bitrate": 144182,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/100_Aai_Paapi_SpotiDost.mp3",
-    "cover": "covers_2/Aai_Paapi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aai_Paapi.jpg"
   },
   {
     "id": 424,
@@ -7018,7 +7018,7 @@
     "bitrate": 120084,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/10_Desi_Kalakaar_SpotiDost.mp3",
-    "cover": "covers_2/Desi_Kalakaar.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Desi_Kalakaar.jpg"
   },
   {
     "id": 425,
@@ -7035,7 +7035,7 @@
     "bitrate": 135775,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/11_Ucha_Lamba_Kad_Forever_From_Welcome_To_The_Jungle_SpotiDost.mp3",
-    "cover": "covers_2/Ucha_Lamba_Kad_Forever_From_Welcome_To_The_Jungle.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Ucha_Lamba_Kad_Forever_From_Welcome_To_The_Jungle.jpg"
   },
   {
     "id": 426,
@@ -7052,7 +7052,7 @@
     "bitrate": 137337,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/12_Party_All_Night_From_Boss_SpotiDost.mp3",
-    "cover": "covers_2/Party_All_Night_From_Boss.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Party_All_Night_From_Boss.jpg"
   },
   {
     "id": 427,
@@ -7069,7 +7069,7 @@
     "bitrate": 31850,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/13_Yaad_SpotiDost.mp3",
-    "cover": "covers_2/Yaad.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yaad.jpg"
   },
   {
     "id": 428,
@@ -7086,7 +7086,7 @@
     "bitrate": 123687,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/14_Zulfaan_SpotiDost.mp3",
-    "cover": "covers_2/Zulfaan.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Zulfaan.jpg"
   },
   {
     "id": 429,
@@ -7103,7 +7103,7 @@
     "bitrate": 126914,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/15_Aadat_Feat._AP_Dhillon_SpotiDost.mp3",
-    "cover": "covers_2/Aadat_Feat._AP_Dhillon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aadat_Feat._AP_Dhillon.jpg"
   },
   {
     "id": 430,
@@ -7120,7 +7120,7 @@
     "bitrate": 128561,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/16_Yaara_ve_yaara_SpotiDost.mp3",
-    "cover": "covers_2/Yaara_ve_yaara.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Yaara_ve_yaara.jpg"
   },
   {
     "id": 431,
@@ -7137,7 +7137,7 @@
     "bitrate": 134188,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/17_Almiighty_SpotiDost.mp3",
-    "cover": "covers_2/Almiighty.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Almiighty.jpg"
   },
   {
     "id": 432,
@@ -7154,7 +7154,7 @@
     "bitrate": 122956,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/18_Mafia_SpotiDost.mp3",
-    "cover": "covers_2/Mafia.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mafia.jpg"
   },
   {
     "id": 433,
@@ -7171,7 +7171,7 @@
     "bitrate": 133533,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/19_Nanke_SpotiDost.mp3",
-    "cover": "covers_2/Nanke.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Nanke.jpg"
   },
   {
     "id": 434,
@@ -7188,7 +7188,7 @@
     "bitrate": 137031,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/20_VADDA_BAI_SpotiDost.mp3",
-    "cover": "covers_2/VADDA_BAI.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/VADDA_BAI.jpg"
   },
   {
     "id": 435,
@@ -7205,7 +7205,7 @@
     "bitrate": 114779,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/21_Angreji_Beat_SpotiDost.mp3",
-    "cover": "covers_2/Angreji_Beat.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Angreji_Beat.jpg"
   },
   {
     "id": 436,
@@ -7222,7 +7222,7 @@
     "bitrate": 138567,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/22_Low_SpotiDost.mp3",
-    "cover": "covers_2/Low.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Low.jpg"
   },
   {
     "id": 437,
@@ -7239,7 +7239,7 @@
     "bitrate": 119875,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/23_Safety_SpotiDost.mp3",
-    "cover": "covers_2/Safety.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Safety.jpg"
   },
   {
     "id": 438,
@@ -7256,7 +7256,7 @@
     "bitrate": 132743,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/24_Laal_Pari_From_Housefull_5_SpotiDost.mp3",
-    "cover": "covers_2/Laal_Pari_From_Housefull_5.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Laal_Pari_From_Housefull_5.jpg"
   },
   {
     "id": 439,
@@ -7273,7 +7273,7 @@
     "bitrate": 131817,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/25_Tick_Tick_Tick_SpotiDost.mp3",
-    "cover": "covers_2/Tick_Tick_Tick.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tick_Tick_Tick.jpg"
   },
   {
     "id": 440,
@@ -7290,7 +7290,7 @@
     "bitrate": 135368,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/26_Kaafi_Hai_SpotiDost.mp3",
-    "cover": "covers_2/Kaafi_Hai.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kaafi_Hai.jpg"
   },
   {
     "id": 441,
@@ -7307,7 +7307,7 @@
     "bitrate": 127307,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/27_Chaar_Botal_Vodka_From_Ragini_Mms_2_SpotiDost.mp3",
-    "cover": "covers_2/Chaar_Botal_Vodka_From_Ragini_Mms_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chaar_Botal_Vodka_From_Ragini_Mms_2.jpg"
   },
   {
     "id": 442,
@@ -7324,7 +7324,7 @@
     "bitrate": 130506,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/28_NAZAR_SpotiDost.mp3",
-    "cover": "covers_2/NAZAR.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/NAZAR.jpg"
   },
   {
     "id": 443,
@@ -7341,7 +7341,7 @@
     "bitrate": 128145,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/29_First_Luv_SpotiDost.mp3",
-    "cover": "covers_2/First_Luv.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/First_Luv.jpg"
   },
   {
     "id": 444,
@@ -7358,7 +7358,7 @@
     "bitrate": 138053,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/30_Sawaal_Puchdi_Feat._Bohemia_SpotiDost.mp3",
-    "cover": "covers_2/Sawaal_Puchdi_Feat._Bohemia.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sawaal_Puchdi_Feat._Bohemia.jpg"
   },
   {
     "id": 445,
@@ -7375,7 +7375,7 @@
     "bitrate": 128938,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/31_BREATHLESS_SpotiDost.mp3",
-    "cover": "covers_2/BREATHLESS.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/BREATHLESS.jpg"
   },
   {
     "id": 446,
@@ -7392,7 +7392,7 @@
     "bitrate": 130029,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/32_Kiya_Kiya_SpotiDost.mp3",
-    "cover": "covers_2/Kiya_Kiya.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kiya_Kiya.jpg"
   },
   {
     "id": 447,
@@ -7409,7 +7409,7 @@
     "bitrate": 122180,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/33_Mashooqa_-_From_Cocktail_2_SpotiDost.mp3",
-    "cover": "covers_2/Mashooqa_-_From_Cocktail_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mashooqa_-_From_Cocktail_2.jpg"
   },
   {
     "id": 448,
@@ -7426,7 +7426,7 @@
     "bitrate": 132001,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/34_Chillgum_SpotiDost.mp3",
-    "cover": "covers_2/Chillgum.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chillgum.jpg"
   },
   {
     "id": 449,
@@ -7443,7 +7443,7 @@
     "bitrate": 130320,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/35_Nazar_SpotiDost.mp3",
-    "cover": "covers_2/Pehli_Nazar_Mein.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Pehli_Nazar_Mein.jpg"
   },
   {
     "id": 450,
@@ -7460,7 +7460,7 @@
     "bitrate": 138126,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/36_QUEEN_SpotiDost.mp3",
-    "cover": "covers_2/QUEEN.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/QUEEN.jpg"
   },
   {
     "id": 451,
@@ -7477,7 +7477,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/37_Kalaastar_From_Honey_3.0_SpotiDost.mp3",
-    "cover": "covers_2/Kalaastar_From_Honey_3.0.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kalaastar_From_Honey_3.0.jpg"
   },
   {
     "id": 452,
@@ -7494,7 +7494,7 @@
     "bitrate": 124512,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/38_Young_Thugs_SpotiDost.mp3",
-    "cover": "covers_2/Young_Thugs.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Young_Thugs.jpg"
   },
   {
     "id": 453,
@@ -7511,7 +7511,7 @@
     "bitrate": 128947,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/39_Laare_SpotiDost.mp3",
-    "cover": "covers_2/Laare.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Laare.jpg"
   },
   {
     "id": 454,
@@ -7528,7 +7528,7 @@
     "bitrate": 134707,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/40_Jawani_Flex_SpotiDost.mp3",
-    "cover": "covers_2/Jawani_Flex.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jawani_Flex.jpg"
   },
   {
     "id": 455,
@@ -7545,7 +7545,7 @@
     "bitrate": 134984,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/41_Money_Money_From_Raid_2_SpotiDost.mp3",
-    "cover": "covers_2/Money_Money_From_Raid_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Money_Money_From_Raid_2.jpg"
   },
   {
     "id": 456,
@@ -7562,7 +7562,7 @@
     "bitrate": 134858,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/42_Jail_Life_SpotiDost.mp3",
-    "cover": "covers_2/Jail_Life.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jail_Life.jpg"
   },
   {
     "id": 457,
@@ -7579,7 +7579,7 @@
     "bitrate": 131784,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/43_Nabhe_Di_Bottal_SpotiDost.mp3",
-    "cover": "covers_2/Nabhe_Di_Bottal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Nabhe_Di_Bottal.jpg"
   },
   {
     "id": 458,
@@ -7596,7 +7596,7 @@
     "bitrate": 127419,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/44_Payal_SpotiDost.mp3",
-    "cover": "covers_2/Payal.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Payal.jpg"
   },
   {
     "id": 459,
@@ -7613,7 +7613,7 @@
     "bitrate": 140013,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/45_Walk_With_Rats_SpotiDost.mp3",
-    "cover": "covers_2/Walk_With_Rats.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Walk_With_Rats.jpg"
   },
   {
     "id": 460,
@@ -7630,7 +7630,7 @@
     "bitrate": 132660,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/46_Bulletproof_From_Lukkhe_SpotiDost.mp3",
-    "cover": "covers_2/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
   },
   {
     "id": 461,
@@ -7647,7 +7647,7 @@
     "bitrate": 132640,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/47_One_Thousand_Miles_SpotiDost.mp3",
-    "cover": "covers_2/One_Thousand_Miles.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/One_Thousand_Miles.jpg"
   },
   {
     "id": 462,
@@ -7664,7 +7664,7 @@
     "bitrate": 113424,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/48_Salam_SpotiDost.mp3",
-    "cover": "covers_2/Salam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Salam.jpg"
   },
   {
     "id": 463,
@@ -7681,7 +7681,7 @@
     "bitrate": 133739,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/49_Oh_Kudi_SpotiDost.mp3",
-    "cover": "covers_2/Kal_Ho_Naa_Ho.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kal_Ho_Naa_Ho.jpg"
   },
   {
     "id": 464,
@@ -7698,7 +7698,7 @@
     "bitrate": 128382,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/50_High_Heels_SpotiDost.mp3",
-    "cover": "covers_2/High_Heels.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/High_Heels.jpg"
   },
   {
     "id": 465,
@@ -7715,7 +7715,7 @@
     "bitrate": 130561,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/51_HEERE_SpotiDost.mp3",
-    "cover": "covers_2/HEERE.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/HEERE.jpg"
   },
   {
     "id": 466,
@@ -7732,7 +7732,7 @@
     "bitrate": 125776,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/52_Hot_Topic_SpotiDost.mp3",
-    "cover": "covers_2/Hot_Topic.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Hot_Topic.jpg"
   },
   {
     "id": 467,
@@ -7749,7 +7749,7 @@
     "bitrate": 133931,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/53_Maniac_-_Bonus_Track_From_Glory_SpotiDost.mp3",
-    "cover": "covers_2/Maniac_-_Bonus_Track_From_Glory.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maniac_-_Bonus_Track_From_Glory.jpg"
   },
   {
     "id": 468,
@@ -7766,7 +7766,7 @@
     "bitrate": 130438,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/54_Jab_Talak_-_From_Cocktail_2_SpotiDost.mp3",
-    "cover": "covers_2/Jab_Talak_-_From_Cocktail_2.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jab_Talak_-_From_Cocktail_2.jpg"
   },
   {
     "id": 469,
@@ -7783,7 +7783,7 @@
     "bitrate": 137607,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/55_Well_Known_SpotiDost.mp3",
-    "cover": "covers_2/Well_Known.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Well_Known.jpg"
   },
   {
     "id": 470,
@@ -7800,7 +7800,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/56_Lungi_Dance_From_Chennai_Express_SpotiDost.mp3",
-    "cover": "covers_2/Lungi_Dance_From_Chennai_Express.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Lungi_Dance_From_Chennai_Express.jpg"
   },
   {
     "id": 471,
@@ -7817,7 +7817,7 @@
     "bitrate": 132598,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/57_Golden_Batt_SpotiDost.mp3",
-    "cover": "covers_2/Golden_Batt.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Golden_Batt.jpg"
   },
   {
     "id": 472,
@@ -7834,7 +7834,7 @@
     "bitrate": 140377,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/58_All_Da_Vibes_SpotiDost.mp3",
-    "cover": "covers_2/All_Da_Vibes.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/All_Da_Vibes.jpg"
   },
   {
     "id": 473,
@@ -7851,7 +7851,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/59_Manali_Trance_SpotiDost.mp3",
-    "cover": "covers_2/Manali_Trance.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Manali_Trance.jpg"
   },
   {
     "id": 474,
@@ -7868,7 +7868,7 @@
     "bitrate": 119985,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/60_Aadat_SpotiDost.mp3",
-    "cover": "covers_2/Aadat_Feat._AP_Dhillon.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aadat_Feat._AP_Dhillon.jpg"
   },
   {
     "id": 475,
@@ -7885,7 +7885,7 @@
     "bitrate": 134174,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/61_You_I_SpotiDost.mp3",
-    "cover": "covers_2/You_I.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/You_I.jpg"
   },
   {
     "id": 476,
@@ -7902,7 +7902,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/62_Jingle_Bell_SpotiDost.mp3",
-    "cover": "covers_2/Jingle_Bell.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Jingle_Bell.jpg"
   },
   {
     "id": 477,
@@ -7919,7 +7919,7 @@
     "bitrate": 128456,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/63_BAAZIGARA_SpotiDost.mp3",
-    "cover": "covers_2/BAAZIGARA.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/BAAZIGARA.jpg"
   },
   {
     "id": 478,
@@ -7936,7 +7936,7 @@
     "bitrate": 122057,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/64_Kath_Lagda_SpotiDost.mp3",
-    "cover": "covers_2/Kath_Lagda.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Kath_Lagda.jpg"
   },
   {
     "id": 479,
@@ -7953,7 +7953,7 @@
     "bitrate": 130659,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/65_One_Bottle_Down_SpotiDost.mp3",
-    "cover": "covers_2/One_Bottle_Down.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/One_Bottle_Down.jpg"
   },
   {
     "id": 480,
@@ -7987,7 +7987,7 @@
     "bitrate": 132155,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/67_Amsterdam_SpotiDost.mp3",
-    "cover": "covers_2/Amsterdam.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Amsterdam.jpg"
   },
   {
     "id": 482,
@@ -8004,7 +8004,7 @@
     "bitrate": 128407,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/68_Superman_SpotiDost.mp3",
-    "cover": "covers_2/Superman.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Superman.jpg"
   },
   {
     "id": 483,
@@ -8021,7 +8021,7 @@
     "bitrate": 141442,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/69_Sachi_Muchi_SpotiDost.mp3",
-    "cover": "covers_2/Sachi_Muchi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Sachi_Muchi.jpg"
   },
   {
     "id": 484,
@@ -8038,7 +8038,7 @@
     "bitrate": 135252,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/70_Tum_Hi_Ho_Bandhu_SpotiDost.mp3",
-    "cover": "covers_2/Tum_Hi_Ho_Bandhu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Tum_Hi_Ho_Bandhu.jpg"
   },
   {
     "id": 485,
@@ -8055,7 +8055,7 @@
     "bitrate": 137566,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/71_Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend_SpotiDost.mp3",
-    "cover": "covers_2/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Birthday_Bash_From_Dilliwaali_Zaalim_Girlfriend.jpg"
   },
   {
     "id": 486,
@@ -8072,7 +8072,7 @@
     "bitrate": 118874,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/72_League_SpotiDost.mp3",
-    "cover": "covers_2/League.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/League.jpg"
   },
   {
     "id": 487,
@@ -8089,7 +8089,7 @@
     "bitrate": 128000,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/73_Issey_Kehte_Hain_Hip_Hop_SpotiDost.mp3",
-    "cover": "covers_2/Issey_Kehte_Hain_Hip_Hop.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Issey_Kehte_Hain_Hip_Hop.jpg"
   },
   {
     "id": 488,
@@ -8106,7 +8106,7 @@
     "bitrate": 145383,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/74_Generational_Wealth_SpotiDost.mp3",
-    "cover": "covers_2/Generational_Wealth.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Generational_Wealth.jpg"
   },
   {
     "id": 489,
@@ -8123,7 +8123,7 @@
     "bitrate": 127102,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/75_Aaropi_SpotiDost.mp3",
-    "cover": "covers_2/Aaropi.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aaropi.jpg"
   },
   {
     "id": 490,
@@ -8140,7 +8140,7 @@
     "bitrate": 121949,
     "sampleRate": 44100,
     "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/76_Aarzu_SpotiDost.mp3",
-    "cover": "covers_2/Aarzu.jpg"
+    "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aarzu.jpg"
   },
   {
   "id": 491,
@@ -8155,7 +8155,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Chammak_Challo_International_Version_SpotiDost.mp3",
-  "cover": "covers_2/Chammak_Challo_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chammak_Challo_Cover.jpg"
 },
   {
   "id": 492,
@@ -8170,7 +8170,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Maine_Khud_Ko_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Maine_Khud_Ko_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Maine_Khud_Ko_Cover.jpg"
 },
   {
   "id": 493,
@@ -8185,7 +8185,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Piya_Tu_Piya_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Piya_Tu_Piya_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Piya_Tu_Piya_Cover.jpg"
 },
 {
   "id": 494,
@@ -8200,7 +8200,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Chammak_Challo_SpotiDost.mp3",
-  "cover": "covers_2/Chammak_Challo_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Chammak_Challo_Cover.jpg"
 },
 {
   "id": 495,
@@ -8215,7 +8215,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Mere_Dholna_3.0_Sonu_Nigam_Version_From_Bhool_Bhulaiyaa_3_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Mere_Dholna_3.0_Sonu_Nigam_Version_From_Bhool_Bhulaiyaa_3_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mere_Dholna_3.0_Sonu_Nigam_Version_From_Bhool_Bhulaiyaa_3_Cover.jpg"
 },
 {
   "id": 496,
@@ -8230,7 +8230,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Mere_Dholna_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Mere_Dholna_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Mere_Dholna_Cover.jpg"
 },
 {
   "id": 497,
@@ -8245,7 +8245,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Piya_Ghar_Aaya_-_Coke_Studio_Season_11_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Piya_Ghar_Aaya_-_Coke_Studio_Season_11_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Piya_Ghar_Aaya_-_Coke_Studio_Season_11_Cover.jpg"
 },
 {
   "id": 498,
@@ -8260,7 +8260,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Aahista_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Aahista_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Aahista_Cover.jpg"
 },
 {
   "id": 499,
@@ -8275,7 +8275,7 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Abhi_Na_Jao_Chod_Kar_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Abhi_Na_Jao_Chod_Kar_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Abhi_Na_Jao_Chod_Kar_Cover.jpg"
 },
 {
   "id": 500,
@@ -8290,6 +8290,6 @@
   "bitrate": 121949,
   "sampleRate": 44100,
   "file": "https://yjiayifpffmrqkqwwknv.supabase.co/storage/v1/object/public/music2/Katra_Katra_Single_Track_SpotiDost.mp3",
-  "cover": "covers_2/Katra_Katra_Cover.jpg"
+  "cover": "https://mtyrthgvyiwfrzzzqzqc.supabase.co/storage/v1/object/public/cover/Katra_Katra_Cover.jpg"
 }
 ]
