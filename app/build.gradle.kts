@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId = "com.aistudio.auramusic.kxmpzq"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
     }
@@ -27,6 +27,10 @@ android {
 
     buildTypes {
         debug {
+            signingConfig = signingConfigs.getByName("debug")
+        }
+        release {
+            isMinifyEnabled = false
             signingConfig = signingConfigs.getByName("debug")
         }
     }

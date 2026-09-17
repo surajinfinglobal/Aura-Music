@@ -29,7 +29,7 @@ Aura Music is a modern music streaming and player Android app rewritten with **K
 - **Build System**: Gradle 9.3.1 (Kotlin DSL) with Android Gradle Plugin (AGP) 9.1.1
 - **Image Loading**: Coil Compose
 - **Serialization**: Kotlinx Serialization JSON
-- **Target SDK**: Android 36 (Min SDK 26)
+- **Target SDK**: Android 35 (Min SDK 26)
 
 ## 📥 Download Public APK
 
@@ -42,11 +42,11 @@ Or go to the **[Releases](../../releases)** tab on this repository.
 
 ---
 
-### How to Install:
-1. Upar diye gaye **Download** link par click karein.
-2. File download hone par us par tap karein.
-3. Phone settings mein *"Install from Unknown Sources / Chrome"* allow karein.
-4. **Install** par tap karein aur app enjoy karein!
+### ⚠️ "Risk Found" / "Unrecognized App" Pop-up Aaye Toh Kya Karein?
+Kyunki yeh APK Google Play Store ke bahar se direct download ho rahi hai aur development debug key se signed hai, isliye Android ka **Google Play Protect** standard security check dikhata hai ("Unrecognized app" ya "Risk found / Blocked by Play Protect"):
 
-*(Note: AI Studio se bhi top-right bar mein **Settings ⚙️ -> Download APK** par click karke turant APK download kar sakte hain.)*
+1. Jab pop-up aaye, toh **"More details"** (या **"Show details"**) par tap karein.
+2. Neeche **"Install anyway"** (या **"Install anyway (unsafe)"**) button aayega, uspe click karein.
+3. App bina kisi issue ke install aur open ho jayegi!
+
 

@@ -98,22 +98,44 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            if (ContextCompat.checkSelfPermission(this, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
-                ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.POST_NOTIFICATIONS), 1001)
-            }
+        try {
+            enableEdgeToEdge()
+        } catch (e: Throwable) {
+            e.printStackTrace()
         }
 
-        songRepository = SongRepository(applicationContext)
-        audioPlayerManager = AudioPlayerManager.getInstance(applicationContext).apply {
-            localFileResolver = { songId ->
-                songRepository.likedStorageManager.getLocalAudioFile(songId)
+        try {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+                if (ContextCompat.checkSelfPermission(this, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.POST_NOTIFICATIONS), 1001)
+                }
             }
-            onSongChangedListener = { song ->
-                songRepository.addToRecent(song)
+        } catch (e: Throwable) {
+            e.printStackTrace()
+        }
+
+        try {
+            songRepository = SongRepository(applicationContext)
+            audioPlayerManager = AudioPlayerManager.getInstance(applicationContext).apply {
+                localFileResolver = { songId ->
+                    try {
+                        songRepository.likedStorageManager.getLocalAudioFile(songId)
+                    } catch (e: Throwable) {
+                        null
+                    }
+                }
+                onSongChangedListener = { song ->
+                    try {
+                        songRepository.addToRecent(song)
+                    } catch (e: Throwable) {
+                        e.printStackTrace()
+                    }
+                }
             }
+        } catch (e: Throwable) {
+            e.printStackTrace()
+            songRepository = SongRepository(applicationContext)
+            audioPlayerManager = AudioPlayerManager.getInstance(applicationContext)
         }
 
         setContent {
