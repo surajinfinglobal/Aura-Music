@@ -31,16 +31,22 @@ Aura Music is a modern music streaming and player Android app rewritten with **K
 - **Serialization**: Kotlinx Serialization JSON
 - **Target SDK**: Android 36 (Min SDK 26)
 
-## How to Download APK
+## 📥 Download Public APK
 
-### 1. Direct from AI Studio
-- Click the **Settings (⚙️)** or **Export** icon in the top right bar of AI Studio.
-- Select **Build / Download APK** to download the compiled `.apk` directly to your device.
+Aap is app ka APK direct publicly 1-click mein download kar sakte hain:
 
-### 2. From GitHub Actions / Releases
-Once pushed to your GitHub repository:
-1. Go to the **Actions** tab in your GitHub repository.
-2. Under the **Build & Release APK** workflow, select the latest run.
-3. Download the **AuraMusic-Debug-APK** artifact.
-4. (Optional) Creating a tag like `v1.0.0` or manually triggering the workflow will automatically publish the APK under **Releases** for easy 1-click downloading!
+### 🔗 Public Download Link
+👉 **[Download AuraMusic-Latest.apk (Direct APK Download)](../../releases/download/latest/AuraMusic-Latest.apk)**
+
+Or go to the **[Releases](../../releases)** tab on this repository.
+
+---
+
+### How to Install:
+1. Upar diye gaye **Download** link par click karein.
+2. File download hone par us par tap karein.
+3. Phone settings mein *"Install from Unknown Sources / Chrome"* allow karein.
+4. **Install** par tap karein aur app enjoy karein!
+
+*(Note: AI Studio se bhi top-right bar mein **Settings ⚙️ -> Download APK** par click karke turant APK download kar sakte hain.)*
 
