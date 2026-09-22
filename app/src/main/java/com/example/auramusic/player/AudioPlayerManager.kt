@@ -153,6 +153,17 @@ class AudioPlayerManager(private val context: Context) {
 
             if (useLocal && localFile != null) {
                 player.setDataSource(context, Uri.fromFile(localFile))
+            } else if (song.file.startsWith("music/") || !song.file.startsWith("http")) {
+                // Play bundled audio file from assets
+                val assetPath = if (song.file.startsWith("music/")) song.file else "music/${song.file}"
+                try {
+                    val afd = context.assets.openFd(assetPath)
+                    player.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
+                    afd.close()
+                } catch (assetErr: Exception) {
+                    val cleanUrl = song.file.trim().replace(" ", "%20")
+                    player.setDataSource(context, Uri.parse(cleanUrl))
+                }
             } else {
                 val cleanUrl = song.file.trim().replace(" ", "%20")
                 if (cleanUrl.isBlank()) {
@@ -191,7 +202,7 @@ class AudioPlayerManager(private val context: Context) {
                     isPrepared = false
                     _isLoading.value = false
                     _isPlaying.value = false
-                    _errorMessage.value = "Playback error ($what, $extra)"
+                    _errorMessage.value = "Unable to play this track. Please try another song."
                     stopProgressUpdates()
                 }
                 true

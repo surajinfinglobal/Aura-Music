@@ -300,26 +300,36 @@ class LikedSongStorageManager(private val context: Context) {
             try {
                 val targetFile = File(storageDir, "${song.id}.mp3")
 
-                // Download from URL to local storage file
+                // Download from URL or copy from assets to local storage file
                 val success = withContext(Dispatchers.IO) {
                     try {
-                        val url = URL(song.file)
-                        val connection = (url.openConnection() as HttpURLConnection).apply {
-                            connectTimeout = 15000
-                            readTimeout = 30000
-                            instanceFollowRedirects = true
-                        }
-                        connection.connect()
-
-                        if (connection.responseCode in 200..299) {
-                            connection.inputStream.use { input ->
+                        if (song.file.startsWith("music/") || !song.file.startsWith("http")) {
+                            val assetPath = if (song.file.startsWith("music/")) song.file else "music/${song.file}"
+                            context.assets.open(assetPath).use { input ->
                                 FileOutputStream(targetFile).use { output ->
                                     input.copyTo(output)
                                 }
                             }
                             targetFile.exists() && targetFile.length() > 0
                         } else {
-                            false
+                            val url = URL(song.file)
+                            val connection = (url.openConnection() as HttpURLConnection).apply {
+                                connectTimeout = 15000
+                                readTimeout = 30000
+                                instanceFollowRedirects = true
+                            }
+                            connection.connect()
+
+                            if (connection.responseCode in 200..299) {
+                                connection.inputStream.use { input ->
+                                    FileOutputStream(targetFile).use { output ->
+                                        input.copyTo(output)
+                                    }
+                                }
+                                targetFile.exists() && targetFile.length() > 0
+                            } else {
+                                false
+                            }
                         }
                     } catch (e: Exception) {
                         e.printStackTrace()

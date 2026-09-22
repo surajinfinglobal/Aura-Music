@@ -41,9 +41,13 @@ import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.NavigationBarItemDefaults
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarDuration
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -205,6 +209,17 @@ fun AuraApp(
     val queue by playerManager.queue.collectAsState()
     val queueIndex by playerManager.queueIndex.collectAsState()
     val isPlayingFromLocalStorage by playerManager.isPlayingFromLocalStorage.collectAsState()
+    val playbackErrorMessage by playerManager.errorMessage.collectAsState()
+    val snackbarHostState = remember { SnackbarHostState() }
+
+    LaunchedEffect(playbackErrorMessage) {
+        playbackErrorMessage?.let { msg ->
+            snackbarHostState.showSnackbar(
+                message = msg,
+                duration = SnackbarDuration.Short
+            )
+        }
+    }
 
     // Search & Filter states
     var searchQuery by remember { mutableStateOf("") }
@@ -246,6 +261,7 @@ fun AuraApp(
             .background(AuraDarkBackground)
     ) {
         Scaffold(
+            snackbarHost = { SnackbarHost(snackbarHostState) },
             bottomBar = {
                 Box(
                     modifier = Modifier
