@@ -1,0 +1,7 @@
+/build
+*.apk
+*.aar
+*.aab
+*.dex
+*.mp3
+src/main/assets/music/

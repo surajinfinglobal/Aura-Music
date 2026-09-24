@@ -111,8 +111,9 @@ class SongRepository(private val context: Context) {
     fun getTrendingSongs(): List<Song> {
         val all = _songs.value
         if (all.isEmpty()) return emptyList()
-        // Curated trending songs (mix of popular hits from catalog)
-        return all.take(15)
+        // Feature original online hit songs directly from the user catalog
+        val onlineHits = all.filter { it.file.startsWith("http") }.take(15)
+        return if (onlineHits.isNotEmpty()) onlineHits else all.take(15)
     }
 
     fun getPlaylists(): List<Playlist> {
@@ -141,14 +142,14 @@ class SongRepository(private val context: Context) {
                 title = "Midnight Serenade",
                 description = "Chill and ambient soundscapes for the quiet hours",
                 coverUrl = all.getOrNull(10)?.getEffectiveCover(10) ?: Song.ART_POOL[2],
-                songIds = all.drop(15).take(20).map { it.id }
+                songIds = all.drop(10).take(15).map { it.id }
             ),
             Playlist(
                 id = "pl_feel_good",
                 title = "Feel Good Vibes",
                 description = "Energetic, rhythmic, and uplifting melodies",
                 coverUrl = all.getOrNull(15)?.getEffectiveCover(15) ?: Song.ART_POOL[3],
-                songIds = all.drop(35).take(20).map { it.id }
+                songIds = all.drop(20).take(20).map { it.id }
             )
         )
     }

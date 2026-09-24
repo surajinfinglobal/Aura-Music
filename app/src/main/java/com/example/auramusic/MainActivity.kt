@@ -103,6 +103,11 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         try {
+            volumeControlStream = android.media.AudioManager.STREAM_MUSIC
+        } catch (e: Throwable) {
+            // Ignore
+        }
+        try {
             enableEdgeToEdge()
         } catch (e: Throwable) {
             e.printStackTrace()
@@ -226,16 +231,59 @@ fun AuraApp(
     var selectedGenre by remember { mutableStateOf("All") }
     var isMiniPlayerCollapsed by rememberSaveable { mutableStateOf(false) }
 
+    // Randomization seed for HomeScreen: re-shuffled on every app launch and whenever user triggers refresh
+    var homeShuffleSeed by remember { mutableStateOf(System.currentTimeMillis()) }
+
+    val randomHomeSongs = remember(songs, homeShuffleSeed) {
+        if (songs.isEmpty()) emptyList()
+        else songs.shuffled(java.util.Random(homeShuffleSeed))
+    }
+
     val searchResults = remember(searchQuery, selectedGenre, songs) {
         repository.searchSongs(searchQuery, selectedGenre)
     }
 
-    val trendingSongs = remember(songs) {
-        repository.getTrendingSongs()
+    val trendingSongs = remember(randomHomeSongs) {
+        if (randomHomeSongs.isEmpty()) emptyList()
+        else randomHomeSongs.take(15)
     }
 
-    val playlists = remember(songs) {
-        repository.getPlaylists()
+    val playlists = remember(randomHomeSongs) {
+        if (randomHomeSongs.isEmpty()) repository.getPlaylists()
+        else {
+            listOf(
+                com.example.auramusic.data.Playlist(
+                    id = "pl_aura_hits",
+                    title = "Aura Top Hits",
+                    description = "Most loved and streamed tracks of the season",
+                    coverUrl = randomHomeSongs.getOrNull(0)?.getEffectiveCover(0) ?: com.example.auramusic.model.Song.ART_POOL[0],
+                    songIds = randomHomeSongs.take(20).map { it.id }
+                ),
+                com.example.auramusic.data.Playlist(
+                    id = "pl_bollywood_melodies",
+                    title = "Bollywood Romance",
+                    description = "Heartwarming romantic hits and soulful melodies",
+                    coverUrl = randomHomeSongs.getOrNull(5)?.getEffectiveCover(5) ?: com.example.auramusic.model.Song.ART_POOL[1],
+                    songIds = randomHomeSongs.filter { s ->
+                        s.genre.any { g -> g.contains("Bollywood", true) || g.contains("Music", true) }
+                    }.take(20).map { it.id }
+                ),
+                com.example.auramusic.data.Playlist(
+                    id = "pl_night_drive",
+                    title = "Midnight Serenade",
+                    description = "Chill and ambient soundscapes for the quiet hours",
+                    coverUrl = randomHomeSongs.getOrNull(10)?.getEffectiveCover(10) ?: com.example.auramusic.model.Song.ART_POOL[2],
+                    songIds = randomHomeSongs.drop(10).take(15).map { it.id }
+                ),
+                com.example.auramusic.data.Playlist(
+                    id = "pl_feel_good",
+                    title = "Feel Good Vibes",
+                    description = "Energetic, rhythmic, and uplifting melodies",
+                    coverUrl = randomHomeSongs.getOrNull(15)?.getEffectiveCover(15) ?: com.example.auramusic.model.Song.ART_POOL[3],
+                    songIds = randomHomeSongs.drop(20).take(20).map { it.id }
+                )
+            )
+        }
     }
 
     val artists = remember(songs) {
@@ -339,7 +387,7 @@ fun AuraApp(
                 when (currentDestination) {
                     NavDestination.HOME -> {
                         HomeScreen(
-                            songs = songs,
+                            songs = randomHomeSongs,
                             isLoading = isLoadingCatalog,
                             currentSong = currentSong,
                             isPlaying = isPlaying,
@@ -353,10 +401,14 @@ fun AuraApp(
                             onGenreSelect = { selectedGenre = it },
                             onPlaySong = { song, queueList ->
                                 playerManager.playSong(song, queueList)
+                                isNowPlayingExpanded = true
                             },
                             onFavoriteToggle = { repository.toggleFavorite(it) },
                             onNavigateToSearch = { currentDestination = NavDestination.SEARCH },
-                            onNavigateToLibrary = { currentDestination = NavDestination.LIBRARY }
+                            onNavigateToLibrary = { currentDestination = NavDestination.LIBRARY },
+                            onShuffleRefresh = {
+                                homeShuffleSeed = System.currentTimeMillis()
+                            }
                         )
                     }
                     NavDestination.SEARCH -> {
@@ -372,6 +424,7 @@ fun AuraApp(
                             downloadedSongIds = downloadedSongIds,
                             onPlaySong = { song, queueList ->
                                 playerManager.playSong(song, queueList)
+                                isNowPlayingExpanded = true
                             },
                             onFavoriteToggle = { repository.toggleFavorite(it) }
                         )
@@ -431,11 +484,13 @@ fun AuraApp(
                             downloadedSongIds = downloadedSongIds,
                             onPlaySong = { song, queueList ->
                                 playerManager.playSong(song, queueList)
+                                isNowPlayingExpanded = true
                             },
                             onShuffleAll = {
                                 if (songs.isNotEmpty()) {
                                     val shuffled = songs.shuffled()
                                     playerManager.playSong(shuffled.first(), shuffled)
+                                    isNowPlayingExpanded = true
                                 }
                             },
                             onFavoriteToggle = { repository.toggleFavorite(it) }
@@ -452,6 +507,7 @@ fun AuraApp(
                             isPlaying = isPlaying,
                             onPlaySong = { song, queueList ->
                                 playerManager.playSong(song, queueList)
+                                isNowPlayingExpanded = true
                             },
                             onFavoriteToggle = { repository.toggleFavorite(it) },
                             onToggleAutoSave = { repository.likedStorageManager.setAutoSaveEnabled(it) },

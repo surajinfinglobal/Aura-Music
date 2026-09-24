@@ -2,9 +2,12 @@ package com.example.auramusic.player
 
 import android.content.Context
 import android.media.AudioAttributes
+import android.media.AudioManager
 import android.media.MediaPlayer
 import android.net.Uri
+import android.os.Build
 import android.os.PowerManager
+import android.util.Log
 import com.example.auramusic.model.Song
 import com.example.auramusic.service.MusicPlaybackService
 import kotlinx.coroutines.CoroutineScope
@@ -16,6 +19,11 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import java.io.File
+import java.io.FileOutputStream
+import java.net.HttpURLConnection
+import java.net.URL
 
 enum class RepeatMode {
     OFF, ALL, ONE
@@ -35,7 +43,9 @@ class AudioPlayerManager(private val context: Context) {
 
     private val scope = CoroutineScope(Dispatchers.Main)
     private var mediaPlayer: MediaPlayer? = null
+    private var currentAssetFd: android.content.res.AssetFileDescriptor? = null
     private var progressJob: Job? = null
+    private var downloadJob: Job? = null
     private var isPrepared = false
 
     private val _currentSong = MutableStateFlow<Song?>(null)
@@ -117,7 +127,7 @@ class AudioPlayerManager(private val context: Context) {
             // Ignore if service cannot be started
         }
 
-        // Safely dispose old player
+        // Safely dispose old player and asset descriptor
         val oldPlayer = mediaPlayer
         mediaPlayer = null
         oldPlayer?.let {
@@ -128,8 +138,16 @@ class AudioPlayerManager(private val context: Context) {
                 // Ignore safe cleanup
             }
         }
+        try {
+            currentAssetFd?.close()
+        } catch (e: Exception) {
+            // Ignore
+        }
+        currentAssetFd = null
 
         try {
+            ensureAudioDeviceVolume()
+
             val localFile = localFileResolver?.invoke(song.id)
             val useLocal = localFile != null && localFile.exists() && localFile.length() > 0
             _isPlayingFromLocalStorage.value = useLocal
@@ -148,21 +166,23 @@ class AudioPlayerManager(private val context: Context) {
                 AudioAttributes.Builder()
                     .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
                     .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .setLegacyStreamType(AudioManager.STREAM_MUSIC)
                     .build()
             )
+            player.setVolume(1.0f, 1.0f)
 
             if (useLocal && localFile != null) {
-                player.setDataSource(context, Uri.fromFile(localFile))
+                player.setDataSource(localFile.absolutePath)
             } else if (song.file.startsWith("music/") || !song.file.startsWith("http")) {
-                // Play bundled audio file from assets
+                // Play bundled audio file from assets.
                 val assetPath = if (song.file.startsWith("music/")) song.file else "music/${song.file}"
-                try {
+                val cachedAssetFile = getOrCopyAssetToCache(assetPath)
+                if (cachedAssetFile != null && cachedAssetFile.exists() && cachedAssetFile.length() > 0) {
+                    player.setDataSource(cachedAssetFile.absolutePath)
+                } else {
                     val afd = context.assets.openFd(assetPath)
+                    currentAssetFd = afd
                     player.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
-                    afd.close()
-                } catch (assetErr: Exception) {
-                    val cleanUrl = song.file.trim().replace(" ", "%20")
-                    player.setDataSource(context, Uri.parse(cleanUrl))
                 }
             } else {
                 val cleanUrl = song.file.trim().replace(" ", "%20")
@@ -171,7 +191,18 @@ class AudioPlayerManager(private val context: Context) {
                     _errorMessage.value = "Audio file not available"
                     return
                 }
-                player.setDataSource(context, Uri.parse(cleanUrl))
+                val cachedRemoteFile = File(context.cacheDir, "stream_${song.id}.mp3")
+                if (cachedRemoteFile.exists() && cachedRemoteFile.length() > 50_000L) {
+                    player.setDataSource(cachedRemoteFile.absolutePath)
+                } else {
+                    val headers = mapOf(
+                        "User-Agent" to "Mozilla/5.0 (Linux; Android 14; Mobile; rv:109.0)",
+                        "Accept" to "*/*",
+                        "Accept-Encoding" to "identity"
+                    )
+                    player.setDataSource(context, Uri.parse(cleanUrl), headers)
+                    cacheSongInBackground(song, cleanUrl, cachedRemoteFile)
+                }
             }
 
             player.setOnPreparedListener { mp ->
@@ -184,6 +215,9 @@ class AudioPlayerManager(private val context: Context) {
                     if (actualDuration > 0) {
                         _durationMs.value = actualDuration
                     }
+                    requestAudioFocus()
+                    ensureAudioDeviceVolume()
+                    mp.setVolume(1.0f, 1.0f)
                     mp.start()
                     startProgressUpdates()
                 } catch (e: Exception) {
@@ -199,10 +233,20 @@ class AudioPlayerManager(private val context: Context) {
 
             player.setOnErrorListener { mp, what, extra ->
                 if (mediaPlayer === mp) {
+                    Log.e("AudioPlayerManager", "MediaPlayer error: what=$what extra=$extra on song ${song.title}")
+                    
+                    // If online streaming had an issue (e.g. network/Stagefright glitch), download and play the exact original song!
+                    val cachedRemoteFile = File(context.cacheDir, "stream_${song.id}.mp3")
+                    if (song.file.startsWith("http") && (!cachedRemoteFile.exists() || cachedRemoteFile.length() < 50_000L)) {
+                        Log.i("AudioPlayerManager", "Direct streaming had an issue, downloading original song: ${song.title}")
+                        downloadAndPlayOriginalTrack(song)
+                        return@setOnErrorListener true
+                    }
+                    
                     isPrepared = false
                     _isLoading.value = false
                     _isPlaying.value = false
-                    _errorMessage.value = "Unable to play this track. Please try another song."
+                    _errorMessage.value = "Playback error ($what, $extra). Please retry."
                     stopProgressUpdates()
                 }
                 true
@@ -214,6 +258,157 @@ class AudioPlayerManager(private val context: Context) {
             _isLoading.value = false
             _isPlaying.value = false
             _errorMessage.value = e.localizedMessage ?: "Could not load audio stream"
+        }
+    }
+
+    private fun downloadAndPlayOriginalTrack(song: Song) {
+        downloadJob?.cancel()
+        _isLoading.value = true
+        _errorMessage.value = null
+
+        downloadJob = scope.launch(Dispatchers.IO) {
+            try {
+                val cleanUrl = song.file.trim().replace(" ", "%20")
+                val cachedFile = File(context.cacheDir, "stream_${song.id}.mp3")
+                val tempFile = File(context.cacheDir, "stream_${song.id}.tmp")
+
+                val url = URL(cleanUrl)
+                val conn = url.openConnection() as HttpURLConnection
+                conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android 14; Mobile; rv:109.0)")
+                conn.connectTimeout = 15000
+                conn.readTimeout = 25000
+                conn.connect()
+
+                if (conn.responseCode in 200..299) {
+                    conn.inputStream.use { input ->
+                        FileOutputStream(tempFile).use { output ->
+                            input.copyTo(output)
+                        }
+                    }
+                    if (tempFile.exists() && tempFile.length() > 50_000L) {
+                        tempFile.renameTo(cachedFile)
+                        withContext(Dispatchers.Main) {
+                            if (_currentSong.value?.id == song.id) {
+                                startPlayback(song)
+                            }
+                        }
+                    } else {
+                        tempFile.delete()
+                        withContext(Dispatchers.Main) {
+                            _isLoading.value = false
+                            _errorMessage.value = "Audio stream incomplete"
+                        }
+                    }
+                } else {
+                    withContext(Dispatchers.Main) {
+                        _isLoading.value = false
+                        _errorMessage.value = "Server returned ${conn.responseCode}"
+                    }
+                }
+            } catch (e: Exception) {
+                withContext(Dispatchers.Main) {
+                    _isLoading.value = false
+                    _errorMessage.value = "Could not stream audio: ${e.localizedMessage}"
+                }
+            }
+        }
+    }
+
+    private fun cacheSongInBackground(song: Song, cleanUrl: String, cachedFile: File) {
+        scope.launch(Dispatchers.IO) {
+            try {
+                if (cachedFile.exists() && cachedFile.length() > 50_000L) return@launch
+                val tempFile = File(context.cacheDir, "stream_${song.id}.tmp")
+                val url = URL(cleanUrl)
+                val conn = url.openConnection() as HttpURLConnection
+                conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android 14; Mobile; rv:109.0)")
+                conn.connectTimeout = 15000
+                conn.readTimeout = 25000
+                conn.connect()
+                if (conn.responseCode in 200..299) {
+                    conn.inputStream.use { input ->
+                        FileOutputStream(tempFile).use { output ->
+                            input.copyTo(output)
+                        }
+                    }
+                    if (tempFile.exists() && tempFile.length() > 50_000L) {
+                        tempFile.renameTo(cachedFile)
+                    } else {
+                        tempFile.delete()
+                    }
+                }
+            } catch (e: Throwable) {
+                // Non-fatal background cache error
+            }
+        }
+    }
+
+    private fun requestAudioFocus(): Boolean {
+        return try {
+            val audioManager = context.getSystemService(Context.AUDIO_SERVICE) as? AudioManager ?: return false
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                val attr = AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+                    .setLegacyStreamType(AudioManager.STREAM_MUSIC)
+                    .build()
+                val request = android.media.AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+                    .setAudioAttributes(attr)
+                    .setAcceptsDelayedFocusGain(true)
+                    .setOnAudioFocusChangeListener { /* Focus change listener handled */ }
+                    .build()
+                audioManager.requestAudioFocus(request) == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+            } else {
+                @Suppress("DEPRECATION")
+                audioManager.requestAudioFocus(
+                    null,
+                    AudioManager.STREAM_MUSIC,
+                    AudioManager.AUDIOFOCUS_GAIN
+                ) == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+            }
+        } catch (e: Throwable) {
+            false
+        }
+    }
+
+    fun ensureAudioDeviceVolume() {
+        try {
+            val audioManager = context.getSystemService(Context.AUDIO_SERVICE) as? AudioManager
+            if (audioManager != null) {
+                // Ensure audio mode is normal so audio routes directly to speaker
+                audioManager.mode = AudioManager.MODE_NORMAL
+
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                    try {
+                        audioManager.adjustStreamVolume(AudioManager.STREAM_MUSIC, AudioManager.ADJUST_UNMUTE, 0)
+                    } catch (e: Throwable) {
+                        // Ignore
+                    }
+                }
+                val maxVol = audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC)
+                val targetVol = (maxVol * 0.95f).toInt().coerceAtLeast(1)
+                audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, targetVol, 0)
+            }
+        } catch (e: Throwable) {
+            Log.e("AudioPlayerManager", "Failed to adjust volume: ${e.message}")
+        }
+    }
+
+    private fun getOrCopyAssetToCache(assetPath: String): File? {
+        return try {
+            val fileName = assetPath.substringAfterLast("/")
+            val cacheFile = File(context.cacheDir, "asset_$fileName")
+            if (!cacheFile.exists() || cacheFile.length() == 0L) {
+                context.assets.open(assetPath).use { input ->
+                    FileOutputStream(cacheFile).use { output ->
+                        input.copyTo(output)
+                    }
+                }
+            }
+            if (cacheFile.exists() && cacheFile.length() > 0) cacheFile else null
+        } catch (e: Throwable) {
+            Log.e("AudioPlayerManager", "Failed to cache asset $assetPath: ${e.message}")
+            null
         }
     }
 
@@ -262,6 +457,8 @@ class AudioPlayerManager(private val context: Context) {
                 _isPlaying.value = false
                 stopProgressUpdates()
             } else {
+                ensureAudioDeviceVolume()
+                player.setVolume(1.0f, 1.0f)
                 player.start()
                 _isPlaying.value = true
                 startProgressUpdates()
@@ -298,6 +495,8 @@ class AudioPlayerManager(private val context: Context) {
         mediaPlayer?.let {
             try {
                 if (!it.isPlaying) {
+                    ensureAudioDeviceVolume()
+                    it.setVolume(1.0f, 1.0f)
                     it.start()
                     _isPlaying.value = true
                     startProgressUpdates()
@@ -426,6 +625,12 @@ class AudioPlayerManager(private val context: Context) {
                 // Ignore safe cleanup
             }
         }
+        try {
+            currentAssetFd?.close()
+        } catch (e: Exception) {
+            // Ignore
+        }
+        currentAssetFd = null
         try {
             MusicPlaybackService.stopService(context)
         } catch (e: Exception) {

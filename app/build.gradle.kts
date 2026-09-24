@@ -43,6 +43,10 @@ android {
     buildFeatures {
         compose = true
     }
+
+    androidResources {
+        noCompress += listOf("mp3", "json")
+    }
 }
 
 dependencies {

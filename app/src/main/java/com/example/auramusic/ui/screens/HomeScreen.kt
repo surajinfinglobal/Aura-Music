@@ -24,7 +24,9 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.Shuffle
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -81,6 +83,7 @@ fun HomeScreen(
     onFavoriteToggle: (Int) -> Unit,
     onNavigateToSearch: () -> Unit,
     onNavigateToLibrary: () -> Unit,
+    onShuffleRefresh: () -> Unit = {},
     modifier: Modifier = Modifier
 ) {
     val greeting = remember {
@@ -168,31 +171,60 @@ fun HomeScreen(
                             )
                         )
                         Spacer(modifier = Modifier.height(4.dp))
-                        Text(
-                            text = "What's on your mind today, Suraj?",
-                            style = MaterialTheme.typography.bodyLarge.copy(color = AuraTextSecondary)
-                        )
+                        Row(verticalAlignment = Alignment.CenterVertically) {
+                            Text(
+                                text = "Aura Music • By Suraj",
+                                style = MaterialTheme.typography.bodyLarge.copy(
+                                    color = AuraPrimary,
+                                    fontWeight = FontWeight.SemiBold
+                                )
+                            )
+                        }
                     }
 
-                    // Avatar Circle
-                    Box(
-                        modifier = Modifier
-                            .size(44.dp)
-                            .clip(CircleShape)
-                            .background(
-                                Brush.linearGradient(
-                                    listOf(AuraPrimary, Color(0xFFEC4899))
-                                )
-                            ),
-                        contentAlignment = Alignment.Center
+                    // Actions: Randomize/Shuffle button & Avatar Circle
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        horizontalArrangement = Arrangement.spacedBy(10.dp)
                     ) {
-                        Text(
-                            text = "S",
-                            style = MaterialTheme.typography.titleMedium.copy(
-                                color = Color.White,
-                                fontWeight = FontWeight.Bold
+                        // Shuffle / Randomize button to get new songs on screen anytime
+                        IconButton(
+                            onClick = onShuffleRefresh,
+                            modifier = Modifier
+                                .size(40.dp)
+                                .clip(CircleShape)
+                                .background(AuraCardBackground)
+                                .border(1.dp, AuraBorder, CircleShape)
+                                .testTag("home_shuffle_refresh_button")
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.Shuffle,
+                                contentDescription = "Shuffle Random Songs",
+                                tint = AuraPrimary,
+                                modifier = Modifier.size(20.dp)
                             )
-                        )
+                        }
+
+                        // Avatar Circle
+                        Box(
+                            modifier = Modifier
+                                .size(44.dp)
+                                .clip(CircleShape)
+                                .background(
+                                    Brush.linearGradient(
+                                        listOf(AuraPrimary, Color(0xFFEC4899))
+                                    )
+                                ),
+                            contentAlignment = Alignment.Center
+                        ) {
+                            Text(
+                                text = "S",
+                                style = MaterialTheme.typography.titleMedium.copy(
+                                    color = Color.White,
+                                    fontWeight = FontWeight.Bold
+                                )
+                            )
+                        }
                     }
                 }
 
@@ -550,6 +582,44 @@ fun HomeScreen(
                             onSongClick = { onPlaySong(song, listToShow) },
                             onFavoriteToggle = { onFavoriteToggle(song.id) }
                         )
+                    }
+
+                    Spacer(modifier = Modifier.height(28.dp))
+
+                    // App Author & Credits Card
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clip(RoundedCornerShape(16.dp))
+                            .background(AuraCardBackground)
+                            .border(1.dp, AuraBorder, RoundedCornerShape(16.dp))
+                            .padding(20.dp),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                            Text(
+                                text = "Aura Music Player",
+                                style = MaterialTheme.typography.titleMedium.copy(
+                                    fontWeight = FontWeight.Bold,
+                                    color = AuraTextPrimary
+                                )
+                            )
+                            Spacer(modifier = Modifier.height(4.dp))
+                            Text(
+                                text = "Author & Developer: Suraj",
+                                style = MaterialTheme.typography.bodyMedium.copy(
+                                    fontWeight = FontWeight.SemiBold,
+                                    color = AuraPrimary
+                                )
+                            )
+                            Spacer(modifier = Modifier.height(4.dp))
+                            Text(
+                                text = "Crafted with ❤️ • All rights & music credits to respective artists",
+                                style = MaterialTheme.typography.bodySmall.copy(
+                                    color = AuraTextMuted
+                                )
+                            )
+                        }
                     }
                 }
             }

@@ -111,7 +111,7 @@ fun LibraryScreen(
                         )
                     )
                     Text(
-                        text = "${songs.size} tracks curated",
+                        text = "${songs.size} tracks • Curated by Suraj",
                         style = MaterialTheme.typography.bodyMedium.copy(color = AuraTextSecondary)
                     )
                 }
